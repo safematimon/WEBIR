@@ -1,0 +1,213 @@
+<!doctype html public "-//w3c//dtd xhtml 1.0 transitional//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf8" />
+<!--<title>smart  simple machine address registration tools</title>tongsang-->
+<title>login page</title>
+
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="1000" height="220" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="58" colspan="2"><img src="images/smart_01.gif" width="167" height="58" alt="" /></td>
+    <td background="images/smart_02.gif" valign="bottom"><table width="568" border="0" cellpadding="0" cellspacing="0" class="menufont2">
+      <tr>
+        <td width="16" height="24">&nbsp;</td>
+        <td width="365"><a href='./index.php?lang=th'>&#3627;&#3609;&#3657;&#3634;&#3649;&#3619;&#3585;</a></td>
+        <td width="187"><div align="right">
+<a href="./index.php?lang=en"><img src="images/eng_lang_button.gif" align="absmiddle" border="0">&nbsp;&nbsp;&nbsp;<a href="./index.php?lang=th"><img src="images/thai_lang_button.gif" align="absmiddle" border="0">	
+	<!--<img src="images/eng.gif" width="41" height="13" />&nbsp;<img src="images/thai.gif" width="45" height="13" />-->
+        
+	</div></td>
+        </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td height="5"><img src="images/smart_05.gif" width="833" height="5" alt="" /></td>
+  </tr>
+  <tr>
+
+    <td valign="top"><table width="160" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="160" height="5"><img src="images/smart_03.gif" width="160" height="5" /></td>
+        </tr>
+      <tr>
+        <td background="images/smart_06.gif" valign="top">
+<table width="159" border="0" cellpadding="1" cellspacing="0" class="menufont">
+  <tr>
+    <td width="14"><div align="center"><img src="images/arrow.gif" width="11" height="11" /></div></td>
+    <td colspan="2"><a href="./index.php?lang=th">&#3627;&#3609;&#3657;&#3634;&#3649;&#3619;&#3585;</a></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="images/line1.gif" width="150" height="3" /></div></td>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="images/arrow.gif" width="11" height="11" /></div></td>
+    <td colspan="2"><a href="./index.php?lang=th&amp;content=smart">&#3586;&#3657;&#3629;&#3617;&#3641;&#3621;&#3648;&#3585;&#3637;&#3656;&#3618;&#3623;&#3585;&#3633;&#3610;
+smart</a></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="images/line1.gif" width="150" height="3" /></div></td>
+  </tr>
+ <tr>
+   <td><div align="center"><img src="images/arrow.gif" width="11" height="11" /></div></td>
+   <td colspan="2"><a href="./index.php?lang=th&amp;content=login">ล๊อคอินสำหรับเจ้าหน้าที่</a></td>
+ </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="images/line1.gif" width="150" height="3" /></div></td>
+  </tr>
+   <tr>
+   <td><div align="center"><img src="images/arrow.gif" width="11" height="11" /></div></td>
+   <td colspan="2"><a href="./index.php?lang=th&amp;content=regist&amp;topic=usermac">&#3621;&#3591;&#3607;&#3632;&#3648;&#3610;&#3637;&#3618;&#3609;&#3588;&#3629;&#3617;&#3614;&#3636;&#3623;&#3648;&#3605;&#3629;&#3619;&#3660;</a></td>
+ </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="images/line1.gif" width="150" height="3" /></div></td>
+  </tr>
+  <tr>
+    <td valign="top"><div align="center"><img src="images/arrow.gif" width="11" height="11" /></div></td>
+    <td colspan="2"><a href="./index.php?lang=th&amp;content=netco">&#3619;&#3634;&#3618;&#3594;&#3639;&#3656;&#3629;&#3612;&#3641;&#3657;&#3604;&#3641;&#3649;&#3621;&#3648;&#3588;&#3619;&#3639;&#3629;&#3586;&#3656;&#3634;&#3618;<br
+/>
+    &#3611;&#3619;&#3632;&#3592;&#3635;&#3627;&#3609;&#3656;&#3623;&#3618;&#3591;&#3634;&#3609;</a></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="images/line1.gif" width="150" height="3" /></div></td>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="images/arrow.gif" width="11" height="11" /></div></td>
+    <td colspan="2"><a href="./index.php?lang=th&amp;content=summary&amp;topic=device">&#3626;&#3606;&#3636;&#3605;&#3636;&#3585;&#3634;&#3619;&#3651;&#3594;&#3657;&#3591;&#3634;&#3609;</a></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="images/line1.gif" width="150" height="3" /></div></td>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="images/arrow.gif" width="11" height="11" /></div></td>
+    <td colspan="2"><a href="./index.php?lang=th&amp;content=graph&amp;topic=webauthen">&#3585;&#3619;&#3634;&#3615;&#3626;&#3606;&#3636;&#3605;&#3636;&#3585;&#3634;&#3619;&#3651;&#3594;&#3657;&#3591;&#3634;&#3609;</a></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="images/line1.gif" width="150" height="3" /></div></td>
+  </tr>
+<!-- edit how to find mac-address -->
+  <tr>
+    <td><div align="center"><img src="images/arrow.gif" width="11" height="11" /></div></td>
+    <td colspan="2"><a href="./index.php?lang=th&amp;content=howto">วิธีการหา mac adress</a></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="images/line1.gif" width="150" height="3" /></div></td>
+  </tr>
+	
+
+  <tr>
+    <td><img src="images/spacer.gif" width="14" height="5" /></td>
+    <td width="16"><a href="./index.php?lang=th&amp;content=logout">    <img src="images/spacer.gif" width="14" height="5" border="0" /></a></td>
+    <td width="160"><a href="./index.php?lang=th&amp;content=logout">    <img src="images/spacer.gif" width="119" height="5" border="0" /></a></td>
+  </tr>
+</table>
+		</td>
+        </tr>
+      <tr>
+        <td><img src="images/smart_12.gif" width="160" height="5" /></td>
+      </tr>
+    </table></td>
+    <td valign="top" background="images/smart_09.gif">&nbsp;</td>
+    <td height="76" valign="top">&nbsp;&nbsp;&nbsp;
+    <br />
+<!--<marquee class="strong2">
+18/12/51 16:30 &gt;&gt;<span class="menufont3">&#3592;&#3632;&#3607;&#3635;&#3585;&#3634;&#3619;&#3611;&#3636;&#3604;&#3648;&#3614;&#3639;&#3656;&#3629;&#3611;&#3619;&#3633;&#3610;&#3611;&#3619;&#3640;&#3591;&#3619;&#3632;&#3610;&#3610;&#3651;&#3609;&#3610;&#3634;&#3591;&#3594;&#3656;&#3623;&#3591;&#3648;&#3623;&#3621;&#3634;&#3651;&#3609;&#3623;&#3633;&#3609;&#3609;&#3637;&#3657; &#3586;&#3629;&#3629;&#3616;&#3633;&#3618;&#3651;&#3609;&#3588;&#3623;&#3634;&#3617;&#3652;&#3617;&#3656;&#3626;&#3632;&#3604;&#3623;&#3585;
+</span>
+</marquee><br />-->
+
+      <br />
+    <table width="812" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="833"><link href="css/login.css" rel="stylesheet" type="text/css" />
+<form action="./index.php?content=login&lang=th" method="post" name="loginform">
+  <table width="362" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#eeeedd" class="tablelogin">
+    <tr>
+      <td height="61" colspan="3" background="images/login_01.gif" class="head"><div align="right"><br />          &#3585;&#3619;&#3640;&#3603;&#3634;&#3648;&#3586;&#3657;&#3634;&#3651;&#3594;&#3657;&#3591;&#3634;&#3609;&#3604;&#3657;&#3623;&#3618;&#3610;&#3633;&#3597;&#3594;&#3637;&#3648;&#3588;&#3619;&#3639;&#3629;&#3586;&#3656;&#3634;&#3618;&nbsp;&nbsp;<br />         &nbsp;&nbsp;<br />
+      </div></td>
+    </tr>
+    <tr>
+      <td width="129" height="36"><div align="right" class="strong">
+        <div align="right">&#3610;&#3633;&#3597;&#3594;&#3637;&#3612;&#3641;&#3657;&#3651;&#3594;&#3657;&#3591;&#3634;&#3609;  : </div>
+      </div></td>
+      <td width="7"><div align="center"></div></td>
+      <td width="222"><div align="left">
+          <input name="username" type="text" size="25" maxlength="20" />
+      </div></td>
+    </tr>
+    <tr>
+      <td height="35"><div align="right" class="strong">
+        <div align="right">&#3619;&#3627;&#3633;&#3626;&#3612;&#3656;&#3634;&#3609; : </div>
+      </div></td>
+      <td><div align="center"></div></td>
+      <td><div align="left">
+        <input name="password" type="password" size="25" maxlength="25" id="password" />
+      </div></td>
+    </tr>
+    <tr>
+      <td height="35"><div align="right" class="strong">&#3623;&#3636;&#3607;&#3618;&#3634;&#3648;&#3586;&#3605; : </div></td>
+      <td><div align="center"></div></td>
+      <td><div align="left">
+          <select name="zoneid" id="zoneid">
+            <option value='9' selected='selected'>วิทยาเขตบางเขน</option><option value='10' >วิทยาเขตกำแพงแสน</option><option value='11' >วิทยาเขตศรีราชา</option><option value='12' >วิทยาเขตสกลนคร</option>            <option value="-2" >&#3612;&#3641;&#3657;&#3651;&#3594;&#3657;&#3609;&#3629;&#3585;&#3619;&#3632;&#3610;&#3610;</option>
+            <option value="-1" >&#3612;&#3641;&#3657;&#3604;&#3641;&#3649;&#3621;&#3619;&#3632;&#3610;&#3610;</option>
+          </select>
+      </div></td>
+    </tr>
+    <tr>
+      <td height="40" colspan="3"><div align="center">
+          <input name="submit" type="submit" value="&#3621;&#3658;&#3629;&#3588;&#3629;&#3636;&#3609;" />
+        &nbsp;&nbsp;
+        <input name="reset" type="reset" value="&#3621;&#3657;&#3634;&#3591;&#3588;&#3656;&#3634;" />
+      </div></td>
+    </tr>
+  </table><br />
+  <br />
+  <table width="588" border="0" align="center" cellpadding="2" cellspacing="2" bgcolor="#ced8ff" class="strong2">
+    <tr>
+        <td width="580"><p align="center" class="info2"><br />
+          &#3585;&#3634;&#3619;&#3621;&#3591;&#3607;&#3632;&#3648;&#3610;&#3637;&#3618;&#3609; mac address &#3648;&#3588;&#3619;&#3639;&#3656;&#3629;&#3591;&#3626;&#3635;&#3627;&#3619;&#3633;&#3610;&#3648;&#3588;&#3619;&#3639;&#3629;&#3586;&#3656;&#3634;&#3618;&#3651;&#3594;&#3657;&#3626;&#3634;&#3618; (lan) </p>
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#3605;&#3634;&#3617;&#3607;&#3637;&#3656;&#3626;&#3635;&#3609;&#3633;&#3585;&#3610;&#3619;&#3636;&#3585;&#3634;&#3619;&#3588;&#3629;&#3617;&#3614;&#3636;&#3623;&#3648;&#3605;&#3629;&#3619;&#3660;&#3652;&#3604;&#3657;&#3649;&#3592;&#3657;&#3591;&#3611;&#3619;&#3632;&#3585;&#3634;&#3624;&#3651;&#3627;&#3657;&#3612;&#3641;&#3657;&#3651;&#3594;&#3657;&#3648;&#3588;&#3619;&#3639;&#3656;&#3629;&#3591;&#3588;&#3629;&#3617;&#3614;&#3636;&#3623;&#3648;&#3605;&#3629;&#3619;&#3660;&#3607;&#3640;&#3585;&#3607;&#3656;&#3634;&#3609;&#3621;&#3591;&#3607;&#3632;&#3648;&#3610;&#3637;&#3618;&#3609; mac address &#3611;&#3619;&#3632;&#3592;&#3635;&#3648;&#3588;&#3619;&#3639;&#3656;&#3629;&#3591;&#3607;&#3637;&#3656;&#3651;&#3594;&#3657;&#3616;&#3634;&#3618;&#3651;&#3609;&#3617;&#3627;&#3634;&#3623;&#3636;&#3607;&#3618;&#3634;&#3621;&#3633;&#3618;&#3651;&#3627;&#3617;&#3656;&#3607;&#3640;&#3585;&#3648;&#3588;&#3619;&#3639;&#3656;&#3629;&#3591;&#3585;&#3656;&#3629;&#3609;&#3623;&#3633;&#3609;&#3607;&#3637;&#3656; 15 &#3585;&#3619;&#3585;&#3599;&#3634;&#3588;&#3617; 2551 &#3648;&#3614;&#3639;&#3656;&#3629;&#3651;&#3627;&#3657;&#3626;&#3629;&#3604;&#3588;&#3621;&#3657;&#3629;&#3591;&#3585;&#3633;&#3610;&#3614;&#3619;&#3632;&#3619;&#3634;&#3594;&#3610;&#3633;&#3597;&#3597;&#3633;&#3605;&#3636;&#3623;&#3656;&#3634;&#3604;&#3657;&#3623;&#3618;&#3585;&#3634;&#3619;&#3585;&#3619;&#3632;&#3607;&#3635;&#3612;&#3636;&#3604;&#3648;&#3585;&#3637;&#3656;&#3618;&#3623;&#3585;&#3633;&#3610;&#3588;&#3629;&#3617;&#3614;&#3636;&#3623;&#3648;&#3605;&#3629;&#3619;&#3660; &#3614;.&#3624;. 2550 </p>
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#3626;&#3635;&#3609;&#3633;&#3585;&#3610;&#3619;&#3636;&#3585;&#3634;&#3619;&#3588;&#3629;&#3617;&#3614;&#3636;&#3623;&#3648;&#3605;&#3629;&#3619;&#3660;&#3586;&#3629;&#3649;&#3592;&#3657;&#3591;&#3648;&#3614;&#3636;&#3656;&#3617;&#3648;&#3605;&#3636;&#3617;&#3623;&#3656;&#3634; <strong>&#3619;&#3632;&#3610;&#3610;&#3605;&#3619;&#3623;&#3592;&#3626;&#3629;&#3610;&#3585;&#3634;&#3619;&#3651;&#3594;&#3657;&#3588;&#3629;&#3617;&#3614;&#3636;&#3623;&#3648;&#3605;&#3629;&#3619;&#3660;&#3651;&#3609;&#3626;&#3656;&#3623;&#3609;&#3648;&#3588;&#3619;&#3639;&#3629;&#3586;&#3656;&#3634;&#3618;&#3651;&#3594;&#3657;&#3626;&#3634;&#3618;</strong><strong> (lan)</strong><strong> </strong><strong>&#3592;&#3632;&#3648;&#3619;&#3636;&#3656;&#3617;&#3617;&#3637;&#3612;&#3621;&#3610;&#3633;&#3591;&#3588;&#3633;&#3610;&#3651;&#3594;&#3657;&#3651;&#3609;&#3623;&#3633;&#3609;&#3614;&#3640;&#3608;&#3607;&#3637;&#3656;</strong><strong> </strong><strong>7 &#3617;&#3585;&#3619;&#3634;&#3588;&#3617;  2552</strong><strong> </strong><strong>&#3648;&#3588;&#3619;&#3639;&#3656;&#3629;&#3591;&#3588;&#3629;&#3617;&#3614;&#3636;&#3623;&#3648;&#3605;&#3629;&#3619;&#3660;&#3607;&#3637;&#3656;&#3618;&#3633;&#3591;&#3652;&#3617;&#3656;&#3652;&#3604;&#3657;&#3604;&#3635;&#3648;&#3609;&#3636;&#3609;&#3585;&#3634;&#3619;&#3621;&#3591;&#3607;&#3632;&#3648;&#3610;&#3637;&#3618;&#3609;&#3616;&#3634;&#3618;&#3651;&#3609;&#3623;&#3633;&#3609;&#3604;&#3633;&#3591;&#3585;&#3621;&#3656;&#3634;&#3623;&#3592;&#3632;&#3652;&#3617;&#3656;&#3626;&#3634;&#3617;&#3634;&#3619;&#3606;&#3651;&#3594;&#3657;&#3610;&#3619;&#3636;&#3585;&#3634;&#3619;&#3648;&#3588;&#3619;&#3639;&#3629;&#3586;&#3656;&#3634;&#3618;&#3652;&#3604;&#3657;</strong> </p>
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#3612;&#3641;&#3657;&#3651;&#3594;&#3657;&#3607;&#3640;&#3585;&#3607;&#3656;&#3634;&#3609;&#3650;&#3611;&#3619;&#3604;&#3605;&#3619;&#3623;&#3592;&#3626;&#3629;&#3610;&#3649;&#3621;&#3632;&#3621;&#3591;&#3607;&#3632;&#3648;&#3610;&#3637;&#3618;&#3609;&#3648;&#3588;&#3619;&#3639;&#3656;&#3629;&#3591;&#3588;&#3629;&#3617;&#3614;&#3636;&#3623;&#3648;&#3605;&#3629;&#3619;&#3660;&#3651;&#3594;&#3657;&#3626;&#3634;&#3618;&#3652;&#3604;&#3657;&#3607;&#3637;&#3656;&#3648;&#3623;&#3655;&#3610;&#3652;&#3595;&#3605;&#3660;&#3607;&#3637;&#3656;&#3607;&#3656;&#3634;&#3609;&#3585;&#3635;&#3621;&#3633;&#3591;<br />
+        &#3651;&#3594;&#3657;&#3591;&#3634;&#3609;&#3629;&#3618;&#3641;&#3656;&#3609;&#3637;&#3657; &gt;&gt; <a href="https://smart.ku.ac.th">https://smart.ku.ac.th</a><br />
+	<br> personal computer addition form: <a href="form/personal_form.doc">download</a><br />
+	<br> organization computer addition form: <a href="form/organization _form.doc">download</a></p>
+      <p><font color="red">คู่มือการติดตั้ง kuwin-wpa </font><a href="http://kuwin.ku.ac.th/wpa">http://kuwin.ku.ac.th/wpa</a></p>
+      <p><br />
+      </p></td>
+    </tr>
+    </table>
+</form>
+</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table></td>
+  </tr>
+  
+  <tr>
+    <td colspan="2"></td>
+    <td height="5"><img src="images/smart_14.gif" width="833" height="5" alt="" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" background="images/smart_15.gif" valign="baseline">
+<table width="954" height="69" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="50" height="69">&nbsp;</td>
+          <td width="10">&nbsp;</td>
+          <td width="894" valign="middle"><span class="copyright">&copy; 2007-2008 &lt;&gt; smart (simple machine address registration tools) &lt;version 2.0.10-2&gt;<br />
+            office of computer services, kasetsart university, paholyothin rd., chatuchak,   bangkok 10900, <br />
+          thailand , tel: +66 2 562 0951-5, fax: +66 2 562 0950</span></td>
+  </tr>
+      </table></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+</body>
+</html>

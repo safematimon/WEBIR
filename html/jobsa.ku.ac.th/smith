@@ -1,0 +1,1067 @@
+<!doctype html>
+
+<!--[if ie 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !ie]><!-->
+<html lang="en">
+<!--<![endif]-->
+<!-- begin head -->
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="cache-control" content="max-age=0" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="expires" content="0" />
+  <meta http-equiv="expires" content="tue, 01 jan 1980 1:00:00 gmt" />
+  <meta http-equiv="pragma" content="no-cache" />
+  <title>jobsa | ระบบส่งเสริมการมีงานทำ</title>
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta content="" name="description">
+  <meta content="" name="author">
+  <!-- begin global mandatory styles -->
+  <link href="www/assets/plugins/socicon/socicon.css" rel="stylesheet" type="text/css">
+  <link href="www/assets/plugins/bootstrap-social/bootstrap-social.css" rel="stylesheet" type="text/css">
+  <link href="www/assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="www/assets/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css">
+  <link href="www/assets/plugins/animate/animate.min.css" rel="stylesheet" type="text/css">
+  <link href="www/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <!-- end global mandatory styles -->
+
+  <!-- begin: base plugins  -->
+  <link href="www/assets/plugins/revo-slider/css/settings.css" rel="stylesheet" type="text/css">
+  <link href="www/assets/plugins/revo-slider/css/layers.css" rel="stylesheet" type="text/css">
+  <link href="www/assets/plugins/revo-slider/css/navigation.css" rel="stylesheet" type="text/css">
+
+  <link href="www/assets/plugins/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css">
+  <link href="www/assets/plugins/owl-carousel/assets/owl.carousel.css" rel="stylesheet" type="text/css">
+  <link href="www/assets/plugins/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css">
+  <link href="www/assets/plugins/slider-for-bootstrap/css/slider.css" rel="stylesheet" type="text/css">
+  <!-- end: base plugins -->
+
+  <!-- begin: page styles -->
+  <link href="www/assets/plugins/ilightbox/css/ilightbox.css" rel="stylesheet" type="text/css">
+  <!-- end: page styles -->
+
+  <!-- begin theme styles -->
+  <link href="www/assets/base/css/plugins.css" rel="stylesheet" type="text/css">
+  <link href="www/assets/base/css/components.css" id="style_components" rel="stylesheet" type="text/css">
+  <link href="www/assets/base/css/themes/default.css" rel="stylesheet" id="style_theme" type="text/css">
+  <link href="www/assets/base/css/custom.css" rel="stylesheet" type="text/css">
+  <style>
+
+    body {
+      font-family: "edpensookregular";
+    }
+  </style>
+  <!-- end theme styles -->
+  <link rel="shortcut icon" href="www/favicon.ico"> </head>
+
+<body class="c-layout-header-fixed c-layout-header-mobile-fixed">
+  <!-- begin: layout/headers/header-1 -->
+  <!-- begin: header -->
+  <header class="c-layout-header c-layout-header-4 c-layout-header-default-mobile" data-minimize-offset="80">
+    <div class="c-navbar">
+      <div class="container">
+        <!-- begin: brand -->
+        <div class="c-navbar-wrapper clearfix">
+          <div class="c-brand c-pull-left">
+            <a href="index.php">
+              <font class="c-font-uppercase c-font-bold" style="font-size:2.5vw;vertical-align:middle;">jobsa</font>
+            </a>
+            <button class="c-hor-nav-toggler" type="button" data-target=".c-mega-menu">
+                                <span class="c-line"></span>
+                                <span class="c-line"></span>
+                                <span class="c-line"></span>
+                            </button>
+            <button class="c-topbar-toggler" type="button">
+                                <i class="fa fa-ellipsis-v"></i>
+                            </button>
+            <!-- <button class="c-search-toggler" type="button">
+                                <i class="fa fa-search"></i>
+                            </button> -->
+          </div>
+          <!-- end: brand -->
+          <!-- begin: quick search -->
+          <!-- <form class="c-quick-search" action="#">
+            <input type="text" name="query" placeholder="type to search..." value="" class="form-control" autocomplete="off">
+            <span class="c-theme-link">&times;</span>
+          </form> -->
+          <!-- end: quick search -->
+          <!-- begin: hor nav -->
+          <!-- begin: layout/headers/mega-menu -->
+          <!-- begin: mega menu -->
+          <!-- dropdown menu toggle on mobile: c-toggler class can be applied to the link arrow or link itself depending on toggle mode -->
+          <nav class="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold">
+            <ul class="nav navbar-nav c-theme-nav">
+              <li class="c-active">
+                <a href="index.php" class="c-link dropdown-toggle">home</a>
+              </li>
+              <li>
+                <a href="#fulltime" class="c-link dropdown-toggle" onclick="activatab('c-tab2-opt1-1')">full time</a>
+              </li>
+              <li>
+                <a href="#parttime" class="c-link dropdown-toggle" onclick="activatab('c-tab2-opt1-2')">part time</a>
+              </li>
+              <li>
+                <a href="#apprentice" class="c-link dropdown-toggle" onclick="activatab('c-tab2-opt1-3')">apprentice</a>
+              </li>
+              <li>
+                <a href="#news" class="c-link dropdown-toggle" onclick="activatab('c-tab2-opt1-4')">news</a>
+              </li>
+              <li>
+                <a href="#javascript:void(0)" data-toggle="modal" data-target="#signup-form" class="c-link dropdown-toggle">company</a>
+              </li>
+              <li>
+                <a href="#javascript:void(0)" data-toggle="modal" data-target="#login-form" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-sm c-btn-border-1x c-btn-dark c-btn-circle c-btn-uppercase c-btn-sbold">
+                  <i class="icon-user"></i> login
+                </a>
+              </li>
+            </ul>
+          </nav>
+          <!-- end: mega menu -->
+          <!-- end: layout/headers/mega-menu -->
+          <!-- end: hor nav -->
+        </div>
+      </div>
+    </div>
+  </header>
+  <!-- end: header -->
+  <!-- end: layout/headers/header-1 -->
+  <!-- begin: content/user/forget-password-form -->
+  <div class="modal fade c-content-login-form" id="forget-password-form" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content c-square">
+      <div class="modal-header c-no-border">
+        <button type="button" class="close" data-dismiss="modal" aria-label="close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <h3 class="c-font-24 c-font-sbold">password recovery</h3>
+        <div class="item">
+          <div class="c-content-testimonial-3 c-option-default">
+            <div class="c-person">
+              <i class="icon-user img-responsive"></i>
+              <a href="https://accounts.ku.ac.th/public/forgottenpassword" target="_blank">
+                <div class="c-person-detail c-font-uppercase">
+                  <p class="c-position c-font-bold c-theme-font">นิสิตมหาวิทยาลัยเกษตรศาสตร์</p>
+                  <p>click here</p>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="c-content-testimonial-3 c-option-default">
+            <div class="c-person">
+              <i class="icon-login img-responsive"></i>
+              <div class="c-person-detail c-font-uppercase">
+                <p class="c-position c-font-bold c-theme-font" style="margin-top:-10px;">บริษัท</p>
+                <p>ติดต่อกองกิจการนิสิต มหาวิทยาลัยเกษตรศาสตร์</p>
+                <p>โทรศัพท์ : 0-2118-0150 ต่อ 618561, 0-2118-0180</p>
+                <p>โทรสาร : 0-2118-0169</p>
+                <img src="www/img/email.png">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer c-no-border">
+        <span class="c-text-account">don't have an account yet ?</span>
+        <a href="javascript:;" data-toggle="modal" data-target="#signup-form" data-dismiss="modal" class="btn c-btn-dark-1 btn c-btn-uppercase c-btn-bold c-btn-slim c-btn-border-2x c-btn-square c-btn-signup">signup!</a>
+      </div>
+    </div>
+  </div>
+</div>
+  <!-- end: content/user/forget-password-form -->
+  <!-- begin: content/user/signup-form -->
+  <div class="modal fade c-content-login-form" id="signup-form" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content c-square">
+      <div class="modal-header c-no-border">
+        <button type="button" class="close" data-dismiss="modal" aria-label="close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div id="signup-messages"></div>
+        <h3 class="c-font-24 c-font-sbold">สมัครใช้งานระบบ</h3>
+        <p>กรุณากรอกข้อมูลให้ครบทุกช่อง</p>
+        <form id="signup">
+          <div class="form-group">
+            <label for="signup-email" class="hide">อีเมล</label>
+            <input type="email" class="form-control input-lg c-square" id="signup-email" placeholder="อีเมล" required>
+          </div>
+          <div class="form-group">
+            <label for="signup-username" class="hide">username</label>
+            <input type="text" class="form-control input-lg c-square" id="signup-username" placeholder="username [เฉพาะตัวอักษร,ตัวเลข,ไม่เว้นวรรค]" maxlength="10" required>
+          </div>
+          <div class="form-group">
+            <label for="signup-password" class="hide">password</label>
+            <input type="password" class="form-control input-lg c-square" id="signup-password" placeholder="password" required>
+          </div>
+          <div class="form-group">
+            <label for="signup-fullname" class="hide">ชื่อ-นามสกุล</label>
+            <input type="text" class="form-control input-lg c-square" id="signup-fullname" placeholder="ชื่อ-นามสกุล" required>
+          </div>
+          <div class="form-group">
+            <label for="signup-company" class="hide">ชื่อบริษัท</label>
+            <input type="text" class="form-control input-lg c-square" id="signup-company" placeholder="ชื่อบริษัท [ระบุชื่อเต็ม งดเว้นตัวย่อ]" required>
+          </div>
+          <div class="form-group">
+            <label for="signup-company" class="hide">เบอร์โทร</label>
+            <input type="text" class="form-control input-lg c-square" id="signup-tel" placeholder="เบอร์โทร" required>
+          </div>
+          <div class="form-group">
+            <button type="button" id="signup_button" class="btn c-theme-btn btn-md c-btn-uppercase c-btn-bold c-btn-square c-btn-login">signup</button>
+            <a href="javascript:;" class="c-btn-forgot" data-toggle="modal" data-target="#login-form" data-dismiss="modal">back to login</a>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+  <!-- end: content/user/signup-form -->
+  <!-- begin: content/user/login-form -->
+  <div class="modal fade c-content-login-form" id="login-form" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content c-square">
+      <div class="modal-header c-no-border">
+        <button type="button" class="close" data-dismiss="modal" aria-label="close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div id="messages"></div>
+        <h3 class="c-font-24 c-font-sbold">welcome</h3>
+        <p>let's make today a great day!</p>
+        <form id="login">
+          <div class="form-group">
+            <label for="login-email" class="hide">username</label>
+            <input type="text" class="form-control input-lg c-square" id="login-account" placeholder="username" required> </div>
+          <div class="form-group">
+            <label for="login-password" class="hide">password</label>
+            <input type="password" class="form-control input-lg c-square" id="login-password" placeholder="password" required> </div>
+          <div class="form-group">
+            <button type="button" id="login_button" class="btn c-theme-btn btn-md c-btn-uppercase c-btn-bold c-btn-square c-btn-login">login</button>
+            <a href="javascript:;" data-toggle="modal" data-target="#forget-password-form" data-dismiss="modal" class="c-btn-forgot">forgot your password ?</a>
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer c-no-border">
+        <span class="c-text-account">don't have an account yet ?</span>
+        <a href="javascript:;" data-toggle="modal" data-target="#signup-form" data-dismiss="modal" class="btn c-btn-dark-1 btn c-btn-uppercase c-btn-bold c-btn-slim c-btn-border-2x c-btn-square c-btn-signup">signup!</a>
+      </div>
+    </div>
+  </div>
+</div>
+  <!-- end: content/user/login-form -->
+  <!-- begin: page container -->
+  <div class="c-layout-page">
+<div class="c-content-box c-size-md c-bg-grey-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="c-content-media-2-slider" data-slider="owl">
+                    <div class="c-content-label c-font-uppercase c-font-bold">news update</div>
+                    <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-auto-play="4000" data-rtl="false">
+                        <div class="item" onclick="window.open('https://youtu.be/xsz-fhci0fk','_blank');" style="cursor: pointer;">
+                            <div class="c-content-media-2 c-bg-img-center" style="background-image: url(../www/img/guide_youtube.jpg); min-height: 300px;">
+                                <div class="c-panel">
+                                    <div class="c-fav">
+                                        <!-- <i class="icon-heart c-font-thin"></i>
+                                        <p class="c-font-thin">16</p> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="c-content-media-2 c-bg-img-center" style="background-image: url(../www/img/ku2.jpg); min-height: 300px;">
+                                <div class="c-panel">
+                                    <div class="c-fav">
+                                        <!-- <i class="icon-heart c-font-thin"></i>
+                                        <p class="c-font-thin">24</p> -->
+                                        <p class="c-font-thin">let us show you unlimited possibilities</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="item">
+                            <div class="c-content-media-2 c-bg-img-center" style="background-image: url(img/ku5.jpg); min-height: 300px;">
+                                <div class="c-panel">
+                                    <div class="c-fav">
+                                        <p class="c-font-thin">take jobs by jobsa</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="c-content-media-1" style="height: 300px;">
+                    <div class="c-content-label c-font-uppercase c-font-bold c-theme-bg">jobsa</div>
+                    <!-- <a href="#" class="c-title c-font-uppercase  c-font-bold c-theme-on-hover">jobsa</a> -->
+                    <div class="c-name">ระบบส่งเสริมการมีงาน กองกิจการนิสิต เป็นศูนย์กลางส่งเสริมการมีงานทำสำหรับนิสิตมหาวิทยาลัยเกษตรศาสตร์</div>
+                    <div class="c-author">
+                        <div class="c-portrait" style="background-image: url(../www/img/kulogogreen.png)"></div>
+                        <div class="c-name">งานแนะแนวและจัดหางาน<br>กองกิจการนิสิต</div>
+                    </div>
+
+                    <div style="display: table;width: 100%;">
+                      <div style="display: table-row;">
+                        <div style="display: table-cell;padding: 3px;">
+                          <a href="www/manualstaff-v1.pdf" target="_blank">
+                            <img src="www/images/guide_staff_icon.png"/ width="100%">
+                          </a>
+                        </div>
+                        <div style="display: table-cell;padding: 3px;">
+                          <a href="www/manual-student-v2.pdf" target="_blank">
+                            <img src="www/images/guide_nisit_icon.png"/ width="100%">
+                          </a>
+                        </div>
+                      </div>
+                      <div style="display: table-row;">
+                        <div style="display: table-cell;padding: 3px;">
+                          <a href="www/manual-fac-v2.pdf" target="_blank">
+                            <img src="www/images/guide_fac_icon.png"/ width="100%">
+                          </a>
+                        </div>
+                        <div style="display: table-cell;padding: 3px;">
+                          <a href="www/company-jobsa-v2.pdf" target="_blank">
+                            <img src="www/images/guide_comp_icon.png"/ width="100%">
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+  #xxx1.active a .c-title, #xxx1 a:hover .c-title{
+    color:white;
+    /*color: #32c5d2;*/
+    background-color: #32c5d2;
+  }
+  #xxx1 a .c-title{
+    color: #32c5d2;
+  }
+  #xxx2.active a .c-title, #xxx2 a:hover .c-title{
+    color:white;
+    background-color: #eb5d68;
+  }
+  #xxx2 a .c-title{
+    color: #eb5d68;
+  }
+  #xxx3.active a .c-title, #xxx3 a:hover .c-title{
+    color:white;
+    background-color: #ff6b57;
+  }
+  #xxx3 a .c-title{
+    color: #ff6b57;
+  }
+  #xxx4.active a .c-title, #xxx4 a:hover .c-title{
+    color:white;
+    background-color: #b771b0;
+  }
+  #xxx4 a .c-title{
+    color: #b771b0;
+  }
+</style>
+<script type="text/javascript" src="www/js/myhttp.js"></script>
+<script>
+    var htmlloading = '<div class="c-content-panel" style="margin-bottom:0px;">';
+    +'<div class="c-body">'
+    +'  <div class="row">';
+    +'    <div class="col-md-12">';
+    +'      <div class="panel panel-default">';
+    +'        <div class="panel-body c-center">';
+    +'          <img src="www/images/loading.gif"><br>กำลังโหลดข้อมูล';
+    +'         </div>';
+    +'       </div>';
+    +'     </div>';
+    +'  </div>';
+    +'</div>';
+
+    function getlistposition(tab_id,job_type,page){
+      var myhttp =  new  myhttp();
+    	var tabcontent = document.getelementbyid(tab_id);
+    	tabcontent.innerhtml = htmlloading;
+    	myhttp.onresponsetext = function(text){
+    		tabcontent.innerhtml = text;
+    	}
+
+      myhttp.addparameter("tab_id", tab_id);
+    	myhttp.addparameter("page", page);
+    	myhttp.addparameter("job_type", job_type);
+    	myhttp.send("post", "/index/listposition");
+    }
+
+    function getlistcompany(tab_id,job_type,page){
+      var myhttp =  new  myhttp();
+    	var tabcontent = document.getelementbyid(tab_id);
+    	tabcontent.innerhtml = htmlloading;
+    	myhttp.onresponsetext = function(text){
+    		tabcontent.innerhtml = text;
+    	}
+
+      myhttp.addparameter("tab_id", tab_id);
+    	myhttp.addparameter("page", page);
+    	myhttp.addparameter("job_type", job_type);
+    	myhttp.send("post", "/index/listcompany");
+    }
+
+    function getlistnews(tab_id,page){
+      var myhttp =  new  myhttp();
+    	var tabcontent = document.getelementbyid(tab_id);
+    	tabcontent.innerhtml = htmlloading;
+    	myhttp.onresponsetext = function(text){
+    		tabcontent.innerhtml = text;
+    	}
+
+    	myhttp.addparameter("page", page);
+    	myhttp.send("post", "/index/listnews");
+    }
+
+    function getitemposition(tab_id,job_type,a_id){
+      var myhttp =  new  myhttp();
+    	var tabcontent = document.getelementbyid(tab_id);
+    	tabcontent.innerhtml = htmlloading;
+    	myhttp.onresponsetext = function(text){
+    		tabcontent.innerhtml = text;
+    	}
+
+      myhttp.addparameter("tab_id", tab_id);
+    	myhttp.addparameter("a_id", a_id);
+    	myhttp.addparameter("job_type", job_type);
+    	myhttp.send("post", "/index/listitemposition");
+    }
+
+    function getitemcompany(tab_id,job_type,p_name){
+      var myhttp =  new  myhttp();
+    	var tabcontent = document.getelementbyid(tab_id);
+    	tabcontent.innerhtml = htmlloading;
+    	myhttp.onresponsetext = function(text){
+    		tabcontent.innerhtml = text;
+    	}
+
+      myhttp.addparameter("tab_id", tab_id);
+    	myhttp.addparameter("p_name", p_name);
+    	myhttp.addparameter("job_type", job_type);
+    	myhttp.send("post", "/index/listitemcompany");
+    }
+</script>
+
+<!-- begin: content/tabs/tab-1 -->
+<div class="c-content-box c-size-md c-no-bottom-padding c-overflow-hide" style="padding-top:20px;">
+  <div class="c-container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="c-content-tab-2 c-theme c-opt-1">
+          <ul class="nav c-tab-icon-stack c-font-sbold c-font-uppercase">
+            <li class="active" id="xxx1">
+              <a name="fulltime" href="#c-tab2-opt1-1" data-toggle="tab" >
+                  <span class="c-content-line-icon c-icon-25"></span>
+                  <span class="c-title btn btn-lg c-btn-green c-btn-circle c-btn-border-2x">งานประจำ</span>
+              </a>
+              <div class="c-arrow"></div>
+            </li>
+            <li id="xxx2">
+              <a name="parttime" href="#c-tab2-opt1-2" data-toggle="tab" >
+                  <span class="c-content-line-icon c-icon-19"></span>
+                  <span class="c-title btn btn-lg c-btn-red c-btn-circle c-btn-border-2x">งานพิเศษนอกเวลาเรียน</span>
+              </a>
+              <div class="c-arrow"></div>
+            </li>
+            <li  id="xxx3">
+              <a name="apprentice" href="#c-tab2-opt1-3" data-toggle="tab">
+                  <span class="c-content-line-icon c-icon-14"></span>
+                  <span class="c-title btn btn-lg c-btn-yellow c-btn-circle c-btn-border-2x">ฝึกงาน</span>
+              </a>
+              <div class="c-arrow"></div>
+            </li>
+            <li  id="xxx4">
+              <a name="news" href="#c-tab2-opt1-4" data-toggle="tab">
+                  <span class="c-content-line-icon c-icon-20"></span>
+                  <span class="c-title btn btn-lg c-btn-purple c-btn-circle c-btn-border-2x">ข่าวประชาสัมพันธ์</span>
+              </a>
+              <div class="c-arrow"></div>
+            </li>
+          </ul>
+
+          <div class="c-tab-content">
+            <div class="c-bg-img-center1" style="background-image: url(www/assets/base/img/content/backgrounds/bg-62.jpg)">
+              <div class="container">
+                <div class="tab-content" style="padding-top:10px;">
+                  <div class="tab-pane fade in active" id="c-tab2-opt1-1">
+                    <style>
+#tab_fulltime.c-content-tab-3.c-opt-1 .nav li.active a ,
+#tab_fulltime.c-content-tab-3.c-opt-1 .nav li.active a:hover{
+    color: white !important;
+    background-color: #32c5d2;
+}
+
+#tab_fulltime.c-content-tab-3.c-opt-1 .nav li a {
+    color: #7f96b2;
+    background-color: #edf1f5;
+}
+
+/*#tab_parttime.c-content-tab-3.c-opt-1 .nav > li:hover > a {
+      color: #ec0bc3 !important;
+    }
+
+#tab_parttime.c-content-tab-3.c-opt-1 .nav > li:hover.active > a {
+  color: #327cd2 !important;
+}*/
+</style>
+<div class="c-tab-pane">
+  <h4 class="c-font-24 c-font-thin c-font-uppercase c-font-bold">full time</h4>
+  <!-- <p class="c-font-18 c-margin-b-20 c-margin-t-20 c-font-thin"> งานประจำสำหรับนิสิตชั้นปีสุดท้าย </p> -->
+  <div class="c-content-box c-size-md c-overflow-hide" style="padding:10px;">
+    <div class="c-container">
+      <div class="c-content-tab-3 c-opt-1" id="tab_fulltime">
+        <!-- <div> -->
+          <ul class="nav c-theme-nav">
+            <li class="active">
+              <a class="c-font-16 c-font-bold" href="#tab-full-position" data-toggle="tab" onclick="getlistposition('tab-full-position','1','1');">แยกตามตำแหน่งงาน</a>
+            </li>
+            <li>
+              <div class="c-separator"></div>
+              <a class="c-font-16 c-font-bold" href="#tab-full-company" data-toggle="tab" onclick="getlistcompany('tab-full-company','1','1');">แยกตามบริษัท</a>
+            </li>
+          </ul>
+        <!-- </div> -->
+        <div class="c-tab-content" style="padding:0px;">
+          <div class="tab-content" style="padding:0px;">
+            <div class="tab-pane fade in active" id="tab-full-position">
+
+            </div>
+            <div class="tab-pane fade" id="tab-full-company">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+                  </div>
+                  <div class="tab-pane fade" id="c-tab2-opt1-2">
+                    <style>
+#tab_parttime.c-content-tab-3.c-opt-1 .nav li.active a {
+    color: white;
+    background-color: #eb5d68;
+}
+
+#tab_parttime.c-content-tab-3.c-opt-1 .nav li a {
+    color: #7f96b2;
+    background-color: #edf1f5;
+}
+
+</style>
+<div class="c-tab-pane">
+  <h4 class="c-font-24 c-font-thin c-font-uppercase c-font-bold">part time</h4>
+  <div class="c-content-box c-size-md c-overflow-hide" style="padding:10px;">
+    <div class="c-container">
+      <div class="c-content-tab-3 c-opt-1" id="tab_parttime">
+        <!-- <div> -->
+          <ul class="nav c-theme-nav">
+            <li class="active">
+              <a class="c-font-16 c-font-bold" href="#tab-part-position" data-toggle="tab" onclick="getlistposition('tab-part-position','2','1');">แยกตามตำแหน่งงาน</a>
+            </li>
+            <li>
+              <div class="c-separator"></div>
+              <a class="c-font-16 c-font-bold" href="#tab-part-company" data-toggle="tab" onclick="getlistcompany('tab-part-company','2','1');">แยกตามบริษัท</a>
+            </li>
+          </ul>
+        <!-- </div> -->
+        <div class="c-tab-content" style="padding:0px;">
+          <div class="tab-content" style="padding:0px;">
+            <div class="tab-pane fade in active" id="tab-part-position">
+
+            </div>
+            <div class="tab-pane fade" id="tab-part-company">
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+                  </div>
+                  <div class="tab-pane fade" id="c-tab2-opt1-3">
+                    <style>
+#tab_apprentice.c-content-tab-3.c-opt-1 .nav li.active a {
+    color: white;
+    background-color: #ff6b57;
+}
+
+#tab_apprentice.c-content-tab-3.c-opt-1 .nav li a {
+    color: #7f96b2;
+    background-color: #edf1f5;
+}
+
+</style>
+<div class="c-tab-pane">
+  <h4 class="c-font-24 c-font-thin c-font-uppercase c-font-bold">apprentice</h4>
+  <div class="c-content-box c-size-md c-overflow-hide" style="padding:10px;">
+    <div class="c-container">
+      <div class="c-content-tab-3 c-opt-1" id="tab_apprentice">
+        <!-- <div> -->
+          <ul class="nav c-theme-nav">
+            <li class="active">
+              <a class="c-font-16 c-font-bold" href="#tab-apprentice-position" data-toggle="tab" onclick="getlistposition('tab-apprentice-position','3','1');">แยกตามตำแหน่งงาน</a>
+            </li>
+            <li>
+              <div class="c-separator"></div>
+              <a class="c-font-16 c-font-bold" href="#tab-apprentice-company" data-toggle="tab" onclick="getlistcompany('tab-apprentice-company','3','1');">แยกตามบริษัท</a>
+            </li>
+          </ul>
+        <!-- </div> -->
+        <div class="c-tab-content" style="padding:0px;">
+          <div class="tab-content" style="padding:0px;">
+            <div class="tab-pane fade in active" id="tab-apprentice-position">
+
+            </div>
+            <div class="tab-pane fade" id="tab-apprentice-company">
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+                  </div>
+                  <div class="tab-pane fade" id="c-tab2-opt1-4">
+                    <style>
+#tab_news.c-content-tab-3.c-opt-1 .nav li.active a {
+    color: white;
+    background-color: #b771b0;
+}
+
+#tab_news.c-content-tab-3.c-opt-1 .nav li a {
+    color: #7f96b2;
+    background-color: #edf1f5;
+}
+</style>
+<div class="c-tab-pane">
+  <h4 class="c-font-24 c-font-thin c-font-uppercase c-font-bold">news</h4>
+  <!-- <p class="c-font-18 c-margin-b-20 c-margin-t-20 c-font-thin"> งานประจำสำหรับนิสิตชั้นปีสุดท้าย </p> -->
+  <div class="c-content-box c-size-md c-overflow-hide" style="padding:10px;">
+    <div class="c-container">
+      <div class="c-content-tab-3 c-opt-1" id="tab_news">
+        <!-- <div> -->
+          <ul class="nav c-theme-nav">
+            <li class="active">
+              <a class="c-font-16 c-font-bold" href="#tab-news-list" data-toggle="tab" onclick="getlistnews('tab-news-list','1');">ข่าวสารประชาสัมพันธ์</a>
+            </li>
+            <!-- <li>
+              <div class="c-separator"></div>
+              <a class="c-font-16 c-font-bold" href="#tab-full-company" data-toggle="tab">แยกตามบริษัท</a>
+            </li> -->
+          </ul>
+        <!-- </div> -->
+        <div class="c-tab-content" style="padding:0px;">
+          <div class="tab-content" style="padding:0px;">
+            <div class="tab-pane fade in active" id="tab-news-list">
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end: content/tabs/tab-1 -->
+<!-- begin: content/misc/why-choose-us-1 -->
+<div class="c-content-box c-size-lg c-bg-grey-1" id="about">
+  <div class="container">
+    <div class="row" >
+      <div class="col-md-7">
+        <div class="c-content-feature-5" >
+          <div class="c-content-title-1 wow amimate fadeindown">
+            <h3 class="c-left c-font-dark c-font-uppercase c-font-bold">welcome to
+                  <br>jobsa</h3>
+            <div class="c-line-left c-bg-blue-3 c-theme-bg"></div>
+          </div>
+          <div class="c-text wow animate fadeinleft">ระบบส่งเสริมการมีงาน กองกิจการนิสิต เป็นศูนย์กลางส่งเสริมการมีงานทำสำหรับนิสิตมหาวิทยาลัยเกษตรศาสตร์</div>
+          <a href="http://go.sa.ku.ac.th/" target="_blank" class="btn c-btn-uppercase btn-md c-btn-bold c-btn-square c-theme-btn wow animate fadein">about us</a>
+          <!-- ########## random img ########## -->
+          <img class="c-photo img-responsive wow animate fadeinup" width="420" alt="" src="www/img/ku13.jpg"> </div>
+      </div>
+      <div class="col-md-5">
+        <div class="c-content-accordion-1 c-theme wow animate fadeinright">
+          <div class="panel-group" id="accordion" role="tablist">
+            <div class="panel">
+              <div class="panel-heading" role="tab" id="headingone">
+                <h4 class="panel-title">
+                    <a class="c-font-bold c-font-uppercase c-font-19" data-toggle="collapse" data-parent="#accordion" href="#collapseone" aria-expanded="true" aria-controls="collapseone">
+                      ระบบส่งเสริมการมีงานทำ กองกิจการนิสิต</a>
+                  </h4>
+              </div>
+              <!-- <div id="collapseone" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingone">
+                  <div class="panel-body c-font-18">  </div>
+                </div> -->
+            </div>
+            <div class="panel">
+              <div class="panel-heading" role="tab" id="headingtwo">
+                <h4 class="panel-title">
+                    <a class="collapsed c-font-uppercase c-font-bold c-font-19" data-toggle="collapse" data-parent="#accordion" href="#collapsetwo" aria-expanded="false" aria-controls="collapsetwo"> full time </a>
+                  </h4>
+              </div>
+              <div id="collapsetwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingtwo">
+                <div class="panel-body c-font-18"> การรับสมัครงานประจำสำหรับนิสิตชั้นปีสุดท้าย </div>
+              </div>
+            </div>
+
+            <div class="panel">
+              <div class="panel-heading" role="tab" id="headingthree">
+                <h4 class="panel-title">
+                    <a class="collapsed c-font-uppercase c-font-bold c-font-19" data-toggle="collapse" data-parent="#accordion" href="#collapsethree" aria-expanded="false" aria-controls="collapsethree"> part time </a>
+                  </h4>
+              </div>
+              <div id="collapsethree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingthree">
+                <div class="panel-body c-font-18"> การรับสมัครงานพิเศษนอกเวลาเรียนสำหรับนิสิตทุกชั้นปี </div>
+              </div>
+            </div>
+            <div class="panel">
+              <div class="panel-heading" role="tab" id="headingfour">
+                <h4 class="panel-title">
+                    <a class="collapsed c-font-uppercase c-font-bold c-font-19" data-toggle="collapse" data-parent="#accordion" href="#collapsefour" aria-expanded="false" aria-controls="collapsefour"> apprentice </a>
+                  </h4>
+              </div>
+              <div id="collapsefour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingfour">
+                <div class="panel-body c-font-18"> การรับสมัครนิสิตฝึกงาน </div>
+              </div>
+            </div>
+
+            <div class="panel">
+              <div class="panel-heading" role="tab" id="headingfive">
+                <h4 class="panel-title">
+                    <a class="collapsed c-font-uppercase c-font-bold c-font-19" data-toggle="collapse" data-parent="#accordion" href="#collapsefive" aria-expanded="false" aria-controls="collapsefive"> news </a>
+                  </h4>
+              </div>
+              <div id="collapsefive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingfive">
+                <div class="panel-body c-font-18"> ข่าวสารประชาสัมพันธ์ </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end: content/misc/why-choose-us-1 -->
+<!-- begin: content/features/features-9 -->
+<div class="c-content-box c-size-md c-bg-parallax" style="background-image: url(www/assets/base/img/content/backgrounds/bg-87.jpg)">
+  <div class="container">
+    <div class="c-content-feature-9">
+      <div class="c-content-title-1">
+        <h3 class="c-font-uppercase c-center c-font-bold">quick links</h3>
+      </div>
+      <ul class="c-list">
+        <li class="wow animate fadeindown">
+          <div class="c-card" style="padding:10px;">
+            <div class="c-portrait" style="background-image: url(www/img/logo_nesdb.png);background-size: cover;width: 55px;
+                height: 55px;border-radius: 58px;float: left;margin-right: 20px;"></div>
+            <div class="c-content c-content-left">
+              <a href="http://www.nesdb.go.th/" target="_blank">
+                <p class="c-font-uppercase c-font-bold">
+                  สำนักงานคณะกรรมการพัฒนาการเศรษฐกิจและสังคมแห่งชาติ</p>
+              </a>
+            </div>
+          </div>
+        </li>
+        <li class="wow animate fadeindown">
+          <div class="c-card" style="padding:10px;">
+            <div class="c-portrait" style="background-image: url(www/img/logo_ocsc.png);background-size: cover;width: 55px;
+                height: 55px;border-radius: 58px;float: left;margin-right: 20px;"></div>
+            <div class="c-content c-content-left">
+              <a href="http://www.ocsc.go.th/" target="_blank">
+                <p class="c-font-uppercase c-font-bold">
+                  สำนักงาน ก.พ.</p>
+              </a>
+            </div>
+          </div>
+        </li>
+        <li class="wow animate fadeindown">
+          <div class="c-card" style="padding:10px;">
+            <div class="c-portrait" style="background-image: url(www/img/logo_lmi_doe.png);background-size: cover;width: 55px;
+                height: 55px;border-radius: 58px;float: left;margin-right: 20px;"></div>
+            <div class="c-content c-content-left">
+              <div class="c-content c-content-left">
+                <a href="http://lmi1.doe.go.th/" target="_blank">
+                  <p class="c-font-uppercase c-font-bold">
+                    กองวิจัยตลาดแรงงาน</p>
+                </a>
+              </div>
+            </div>
+        </li>
+      </ul>
+      <ul class="c-list">
+        <li class="wow animate fadeindown">
+          <div class="c-card" style="padding:10px;">
+            <div class="c-portrait" style="background-image: url(www/img/logo_sme.png);background-size: cover;width: 55px;
+                height: 55px;border-radius: 58px;float: left;margin-right: 20px;"></div>
+            <div class="c-content c-content-left">
+              <div class="c-content c-content-left">
+                <a href="http://www.nesdb.go.th/" target="_blank">
+                  <p class="c-font-uppercase c-font-bold">
+                    สำนักงานส่งเสริมวิสาหกิจขนาดกลางและขนาดย่อม</p>
+                </a>
+              </div>
+            </div>
+        </li>
+        <li class="wow animate fadeindown">
+          <div class="c-card" style="padding:10px;">
+            <div class="c-portrait" style="background-image: url(www/img/kulogogreen.png);background-size: cover;width: 55px;
+                height: 55px;border-radius: 58px;float: left;margin-right: 20px;"></div>
+            <div class="c-content c-content-left">
+              <div class="c-content c-content-left">
+                <a href="http://www.ocsc.go.th/" target="_blank">
+                  <p class="c-font-uppercase c-font-bold">
+                    สำนักทะเบียนและประมวลผล<br>มหาวิทยาลัยเกษตรศาสตร์
+                  </p>
+                </a>
+              </div>
+            </div>
+        </li>
+        <li class="wow animate fadeindown">
+          <div class="c-card" style="padding:10px;">
+            <div class="c-portrait" style="background-image: url(www/img/kulogogreen.png);background-size: cover;width: 55px;
+                height: 55px;border-radius: 58px;float: left;margin-right: 20px;"></div>
+            <div class="c-content c-content-left">
+              <div class="c-content c-content-left">
+                <a href="http://www.ocsc.go.th/" target="_blank">
+                  <p class="c-font-uppercase c-font-bold">
+                    กองวิเทศสัมพันธ์<br>มหาวิทยาลัยเกษตรศาสตร์
+                  </p>
+                </a>
+              </div>
+            </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<!-- end: content/features/features-9 -->
+
+</div>
+<!-- begin: layout/footers/footer-6 -->
+<a name="footer"></a>
+<!-- <footer class="c-layout-footer c-layout-footer-6 c-bg-parallax" style="background-image: url(img/bg1.jpg)"> -->
+<footer class="c-layout-footer c-layout-footer-6 c-bg-grey-1">
+  <!-- <div class="c-content-box c-size-md c-bg-parallax" style="background-image: url(assets/base/img/content/backgrounds/bg-87.jpg)"> -->
+  <div class="container">
+    <div class="c-content-feature-9">
+      <!-- begin: title 1 component -->
+      <div class="c-content-title-1">
+        <h3 class="c-font-uppercase c-center c-font-bold">contact us</h3>
+        <!-- <div class="c-line-center c-theme-bg"></div> -->
+        <!-- <p class="c-font-center">contact</p> -->
+      </div>
+      <!-- end-->
+      <ul class="c-list">
+        <li class="wow animate fadeinup">
+          <div class="c-card" style="padding:10px;">
+            <i class="icon-user c-theme-font c-font-blue-1-5 c-font-22 c-bg-white c-float-left"></i>
+            <div class="c-content c-content-left">
+              <p class="c-font-uppercase c-font-bold">
+                กองกิจการนิสิต<br> มหาวิทยาลัยเกษตรศาสตร์
+              </p>
+            </div>
+          </div>
+        </li>
+        <li class="wow animate fadeinup">
+          <div class="c-card" style="padding:10px;">
+            <i class="fa fa-map-marker c-theme-font c-font-blue-1-5 c-font-27 c-bg-white c-float-left"></i>
+            <div class="c-content c-content-left">
+              <!-- <h3 class="c-theme-font c-font-uppercase c-font-bold">group tasks</h3> -->
+              <p> เลขที่ 50 ถนนงามวงศ์วาน แขวงลาดยาว<br> เขตจตุจักร กรุงเทพฯ 10900 </p>
+            </div>
+          </div>
+        </li>
+        <li class="wow animate fadeinup">
+          <div class="c-card" style="padding:10px;">
+            <i class="icon-basket c-theme-font c-font-blue-1-5 c-font-27 c-bg-white c-float-left"></i>
+            <div class="c-content c-content-left">
+              <!-- <h3 class="c-theme-font c-font-uppercase c-font-bold">responsive ui</h3> -->
+              <p class="c-address c-font-16">
+                phone: 02 118 0181<br> fax: 02 942 8304 ext.8555<br> email:
+                <a href="mailto:jobsa@ku.ac.th">
+                  <span class="c-theme-color">jobsa@ku.ac.th</span>
+                </a>
+              </p>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="c-postfooter c-bg-dark-2">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-sm-12 c-col">
+          <p class="c-copyright c-font-grey">2017 &copy; jobsa
+            <span class="c-font-grey-3">all rights reserved.</span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- end: layout/footers/footer-6 -->
+<!-- begin: layout/footers/go2top -->
+<div class="c-layout-go2top">
+  <i class="icon-arrow-up"></i>
+</div>
+<!-- end: layout/footers/go2top -->
+<!-- begin: layout/base/bottom -->
+<!-- begin: core plugins -->
+<!--[if lt ie 9]>
+	<script src="www/assets/global/plugins/excanvas.min.js"></script>
+	<![endif]-->
+        <script src="www/assets/plugins/jquery.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/jquery.easing.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>
+        <script src="www/assets/base/js/scripts/reveal-animate/reveal-animate.js" type="text/javascript"></script>
+        <!-- end: core plugins -->
+        <!-- begin: layout plugins -->
+        <script src="www/assets/plugins/revo-slider/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/revo-slider/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/revo-slider/js/extensions/revolution.extension.slideanims.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/revo-slider/js/extensions/revolution.extension.layeranimation.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/revo-slider/js/extensions/revolution.extension.navigation.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/revo-slider/js/extensions/revolution.extension.video.min.js" type="text/javascript"></script>
+
+        <script src="www/assets/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/smooth-scroll/jquery.smooth-scroll.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/slider-for-bootstrap/js/bootstrap-slider.js" type="text/javascript"></script>
+
+        <!-- end: layout plugins -->
+        <!-- begin: theme scripts -->
+        <script src="www/assets/base/js/components.js" type="text/javascript"></script>
+        <script src="www/assets/base/js/components-shop.js" type="text/javascript"></script>
+        <script src="www/assets/base/js/app.js" type="text/javascript"></script>
+        <script>
+          $(document).ready(function() {
+            app.init(); // init core
+
+            $('#login_button').click(function(){
+                 var username = $('#login-account').val();
+                 var password = $('#login-password').val();
+                 if(username != '' && password != '' && $("#login")[0].checkvalidity())
+                 {
+                    $.ajax({
+                       url:"/index/auth",
+                       method:"post",
+                       cache: false,
+                       data: {username:username, password:password},
+                       datatype: 'json',
+                       success:function(response){
+                         if(response.type == 'success'){
+                           $('#login-form').hide();
+                           location.reload();
+                         } else {
+                           $('#messages').removeclass().addclass('alert alert-danger').text(response.message);
+                         }
+                       }
+                    });
+                 }else{
+                   $('#messages').removeclass().addclass('alert alert-warning').text("both fields are required");
+                 }
+            });
+
+            $( "#login-password" ).keypress(function( event ) {
+              if(event.which == 13) {
+                 event.preventdefault();
+                 $('#login_button').click();
+              }
+            });
+
+
+
+            $('#signup_button').click(function(){
+                 var email = $('#signup-email').val();
+                 var user_name = $('#signup-username').val();
+                 var user_pass = $('#signup-password').val();
+                 var full_name = $('#signup-fullname').val();
+                 var company = $('#signup-company').val();
+                 var tel = $('#signup-tel').val();
+
+                 if(email != '' && user_name != '' && user_pass != '' && full_name != '' && company != '' && tel != ''&& $("#signup")[0].checkvalidity())
+                 {
+                    $.ajax({
+                       url:"/index/register",
+                       method:"post",
+                       cache: false,
+                       data: {user_name:user_name,user_pass:user_pass,full_name:full_name,email:email,company:company,tel:tel},
+                       datatype: 'json',
+                       success:function(response){
+                         if(response.type == 'success'){
+                          //  $('#signup-form').hide();
+                          //  location.reload();
+                           $('#signup-messages').removeclass().addclass('alert alert-success').text(response.message);
+                           $("#signup").closest('form').find("input[type=text],input[type=password],input[type=email]").val("");
+                         } else {
+                           $('#signup-messages').removeclass().addclass('alert alert-danger').text(response.message);
+                         }
+                       }
+                    });
+                 }else{
+                   $('#signup-messages').removeclass().addclass('alert alert-warning').text("all fields are required");
+                 }
+            });
+
+            getlistposition('tab-full-position','1','1');
+            getlistposition('tab-part-position','2','1');
+            getlistposition('tab-apprentice-position','3','1');
+            getlistnews('tab-news-list','1');
+          });
+          function activatab(tab){
+              $('.c-tab-icon-stack a[href="#' + tab + '"]').tab('show');
+          };
+
+
+
+        </script>
+        <!-- end: theme scripts -->
+        <!-- begin: page scripts -->
+        <script src="www/assets/base/js/scripts/revo-slider/slider-4.js" type="text/javascript"></script>
+
+        <script src="www/assets/plugins/isotope/isotope.pkgd.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/isotope/imagesloaded.pkgd.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/isotope/packery-mode.pkgd.min.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/ilightbox/js/jquery.requestanimationframe.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/ilightbox/js/jquery.mousewheel.js" type="text/javascript"></script>
+        <script src="www/assets/plugins/ilightbox/js/ilightbox.packed.js" type="text/javascript"></script>
+        <script src="www/assets/base/js/scripts/pages/isotope-gallery.js" type="text/javascript"></script>
+        <!-- end: page scripts -->
+        <!-- end: layout/base/bottom -->
+
+</body>
+</html>

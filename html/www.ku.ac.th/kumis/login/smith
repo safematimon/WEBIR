@@ -1,0 +1,271 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>ku mis</title>
+    <!-- html5 shim and respond.js ie10 support of html5 elements and media queries -->
+    <!-- warning: respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt ie 10]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.3/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="#">
+    <meta name="author" content="#">
+    <!-- favicon icon -->
+	
+    <link rel="icon" href="https://www.ku.ac.th/kumis/login/images/favicon.ico" type="image/x-icon">
+    <!-- google font-->
+    <link href="https://www.ku.ac.th/kumis/login/css/opensans.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://www.ku.ac.th/kumis/login/files/bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <!-- themify-icons line icon -->
+    <link rel="stylesheet" type="text/css" href="https://www.ku.ac.th/kumis/login/files/assets/icon/themify-icons/themify-icons.css">
+    <!-- ico font -->
+    <link rel="stylesheet" type="text/css" href="https://www.ku.ac.th/kumis/login/files/assets/icon/icofont/css/icofont.css">
+    <!-- feather awesome -->
+    <link rel="stylesheet" type="text/css" href="https://www.ku.ac.th/kumis/login/files/assets/icon/feather/css/feather.css">
+    
+		
+	<!-- style.css -->
+    <link rel="stylesheet" type="text/css" href="https://www.ku.ac.th/kumis/login/files/assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="https://www.ku.ac.th/kumis/login/files/assets/css/jquery.mcustomscrollbar.css">
+	
+</head>
+
+<body>
+<!-- pre-loader start -->
+<div class="theme-loader">
+    <div class="ball-scale">
+        <div class='contain'>
+            <div class="ring">
+                <div class="frame"></div>
+            </div>
+            <div class="ring">
+                <div class="frame"></div>
+            </div>
+            <div class="ring">
+                <div class="frame"></div>
+            </div>
+            <div class="ring">
+                <div class="frame"></div>
+            </div>
+            <div class="ring">
+                <div class="frame"></div>
+            </div>
+            <div class="ring">
+                <div class="frame"></div>
+            </div>
+            <div class="ring">
+                <div class="frame"></div>
+            </div>
+            <div class="ring">
+                <div class="frame"></div>
+            </div>
+            <div class="ring">
+                <div class="frame"></div>
+            </div>
+            <div class="ring">
+                <div class="frame"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- pre-loader end -->
+
+<div id="pcoded" class="pcoded">
+    <div class="pcoded-overlay-box"></div>
+    <div class="pcoded-container navbar-wrapper">
+	
+		<nav class="navbar header-navbar pcoded-header">
+            <div class="navbar-wrapper">
+                <div class="navbar-logo">
+                    <a class="mobile-menu" id="mobile-collapse" href="#">
+                        <i class="feather icon-menu"></i>
+                    </a>
+					<img src="./images/ku_logo1.png" width="35" height="46">
+					&nbsp;&nbsp;
+					<a class="img-fluid" href="/kumis/login/"> ku <font color="ffbb33">mis</font></a>
+                    
+                    <a class="mobile-options">
+                        <i class="feather icon-more-horizontal"></i>
+                    </a>
+                </div>
+            </div>
+        </nav>
+
+        <div class="pcoded-main-container">
+            <div class="pcoded-wrapper">
+                <nav class="pcoded-navbar">
+                    <div class="pcoded-inner-navbar main-menu">
+
+												<div class="pcoded-navigatio-lavel">authentication</div>
+						<ul class="pcoded-item pcoded-left-item">
+                            <li class="">
+                                <a href="/kumis/login/login">
+                                    <span class="pcoded-micon"><i class="feather icon-unlock"></i></span>
+                                    <span class="pcoded-mtext">login</span>
+                                </a>
+                            </li>
+                        </ul>
+						                    </div>
+                </nav>
+				
+                <div class="pcoded-content">
+                    <div class="pcoded-inner-content">
+                        <!-- main-body start -->
+                        <div class="main-body">
+                            <div class="page-wrapper">
+								
+	<!-- page-header start -->
+	<div class="page-header">
+		<div class="row align-items-end">
+			<div class="col-lg-8">
+				<div class="page-header-title">
+					<div class="d-inline">
+						<h3>ตรวจสอบบัญชีผู้ใช้ ระบบสารสนเทศเพื่อการบริหารจัดการ มหาวิทยาลัยเกษตรศาสตร์ (mis-eis)</h3>
+
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4">
+				<div class="page-header-breadcrumb">
+					<ul class="breadcrumb-title">
+						<li class="breadcrumb-item">
+							
+								<a href="/kumis/login/login">
+									<i class="feather icon-unlock"></i>
+									login</a>
+							
+
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- page-header end -->
+
+	<div class="page-body">
+		<div class="row">
+			<div class="col-sm-12">
+				
+				<div class="card">
+					<div class="card-header">
+
+                        						<h4>ลงทะเบียนโดย nontri account เท่านั้น (@ku.ac.th)</h4>
+						<br>
+
+						<div><br>
+							<a href="/kumis/login/login">
+								<h4>
+									<i class="feather icon-unlock" aria-hidden="true"></i>
+									login</h4>
+							</a>
+						</div>
+                        						<div class="card-header-right">
+							<ul class="list-unstyled card-option">
+								<li>
+									<i class="feather icon-maximize full-card"></i>
+								</li>
+								<li>
+									<i class="feather icon-minus minimize-card"></i>
+								</li>
+								<li>
+									<i class="feather icon-trash-2 close-card"></i>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="card-block">
+						<span>© 2020 สำนักบริการคอมพิวเตอร์ มหาวิทยาลัยเกษตรศาสตร์ | office of computer services, kasetsart university</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+                                
+                            </div>
+                        </div>
+                        <div id="styleselector">
+
+                        </div>
+                    </div>
+                </div>
+				
+            </div>
+        </div>
+		
+			
+    </div>
+</div>
+
+
+
+
+<!-- warning section starts -->
+<!-- older ie warning message -->
+<!--[if lt ie 10]>
+<div class="ie-warning">
+    <h1>warning!!</h1>
+    <p>you are using an outdated version of internet explorer, please upgrade <br/>to any of the following web browsers
+        to access this website.</p>
+    <div class="iew-container">
+        <ul class="iew-download">
+            <li>
+                <a href="http://www.google.com/chrome/">
+                    <img src="https://www.ku.ac.th/kumis/login/files/assets/images/browser/chrome.png" alt="chrome">
+                    <div>chrome</div>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.mozilla.org/en-us/firefox/new/">
+                    <img src="https://www.ku.ac.th/kumis/login/files/assets/images/browser/firefox.png" alt="firefox">
+                    <div>firefox</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.opera.com">
+                    <img src="https://www.ku.ac.th/kumis/login/files/assets/images/browser/opera.png" alt="opera">
+                    <div>opera</div>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.apple.com/safari/">
+                    <img src="https://www.ku.ac.th/kumis/login/files/assets/images/browser/safari.png" alt="safari">
+                    <div>safari</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">
+                    <img src="https://www.ku.ac.th/kumis/login/files/assets/images/browser/ie.png" alt="">
+                    <div>ie (9 & above)</div>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <p>sorry for the inconvenience!</p>
+</div>
+<![endif]-->
+<!-- warning section ends -->
+
+<!-- required jquery -->
+<script type="text/javascript" src="https://www.ku.ac.th/kumis/login/files/bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.ku.ac.th/kumis/login/files/bower_components/jquery-ui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://www.ku.ac.th/kumis/login/files/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<!-- jquery slimscroll js -->
+<script type="text/javascript" src="https://www.ku.ac.th/kumis/login/files/bower_components/jquery-slimscroll/js/jquery.slimscroll.js"></script>
+
+<script src="https://www.ku.ac.th/kumis/login/files/assets/js/pcoded.min.js"></script>
+<script src="https://www.ku.ac.th/kumis/login/files/assets/js/vartical-layout.min.js"></script>
+<script src="https://www.ku.ac.th/kumis/login/files/assets/js/jquery.mcustomscrollbar.concat.min.js"></script>
+<!-- custom js -->
+<script type="text/javascript" src="https://www.ku.ac.th/kumis/login/files/assets/js/script.js"></script>
+
+
+</body>
+</html>

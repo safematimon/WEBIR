@@ -1,0 +1,2691 @@
+
+<!doctype html>
+<html lang="en-gb" dir="ltr"
+	  class='com_content view-article itemid-101 home j39 mm-hover '>
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=ua-121441437-1"></script>
+<script>
+  window.datalayer = window.datalayer || [];
+  function gtag(){datalayer.push(arguments);}
+  gtag('js', new date());
+
+  gtag('config', 'ua-121441437-1');
+</script>
+	<base href="https://www.lib.ku.ac.th/2019/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="kulc,kasetsart,สำนักหอสมุด" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content=" kulc สำนักหอสมุด มหาวิทยาลัยเกษตรศสาตร์บางเขน" />
+	<meta name="generator" content="joomla! - open source content management" />
+	<title>kulc : สำนักหอสมุด มหาวิทยาลัยเกษตรศาสตร์</title>
+	<link href="/2019/templates/tx_academia2/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="https://www.lib.ku.ac.th/2019/index.php/component/search/?id=21&amp;itemid=101&amp;format=opensearch" rel="search" title="search kasetsart university library / learning center  (kulc) สำนักหอสมุด มก. : ศูนย์การเรียนรู้มหาวิทยาลัยเกษตรศาสตร์ ประตูสู่ความเป็นเลิศทางวิชาการและการวิจัย" type="application/opensearchdescription+xml" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.bootstrap.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/media/tabs/css/style.min.css?v=7.2.2" rel="stylesheet" type="text/css" />
+	<link href="//fonts.googleapis.com/css?family=kanit:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&amp;subset=latin" rel="stylesheet" type="text/css" />
+	<link href="/2019/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/plugins.system.t3.base-bs3.less.legacy-grid.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/plugins/system/t3/base-bs3/fonts/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/plugins.system.t3.base-bs3.less.t3.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.core.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.typography.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.forms.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.navigation.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.navbar.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.modules.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.joomla.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.components.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.integration.integration.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.style.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.structure.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.widget.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.header.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.responsive.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.quix.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.template.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/plugins.system.t3.base-bs3.less.megamenu.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.megamenu.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/plugins.system.t3.base-bs3.less.off-canvas.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/t3-assets/dev/green/templates.tx_academia2.less.off-canvas.less.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/templates/tx_academia2/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/templates/tx_academia2/fonts/montserrat/montserrat.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/templates/tx_academia2/fonts/academia/style.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/templates/tx_academia2/css/atvimg/atvimg.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/templates/tx_academia2/css/animate.min.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/templates/tx_academia2/css/switcher.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/templates/tx_academia2/css/search-component.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/modules/mod_ebstickycookienotice/tmpl/assets/css/cookie.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/modules/mod_ebstickycookienotice/tmpl/assets/css/responsive.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.lib.ku.ac.th/2019/modules/mod_bt_contentslider/tmpl/css/btcontentslider.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/media/syw/css/fonts-min.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/cache/mod_latestnewsenhanced/style_163.css" rel="stylesheet" type="text/css" />
+	<link href="/2019/modules/mod_latestnewsenhanced/styles/common_styles-min.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+body{font-family:kanit, sans-serif; font-size:15px; font-weight:normal; }h1{font-family:kanit, sans-serif; font-size:18px; font-weight:normal; }h2{font-family:kanit, sans-serif; font-size:16px; font-weight:normal; }h3{font-family:kanit, sans-serif; font-size:16px; font-weight:normal; }h4{font-family:kanit, sans-serif; font-size:16px; font-weight:normal; }h5{font-family:kanit, sans-serif; font-size:16px; font-weight:normal; }h6{font-family:kanit, sans-serif; font-size:16px; font-weight:normal; }.t3-navbar{font-family:kanit, sans-serif; font-size:12px; font-weight:normal; }#btcontentslider150 .bt_handles{top: 0px !important;right: 5px !important}
+		@media screen and (max-width: 480px){.bt-cs .bt-row{width:100%!important;}}
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"535bde5c7587956685a544b9bcb69897","system.paths":{"root":"\/2019","base":"\/2019"},"rl_tabs":{"use_hash":1,"reload_iframes":0,"init_timeout":0,"urlscroll":0}}</script>
+	<script src="/2019/media/jui/js/jquery.min.js?65c3a87f3696e116937f7a3455ec1bec" type="text/javascript"></script>
+	<script src="/2019/media/jui/js/jquery-noconflict.js?65c3a87f3696e116937f7a3455ec1bec" type="text/javascript"></script>
+	<script src="/2019/media/jui/js/jquery-migrate.min.js?65c3a87f3696e116937f7a3455ec1bec" type="text/javascript"></script>
+	<script src="/2019/media/system/js/caption.js?65c3a87f3696e116937f7a3455ec1bec" type="text/javascript"></script>
+	<script src="/2019/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?65c3a87f3696e116937f7a3455ec1bec" type="text/javascript"></script>
+	<script src="/2019/media/system/js/core.js?65c3a87f3696e116937f7a3455ec1bec" type="text/javascript"></script>
+	<script src="/2019/media/tabs/js/script.min.js?v=7.2.2" type="text/javascript"></script>
+	<script src="/2019/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+	<script src="/2019/plugins/system/t3/base-bs3/js/off-canvas.js" type="text/javascript"></script>
+	<script src="/2019/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+	<script src="/2019/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+	<script src="/2019/templates/tx_academia2/js/wow.js" type="text/javascript"></script>
+	<script src="/2019/templates/tx_academia2/js/switcher.js" type="text/javascript"></script>
+	<script src="/2019/templates/tx_academia2/js/search-classie.js" type="text/javascript"></script>
+	<script src="/2019/templates/tx_academia2/js/search-uisearch.js" type="text/javascript"></script>
+	<script src="/2019/templates/tx_academia2/js/atvimg-min.js" type="text/javascript"></script>
+	<script src="/2019/templates/tx_academia2/js/script.js" type="text/javascript"></script>
+	<script src="/2019/modules/mod_ebstickycookienotice/tmpl/assets/js/cookie_script.js" type="text/javascript"></script>
+	<script src="https://www.lib.ku.ac.th/2019/modules/mod_bt_contentslider/tmpl/js/slides.js" type="text/javascript"></script>
+	<script src="https://www.lib.ku.ac.th/2019/modules/mod_bt_contentslider/tmpl/js/default.js" type="text/javascript"></script>
+	<script src="https://www.lib.ku.ac.th/2019/modules/mod_bt_contentslider/tmpl/js/jquery.easing.1.3.js" type="text/javascript"></script>
+	<script src="/2019/media/syw/js/pagination/jquery.pajinate.min.js?65c3a87f3696e116937f7a3455ec1bec" type="text/javascript"></script>
+	<script src="/2019/cache/mod_latestnewsenhanced/animation_163.js" type="text/javascript"></script>
+	<!--[if lt ie 9]><script src="/2019/media/system/js/html5fallback.js?65c3a87f3696e116937f7a3455ec1bec" type="text/javascript"></script><![endif]-->
+	<script type="text/javascript">
+jquery(window).on('load',  function() {
+				new jcaption('img.caption');
+			});jquery(function($){ inittooltips(); $("body").on("subform-row-add", inittooltips); function inittooltips (event, container) { container = container || document;$(container).find(".hastooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+	<script type="application/ld+json">
+{"@context":"http:\/\/schema.org","@type":"organization","name":"kasetsart university library \/ learning center  (kulc) \u0e2a\u0e33\u0e19\u0e31\u0e01\u0e2b\u0e2d\u0e2a\u0e21\u0e38\u0e14 \u0e21\u0e01. : \u0e28\u0e39\u0e19\u0e22\u0e4c\u0e01\u0e32\u0e23\u0e40\u0e23\u0e35\u0e22\u0e19\u0e23\u0e39\u0e49\u0e21\u0e2b\u0e32\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e40\u0e01\u0e29\u0e15\u0e23\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c \u0e1b\u0e23\u0e30\u0e15\u0e39\u0e2a\u0e39\u0e48\u0e04\u0e27\u0e32\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e25\u0e34\u0e28\u0e17\u0e32\u0e07\u0e27\u0e34\u0e0a\u0e32\u0e01\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e27\u0e34\u0e08\u0e31\u0e22","url":"https:\/\/www.lib.ku.ac.th\/2019\/"}
+	</script>
+
+	
+<!-- meta for ios & handheld -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+	
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![cdata[
+		if (navigator.useragent.match(/iemobile\/10\.0/)) {
+			var msviewportstyle = document.createelement("style");
+			msviewportstyle.appendchild(
+				document.createtextnode("@-ms-viewport{width:auto!important}")
+			);
+			document.getelementsbytagname("head")[0].appendchild(msviewportstyle);
+		}
+		//]]>
+	</script>
+<meta name="handheldfriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<!-- //meta for ios & handheld -->
+
+
+
+    <script type="text/javascript">
+        (function($) {
+
+            $( document ).ready(function() {
+
+                var heightroof = $('.t3-sl-roof').innerheight();
+//        var heightheader = $('.t3-header').innerheight();
+//        var totalheight = heightroof + heightheader;
+//        console.log(totalheight);
+
+                //top menu
+                $(window).bind('scroll', function () {
+                    if ($(window).scrolltop() > heightroof) {
+                        $('.t3-header').addclass('navbar-fixed-top');
+                    } else {
+                        $('.t3-header').removeclass('navbar-fixed-top');
+                    }
+                });
+
+            });
+        })(jquery);
+    </script>
+
+
+<!-- le html5 shim and media query for ie8 support -->
+<!--[if lt ie 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="/2019/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- you can add google analytics here or use t3 injection feature -->
+
+
+	</head>
+
+<body>
+    <!--start preloader-->
+        <!--end preloader-->
+
+    <div class="t3-wrapper"> <!-- need this wrapper for off-canvas menu. remove if you don't use of-canvas -->
+		
+
+
+		
+<!-- header -->
+<header id="t3-header" class="t3-header header-default">
+    <div class="container">
+        <div class="row">
+            <!-- logo -->
+            <div class="col-xs-12 col-sm-4 logo">
+			    
+
+<div class="logo-image logo-control">
+  <a href="https://www.lib.ku.ac.th/2019/" title="kasetsart university library / learning center  (kulc) สำนักหอสมุด มก. : ศูนย์การเรียนรู้มหาวิทยาลัยเกษตรศาสตร์ ประตูสู่ความเป็นเลิศทางวิชาการและการวิจัย">
+          <img class="logo-img" src="/2019/images/banners/mainhead-th.png" alt="kasetsart university library / learning center  (kulc) สำนักหอสมุด มก. : ศูนย์การเรียนรู้มหาวิทยาลัยเกษตรศาสตร์ ประตูสู่ความเป็นเลิศทางวิชาการและการวิจัย" />
+              <img class="logo-img-sm" src="/2019/images/banners/mainhead-th.png" alt="kasetsart university library / learning center  (kulc) สำนักหอสมุด มก. : ศูนย์การเรียนรู้มหาวิทยาลัยเกษตรศาสตร์ ประตูสู่ความเป็นเลิศทางวิชาการและการวิจัย" />
+        <span>kasetsart university library / learning center  (kulc) สำนักหอสมุด มก. : ศูนย์การเรียนรู้มหาวิทยาลัยเกษตรศาสตร์ ประตูสู่ความเป็นเลิศทางวิชาการและการวิจัย</span>
+  </a>
+  <small class="site-slogan"></small>
+</div>
+            </div>
+            <!-- //logo -->
+            <div class="col-xs-12 col-sm-8 header-info">
+
+			                        <div class="wrapper-languageswitcherload clearfix">
+                        <div class="search">
+	<form action="/2019/index.php" method="post" class="form-inline form-search">
+		<label for="mod-search-searchword131" class="element-invisible">search ...</label> <input name="searchword" id="mod-search-searchword" aria-label="search" maxlength="200"  class="form-control search-query" type="search" placeholder="local search" /> <button class="button btn btn-primary" onclick="this.form.searchword.focus();">search</button>		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="itemid" value="101" />
+	</form>
+</div>
+
+                    </div>
+			    			                        <div class="wrapper-position-0 clearfix">
+                        
+                    </div>
+			                </div>
+
+        </div>
+    </div>
+	
+<!-- main navigation -->
+<nav id="t3-mainnav" class="wrap navbar navbar-default t3-mainnav">
+	<div class="container">
+
+		<!-- brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header pull-right">
+
+											<!--<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".t3-navbar-collapse">
+					<i class="fa fa-bars"></i>
+				</button>-->
+			
+							
+<button class="btn btn-primary off-canvas-toggle " type="button" data-pos="left" data-nav="#t3-off-canvas" data-effect="off-canvas-effect-12">
+  <i class="fa fa-bars"></i>
+</button>
+
+<!-- off-canvas sidebar -->
+<div id="t3-off-canvas" class="t3-off-canvas ">
+
+  <div class="t3-off-canvas-header">
+    <h2 class="t3-off-canvas-header-title">sidebar</h2>
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+  </div>
+
+  <div class="t3-off-canvas-body">
+    <ul class="nav nav-tabs" id="tab92"><li><a data-toggle="tab" href="#module-92" >main menu</a></li></ul><div class="tab-content"><div class="tab-pane  fade in" id="module-92"><ul class="nav nav-pills nav-stacked menu">
+<li class="item-101 default current active"><a href="/2019/index.php" class=""> </a></li><li class="item-177 deeper dropdown parent"><a href="/2019/index.php/ku-resources" class=" dropdown-toggle" data-toggle="dropdown">ku resources<em class="caret"></em></a><ul class="dropdown-menu"><li class="item-178"><a href="https://lib.ku.ac.th/2019/index.php" class="">ku library catalog </a></li><li class="item-180"><a href="https://lib.ku.ac.th/2019/#ku-search-other-thai-libraries" class="">ku+ : search other thai libraries </a></li><li class="item-179"><a href="https://lib.ku.ac.th/2019/#one-search" class="">one search </a></li><li class="item-181"><a href="https://lib.ku.ac.th/2019/#eco-library" class="">eco library </a></li><li class="item-309"><a href="https://portal.lib.ku.ac.th/login?url=https://www.lib.ku.ac.th/ebook_collection/reptrpt.php" class="" target="_blank" rel="noopener noreferrer">ku ebook collection </a></li><li class="item-321"><a href="https://kukr.lib.ku.ac.th/db/kukr/" class="" target="_blank" rel="noopener noreferrer">ku knowledge repository </a></li><li class="item-322"><a href="http://agkb.lib.ku.ac.th/main" class="" target="_blank" rel="noopener noreferrer">agricultural knowledge base </a></li><li class="item-326"><a href="https://archives.lib.ku.ac.th" class="" target="_blank" rel="noopener noreferrer">ku archives database </a></li></ul></li><li class="item-183 deeper dropdown parent"><a href="https://www.lib.ku.ac.th/2019/index.php?option=com_content&amp;view=article&amp;id=274" class=" dropdown-toggle" data-toggle="dropdown">databases <em class="caret"></em></a><ul class="dropdown-menu"><li class="item-248"><a href="https://portal.lib.ku.ac.th" class="">all databases </a></li><li class="item-202"><a href="https://www.lib.ku.ac.th/2019/index.php?option=com_content&amp;view=article&amp;id=288" class="">e-book </a></li><li class="item-205"><a href="https://www.lib.ku.ac.th/2019/index.php?option=com_content&amp;view=article&amp;id=289" class="">e-journal </a></li><li class="item-203"><a href="https://www.lib.ku.ac.th/2019/index.php?option=com_content&amp;view=article&amp;id=290" class="">e-thesis </a></li><li class="item-259"><a href="https://www.lib.ku.ac.th/2019/index.php?option=com_content&amp;view=article&amp;id=205" class="">e-newspaper  </a></li><li class="item-204"><a href="https://www.lib.ku.ac.th/2019/index.php?option=com_content&amp;view=article&amp;id=328" class="">trial database </a></li></ul></li><li class="item-113 current active deeper dropdown parent"><a href="/2019/index.php" class=" dropdown-toggle" data-toggle="dropdown">research support <em class="caret"></em></a><ul class="dropdown-menu"><li class="item-171"><a href="/2019/index.php/research-support/turnitin" class="">turnitin</a></li><li class="item-250"><a href="/2019/index.php/research-support/endnote" class="">endnote</a></li><li class="item-252"><a href="/2019/index.php/research-support/mendeley" class="">mendeley</a></li><li class="item-254"><a href="/2019/index.php/research-support/service-delivery-research" class="">service delivery</a></li><li class="item-255"><a href="/2019/index.php/research-support/inter-library-loan" class="">interlibrary loan</a></li><li class="item-256"><a href="/2019/index.php/research-support/publishing" class="">publishing</a></li><li class="item-288"><a href="http://eoffice.lib.ku.ac.th/training/" class="" target="_blank" rel="noopener noreferrer">information literacy program  </a></li><li class="item-307"><a href="/2019/index.php/research-support/full-text-finder" class="">full-text finder</a></li><li class="item-308"><a href="/2019/index.php/research-support/ebsco-discovery-service" class="">ebsco discovery service</a></li><li class="item-324"><a href="/2019/index.php/research-support/user-guide" class="">database searching tips</a></li><li class="item-325"><a href="/2019/index.php/research-support/journal-ranking" class="">journal ranking</a></li><li class="item-369"><a href="/2019/index.php/research-support/thailis-union-catalog-search" class="">union catalog of thai academic libraries-uctal</a></li><li class="item-401"><a href="/2019/index.php/research-support/research-buddy" class="">research buddy</a></li><li class="item-379"><a href="/2019/index.php/research-support/open-access" class="">open access</a></li><li class="item-381"><a href="/2019/index.php/research-support/info-deedee" class="">info deedee</a></li><li class="item-188"><a href="/2019/index.php/research-support/ku-reference-database" class="">citation databases</a></li></ul></li><li class="item-201 current active deeper dropdown parent"><a href="/2019/index.php" class=" dropdown-toggle" data-toggle="dropdown">services <em class="caret"></em></a><ul class="dropdown-menu"><li class="item-235"><a href="/2019/index.php/services/book-reservation" class="">book reservation</a></li><li class="item-236"><a href="/2019/index.php/services/service-delivery" class="">service delivery</a></li><li class="item-182"><a href="https://www.lib.ku.ac.th/brequest/login.php" class="" target="_blank" rel="noopener noreferrer">information resource suggestion system  </a></li><li class="item-371"><a href="/2019/index.php/services/power-strip-for-loan" class="">power strip for loan</a></li><li class="item-375"><a href="https://www.lib.ku.ac.th/rrasp/" class="" target="_blank" rel="noopener noreferrer">resource recommendations </a></li><li class="item-378"><a href="/2019/index.php/services/board-game" class="">board game</a></li><li class="item-261 dropdown-submenu parent"><a href="/2019/index.php/services/printed-material" class="">printed material </a><ul class="dropdown-menu"><li class="item-262"><a href="/2019/index.php/services/printed-material/printed-material-borrowing-rule" class="">printed material borrowing rule</a></li><li class="item-263"><a href="/2019/index.php/services/printed-material/how-to-borrow" class="">how to borrow</a></li></ul></li><li class="item-237"><a href="/2019/index.php/services/reserved-book-service" class="">reserved book service</a></li><li class="item-114"><a href="/2019/index.php/services/answer-questions-and-help-research" class="">reference service</a></li><li class="item-257"><a href="/2019/./images/books/newbooks2021.xlsx" class="" target="_blank" rel="noopener noreferrer">new arrival books </a></li><li class="item-315"><a href="/2019/index.php/services/library-visit" class="">library visit</a></li><li class="item-260"><a href="/2019/index.php/services/audio-visual" class="">audio visual</a></li><li class="item-234"><a href="/2019/index.php/services/interlibrary-loan" class="">interlibrary loan</a></li><li class="item-396"><a href="/2019/index.php/services/service-introduction" class="">service introduction</a></li><li class="item-397"><a href="/2019/index.php/services/online-guide" class="">online guide</a></li><li class="item-400"><a href="/2019/index.php/services/scan-and-send" class="">scan and send</a></li></ul></li><li class="item-380 deeper dropdown parent"><span class="nav-header ">user guide</span>
+<ul class="dropdown-menu"><li class="item-349 divider dropdown-submenu parent"><span class="separator ">library rule</span>
+<ul class="dropdown-menu"><li class="item-350"><a href="https://lib.ku.ac.th/20130607-library-rule.pdf" class="" target="_blank" rel="noopener noreferrer">library usage </a></li><li class="item-351"><a href="/2019/index.php/library-rule-library/library-rule/membership" class="">membership</a></li><li class="item-352"><a href="/2019/index.php/library-rule-library/library-rule/library-service-fee" class="">library service fee</a></li><li class="item-353"><a href="/2019/index.php/library-rule-library/library-rule/the-fees-in-case-a-book-is-lost-during-the-borrowing" class="">the fees in case a book is lost during the borrowing</a></li><li class="item-354"><a href="/2019/index.php/library-rule-library/library-rule/group-individual-studying-room-usage-rule" class="">group / individual studying room usage rule</a></li><li class="item-355"><a href="/2019/index.php/library-rule-library/library-rule/printed-material-borrowing-rule" class="">printed material borrowing rule</a></li><li class="item-356"><a href="/2019/index.php/library-rule-library/library-rule/audio-visual-material-loan-rules" class="">audio -visual material loan rules</a></li><li class="item-357"><a href="https://lib.ku.ac.th/web/form_download/labtop.pdf" class="">laptop / tablot load service rules </a></li><li class="item-358"><a href="/2019/index.php/library-rule-library/library-rule/research-square-usage-rules" class="">research square usage rules</a></li></ul></li><li class="item-382 dropdown-submenu parent"><span class="nav-header ">how to borrow</span>
+<ul class="dropdown-menu"><li class="item-389"><a href="/2019/index.php/library-rule-library/library-rule-library/check-in-check-out" class="">check in at counter</a></li><li class="item-391"><a href="/2019/index.php/library-rule-library/library-rule-library/2021-04-29-07-29-25" class="">check out at counter</a></li><li class="item-392"><a href="/2019/index.php/library-rule-library/library-rule-library/2021-04-29-07-30-40" class="">reading history &amp; library account</a></li><li class="item-393"><a href="/2019/index.php/library-rule-library/library-rule-library/2021-04-29-07-31-28" class="">renew</a></li></ul></li><li class="item-383"><a href="/2019/index.php/library-rule-library/book-reservation" class="">book reservation</a></li><li class="item-384"><a href="/2019/index.php/library-rule-library/service-delivery" class="">service delivery</a></li><li class="item-386"><a href="/2019/index.php/library-rule-library/board-game" class="">board game</a></li><li class="item-387"><a href="/2019/index.php/library-rule-library/audio-visual" class="">audio visual</a></li><li class="item-395"><a href="/2019/index.php/library-rule-library/debt-free-certificate" class="">debt-free certificate</a></li></ul></li><li class="item-119 deeper dropdown parent"><a href="/2019/index.php/facilities" class=" dropdown-toggle" data-toggle="dropdown">facilities<em class="caret"></em></a><ul class="dropdown-menu"><li class="item-268"><a href="/2019/index.php/facilities/research-square" class="">research square</a></li><li class="item-267"><a href="/2019/index.php/facilities/library-garden" class="">library garden</a></li><li class="item-199"><a href="http://kulc.lib.ku.ac.th/ecolibrary/" class="" target="_blank" rel="noopener noreferrer">eco library </a></li><li class="item-120"><a href="/2019/index.php/facilities/facilities-booking" class="">facilities booking</a></li><li class="item-121"><a href="/2019/index.php/facilities/internet-and-printing" class="">internet and printing</a></li><li class="item-122"><a href="/2019/index.php/facilities/laptop-and-tablet-loan-service" class="">laptop and tablet loan service</a></li><li class="item-198"><a href="/2019/index.php/facilities/theatre-room" class="">theater room</a></li><li class="item-166"><a href="/2019/index.php/facilities/cable-tv" class="">cable tv</a></li><li class="item-162"><a href="/2019/index.php/facilities/book-drop" class="">book drop</a></li><li class="item-167"><a href="/2019/index.php/facilities/lockers" class="">lockers</a></li><li class="item-168"><a href="/2019/index.php/facilities/photocopy-store" class="">photocopy store </a></li><li class="item-240 dropdown-submenu parent"><a href="/2019/index.php/facilities/reading-area" class="">reading area</a><ul class="dropdown-menu"><li class="item-241"><a href="/2019/index.php/facilities/reading-area/group-individual-studying-room" class="">group / individual studying room</a></li><li class="item-242"><a href="/2019/index.php/facilities/reading-area/kids-reading-space" class="">kids reading space</a></li><li class="item-243"><a href="/2019/index.php/facilities/reading-area/ku-alumni-space" class="">ku alumni space</a></li><li class="item-244"><a href="/2019/index.php/facilities/reading-area/newspaper-and-magazine-corner" class="">newspaper and magazine corner</a></li></ul></li></ul></li><li class="item-316 deeper dropdown parent"><a href="/2019/index.php/agricultural-information" class=" dropdown-toggle" data-toggle="dropdown">agricultural information<em class="caret"></em></a><ul class="dropdown-menu"><li class="item-317"><a href="https://www.lib.ku.ac.th/2019/index.php/agricultural-information" class="">agricultural info centre </a></li><li class="item-318"><a href="http://agkb.lib.ku.ac.th/main" class="" target="_blank" rel="noopener noreferrer">agricultural knowledge base </a></li><li class="item-319"><a href="http://thaifarmer.lib.ku.ac.th/" class="" target="_blank" rel="noopener noreferrer">thai farmer's library </a></li><li class="item-320"><a href="http://158.108.80.27/agkc/detail2" class="" target="_blank" rel="noopener noreferrer">thai agricultural databases </a></li><li class="item-323"><a href="http://ag-ebook.lib.ku.ac.th/ " class="" target="_blank" rel="noopener noreferrer">ag ebook  </a></li></ul></li><li class="item-327 deeper dropdown parent"><span class="nav-header ">about us</span>
+<ul class="dropdown-menu"><li class="item-329 dropdown-submenu parent"><span class="nav-header ">ku library staff</span>
+<ul class="dropdown-menu"><li class="item-330"><a href="/2019/index.php/about-us-menu/ku-library-staff/admin" class="">administrator</a></li><li class="item-331"><a href="/2019/index.php/about-us-menu/ku-library-staff/office-of-secretary" class="">office of secretary</a></li><li class="item-332"><a href="/2019/index.php/about-us-menu/ku-library-staff/information-resources-management-division" class="">information resources management division</a></li><li class="item-333"><a href="/2019/index.php/about-us-menu/ku-library-staff/information-technology-division" class="">information technology division</a></li><li class="item-334"><a href="/2019/index.php/about-us-menu/ku-library-staff/educational-technology-division" class="">educational technology division</a></li><li class="item-335"><a href="/2019/index.php/about-us-menu/ku-library-staff/information-division" class="">information division</a></li><li class="item-336"><a href="/2019/index.php/about-us-menu/ku-library-staff/library-services-division" class="">library services division</a></li><li class="item-337"><a href="/2019/index.php/about-us-menu/ku-library-staff/kasetsart-university-archives" class="">kasetsart university archives</a></li></ul></li><li class="item-338 dropdown-submenu parent"><span class="nav-header ">library</span>
+<ul class="dropdown-menu"><li class="item-339"><a href="/2019/index.php/about-us-menu/library/history" class="">history</a></li><li class="item-340"><a href="/2019/index.php/about-us-menu/library/organizational-structure" class="">organizational structure</a></li><li class="item-341"><a href="/2019/index.php/about-us-menu/library/vision-mission" class="">vision &amp; mission</a></li><li class="item-342"><a href="/2019/index.php/about-us-menu/library/the-committee-of-the-university-library" class="">the committee of the university library</a></li><li class="item-343"><a href="/2019/index.php/about-us-menu/library/statistics" class="">statistics</a></li><li class="item-344"><a href="/2019/index.php/about-us-menu/library/annual-report" class="" target="_blank">annual report</a></li><li class="item-345"><a href="https://www.youtube.com/watch?v=jshruxzqqja" class="" target="_blank" rel="noopener noreferrer">library introduction clip </a></li><li class="item-346"><a href="/2019/index.php/about-us-menu/library/ku-library-progress-report-may-2018-may-2019" class="">ku library progress report ( may 2018 - may 2019 )</a></li><li class="item-347"><a href="https://lib.ku.ac.th/cpermine2/" class="" target="_blank" rel="noopener noreferrer">gallery </a></li><li class="item-348"><a href="https://www.lib.ku.ac.th/2019/index.php/library/timeline" class="">timeline </a></li><li class="item-394"><a href="/2019/index.php/about-us-menu/library/covid-19" class="">satisfaction report </a></li></ul></li><li class="item-359 dropdown-submenu parent"><span class="nav-header ">collabaration network</span>
+<ul class="dropdown-menu"><li class="item-360"><a href="/2019/index.php/about-us-menu/collabaration-network/library-network" class="">library network</a></li><li class="item-361"><a href="/2019/index.php/about-us-menu/collabaration-network/agricultal-information-network" class="">agricultal information network</a></li><li class="item-362"><a href="/2019/index.php/about-us-menu/collabaration-network/energy-and-environmental-conservation-network" class="">energy and environmental conservation network</a></li><li class="item-363"><a href="/2019/index.php/about-us-menu/collabaration-network/quality-assurance-network" class="">quality assurance network</a></li><li class="item-364"><a href="/2019/index.php/about-us-menu/collabaration-network/4-campuses-network" class="">4 campuses network</a></li><li class="item-365"><a href="http://intanin.lib.ku.ac.th/screens/loccode.html" class="" target="_blank" rel="noopener noreferrer">location map </a></li></ul></li><li class="item-366"><a href="/2019/index.php/about-us-menu/site-map" class="">site map</a></li><li class="item-377"><a href="/2019/index.php/about-us-menu/43-year-kulc" class="">43 year kulc</a></li></ul></li><li class="item-373 deeper dropdown"><a href="/2019/index.php/covid-19" class=" dropdown-toggle" data-toggle="dropdown">covid-19<em class="caret"></em></a><ul class="dropdown-menu"><li class="item-211"><a href="/2019/index.php/sec-dept" class="">office of secretary </a></li><li class="item-212"><a href="/2019/index.php/mng-dept" class="">library resources management division </a></li><li class="item-213"><a href="/2019/index.php/it-dept" class="">information technology division </a></li><li class="item-215"><a href="/2019/index.php/ser-dept" class="">library services division </a></li><li class="item-216"><a href="/2019/index.php/agris-dept" class="">information division </a></li><li class="item-217"><a href="/2019/index.php/arc-dept" class="">kasetsart university archives </a></li></ul></li></ul>
+</div></div><script type="text/javascript">jquery(document).ready(function(){jquery("#tab92 a:first").tab("show")});</script>
+  </div>
+
+</div>
+<!-- //off-canvas sidebar -->
+
+			
+							<!-- head search -->
+<!--				<div class="head-search --><!--">-->
+<!--					<a id="head-search-trigger" href="#" class="btn btn-search"><i class="fa fa-search"></i></a>-->
+<!--					-->
+<!--				</div>-->
+				<!-- //head search -->
+			
+		</div>
+
+						<div class="t3-navbar-collapse navbar-collapse collapse"></div>
+			
+			<div class="t3-navbar navbar-collapse collapse">
+				<div  class="t3-megamenu animate fading"  data-duration="400" data-responsive="true">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="nav navbar-nav level0">
+<li itemprop='name' class="current active" data-id="101" data-level="1" data-xicon="fa fa-home">
+<a itemprop='url' class="" href="/2019/index.php"   data-target="#">
+                            <span class="fa fa-home"></span> 
+                        </a>
+
+</li>
+<li itemprop='name' class="dropdown mega mega-align-center" data-id="177" data-level="1" data-alignsub="center" data-xicon="fa fa-folder-open">
+<a itemprop='url' class=" dropdown-toggle" href="/2019/index.php/ku-resources"   data-target="#" data-toggle="dropdown">
+                            <span class="fa fa-folder-open"></span>ku resources<em class="caret"></em>
+                        </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level1">
+<li itemprop='name'  data-id="178" data-level="2">
+<a itemprop='url' class=""  href="https://lib.ku.ac.th/2019/index.php"   data-target="#">ku library catalog</a>
+
+</li>
+<li itemprop='name'  data-id="180" data-level="2">
+<a itemprop='url' class=""  href="https://lib.ku.ac.th/2019/#ku-search-other-thai-libraries"   data-target="#">ku+ : search other thai libraries</a>
+
+</li>
+<li itemprop='name'  data-id="179" data-level="2">
+<a itemprop='url' class=""  href="https://lib.ku.ac.th/2019/#one-search"   data-target="#">one search</a>
+
+</li>
+<li itemprop='name'  data-id="181" data-level="2">
+<a itemprop='url' class=""  href="https://lib.ku.ac.th/2019/#eco-library"   data-target="#">eco library</a>
+
+</li>
+<li itemprop='name'  data-id="309" data-level="2">
+<a itemprop='url' class=""  href="https://portal.lib.ku.ac.th/login?url=https://www.lib.ku.ac.th/ebook_collection/reptrpt.php" target="_blank"   data-target="#">ku ebook collection</a>
+
+</li>
+<li itemprop='name'  data-id="321" data-level="2">
+<a itemprop='url' class=""  href="https://kukr.lib.ku.ac.th/db/kukr/" target="_blank"   data-target="#">ku knowledge repository</a>
+
+</li>
+<li itemprop='name'  data-id="322" data-level="2">
+<a itemprop='url' class=""  href="http://agkb.lib.ku.ac.th/main" target="_blank"   data-target="#">agricultural knowledge base</a>
+
+</li>
+<li itemprop='name'  data-id="326" data-level="2">
+<a itemprop='url' class=""  href="https://archives.lib.ku.ac.th" target="_blank"   data-target="#">ku archives database</a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown mega mega-align-center" data-id="183" data-level="1" data-alignsub="center" data-xicon="fa fa-database">
+<a itemprop='url' class=" dropdown-toggle"  href="https://www.lib.ku.ac.th/2019/index.php?option=com_content&amp;view=article&amp;id=274"   data-target="#" data-toggle="dropdown"><span class="fa fa-database"></span>databases<em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level1">
+<li itemprop='name'  data-id="248" data-level="2">
+<a itemprop='url' class=""  href="https://portal.lib.ku.ac.th"   data-target="#">all databases</a>
+
+</li>
+<li itemprop='name'  data-id="202" data-level="2">
+<a itemprop='url' class=""  href="https://www.lib.ku.ac.th/2019/index.php?option=com_content&amp;view=article&amp;id=288"   data-target="#">e-book</a>
+
+</li>
+<li itemprop='name'  data-id="205" data-level="2">
+<a itemprop='url' class=""  href="https://www.lib.ku.ac.th/2019/index.php?option=com_content&amp;view=article&amp;id=289"   data-target="#">e-journal</a>
+
+</li>
+<li itemprop='name'  data-id="203" data-level="2">
+<a itemprop='url' class=""  href="https://www.lib.ku.ac.th/2019/index.php?option=com_content&amp;view=article&amp;id=290"   data-target="#">e-thesis</a>
+
+</li>
+<li itemprop='name'  data-id="259" data-level="2">
+<a itemprop='url' class=""  href="https://www.lib.ku.ac.th/2019/index.php?option=com_content&amp;view=article&amp;id=205"   data-target="#">e-newspaper </a>
+
+</li>
+<li itemprop='name'  data-id="204" data-level="2">
+<a itemprop='url' class=""  href="https://www.lib.ku.ac.th/2019/index.php?option=com_content&amp;view=article&amp;id=328"   data-target="#">trial database</a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="active dropdown mega mega-align-center" data-id="113" data-level="1" data-alignsub="center" data-xicon="fa fa-book">
+<a itemprop='url' class=" dropdown-toggle"  href="/2019/index.php"   data-target="#" data-toggle="dropdown"><span class="fa fa-book"></span>research support<em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav hidden-collapse" data-width="12" data-hidewcol="1"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level1">
+<li itemprop='name'  data-id="171" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/research-support/turnitin"   data-target="#">
+                            turnitin
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="250" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/research-support/endnote"   data-target="#">
+                            endnote
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="252" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/research-support/mendeley"   data-target="#">
+                            mendeley
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="254" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/research-support/service-delivery-research"   data-target="#">
+                            service delivery
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="255" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/research-support/inter-library-loan"   data-target="#">
+                            interlibrary loan
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="256" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/research-support/publishing"   data-target="#">
+                            publishing
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="288" data-level="2">
+<a itemprop='url' class=""  href="http://eoffice.lib.ku.ac.th/training/" target="_blank"   data-target="#">information literacy program </a>
+
+</li>
+<li itemprop='name'  data-id="307" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/research-support/full-text-finder"   data-target="#">
+                            full-text finder
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="308" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/research-support/ebsco-discovery-service"   data-target="#">
+                            ebsco discovery service
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="324" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/research-support/user-guide"   data-target="#">
+                            database searching tips
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="325" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/research-support/journal-ranking"   data-target="#">
+                            journal ranking
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="369" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/research-support/thailis-union-catalog-search"   data-target="#">
+                            union catalog of thai academic libraries-uctal
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="401" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/research-support/research-buddy"   data-target="#">
+                            research buddy
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="379" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/research-support/open-access"   data-target="#">
+                            open access
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="381" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/research-support/info-deedee"   data-target="#">
+                            info deedee
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="188" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/research-support/ku-reference-database"   data-target="#">
+                            citation databases
+                        </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="active dropdown mega mega-align-center" data-id="201" data-level="1" data-alignsub="center">
+<a itemprop='url' class=" dropdown-toggle"  href="/2019/index.php"   data-target="#" data-toggle="dropdown">services<em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 600px"  data-width="600"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-4 mega-col-nav" data-width="4"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level1">
+<li itemprop='name'  data-id="235" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/services/book-reservation"   data-target="#">
+                            book reservation
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="236" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/services/service-delivery"   data-target="#">
+                            service delivery
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="182" data-level="2">
+<a itemprop='url' class=""  href="https://www.lib.ku.ac.th/brequest/login.php" target="_blank"   data-target="#">information resource suggestion system </a>
+
+</li>
+<li itemprop='name'  data-id="371" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/services/power-strip-for-loan"   data-target="#">
+                            power strip for loan
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="375" data-level="2">
+<a itemprop='url' class=""  href="https://www.lib.ku.ac.th/rrasp/" target="_blank"   data-target="#">resource recommendations</a>
+
+</li>
+<li itemprop='name'  data-id="378" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/services/board-game"   data-target="#">
+                            board game
+                        </a>
+
+</li>
+</ul>
+</div></div>
+<div class="col-xs-4 mega-col-nav" data-width="4"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level1">
+<li itemprop='name' class="mega mega-group" data-id="261" data-level="2" data-group="1">
+<a itemprop='url' class=" dropdown-header mega-group-title" href="/2019/index.php/services/printed-material"   data-target="#">
+                            printed material 
+                        </a>
+
+<div class="nav-child mega-group-ct"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level2">
+<li itemprop='name'  data-id="262" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/services/printed-material/printed-material-borrowing-rule"   data-target="#">
+                            printed material borrowing rule
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="263" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/services/printed-material/how-to-borrow"   data-target="#">
+                            how to borrow
+                        </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div></div>
+<div class="col-xs-4 mega-col-nav" data-width="4"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level1">
+<li itemprop='name'  data-id="237" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/services/reserved-book-service"   data-target="#">
+                            reserved book service
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="114" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/services/answer-questions-and-help-research"   data-target="#">
+                            reference service
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="257" data-level="2">
+<a itemprop='url' class=""  href="/2019/./images/books/newbooks2021.xlsx" target="_blank"   data-target="#">new arrival books</a>
+
+</li>
+<li itemprop='name'  data-id="315" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/services/library-visit"   data-target="#">
+                            library visit
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="260" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/services/audio-visual"   data-target="#">
+                            audio visual
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="234" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/services/interlibrary-loan"   data-target="#">
+                            interlibrary loan
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="396" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/services/service-introduction"   data-target="#">
+                            service introduction
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="397" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/services/online-guide"   data-target="#">
+                            online guide
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="400" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/services/scan-and-send"   data-target="#">
+                            scan and send
+                        </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown mega" data-id="380" data-level="1">
+<span class=" dropdown-toggle separator"   data-target="#" data-toggle="dropdown"> user guide<em class="caret"></em></span>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level1">
+<li itemprop='name' class="dropdown-submenu mega" data-id="349" data-level="2">
+<span class=" separator"   data-target="#"> library rule</span>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 350px"  data-width="350"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level2">
+<li itemprop='name'  data-id="350" data-level="3">
+<a itemprop='url' class=""  href="https://lib.ku.ac.th/20130607-library-rule.pdf" target="_blank"   data-target="#">library usage</a>
+
+</li>
+<li itemprop='name'  data-id="351" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/library-rule/membership"   data-target="#">
+                            membership
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="352" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/library-rule/library-service-fee"   data-target="#">
+                            library service fee
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="353" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/library-rule/the-fees-in-case-a-book-is-lost-during-the-borrowing"   data-target="#">
+                            the fees in case a book is lost during the borrowing
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="354" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/library-rule/group-individual-studying-room-usage-rule"   data-target="#">
+                            group / individual studying room usage rule
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="355" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/library-rule/printed-material-borrowing-rule"   data-target="#">
+                            printed material borrowing rule
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="356" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/library-rule/audio-visual-material-loan-rules"   data-target="#">
+                            audio -visual material loan rules
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="357" data-level="3">
+<a itemprop='url' class=""  href="https://lib.ku.ac.th/web/form_download/labtop.pdf"   data-target="#">laptop / tablot load service rules</a>
+
+</li>
+<li itemprop='name'  data-id="358" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/library-rule/research-square-usage-rules"   data-target="#">
+                            research square usage rules
+                        </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="382" data-level="2">
+<span class=" separator"   data-target="#"> how to borrow</span>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level2">
+<li itemprop='name'  data-id="389" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/library-rule-library/check-in-check-out"   data-target="#">
+                            check in at counter
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="391" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/library-rule-library/2021-04-29-07-29-25"   data-target="#">
+                            check out at counter
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="392" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/library-rule-library/2021-04-29-07-30-40"   data-target="#">
+                            reading history &amp; library account
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="393" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/library-rule-library/2021-04-29-07-31-28"   data-target="#">
+                            renew
+                        </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="383" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/book-reservation"   data-target="#">
+                            book reservation
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="384" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/service-delivery"   data-target="#">
+                            service delivery
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="386" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/board-game"   data-target="#">
+                            board game
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="387" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/audio-visual"   data-target="#">
+                            audio visual
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="395" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/library-rule-library/debt-free-certificate"   data-target="#">
+                            debt-free certificate
+                        </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown mega mega-align-center" data-id="119" data-level="1" data-alignsub="center" data-xicon="fa fa-folder-open">
+<a itemprop='url' class=" dropdown-toggle" href="/2019/index.php/facilities"   data-target="#" data-toggle="dropdown">
+                            <span class="fa fa-folder-open"></span>facilities<em class="caret"></em>
+                        </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 600px"  data-width="600"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level1">
+<li itemprop='name'  data-id="268" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/facilities/research-square"   data-target="#">
+                            research square
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="267" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/facilities/library-garden"   data-target="#">
+                            library garden
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="199" data-level="2">
+<a itemprop='url' class=""  href="http://kulc.lib.ku.ac.th/ecolibrary/" target="_blank"   data-target="#">eco library</a>
+
+</li>
+<li itemprop='name'  data-id="120" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/facilities/facilities-booking"   data-target="#">
+                            facilities booking
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="121" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/facilities/internet-and-printing"   data-target="#">
+                            internet and printing
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="122" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/facilities/laptop-and-tablet-loan-service"   data-target="#">
+                            laptop and tablet loan service
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="198" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/facilities/theatre-room"   data-target="#">
+                            theater room
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="166" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/facilities/cable-tv"   data-target="#">
+                            cable tv
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="162" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/facilities/book-drop"   data-target="#">
+                            book drop
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="167" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/facilities/lockers"   data-target="#">
+                            lockers
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="168" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/facilities/photocopy-store"   data-target="#">
+                            photocopy store 
+                        </a>
+
+</li>
+</ul>
+</div></div>
+<div class="col-xs-6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level1">
+<li itemprop='name' class="mega mega-group" data-id="240" data-level="2" data-group="1">
+<a itemprop='url' class=" dropdown-header mega-group-title" href="/2019/index.php/facilities/reading-area"   data-target="#">
+                            reading area
+                        </a>
+
+<div class="nav-child mega-group-ct"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level2">
+<li itemprop='name'  data-id="241" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/facilities/reading-area/group-individual-studying-room"   data-target="#">
+                            group / individual studying room
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="242" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/facilities/reading-area/kids-reading-space"   data-target="#">
+                            kids reading space
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="243" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/facilities/reading-area/ku-alumni-space"   data-target="#">
+                            ku alumni space
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="244" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/facilities/reading-area/newspaper-and-magazine-corner"   data-target="#">
+                            newspaper and magazine corner
+                        </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown mega" data-id="316" data-level="1">
+<a itemprop='url' class=" dropdown-toggle" href="/2019/index.php/agricultural-information"   data-target="#" data-toggle="dropdown">
+                            agricultural information<em class="caret"></em>
+                        </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level1">
+<li itemprop='name'  data-id="317" data-level="2">
+<a itemprop='url' class=""  href="https://www.lib.ku.ac.th/2019/index.php/agricultural-information"   data-target="#">agricultural info centre</a>
+
+</li>
+<li itemprop='name'  data-id="318" data-level="2">
+<a itemprop='url' class=""  href="http://agkb.lib.ku.ac.th/main" target="_blank"   data-target="#">agricultural knowledge base</a>
+
+</li>
+<li itemprop='name'  data-id="319" data-level="2">
+<a itemprop='url' class=""  href="http://thaifarmer.lib.ku.ac.th/" target="_blank"   data-target="#">thai farmer's library</a>
+
+</li>
+<li itemprop='name'  data-id="320" data-level="2">
+<a itemprop='url' class=""  href="http://158.108.80.27/agkc/detail2" target="_blank"   data-target="#">thai agricultural databases</a>
+
+</li>
+<li itemprop='name'  data-id="323" data-level="2">
+<a itemprop='url' class=""  href="http://ag-ebook.lib.ku.ac.th/ " target="_blank"   data-target="#">ag ebook </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown mega" data-id="327" data-level="1">
+<span class=" dropdown-toggle separator"   data-target="#" data-toggle="dropdown"> about us<em class="caret"></em></span>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level1">
+<li itemprop='name' class="dropdown-submenu mega" data-id="329" data-level="2">
+<span class=" separator"   data-target="#"> ku library staff</span>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 350px"  data-width="350"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level2">
+<li itemprop='name'  data-id="330" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/ku-library-staff/admin"   data-target="#">
+                            administrator
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="331" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/ku-library-staff/office-of-secretary"   data-target="#">
+                            office of secretary
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="332" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/ku-library-staff/information-resources-management-division"   data-target="#">
+                            information resources management division
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="333" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/ku-library-staff/information-technology-division"   data-target="#">
+                            information technology division
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="334" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/ku-library-staff/educational-technology-division"   data-target="#">
+                            educational technology division
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="335" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/ku-library-staff/information-division"   data-target="#">
+                            information division
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="336" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/ku-library-staff/library-services-division"   data-target="#">
+                            library services division
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="337" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/ku-library-staff/kasetsart-university-archives"   data-target="#">
+                            kasetsart university archives
+                        </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="338" data-level="2">
+<span class=" separator"   data-target="#"> library</span>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 350px"  data-width="350"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level2">
+<li itemprop='name'  data-id="339" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/library/history"   data-target="#">
+                            history
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="340" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/library/organizational-structure"   data-target="#">
+                            organizational structure
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="341" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/library/vision-mission"   data-target="#">
+                            vision &amp; mission
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="342" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/library/the-committee-of-the-university-library"   data-target="#">
+                            the committee of the university library
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="343" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/library/statistics"   data-target="#">
+                            statistics
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="344" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/library/annual-report" target="_blank"   data-target="#">
+                            annual report
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="345" data-level="3">
+<a itemprop='url' class=""  href="https://www.youtube.com/watch?v=jshruxzqqja" target="_blank"   data-target="#">library introduction clip</a>
+
+</li>
+<li itemprop='name'  data-id="346" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/library/ku-library-progress-report-may-2018-may-2019"   data-target="#">
+                            ku library progress report ( may 2018 - may 2019 )
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="347" data-level="3">
+<a itemprop='url' class=""  href="https://lib.ku.ac.th/cpermine2/" target="_blank"   data-target="#">gallery</a>
+
+</li>
+<li itemprop='name'  data-id="348" data-level="3">
+<a itemprop='url' class=""  href="https://www.lib.ku.ac.th/2019/index.php/library/timeline"   data-target="#">timeline</a>
+
+</li>
+<li itemprop='name'  data-id="394" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/library/covid-19"   data-target="#">
+                            satisfaction report 
+                        </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="359" data-level="2">
+<span class=" separator"   data-target="#"> collabaration network</span>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 350px"  data-width="350"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/sitenavigationelement" class="mega-nav level2">
+<li itemprop='name'  data-id="360" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/collabaration-network/library-network"   data-target="#">
+                            library network
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="361" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/collabaration-network/agricultal-information-network"   data-target="#">
+                            agricultal information network
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="362" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/collabaration-network/energy-and-environmental-conservation-network"   data-target="#">
+                            energy and environmental conservation network
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="363" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/collabaration-network/quality-assurance-network"   data-target="#">
+                            quality assurance network
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="364" data-level="3">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/collabaration-network/4-campuses-network"   data-target="#">
+                            4 campuses network
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="365" data-level="3">
+<a itemprop='url' class=""  href="http://intanin.lib.ku.ac.th/screens/loccode.html" target="_blank"   data-target="#">location map</a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="366" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/site-map"   data-target="#">
+                            site map
+                        </a>
+
+</li>
+<li itemprop='name'  data-id="377" data-level="2">
+<a itemprop='url' class="" href="/2019/index.php/about-us-menu/43-year-kulc"   data-target="#">
+                            43 year kulc
+                        </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="373" data-level="1">
+<a itemprop='url' class="" href="/2019/index.php/covid-19"   data-target="#">
+                            covid-19
+                        </a>
+
+</li>
+</ul>
+</div>
+
+			</div>
+	</div>
+
+</nav>
+<!-- //main navigation -->
+
+</header>
+<!-- //header -->
+
+
+
+		
+		
+		
+		
+	<!-- spotlight 1 -->
+	<div class="container t3-sl t3-sl-1">
+			<!-- spotlight -->
+	<div class="t3-spotlight t3-spotlight-1  row">
+					<div class=" col-lg-10 col-md-10 col-sm-12 col-xs-12">
+								<div class="t3-module module- " id="mod152"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	
+
+<!-- start: tabs -->
+<div class="rl_tabs nn_tabs outline_handles outline_content top align_center" role="presentation">
+<!--googleoff: index-->
+<a id="rl_tabs-scrollto_1" class="anchor rl_tabs-scroll nn_tabs-scroll"></a>
+<ul class="nav nav-tabs" id="set-rl_tabs-1" role="tablist">
+<li class="rl_tabs-tab nn_tabs-tab nav-item active" role="heading"><a href="#ku-library-catalog" class="rl_tabs-toggle nn_tabs-toggle nav-link" id="tab-ku-library-catalog" data-toggle="tab" data-id="ku-library-catalog" role="tab" aria-controls="ku-library-catalog" aria-selected="true"><span class="rl_tabs-toggle-inner nn_tabs-toggle-inner">ku library catalog</span></a></li>
+<li class="rl_tabs-tab nn_tabs-tab nav-item" role="heading"><a href="#one-search" class="rl_tabs-toggle nn_tabs-toggle nav-link" id="tab-one-search" data-toggle="tab" data-id="one-search" role="tab" aria-controls="one-search" aria-selected="false"><span class="rl_tabs-toggle-inner nn_tabs-toggle-inner">one search</span></a></li>
+<li class="rl_tabs-tab nn_tabs-tab nav-item" role="heading"><a href="#ku-search-other-thai-libraries" class="rl_tabs-toggle nn_tabs-toggle nav-link" id="tab-ku-search-other-thai-libraries" data-toggle="tab" data-id="ku-search-other-thai-libraries" role="tab" aria-controls="ku-search-other-thai-libraries" aria-selected="false"><span class="rl_tabs-toggle-inner nn_tabs-toggle-inner">ku+ : search other thai libraries</span></a></li>
+<li class="rl_tabs-tab nn_tabs-tab nav-item" role="heading"><a href="#eco-library" class="rl_tabs-toggle nn_tabs-toggle nav-link" id="tab-eco-library" data-toggle="tab" data-id="eco-library" role="tab" aria-controls="eco-library" aria-selected="false"><span class="rl_tabs-toggle-inner nn_tabs-toggle-inner">eco-library</span></a></li>
+</ul>
+<!--googleon: index-->
+<div class="tab-content">
+<div class="tab-pane rl_tabs-pane nn_tabs-pane active" id="ku-library-catalog" role="tabpanel" aria-labelledby="tab-ku-library-catalog" aria-hidden="false">
+<h2 class="rl_tabs-title nn_tabs-title"><a id="anchor-ku-library-catalog" class="anchor"></a>ku library catalog</h2>
+<!-- <center>ค้นหาทรัพยากรห้องสมุดปัจจุบันทั้งหมด ของมหาวิทยาลัยเกษตรศาสตร์ได้ที่นี้</center><br> -->
+<center>search for books, journals, articles, media, and more</center><br>
+<form class="unpadded" action="http://158.108.80.5/search*thx" method="post" name="searchtool" target="_blank">
+<table style="background-image: url('/2019/images/bg.png'); width: 100%; background-color: #ffffff; border-width: 0px; border-style: solid;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="1"></td>
+<td><center><select id="searchtype" name="searchtype">
+<option value="a">author</option>
+<option value="t">title</option>
+<option value="d">subject</option>
+<option value="x">keyword</option>
+<option value="i">isbn/issn</option>
+<option value="c">lc call number</option>
+<option value="f">dewey call number</option>
+<option value="h">local call number</option>
+</select><br /> <input name="sort" type="hidden" value="d" /> <input style="font-size: 12pt; padding-left: 5px; margin-left: 0px;" maxlength="255" name="searcharg" size="25" type="text" /> <br /> <input style="font-size: 12pt; padding-left: 5px;" name="search" type="submit" value="search" />
+
+ <!--<input name="advance2" id="advance" onclick="window.open('https://intanin.lib.ku.ac.th/search/x')" value="advance search"  type="button" />-->
+
+<input name="advance2" id="advance" onclick="window.open('http://158.108.80.5/search/x')" value="advance search"  type="button" />
+</center></td>
+</tr>
+<tr>
+<td>     </td>
+<td>
+<!--<ol>
+<li><a href="https://intanin.lib.ku.ac.th/patroninfo*thx/" target="_blank">view your library record / renew</a></li>
+<li><a href="https://intanin.lib.ku.ac.th/search*thx/p" target="_blank">course reserves by course instructor</a></li>
+<li><a href="https://www.lib.ku.ac.th/brequest/login.php" target="_blank">new resource suggestion</a></li>
+<li><a href="https://intanin.lib.ku.ac.th/search*thx/r" target="_blank">course reserves by course name</a></li>
+<li><a href="http://tdc.thailis.or.th/tdc/basic.php" target="_blank">thailis digital collection</a></li>
+<li><a href="http://uc.thailis.or.th/main/index.aspx" target="_blank">thailis union catalog search</a></li>
+</ol> -->
+</td>
+</tr>
+</tbody>
+</table>
+</form>
+
+<center>
+
+
+
+</div>
+<div class="tab-pane rl_tabs-pane nn_tabs-pane" id="one-search" role="tabpanel" aria-labelledby="tab-one-search" aria-hidden="true">
+<h2 class="rl_tabs-title nn_tabs-title"><a id="anchor-one-search" class="anchor"></a>one search</h2><form action="https://search.ebscohost.com/login.aspx" method="get"><center>
+<!-- <center> ค้นหาทรัพยากรทุกประเภทในห้องสมุด มก. รวมห้องสมุดคณะ ห้องสมุดทุกวิทยาเขต และฐานข้อมูลที่ สกอ. บอกรับ </center> -->
+<center>search for all ku library catalog, databases subscribed by ku and ohec, <br>ebooks, ejournals, including all faculty and campus library </center>
+<table style="background-image: url('/2019/images/bg2.png'); width: 100%; background-color: #ffffff; border-width: 0px; border-style: solid;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="400"><center>
+
+<!--<img src="http://imageserver.ebscohost.com/branding/thai/kulib_logo.png" alt="kulogo" width="100" />-->
+<br /> 
+
+<input id="key" checked="checked" name="option" type="radio" value="1" /> keyword <input id="ti" name="option" type="radio" value="2" /> title <input id="au" name="option" type="radio" value="3" /> author <br /><br /> <input id="searchterm" style="font-size: 12pt; padding-left: 5px; margin-left: 0px;" name="bquery" size="25" type="text" /> <br /> <input style="font-size: 12pt; padding-left: 5px;" name="submit" type="submit" value="search" /> <br /> <input name="direct" type="hidden" value="true" /> <input name="scope" type="hidden" value="site" /> <input name="site" type="hidden" value="eds-live" /> <input name="authtype" type="hidden" value="ip,guest" /> <input name="custid" type="hidden" value="s3145386" /> <input name="groupid" type="hidden" value="main" /> <input id="profile" name="profile" type="hidden" value="eds" /></center></td>
+</tr>
+</tbody>
+</table>
+</center></form>
+
+
+
+
+
+
+</div>
+<div class="tab-pane rl_tabs-pane nn_tabs-pane" id="ku-search-other-thai-libraries" role="tabpanel" aria-labelledby="tab-ku-search-other-thai-libraries" aria-hidden="true">
+<h2 class="rl_tabs-title nn_tabs-title"><a id="anchor-ku-search-other-thai-libraries" class="anchor"></a>ku+ : search other thai libraries</h2><form action="https://search.ebscohost.com/login.aspx" method="get">
+<!-- <center> ค้นจุดเดียวได้ทรัพยากรห้องสมุด มก. ทั้งหมด และทรัพยากรห้องสมุดมหาวิทยาลัยในประเทศ ทั้ง 15 สถาบัน โดยสามารถขอใช้บริการยืมระหว่างห้องสมุดผ่านช่องทางนี้ </center><br><br> -->
+<center>easy way to search for all ku library catalog and 15 thailand university libraries, and access to interlibrary loan (ill) service </cenger> <br><br>
+<table style="background-image: url('/2019/images/bg3.png'); width: 100%; background-color: #ffffff; border-width: 0px; border-style: solid;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="400"><center>
+
+<!--<img src="https://imageserver.ebscohost.com/branding/thai/kulib_p_red.png" alt="kupluslogo" width="100" />-->
+
+<br /><b><span style="font-size: large;">ku+ : search other thai libraries</span></b> <br /> <input id="key" checked="checked" name="option" type="radio" value="1" /> keyword <input id="ti" name="option" type="radio" value="2" /> title <input id="au" name="option" type="radio" value="3" /> author <br /><br /> <input id="searchterm" style="font-size: 12pt; padding-left: 5px; margin-left: 0px;" name="bquery" size="25" type="text" /> <br /> <input style="font-size: 12pt; padding-left: 5px;" name="submit" type="submit" value="search" /> <br /> <input name="direct" type="hidden" value="true" /> <input name="scope" type="hidden" value="site" /> <input name="site" type="hidden" value="eds-live" /> <input name="authtype" type="hidden" value="ip,guest" /> <input name="custid" type="hidden" value="s3145386" /> <input name="groupid" type="hidden" value="main" /> <input id="profile" name="profile" type="hidden" value="ill" /></center></td>
+</tr>
+</tbody>
+</table>
+
+</form>
+
+
+</div>
+<div class="tab-pane rl_tabs-pane nn_tabs-pane" id="eco-library" role="tabpanel" aria-labelledby="tab-eco-library" aria-hidden="true">
+<h2 class="rl_tabs-title nn_tabs-title"><a id="anchor-eco-library" class="anchor"></a>eco-library</h2>
+<!-- <center> ค้นหานิยาย พ็อกเก็ตบุ๊ก เรื่องสั้น เรื่องแปล หนังสือหรับเยาวชน และหนังสือด้านพลังงาน และสิ่งแวดล้อม</center> <br><br>-->
+<center>search for the novel, pocketbook, short story, young adult literature, energy and environmental conservation books and more </center> <br><br>
+<table style="background-image: url('/2019/images/bg4.png'); width: 100%; background-color: #ffffff; border: 0px solid ##339900;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top"><center><form id="searchform" class="unpadded" action="https://jindamanee.lib.ku.ac.th/cgi-bin/koha/opac-search.pl" method="get" name="searchform" target="newsearch"><select id="masthead_search" name="idx">
+
+<option value="ti">title</option>
+<option value="au">author</option>
+<option value="su">subject</option>
+<option value="nb">isbn</option>
+<option value="se">collection</option>
+<option value="callnum">call number</option>
+</select><br /> <input id="translcontrol1" title="type search term" name="q" type="text" value="" /><br /> <button id="searchsubmit" type="submit">ค้นหา</button>  
+<input name="advance" id="advance" onclick="window.open('https://jindamanee.lib.ku.ac.th//cgi-bin/koha/opac-search.pl')" value="ค้นหาละเอียด" type="button" />
+</form></center><br /><center><em><span style="color: #008080;">ห้องสมุดรักษ์สิ่งแวดล้อมแห่งแรกของประเทศไทย </span></em></center><center><a href="http://kulc.lib.ku.ac.th/ecolibrary/index.php?option=com_content&amp;view=article&amp;id=91&amp;itemid=194" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline; color: #ff0000;"><strong>collection</strong></span></a><span style="color: #008080;"><span style="color: #ff0000;">  </span></span><em><span style="color: #008080;"><span style="text-decoration: underline;"><strong><span style="color: #ff0000; text-decoration: underline;"><a href="http://jindamanee.lib.ku.ac.th/cgi-bin/koha/opac-user.pl" target="_blank" rel="noopener noreferrer"><span style="color: #ff0000; text-decoration: underline;"> ตรวจสอบข้อมูลการยืม / ยืมต่อ</span></a></span></strong></span><br /></span></em></center></td>
+</tr>
+</tbody>
+</table>
+
+</center>
+
+
+
+
+</div></div></div><!-- end: tabs -->
+</form></div>
+</div></div></div><div class="t3-module module- " id="mod153"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<center><a href="/2019/index.php/services/printed-material/1120-library-services-for-new-normal"><br /><img src="/2019/images/lib_pr/pr64/20210112-bannerlibservice.png" alt="20210112 bannerlibservice" width="325" height="249" /></a>&nbsp;<a href="/2019/index.php/services/online-guide"><img src="/2019/images/banners/20210729-welcome-grads-2564-003.png" alt="20210729 welcome grads 2564 003" width="353" height="167" /></a><!--<a href="https://kulc.lib.ku.ac.th/pr-kulc/" target="_blank" rel="noopener"><img src="/2019/images/banners/bannerorientationku81.png" alt="bannerorientationku81" width="300" height="173" /></a>--> <a href="/2019/index.php/services/online-guide" target="_blank" rel="noopener"><br /><br /></a><br /><a href="/2019/index.php/covid-19/1254-covd-19"><img src="/2019/images/banners/banner_covid2.png" alt="banner covid2" /></a><a href="/2019/index.php/services/printed-material/1383-2021-09-20-11-18-07"><img src="/2019/images/service-general-public/20210915-button_service01.png" alt="20210915 button service01" width="297" height="107" /></a><a href="/2019/index.php/services/printed-material/1383-2021-09-20-11-18-07"></a></center><center><a href="https://login.portal.lib.ku.ac.th/login"><img src="/2019/images/banners/database/quicklinkh-recovered_03.png" alt="" /></a><a href="https://portal.lib.ku.ac.th/login?url=https://www.sciencedirect.com/" target="_blank" rel="noopener"><img src="/2019/images/banners/web-icon-02.png" alt="science direct" /></a><a href="https://portal.lib.ku.ac.th/login?url=https://journals.sagepub.com/" target="_blank" rel="noopener"><img src="/2019/images/banners/web-icon-03.png" alt="sage" /></a><a href="https://portal.lib.ku.ac.th/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&amp;profile=ehost&amp;defaultdb=eoh" target="_blank" rel="noopener"><img src="/2019/images/banners/web-icon-04.png" alt="econlit" /></a><a href="https://portal.lib.ku.ac.th/login?url=https://app.knovel.com/web/" target="_blank" rel="noopener"><img src="/2019/images/banners/web-icon-05.png" alt="knovel" /></a><a href="https://portal.lib.ku.ac.th/login?url=https://www.scitation.org/" target="_blank" rel="noopener"><img src="/2019/images/banners/web-icon-06.png" alt="aip" /></a><a href="https://portal.lib.ku.ac.th/login?url=https://www.scopus.com/search/form.uri?display=basic" target="_blank" rel="noopener"><img src="/2019/images/banners/web-icon-08.png" alt="scopus" /></a><a href="https://portal.lib.ku.ac.th/login?url=https://scifinder-n.cas.org/" target="_blank" rel="noopener"><img src="/2019/images/banners/web-icon-09.png" alt="scifinder" /></a><a href="https://portal.lib.ku.ac.th/login?url=https://onlinelibrary.wiley.com/" target="_blank" rel="noopener"><img src="/2019/images/banners/web-icon-10.png" alt="wiley" /></a><a href="https://login.portal.lib.ku.ac.th/login?url=https://1.next.westlaw.com/search/home.html?rs=iwln1.0&amp;vr=3.0&amp;sp=kasetuni-1000&amp;forcecdn=false&amp;bhskip=1" target="_blank" rel="noopener"><img src="/2019/images/banners/web-icon-11.png" alt="westlaw" /></a><a href="https://portal.lib.ku.ac.th/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&amp;group=main&amp;profile=ehost&amp;defaultdb=bth" target="_blank" rel="noopener"><img src="/2019/images/banners/web-icon-12.png" alt="ฺbusiness source complete" /></a><a href="https://portal.lib.ku.ac.th/login?url=http://asmedigitalcollection.asme.org/" target="_blank" rel="noopener"><img src="/2019/images/banners/web-icon-13.png" alt="asme" /></a><a href="https://portal.lib.ku.ac.th/login?url=https://journals.aps.org/" target="_blank" rel="noopener"><img src="/2019/images/banners/web-icon-14.png" alt="aps" /></a><a href="https://portal.lib.ku.ac.th/login?url=http://tdc.thailis.or.th/tdc/basic.php" target="_blank" rel="noopener"><img src="/2019/images/banners/web-icon-15.png" alt="tdc" /></a><a href="https://www.scival.com/landing"><img src="/2019/images\banners\database\scival.png" alt="" /></a></center><center><a title="เข้าค้นหาข้อมูลและเข้าถึงฐานข้อมูลออนไลน์ต่างๆ ของห้องสมุด" href="https://portal.lib.ku.ac.th" rel="noreferrer"><hr /><img src="/2019/images/banners/quicklinkh_03.png" alt="" height="142" /></a> &nbsp;<a title="ตรวจสอบการยืม-คืน  ยืมหนังสือต่อ ตรวจสอบค่าปรับ ข้อมูลประวัติการยืม-คืน และจองหนังสือแบบออนไลน์" href="/2019/index.php/my-library-account"><img src="/2019/images/banners/quicklinkh_99.png" alt="" height="142" /></a><a title="e-book คัดเลือกพิเศษและ e-book สำหรับแต่ละหลักสูตรการเรียนการสอนของ มก." href="https://portal.lib.ku.ac.th/login?url=https://www.lib.ku.ac.th/ebook_collection/reptrpt.php" target="_blank" rel="noopener"><img src="/2019/images/banners/quicklinkh_15.png" alt="quicklinkh 15" height="142" /></a><a title="คลังความรู้ดิจิทัล มหาวิทยาลัยเกษตรศาสตร์" href="http://kukr2.lib.ku.ac.th/kukr_es/kukr/" target="_blank" rel="noopener"><img src="/2019/images/banners/quicklinkh-kukr.png" alt="quicklinkh kukr" height="142" /></a><a title="ระบบฐานข้อมูลเกียรติภูมิมหาวิทยาลัยเกษตรศาสตร์" href="https://archives.lib.ku.ac.th" target="_blank" rel="noopener"><img src="/2019/images/banners/quicklinkh-archives.png" alt="quicklinkh archives" /></a><a title="ดาวน์โหลดโปรแกรม endnote และการนำเข้าข้อมูลบรรณานุกรม" href="/2019/../endnote/login.php" target="_blank" rel="noreferrer"><img src="/2019/images/banners/quicklinkh_04.png" alt="" height="142" /></a>&nbsp;<a title="โปรแกรมสอนการรู้สารสนเทศ" href="http://eoffice.lib.ku.ac.th/training/" target="_blank" rel="noopener noreferrer"><img src="/2019/images/banners/quicklinkh_05.png" alt="" height="142" /></a> <a title="รับบริการยืมต่างสถาบันในประเทศและต่างประเทศ" href="/2019/index.php/services/interlibrary-loan"><img src="/2019/images/banners/quicklinkh_06.png" alt="" height="142" /></a> <a title="บริการจองใช้ทรัพยากร ภายในห้องสมุด" href="/2019/index.php/facilities/291-facilities-booking"><img src="/2019/images/banners/quicklinkh_07.png" alt="" height="142" /></a> <a title="รายการที่นำเสนอนวัตกรรมและผลงานสร้างสรรของมก." href="/2019/index.php/kulib-talk2"><img src="/2019/images/banners/quicklinkh-talk.png" alt="quicklinkh talk" height="142" /></a> <a title="ตรวจสอบเหรียญรางวัลและกิจกรรมที่ร่วม" href="https://www.lib.ku.ac.th/kulibpoints" target="_blank" rel="noopener"><img src="/2019/images/banners/quicklinkh_199.png" alt="" height="142" /></a> <a href="/2019/index.php/facilities/291-facilities-booking"></a> <!-- <a title="เสนอแนะ บริการต่างๆภายในห้องสมุด" href="https://lib.ku.ac.th/rec/recadd.php" target="_blank" rel="noopener"><img src="/2019/images/banners/quicklinkh_08.png" alt="" height="142" /></a>--> <a title="ภาพกิจกรรม" href="https://www.lib.ku.ac.th/cpermine2/" target="_blank" rel="noopener"><img src="/2019/images/banners/quicklinkh-activuties.png" alt="quicklinkh activuties" height="142" /></a><!--<a title="ฐานข้อมูลสำหรับฝึกภาษาอังกฤษ ฝึกทำแบบทดสอบเช่น toefl, toeic, gmat เป็นต้น" href="/2019/index.php/databases/language-learning"><img src="/2019/images/banners/quicklinkh-recovered_19.png" alt="" /></a>--> <a href="/2019/index.php/services/printed-material/1411-kulib-tutorial"><img src="/2019/images/banners/quicklinkh-recovered_07.png" alt="quicklinkh recovered 07" /></a><a title="บริการตรวจความซ้ำของบทความด้วย turnitin" href="/2019/index.php/research-support/turnitin"><img src="/2019/images/banners/quicklinkh_11_11.png" alt="" height="142" /></a><a href="/2019/index.php/2-uncategorised/925-kulib-tutorial"></a><a href="/2019/index.php/research-support/info-deedee"><img src="/2019/images/banners/infodeedee2021.png" alt="untitled 3" width="207" height="145" /></a> <a href="/2019/index.php/2-uncategorised/925-kulib-tutorial"></a><a href="https://archives.lib.ku.ac.th/hof/"><img src="/2019/images/banners/head-website.jpg" alt="hall of fame" width="290" height="47" /></a><!-- <a href="https://kulc.lib.ku.ac.th/pr-kulc/index.php" target="_blank" rel="noopener"><img src="/2019/ images/service-general-public/20210915-button_service01.png" alt="general service" width="290" height="47" /></a> <!-- <a href="https://kulc.lib.ku.ac.th/pr-kulc/index.php" target="_blank" rel="noopener">
+
+<img src="/2019/images/banners/libraryorientation.png" alt="" /></a>--></center>
+<p>
+<script type="text/javascript">function add_chatinline(){var hccid=39131451;var nt=document.createelement("script");nt.async=true;nt.src="https://mylivechat.com/chatinline.aspx?hccid="+hccid;var ct=document.getelementsbytagname("script")[0];ct.parentnode.insertbefore(nt,ct);}
+add_chatinline();</script>
+</p></div>
+</div></div></div>
+							</div>
+					<div class=" col-lg-2 col-md-2 col-sm-12 col-xs-12">
+								<div class="t3-module module- " id="mod175"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<p><a href="/2019/index.php/2-uncategorised/1432-library-service-hours"><img src="/2019/images\openhour\calendajan22-web-th.jpeg" alt="service close" /> <br /><br /></a><a href="https://www.lib.ku.ac.th/opl/opl_view/opl_viewrpt.php" target="_blank" rel="noopener"><img src="/2019/images/banners/bannerp.png" alt="bannerp" width="216" height="128" /></a><br /><br /></p></div>
+</div></div></div>
+							</div>
+			</div>
+<!-- spotlight -->
+	</div>
+	<!-- //spotlight 1 -->
+
+
+		
+
+<div id="t3-mainbody" class="t3-mainbody">
+	<div class="container">
+		<div class="row">
+
+			<!-- main content -->
+			<div id="t3-content" class="t3-content col-xs-12-">
+								<div class="item-page  clearfix">
+
+
+<!-- article -->
+<article itemscope itemtype="http://schema.org/article">
+	<meta itemprop="inlanguage" content="en-gb" />
+
+
+<!-- aside -->
+<!-- //aside -->
+
+
+
+
+	
+
+	
+
+	
+	
+	<section class="article-content clearfix" itemprop="articlebody">
+			</section>
+
+  <!-- footer -->
+    <!-- //footer -->
+
+	
+	
+	
+</article>
+<!-- //article -->
+
+
+</div>
+
+							</div>
+			<!-- //main content -->
+
+		</div>
+	</div>
+</div>
+
+
+
+		
+		
+
+		
+		
+	<!-- spotlight 2 -->
+	<div class="container t3-sl t3-sl-2">
+			<!-- spotlight -->
+	<div class="t3-spotlight t3-spotlight-2  row">
+					<div class=" col-lg-4 col-md-4 col-sm-12 col-xs-12">
+								<div class="t3-module module- " id="mod163"><div class="module-inner"><h3 class="module-title ">books recommendation</h3><div class="module-ct">		<div id="lnee_163" class="lnee newslist vertical">
+
+					<div class="pretext">
+				<a href="/2019/index.php/books-recommendation">all books</a>			</div>
+		
+													<ul class="latestnews-items">
+											<li class="latestnews-item id-832 catid-30 shadow simple">
+										<div class="news odd head_left">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img alt="ศิลปะการเก็งกำไร" src="/2019/images/thumbnails/lne/thumb_163_832.png" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																							<span>ศิลปะการเก็งกำไร</span>
+																					</h4>
+																	
+								
+																	<div class="newsintro">
+										
+																			</div>
+								
+								
+																											<p class="link linkleft">
+											<a href="/2019/index.php/books-recommendation/832-stock-interest" class="hastooltip" title="ศิลปะการเก็งกำไร">												<span>read more</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-821 catid-30 shadow simple">
+										<div class="news even head_left">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img alt="วรรณกรรมยอดเยี่ยมในสมัยรัชกาลที่ 9 ตามแนวคิดศาสตร์พระราชา" src="/2019/images/thumbnails/lne/thumb_163_821.png" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																							<span>วรรณกรรมยอดเยี่ยมในสมัยรัชกาลที่ 9 ตามแนวคิดศาสตร์พระราชา</span>
+																					</h4>
+																	
+								
+																	<div class="newsintro">
+										
+																			</div>
+								
+								
+																											<p class="link linkleft">
+											<a href="/2019/index.php/books-recommendation/821-literatures-in-king-rama-9-era" class="hastooltip" title="วรรณกรรมยอดเยี่ยมในสมัยรัชกาลที่ 9 ตามแนวคิดศาสตร์พระราชา">												<span>read more</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-885 catid-30 shadow simple">
+										<div class="news odd head_left">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img alt="สารลดแรงตึงผิว" src="/2019/images/thumbnails/lne/thumb_163_885.png" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																							<span>สารลดแรงตึงผิว</span>
+																					</h4>
+																	
+								
+																	<div class="newsintro">
+										
+																			</div>
+								
+								
+																											<p class="link linkleft">
+											<a href="/2019/index.php/books-recommendation/885-surfactant" class="hastooltip" title="สารลดแรงตึงผิว">												<span>read more</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-1175 catid-30 shadow simple">
+										<div class="news even head_left">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img alt="พัฒนาการการบริหารภาครัฐของไทย : จากอดีตสู่อนาคต" src="/2019/images/thumbnails/lne/thumb_163_1175.png" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																							<span>พัฒนาการการบริหารภาครัฐของไทย : จากอดีตสู่อนาคต</span>
+																					</h4>
+																	
+								
+																	<div class="newsintro">
+										
+																			</div>
+								
+								
+																											<p class="link linkleft">
+											<a href="/2019/index.php/books-recommendation/1175-government-development" class="hastooltip" title="พัฒนาการการบริหารภาครัฐของไทย : จากอดีตสู่อนาคต">												<span>read more</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-1065 catid-30 shadow simple">
+										<div class="news odd head_left">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img alt="พระราชพงศาวดารกรุงรัตนโกสินทร์ รัชกาลที่ 4" src="/2019/images/thumbnails/lne/thumb_163_1065.png" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																							<span>พระราชพงศาวดารกรุงรัตนโกสินทร์ รัชกาลที่ 4</span>
+																					</h4>
+																	
+								
+																	<div class="newsintro">
+										
+																			</div>
+								
+								
+																											<p class="link linkleft">
+											<a href="/2019/index.php/books-recommendation/1065-rama-ix-chronical" class="hastooltip" title="พระราชพงศาวดารกรุงรัตนโกสินทร์ รัชกาลที่ 4">												<span>read more</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-1179 catid-30 shadow simple">
+										<div class="news even head_left">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img alt="การวิเคราะห์พื้นที่โครงการ : การรวบรวมและวิเคราะห์ข้อมูลเพื่อการวางผังพื้นที่โครงการ" src="/2019/images/thumbnails/lne/thumb_163_1179.png" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																							<span>การวิเคราะห์พื้นที่โครงการ : การรวบรวมและวิเคราะห์ข้อมูลเพื่อการวางผังพื้นที่โครงการ</span>
+																					</h4>
+																	
+								
+																	<div class="newsintro">
+										
+																			</div>
+								
+								
+																											<p class="link linkleft">
+											<a href="/2019/index.php/books-recommendation/1179-project-analysis" class="hastooltip" title="การวิเคราะห์พื้นที่โครงการ : การรวบรวมและวิเคราะห์ข้อมูลเพื่อการวางผังพื้นที่โครงการ">												<span>read more</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-339 catid-30 shadow simple">
+										<div class="news odd head_left">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img alt="คนแปลกเท่านั้นที่สร้างสรรค์สิ่งใหม่ๆ ได้" src="/2019/images/thumbnails/lne/thumb_163_339.png" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																							<span>คนแปลกเท่านั้นที่สร้างสรรค์สิ่งใหม่ๆ ได้</span>
+																					</h4>
+																	
+								
+																	<div class="newsintro">
+										
+																			</div>
+								
+								
+																											<p class="link linkleft">
+											<a href="/2019/index.php/books-recommendation/339-strange-people" class="hastooltip" title="คนแปลกเท่านั้นที่สร้างสรรค์สิ่งใหม่ๆ ได้">												<span>read more</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-460 catid-30 shadow simple">
+										<div class="news even head_left">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img alt="ลงทุนแมน 11.0 " src="/2019/images/thumbnails/lne/thumb_163_460.png" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																							<span>ลงทุนแมน 11.0 </span>
+																					</h4>
+																	
+								
+																	<div class="newsintro">
+										
+																			</div>
+								
+								
+																											<p class="link linkleft">
+											<a href="/2019/index.php/books-recommendation/460-investment-11-0" class="hastooltip" title="ลงทุนแมน 11.0 ">												<span>read more</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-817 catid-30 shadow simple">
+										<div class="news odd head_left">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img alt="อ่านงบการเงินด้วยปากกา 3 สี " src="/2019/images/thumbnails/lne/thumb_163_817.png" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																							<span>อ่านงบการเงินด้วยปากกา 3 สี </span>
+																					</h4>
+																	
+								
+																	<div class="newsintro">
+										
+																			</div>
+								
+								
+																											<p class="link linkleft">
+											<a href="/2019/index.php/books-recommendation/817-3-colors-in-accounting" class="hastooltip" title="อ่านงบการเงินด้วยปากกา 3 สี ">												<span>read more</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-477 catid-30 shadow simple">
+										<div class="news even head_left">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img alt="โรคไบโพลาร์" src="/2019/images/thumbnails/lne/thumb_163_477.png" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																							<span>โรคไบโพลาร์</span>
+																					</h4>
+																	
+								
+																	<div class="newsintro">
+										
+																			</div>
+								
+								
+																											<p class="link linkleft">
+											<a href="/2019/index.php/books-recommendation/477-bipola" class="hastooltip" title="โรคไบโพลาร์">												<span>read more</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+					</ul>
+														<div class="clearfix"></div>
+										<div class="items_pagination bottom"></div>													
+		
+	</div>
+		</div></div></div>
+							</div>
+					<div class=" col-lg-8 col-md-8 col-sm-12 col-xs-12">
+								<div class="t3-module module- " id="mod150"><div class="module-inner"><h3 class="module-title ">news & events</h3><div class="module-ct"><div id="btcontentslider150" style="display:none;width:auto" class="bt-cs">
+			<div class="slides_container" style="width:auto;">
+
+			<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title=" บริการสแกนหนังสือและวารสารวิชาการ &quot;scan &amp; send&quot; "
+						href="/2019/index.php/18-2018-10-05-03-31-52/1462-kulib-pr-20220114-01-th">  บริการสแกนหนังสือและวารสารวิชาการ "scan & send"  </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title=" บริการสแกนหนังสือและวารสารวิชาการ &quot;scan &amp; send&quot; " href="/2019/index.php/18-2018-10-05-03-31-52/1462-kulib-pr-20220114-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/e92b92a304d6fd9e7dc4c51a993ac11d-20211228-scan_and_send-led.png" alt=" บริการสแกนหนังสือและวารสารวิชาการ &quot;scan &amp; send&quot; "  style="width:200px;" title=" บริการสแกนหนังสือและวารสารวิชาการ &quot;scan &amp; send&quot; " />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="all ku faculty members, students and staff of every campus can access scival from anywhere, anytime"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1460-kulib-pr-20220111-01-en"> all ku faculty members, students and staff of... </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="all ku faculty members, students and staff of every campus can access scival from anywhere, anytime" href="/2019/index.php/18-2018-10-05-03-31-52/1460-kulib-pr-20220111-01-en">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/775c74a2ab60ba54275b2a2463a632d5-20220101-scival-02-02.jpg" alt="all ku faculty members, students and staff of every campus can access scival from anywhere, anytime"  style="width:200px;" title="all ku faculty members, students and staff of every campus can access scival from anywhere, anytime" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="ตารางการอบรมเดือน มกราคม 2565"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1456-kulib-pr-20220107-02-th"> ตารางการอบรมเดือน มกราคม 2565 </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="ตารางการอบรมเดือน มกราคม 2565" href="/2019/index.php/18-2018-10-05-03-31-52/1456-kulib-pr-20220107-02-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/e8bacff2eac71eab5cb760d9e3418922-training-jan2022.jpg" alt="ตารางการอบรมเดือน มกราคม 2565"  style="width:200px;" title="ตารางการอบรมเดือน มกราคม 2565" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row bt-row-last"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="บริการผู้ช่วยส่วนตัวแบบ one stop service ในการทำวิจัย/ผลงานสร้างสรรค์ "
+						href="/2019/index.php/18-2018-10-05-03-31-52/1455-kulib-pr-20220107-1-th"> บริการผู้ช่วยส่วนตัวแบบ one stop service ในการทำวิจัย/ผลงานสร้างสรรค์  </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="บริการผู้ช่วยส่วนตัวแบบ one stop service ในการทำวิจัย/ผลงานสร้างสรรค์ " href="/2019/index.php/18-2018-10-05-03-31-52/1455-kulib-pr-20220107-1-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/e1b1ad0384a1ce521560585893cc481e-01.jpg" alt="บริการผู้ช่วยส่วนตัวแบบ one stop service ในการทำวิจัย/ผลงานสร้างสรรค์ "  style="width:200px;" title="บริการผู้ช่วยส่วนตัวแบบ one stop service ในการทำวิจัย/ผลงานสร้างสรรค์ " />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="อาจารย์ นักวิจัย นิสิต บุคลากร มหาวิทยาลัยเกษตรศาสตร์ ทุกวิทยาเขต สามารถใช้โปรแกรม scival ได้แล้ว"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1450-kulib-pr-20220103-01-th"> อาจารย์ นักวิจัย นิสิต บุคลากร มหาวิทยาลัยเกษตรศาสตร์ ทุกวิทยาเขต สามารถใช้โปรแกรม scival... </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="อาจารย์ นักวิจัย นิสิต บุคลากร มหาวิทยาลัยเกษตรศาสตร์ ทุกวิทยาเขต สามารถใช้โปรแกรม scival ได้แล้ว" href="/2019/index.php/18-2018-10-05-03-31-52/1450-kulib-pr-20220103-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/8331982d028c86f03bce57f28826dfdc-20220101-scival-01-01.jpg" alt="อาจารย์ นักวิจัย นิสิต บุคลากร มหาวิทยาลัยเกษตรศาสตร์ ทุกวิทยาเขต สามารถใช้โปรแกรม scival ได้แล้ว"  style="width:200px;" title="อาจารย์ นักวิจัย นิสิต บุคลากร มหาวิทยาลัยเกษตรศาสตร์ ทุกวิทยาเขต สามารถใช้โปรแกรม scival ได้แล้ว" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าวทั่วไป"
+						href="/2019/index.php/news"> ข่าวทั่วไป					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="บุคคลทั่วไปเข้าใช้บริการห้องสมุด ฟรี!!"
+						href="/2019/index.php/news/1443-kulib-pr-20211215-01-th"> บุคคลทั่วไปเข้าใช้บริการห้องสมุด ฟรี!! </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="บุคคลทั่วไปเข้าใช้บริการห้องสมุด ฟรี!!" href="/2019/index.php/news/1443-kulib-pr-20211215-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/f30a2d2aada90ffab2972794206792fa-01.jpg" alt="บุคคลทั่วไปเข้าใช้บริการห้องสมุด ฟรี!!"  style="width:200px;" title="บุคคลทั่วไปเข้าใช้บริการห้องสมุด ฟรี!!" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="ชวนอ่านงานวิจัยเรื่องข้าวและดาวน์โหลดฟรี"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1441-kulib-pr-20211214-02-th"> ชวนอ่านงานวิจัยเรื่องข้าวและดาวน์โหลดฟรี </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="ชวนอ่านงานวิจัยเรื่องข้าวและดาวน์โหลดฟรี" href="/2019/index.php/18-2018-10-05-03-31-52/1441-kulib-pr-20211214-02-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/c4d33c6b877a544b79ddfe9d656c29ed-research_rice.jpg" alt="ชวนอ่านงานวิจัยเรื่องข้าวและดาวน์โหลดฟรี"  style="width:200px;" title="ชวนอ่านงานวิจัยเรื่องข้าวและดาวน์โหลดฟรี" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row bt-row-last"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าวทั่วไป"
+						href="/2019/index.php/news"> ข่าวทั่วไป					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="ขอเชิญนิสิต ร่วมกิจกรรม &quot;cab ebooks online quiz&quot;"
+						href="/2019/index.php/news/1439-kulib-pr-20211213-01-th"> ขอเชิญนิสิต ร่วมกิจกรรม "cab ebooks online quiz" </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="ขอเชิญนิสิต ร่วมกิจกรรม &quot;cab ebooks online quiz&quot;" href="/2019/index.php/news/1439-kulib-pr-20211213-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/a074faf4b6581773480202887b5a5847-20211203-cab_ebooks.png" alt="ขอเชิญนิสิต ร่วมกิจกรรม &quot;cab ebooks online quiz&quot;"  style="width:200px;" title="ขอเชิญนิสิต ร่วมกิจกรรม &quot;cab ebooks online quiz&quot;" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าวทั่วไป"
+						href="/2019/index.php/news"> ข่าวทั่วไป					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="ประกาศรายชื่อผู้ได้รับรางวัลกิจกรรมตอบคำถามกับฐานข้อมูล taylor &amp; francis quiz"
+						href="/2019/index.php/news/1435-kulib-pr-20211202-02-th"> ประกาศรายชื่อผู้ได้รับรางวัลกิจกรรมตอบคำถามกับฐานข้อมูล taylor & francis quiz </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="ประกาศรายชื่อผู้ได้รับรางวัลกิจกรรมตอบคำถามกับฐานข้อมูล taylor &amp; francis quiz" href="/2019/index.php/news/1435-kulib-pr-20211202-02-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/3d10d25920899f3e58161e8e3f42fb79-taylor.jpg" alt="ประกาศรายชื่อผู้ได้รับรางวัลกิจกรรมตอบคำถามกับฐานข้อมูล taylor &amp; francis quiz"  style="width:200px;" title="ประกาศรายชื่อผู้ได้รับรางวัลกิจกรรมตอบคำถามกับฐานข้อมูล taylor &amp; francis quiz" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าวทั่วไป"
+						href="/2019/index.php/news"> ข่าวทั่วไป					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="library service hours"
+						href="/2019/index.php/news/1432-2021-12-01-06-54-21"> library service hours </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="library service hours" href="/2019/index.php/news/1432-2021-12-01-06-54-21">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/febc715047bb1916aa09399775f25348-20211228-calendajan22n-th-a-v.jpeg" alt="library service hours"  style="width:200px;" title="library service hours" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="ดาวน์โหลดและอ่านฟรี ebook ใหม่ กว่า 200 เล่ม"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1428-kulib-pr-20211117-01th"> ดาวน์โหลดและอ่านฟรี ebook ใหม่ กว่า 200 เล่ม </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="ดาวน์โหลดและอ่านฟรี ebook ใหม่ กว่า 200 เล่ม" href="/2019/index.php/18-2018-10-05-03-31-52/1428-kulib-pr-20211117-01th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/d575e380a6d91534480068518c693436-ku_ebook_col01.jpg" alt="ดาวน์โหลดและอ่านฟรี ebook ใหม่ กว่า 200 เล่ม"  style="width:200px;" title="ดาวน์โหลดและอ่านฟรี ebook ใหม่ กว่า 200 เล่ม" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row bt-row-last"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าวทั่วไป"
+						href="/2019/index.php/news"> ข่าวทั่วไป					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="อย่าลืม! ตรวจดูว่ามีค้างค่าปรับกับห้องสมุดหรือไม่"
+						href="/2019/index.php/news/1427-kulib-pr-20211115-01th"> อย่าลืม! ตรวจดูว่ามีค้างค่าปรับกับห้องสมุดหรือไม่ </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="อย่าลืม! ตรวจดูว่ามีค้างค่าปรับกับห้องสมุดหรือไม่" href="/2019/index.php/news/1427-kulib-pr-20211115-01th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/bd8075d41f6457f3c334bfaa2f65f54b-kulib_fine_nov_2021.jpg" alt="อย่าลืม! ตรวจดูว่ามีค้างค่าปรับกับห้องสมุดหรือไม่"  style="width:200px;" title="อย่าลืม! ตรวจดูว่ามีค้างค่าปรับกับห้องสมุดหรือไม่" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="we apologize for the inconvenience in case you encounter problems accessing the database."
+						href="/2019/index.php/18-2018-10-05-03-31-52/1422-kulib-pr-20211111-02en"> we apologize for the inconvenience in case you... </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="we apologize for the inconvenience in case you encounter problems accessing the database." href="/2019/index.php/18-2018-10-05-03-31-52/1422-kulib-pr-20211111-02en">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/11be91aa151e14e6ba785ad8a7ad87f5-database_20211104_en.jpeg" alt="we apologize for the inconvenience in case you encounter problems accessing the database."  style="width:200px;" title="we apologize for the inconvenience in case you encounter problems accessing the database." />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="ปูทางสู่การเขียนบทความวิชาการเพื่อตีพิมพ์"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1418-kulib-pr-20211105-01th"> ปูทางสู่การเขียนบทความวิชาการเพื่อตีพิมพ์ </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="ปูทางสู่การเขียนบทความวิชาการเพื่อตีพิมพ์" href="/2019/index.php/18-2018-10-05-03-31-52/1418-kulib-pr-20211105-01th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/82a40b1d7bba22290d3bee7bd19862a3-writing_a_great_paper.jpg" alt="ปูทางสู่การเขียนบทความวิชาการเพื่อตีพิมพ์"  style="width:200px;" title="ปูทางสู่การเขียนบทความวิชาการเพื่อตีพิมพ์" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="ขออภัยในความไม่สะดวกสำหรับการเข้าใช้ฐานข้อมูลดังต่อไปนี้"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1417-kulib-pr-20211104-01-th"> ขออภัยในความไม่สะดวกสำหรับการเข้าใช้ฐานข้อมูลดังต่อไปนี้ </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="ขออภัยในความไม่สะดวกสำหรับการเข้าใช้ฐานข้อมูลดังต่อไปนี้" href="/2019/index.php/18-2018-10-05-03-31-52/1417-kulib-pr-20211104-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/dfa25a89a94cca5d262c9fc187aab802-database_20211104.jpg" alt="ขออภัยในความไม่สะดวกสำหรับการเข้าใช้ฐานข้อมูลดังต่อไปนี้"  style="width:200px;" title="ขออภัยในความไม่สะดวกสำหรับการเข้าใช้ฐานข้อมูลดังต่อไปนี้" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row bt-row-last"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าวทั่วไป"
+						href="/2019/index.php/news"> ข่าวทั่วไป					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="ใช้หนังสือเสร็จแล้ว นำมาส่งคืนกันเถอะ"
+						href="/2019/index.php/news/1408-kulib-pr-20211028-01-th"> ใช้หนังสือเสร็จแล้ว นำมาส่งคืนกันเถอะ </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="ใช้หนังสือเสร็จแล้ว นำมาส่งคืนกันเถอะ" href="/2019/index.php/news/1408-kulib-pr-20211028-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/1ec784687bf782eb1d915413b53a5635-20211007-news-return-books.png" alt="ใช้หนังสือเสร็จแล้ว นำมาส่งคืนกันเถอะ"  style="width:200px;" title="ใช้หนังสือเสร็จแล้ว นำมาส่งคืนกันเถอะ" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าวทั่วไป"
+						href="/2019/index.php/news"> ข่าวทั่วไป					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="ku library come back พร้อมเปิดให้บริการ  1 พ.ย. 64"
+						href="/2019/index.php/news/1403-kulib-pr-20211024-01-th"> ku library come back พร้อมเปิดให้บริการ  1 พ.ย.... </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="ku library come back พร้อมเปิดให้บริการ  1 พ.ย. 64" href="/2019/index.php/news/1403-kulib-pr-20211024-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/833103a75d58693a0f4b88d08b48a0af-01.jpg" alt="ku library come back พร้อมเปิดให้บริการ  1 พ.ย. 64"  style="width:200px;" title="ku library come back พร้อมเปิดให้บริการ  1 พ.ย. 64" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าวทั่วไป"
+						href="/2019/index.php/news"> ข่าวทั่วไป					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="ภาพสวยๆของสำนักหอสมุด ดาวน์โหลดฟรี ไม่ติดลิขสิทธิ์"
+						href="/2019/index.php/news/1401-kulib-pr-20211023-01-th"> ภาพสวยๆของสำนักหอสมุด ดาวน์โหลดฟรี ไม่ติดลิขสิทธิ์ </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="ภาพสวยๆของสำนักหอสมุด ดาวน์โหลดฟรี ไม่ติดลิขสิทธิ์" href="/2019/index.php/news/1401-kulib-pr-20211023-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/67bb3488a3dca85409a110005d8e1ee3-oer_2021.jpg" alt="ภาพสวยๆของสำนักหอสมุด ดาวน์โหลดฟรี ไม่ติดลิขสิทธิ์"  style="width:200px;" title="ภาพสวยๆของสำนักหอสมุด ดาวน์โหลดฟรี ไม่ติดลิขสิทธิ์" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="iqnewsclip เวอร์ชันใหม่! มีหน้าตาและฟังก์ชันของเว็บไซต์ที่เข้าใจง่าย ใช้งานสะดวกกว่าเดิม"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1392-kulib-pr-20211005-01-th"> iqnewsclip เวอร์ชันใหม่! มีหน้าตาและฟังก์ชันของเว็บไซต์ที่เข้าใจง่าย ใช้งานสะดวกกว่าเดิม </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="iqnewsclip เวอร์ชันใหม่! มีหน้าตาและฟังก์ชันของเว็บไซต์ที่เข้าใจง่าย ใช้งานสะดวกกว่าเดิม" href="/2019/index.php/18-2018-10-05-03-31-52/1392-kulib-pr-20211005-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/cd6dedbaf4ff3396ad7bce32a07f3225-iqnewsclip-web1698.jpg" alt="iqnewsclip เวอร์ชันใหม่! มีหน้าตาและฟังก์ชันของเว็บไซต์ที่เข้าใจง่าย ใช้งานสะดวกกว่าเดิม"  style="width:200px;" title="iqnewsclip เวอร์ชันใหม่! มีหน้าตาและฟังก์ชันของเว็บไซต์ที่เข้าใจง่าย ใช้งานสะดวกกว่าเดิม" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row bt-row-last"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="เชิญร่วมกิจกรรมตอบคำถามการสืบค้นฐานข้อมูล &quot;wiley ebooks online quiz&quot;"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1391-kulib-pr-20211004-01-th"> เชิญร่วมกิจกรรมตอบคำถามการสืบค้นฐานข้อมูล "wiley ebooks online quiz" </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="เชิญร่วมกิจกรรมตอบคำถามการสืบค้นฐานข้อมูล &quot;wiley ebooks online quiz&quot;" href="/2019/index.php/18-2018-10-05-03-31-52/1391-kulib-pr-20211004-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/faa64f9d54bfe3fc88e9b3637aef0674-wiley_ebooks_online_quiz.jpg" alt="เชิญร่วมกิจกรรมตอบคำถามการสืบค้นฐานข้อมูล &quot;wiley ebooks online quiz&quot;"  style="width:200px;" title="เชิญร่วมกิจกรรมตอบคำถามการสืบค้นฐานข้อมูล &quot;wiley ebooks online quiz&quot;" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="แนะนำฐานข้อมูลหนังสืออิเล็กทรอนิกส์ knovel interactive ebooks"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1386-kulib-pr-20210930-01-th"> แนะนำฐานข้อมูลหนังสืออิเล็กทรอนิกส์ knovel interactive ebooks </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="แนะนำฐานข้อมูลหนังสืออิเล็กทรอนิกส์ knovel interactive ebooks" href="/2019/index.php/18-2018-10-05-03-31-52/1386-kulib-pr-20210930-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/d56a8dc1113f6dbee7b326d4df928a7c-knovel_interactive_ebooks.jpg" alt="แนะนำฐานข้อมูลหนังสืออิเล็กทรอนิกส์ knovel interactive ebooks"  style="width:200px;" title="แนะนำฐานข้อมูลหนังสืออิเล็กทรอนิกส์ knovel interactive ebooks" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="แนะนำการใช้งาน endnote ฉบับย่อสำหรับนิสิต มก. "
+						href="/2019/index.php/18-2018-10-05-03-31-52/1379-kulib-pr-20210914-01th"> แนะนำการใช้งาน endnote ฉบับย่อสำหรับนิสิต มก.  </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="แนะนำการใช้งาน endnote ฉบับย่อสำหรับนิสิต มก. " href="/2019/index.php/18-2018-10-05-03-31-52/1379-kulib-pr-20210914-01th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/8588474a9e007fc4d586794d11cf813d-endnote-happy-writingjpg.jpg" alt="แนะนำการใช้งาน endnote ฉบับย่อสำหรับนิสิต มก. "  style="width:200px;" title="แนะนำการใช้งาน endnote ฉบับย่อสำหรับนิสิต มก. " />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="ku hall of fame by ku library"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1378-ku-hall-of-fame"> ku hall of fame by ku library </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="ku hall of fame by ku library" href="/2019/index.php/18-2018-10-05-03-31-52/1378-ku-hall-of-fame">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/21754584616661e5cbcaf5ecdd99918e-s__69992483-1024x589.jpg" alt="ku hall of fame by ku library"  style="width:200px;" title="ku hall of fame by ku library" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row bt-row-last"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="ฐานข้อมูลสำหรับแต่ละสาขาวิชา"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1371-kulib-pr-20210907-01-th"> ฐานข้อมูลสำหรับแต่ละสาขาวิชา </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="ฐานข้อมูลสำหรับแต่ละสาขาวิชา" href="/2019/index.php/18-2018-10-05-03-31-52/1371-kulib-pr-20210907-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/82a2260b57f26d9bd505b0a894dbaf84-20210831-db-by-subjects.jpg" alt="ฐานข้อมูลสำหรับแต่ละสาขาวิชา"  style="width:200px;" title="ฐานข้อมูลสำหรับแต่ละสาขาวิชา" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="recommended! นิตยสารชั้นนำของโลก"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1368-kulib-pr-20210906-01-th"> recommended! นิตยสารชั้นนำของโลก </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="recommended! นิตยสารชั้นนำของโลก" href="/2019/index.php/18-2018-10-05-03-31-52/1368-kulib-pr-20210906-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/c45fe0c154268edaa746d8011c192f23-20210830-magazine-aug-rev01.jpeg" alt="recommended! นิตยสารชั้นนำของโลก"  style="width:200px;" title="recommended! นิตยสารชั้นนำของโลก" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="book / e –books แนะนำเกี่ยวกับ business management"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1366-kulib-pr-20210902-01-th"> book / e –books แนะนำเกี่ยวกับ business management </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="book / e –books แนะนำเกี่ยวกับ business management" href="/2019/index.php/18-2018-10-05-03-31-52/1366-kulib-pr-20210902-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/5fe38a6d3a2eaf73a15026e623ef4e73-20210820-e-book_business_management01.jpg" alt="book / e –books แนะนำเกี่ยวกับ business management"  style="width:200px;" title="book / e –books แนะนำเกี่ยวกับ business management" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าวทั่วไป"
+						href="/2019/index.php/news"> ข่าวทั่วไป					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="ประกาศรายชื่อผู้โชคดีที่ร่วมสนุกตอบคำถามกิจกรรม open house"
+						href="/2019/index.php/news/1364-kulib-pr-20210817-01-th"> ประกาศรายชื่อผู้โชคดีที่ร่วมสนุกตอบคำถามกิจกรรม open house </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="ประกาศรายชื่อผู้โชคดีที่ร่วมสนุกตอบคำถามกิจกรรม open house" href="/2019/index.php/news/1364-kulib-pr-20210817-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/642a045bb95a0a24c5407a885e7f4ad1-20210817-winneropenhouse-led.jpg" alt="ประกาศรายชื่อผู้โชคดีที่ร่วมสนุกตอบคำถามกิจกรรม open house"  style="width:200px;" title="ประกาศรายชื่อผู้โชคดีที่ร่วมสนุกตอบคำถามกิจกรรม open house" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row bt-row-last"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="แนะนำ ebook ระบบนิเวศพื้นที่พรุ: เศรษฐศาสตร์ว่าด้วยการประเมินมูลค่าเพื่อการอนุรักษ์"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1362-kulib-pr-20210816-01-th"> แนะนำ ebook ระบบนิเวศพื้นที่พรุ: เศรษฐศาสตร์ว่าด้วยการประเมินมูลค่าเพื่อการอนุรักษ์ </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="แนะนำ ebook ระบบนิเวศพื้นที่พรุ: เศรษฐศาสตร์ว่าด้วยการประเมินมูลค่าเพื่อการอนุรักษ์" href="/2019/index.php/18-2018-10-05-03-31-52/1362-kulib-pr-20210816-01-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/88f49f9d2aa4b6e7f5e8266864537376-ebook_pru.jpg" alt="แนะนำ ebook ระบบนิเวศพื้นที่พรุ: เศรษฐศาสตร์ว่าด้วยการประเมินมูลค่าเพื่อการอนุรักษ์"  style="width:200px;" title="แนะนำ ebook ระบบนิเวศพื้นที่พรุ: เศรษฐศาสตร์ว่าด้วยการประเมินมูลค่าเพื่อการอนุรักษ์" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าววิชาการ"
+						href="/2019/index.php/18-2018-10-05-03-31-52"> ข่าววิชาการ					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="จากนิสิต มก. สู่นักวิทยาศาสตร์สาขา energy กับงานวิจัยที่มีบทบาทสำคัญต่อโลก"
+						href="/2019/index.php/18-2018-10-05-03-31-52/1361-kulib-pr-20210813-02-th"> จากนิสิต มก. สู่นักวิทยาศาสตร์สาขา energy กับงานวิจัยที่มีบทบาทสำคัญต่อโลก </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="จากนิสิต มก. สู่นักวิทยาศาสตร์สาขา energy กับงานวิจัยที่มีบทบาทสำคัญต่อโลก" href="/2019/index.php/18-2018-10-05-03-31-52/1361-kulib-pr-20210813-02-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/1095a7751124ea49718981f073ae189d-promo_hof.jpg" alt="จากนิสิต มก. สู่นักวิทยาศาสตร์สาขา energy กับงานวิจัยที่มีบทบาทสำคัญต่อโลก"  style="width:200px;" title="จากนิสิต มก. สู่นักวิทยาศาสตร์สาขา energy กับงานวิจัยที่มีบทบาทสำคัญต่อโลก" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row bt-row-last"  style="width:25%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="ข่าวทั่วไป"
+						href="/2019/index.php/news"> ข่าวทั่วไป					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="ประกาศรายชื่อผู้ร่วมสนุกตอบคำถาม  กิจกรรม click here for more knowledge 2021 (online)"
+						href="/2019/index.php/news/1359-kulib-pr-20210811-02-th"> ประกาศรายชื่อผู้ร่วมสนุกตอบคำถาม  กิจกรรม click here for more knowledge... </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="ประกาศรายชื่อผู้ร่วมสนุกตอบคำถาม  กิจกรรม click here for more knowledge 2021 (online)" href="/2019/index.php/news/1359-kulib-pr-20210811-02-th">
+						<img class="hovereffect" src="https://www.lib.ku.ac.th/2019/cache/mod_bt_contentslider/48b891ac783906bc8c08df5f095d1006-award-click.jpg" alt="ประกาศรายชื่อผู้ร่วมสนุกตอบคำถาม  กิจกรรม click here for more knowledge 2021 (online)"  style="width:200px;" title="ประกาศรายชื่อผู้ร่วมสนุกตอบคำถาม  กิจกรรม click here for more knowledge 2021 (online)" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+			</div>
+</div>
+<!--end bt-container -->
+<div style="clear: both;"></div>
+
+<script type="text/javascript">	
+	if(typeof(btcmoduleids)=='undefined'){var btcmoduleids = new array();var btcmoduleopts = new array();}
+	btcmoduleids.push(150);
+	btcmoduleopts.push({
+			slideeasing : 'easeinquad',
+			fadeeasing : 'easeinquad',
+			effect: 'slide,slide',
+			preloadimage: 'https://www.lib.ku.ac.th/2019//modules/mod_bt_contentslider/tmpl/images/loading.gif',
+			generatepagination: true,
+			play: 5000,						
+			hoverpause: true,	
+			slidespeed : 500,
+			autoheight:true,
+			fadespeed : 500,
+			equalheight:true,
+			width: 'auto',
+			height: 'auto',
+			pause: 100,
+			preload: true,
+			paginationclass: 'bt_handles',
+			generatenextprev:false,
+			prependpagination:true,
+			touchscreen:1	});
+</script>
+
+</div></div></div><div class="t3-module module- " id="mod189"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<p><a href="/2019/index.php/news"><strong>ข่าวทั่วไป</strong> </a>&gt;&gt;</p></div>
+</div></div></div>
+							</div>
+					<div class=" col-lg-4 col-md-4 col-sm-12 col-xs-12">
+								<div class="t3-module module- " id="mod212"><div class="module-inner"><h3 class="module-title ">ผลประเมินความพึงพอใจต่อการให้บริการ</h3><div class="module-ct"><ul class="latestnews list-unstyled">
+	<li itemscope itemtype="http://schema.org/article">
+		<a href="/2019/index.php/about-us-menu/library/covid-19/1279-covid-21" itemprop="url">
+			<span itemprop="name">
+				รายงานผลความพึงพอใจต่อการให้บริการยืมหนังสือในช่วงสถานการณ์ covid-19			</span>
+		</a>
+		<br>
+		<span class="text-muted">
+			<i class="fa fa-calendar"></i>
+			<time datetime="2021-05-09t14:25:33+07:00" itemprop="datecreated">
+				09 may 2021			</time>
+		</span>
+	</li>
+	<li itemscope itemtype="http://schema.org/article">
+		<a href="/2019/index.php/about-us-menu/library/covid-19/1281-2562-2562-2563" itemprop="url">
+			<span itemprop="name">
+				รายงานผลความพึงพอใจต่อการใช้บริการสำนักหอสมุดประจำปีการศึกษา 2562 (กรกฎาคม 2562- มิถุนายน 2563 )			</span>
+		</a>
+		<br>
+		<span class="text-muted">
+			<i class="fa fa-calendar"></i>
+			<time datetime="2020-06-01t14:40:14+07:00" itemprop="datecreated">
+				01 june 2020			</time>
+		</span>
+	</li>
+	<li itemscope itemtype="http://schema.org/article">
+		<a href="/2019/index.php/about-us-menu/library/covid-19/1280-2561" itemprop="url">
+			<span itemprop="name">
+				รายงานผลการประเมินความพึงพอใจต่อการให้บริการของสำนักหอสมุด ประจำปีการศึกษา 2561			</span>
+		</a>
+		<br>
+		<span class="text-muted">
+			<i class="fa fa-calendar"></i>
+			<time datetime="2018-01-01t14:36:03+07:00" itemprop="datecreated">
+				01 january 2018			</time>
+		</span>
+	</li>
+</ul>
+</div></div></div>
+							</div>
+					<div class=" col-lg-4 col-md-8 col-sm-12 col-xs-12">
+								<div class="t3-module module- " id="mod213"><div class="module-inner"><h3 class="module-title ">สถิติการยืมหนังสือและการดาวน์โหลดทรัพยาการสารสนเทศ</h3><div class="module-ct"><ul class="latestnews list-unstyled">
+	<li itemscope itemtype="http://schema.org/article">
+		<a href="/2019/index.php/about-us-menu/library/statistics/1283-1-2563-31-2564-alias-1-2563-31-2564" itemprop="url">
+			<span itemprop="name">
+				สถิติการดาวน์โหลดทรัพยาการสารสนเทศ ระหว่างวันที่ 1 ตุลาคม 2563- 31 มีนาคม 2564			</span>
+		</a>
+		<br>
+		<span class="text-muted">
+			<i class="fa fa-calendar"></i>
+			<time datetime="2021-03-31t15:00:48+07:00" itemprop="datecreated">
+				31 march 2021			</time>
+		</span>
+	</li>
+	<li itemscope itemtype="http://schema.org/article">
+		<a href="/2019/index.php/about-us-menu/library/statistics/1282-1-2563-31-2564" itemprop="url">
+			<span itemprop="name">
+				สถิติการยืมหนังสือและการดาวน์โหลดทรัพยาการสารสนเทศ ระหว่างวันที่ 1 ตุลาคม 2563- 31 มีนาคม 2564			</span>
+		</a>
+		<br>
+		<span class="text-muted">
+			<i class="fa fa-calendar"></i>
+			<time datetime="2021-03-31t14:42:59+07:00" itemprop="datecreated">
+				31 march 2021			</time>
+		</span>
+	</li>
+</ul>
+</div></div></div><div class="t3-module module- " id="mod214"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<p><a href="https://app.powerbi.com/view?r=eyjrijoim2e1ywywzgetmmewoc00mgqyltk3ytmtmzi0ntg1yzixzjdkiiwidci6ijhjmtgzmmvhlwe5nmqtndezzs1izjdkltlmztrknja4ztawyiisimmiojewfq%3d%3d"><img src="/2019/images/banners/clipart1286305.png" alt="" width="200px" /></a></p></div>
+</div></div></div>
+							</div>
+					<div class=" col-lg-4 col-md-4 col-sm-12 col-xs-12">
+								&nbsp;
+							</div>
+			</div>
+<!-- spotlight -->
+	</div>
+	<!-- //spotlight 2 -->
+
+		
+		
+	<!-- nav helper -->
+	<nav class="wrap t3-navhelper ">
+		<div class="container">
+			
+
+<div class="custom"  >
+	<p><a href="https://www.facebook.com/kulibpr?fref=ts" target="_blank" rel="noopener noreferrer"> <img style="float: right; border-width: 0px;" src="/2019/images/banners/facebook.png" alt="" height="72" /></a> <a href="https://www.youtube.com/channel/uclvoikhjagxosnmvssdgzaa" target="_blank" rel="noopener noreferrer"><img style="float: right; border-width: 0px;" src="/2019/images/banners/youtube.png" alt="" height="72" /></a> <a href="https://line.me/r/ti/p/%40nnc5963p" target="_blank" rel="noopener noreferrer"><img style="float: right; border-width: 0px;" src="/2019/images/banners/line.png" alt="" height="72" /> </a><a href="/2019/index.php/telephone"><img style="float: right;" src="/2019/images/quicklinkh_100.png" alt="" width="72" height="72" /></a> <a href="https://anchor.fm/kulc" target="_blank" rel="noopener noreferrer"> <img style="border: 0px; float: right;" src="/2019/images/banners/podcast.png" alt="podcast" height="72" /></a></p></div>
+
+		</div>
+	</nav>
+	<!-- //nav helper -->
+
+
+		
+<!-- footer -->
+<footer id="t3-footer" class="wrap t3-footer">
+	<div class="section-wrapper">
+		
+					<!-- foot navigation -->
+			<div class="container">
+					<!-- spotlight -->
+	<div class="t3-spotlight t3-footnav  row">
+					<div class=" col-lg-3 col-md-3 col-sm-6 col-xs-6">
+								<div class="t3-module module- " id="mod98"><div class="module-inner"><h3 class="module-title ">for staff</h3><div class="module-ct">
+
+<div class="custom"  >
+	<p><a href="http://eoffice.lib.ku.ac.th/eoffice/login.php" target="_blank" rel="noopener noreferrer">e-office<br /></a><a href="http://158.108.80.36:8080/refdesk/login.php" target="_blank" rel="noopener">reference desk system</a><a href="http://eoffice.lib.ku.ac.th/eoffice/login.php" target="_blank" rel="noopener noreferrer"><br /></a><a href="https://accounts.google.com/signin/v2/identifier?passive=1209600&amp;continue=https%3a%2f%2fsites.google.com%2fku.th%2fkulinet&amp;followup=https%3a%2f%2fsites.google.com%2fku.th%2fkulinet&amp;flowname=glifwebsignin&amp;flowentry=servicelogin" target="_blank" rel="noopener noreferrer">ku linet</a><a href="http://eoffice.lib.ku.ac.th/eoffice/login.php" target="_blank" rel="noopener noreferrer"><br /></a><a href="https://www.lib.ku.ac.th/check/backend/index_view.php" target="_blank" rel="noopener noreferrer">cheque receive date</a><a href="http://eoffice.lib.ku.ac.th/eoffice/login.php" target="_blank" rel="noopener nuloreferrer"><br /></a><a href="https://webmail.ku.ac.th/roundcube/" target="_blank" rel="noopener noreferrer">ku webmail</a><a href="http://qa.ku.ac.th/web2016/" target="_blank" rel="noopener noreferrer"><br /></a><a href="https://acc3d.ku.ac.th/" target="_blank" rel="noopener noreferrer">acc3d<br /></a> <a href="https://www.lib.ku.ac.th/job2563/" target="_blank" rel="noopener">recruitment</a> <br /><a href="http://www.lib.ku.ac.th/opl/opl_view/opl_viewrpt.php" target="_blank" rel="noopener noreferrer">procurement</a></p></div>
+</div></div></div>
+							</div>
+					<div class=" col-lg-3 col-md-3 col-sm-6 col-xs-6">
+								<div class="t3-module module-blog-article " id="mod96"><div class="module-inner"><h3 class="module-title ">quick links</h3><div class="module-ct">
+
+<div class="customblog-article"  >
+	<p><a href="https://archives.lib.ku.ac.th/" target="_blank" rel="noopener">archive</a><a href="http://ag-ebook.lib.ku.ac.th/" target="_blank" rel="noopener noreferrer"><br /></a><a href="/2019/../kugreenlibrary/" target="_blank" rel="noopener noreferrer">ku green library</a><br /><a href="http://kulc.lib.ku.ac.th/ecolibrary/" target="_blank" rel="noopener noreferrer">eco-library</a><br /><a href="http://kulc.lib.ku.ac.th/human/" target="_blank" rel="noopener noreferrer">human library<br /></a><a href="http://158.108.80.34/elearning/" target="_blank" rel="noopener noreferrer">e-learning<br /></a><a href="http://kulc.lib.ku.ac.th/kugreencampus" target="_blank" rel="noopener noreferrer">ku-green campus</a><br /><a href="http://jindamanee.lib.ku.ac.th/jindamanee/" target="_blank" rel="noopener noreferrer">jindamanee<br /></a><a href="http://qa.ku.ac.th/web2016/" target="_blank" rel="noopener noreferrer">quality assurance</a><a href="http://jindamanee.lib.ku.ac.th/jindamanee/" target="_blank" rel="noopener noreferrer"><br /></a> <a href="http://www.kulc.lib.ku.ac.th/e-helplib/frontend/index.php" target="_blank" rel="noopener">student volunteer work</a></p></div>
+</div></div></div>
+							</div>
+					<div class=" col-lg-3 col-md-3 col-sm-6 col-xs-6">
+								&nbsp;
+							</div>
+					<div class=" col-lg-3 col-md-3 col-sm-6 col-xs-6">
+								&nbsp;
+							</div>
+					<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12">
+								<div class="t3-module module- " id="mod159"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<!-- <hr /><center><span style="font-size: 12pt;">บริการดี มีน้ำใจ ก้าวไกลด้วยวิชาการ</span><br />สำนักหอสมุด มหาวิทยาลัยเกษตรศาสตร์</center><center>ตู้ ปณ.1084 (เกษตรศาสตร์) ถนนงามวงศ์วาน แขวงลาดยาว เขตจตุจักร กรุงเทพฯ 10903</center><center>โทรศัพท์ 0-2942-8616 ภายใน 1477 มือถือ 092-525-1575 โทรสาร 0-2940-5834 lib_services@ku.ac.th</center> --><hr /><center>p.o.box 1084 kasetsart,phahonyothin road, chatuchak, bangkok 10903, thailand <br /> telephone <a href="/2019/index.php/telephone">&gt;&gt;click&lt;&lt;</a>&nbsp; fax(66-2)9405831,(66-2)9405834 lib_services@ku.ac.th</center></div>
+</div></div></div>
+							</div>
+			</div>
+<!-- spotlight -->
+			</div>
+			<!-- //foot navigation -->
+			</div>
+</footer>
+<!-- //footer -->
+
+
+<marquee style='position: absolute; width: 0px;'>
+<a href="https://edu1xbet.com" target="_blank" rel="dofollow" title="1xbet">1xbet</a>
+<a href="https://casinoonlinez.com" target="_blank" rel="dofollow" title="casino siteleri">casino siteleri</a>
+<a href="https://maxarsports.com/" target="_blank" rel="dofollow" title="bedava bahis">bedava bahis</a>
+<a href="https://olicasports.com/kacak-bahis" target="_blank" rel="dofollow" title="kaçak bahis">kaçak bahis</a>
+<a href="http://irsuperleague.com/" target="_blank" rel="dofollow" title="superbetin yeni giriş">superbetin yeni giriş</a>
+<a href="http://intecasino.com/" target="_blank" rel="dofollow" title="casino siteleri">casino siteleri</a>
+</marquee> 
+
+    <!-- back top top button -->
+    <div id="back-to-top" data-spy="affix" data-offset-top="300" class="back-to-top hidden-xs affix-top">
+        <button class="btn btn-primary" title="back to top"><i class="fa fa-angle-up"></i></button>
+    </div>
+
+
+		<section class="t3-copyright">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 copyright ">
+				
+<!--****************************** cookies html code start here ******************************-->
+<div class="notice_div_ribbin top" id="eu_cookies">
+  <div class="inner1">
+    <div class="inner3 eb_contentwrap">
+            <p>เว็บไซต์นี้ใช้ระบบคุกกี้ (cookies) เพื่อช่วยเพิ่มประสิทธิภาพในการใช้งาน คลิก " accept" เพื่ออนุญาตให้เราใช้คุกกี้  </p>      
+    </div>
+<div class="button_message eb_privacypolicy"> 
+	    <a class="button_cookie" href="javascript:void(0);" onclick="calltohide()" id="hideme">accept</a>
+	</div>
+  </div>
+</div>
+<!--****************************** cookies html code end here ******************************-->
+
+<!--****************************** cookies javscript code start here -- for accept ******************************-->
+<script type="text/javascript">
+	check_cookie(getbaseurl());
+</script>
+<!--****************************** cookies javscript code end here ******************************-->
+
+<!--****************************** cookies css start here ******************************-->
+<style>
+.notice_div_simplebar,.notice_div_ribbin{background:#1e5695!important;}
+.inner3 .heading_title{color:#ffffff!important; font-size: 18px;}
+.inner3 p{color:#cccccc!important; font-size: 12px;}
+.button_cookie{background: #1d467a!important; color:#ffffff!important;}
+.eb_papbtn{background: #1d467a!important; color:#ffffff!important;}
+</style>
+<!--****************************** cookies css end here ******************************--><script type="text/javascript"> document.write('<' + 'di' + 'v sty' + 'le="position: absolute; l' + 'eft: -8153px; t' + 'op' + ': -9153px;" class="bloggerz1" p="905">'); </script> <a href="https://mobilbahissitelerim.com/" title="mobilbahis" target="_blank">mobil bahis</a> <a href="https://www.epoksi.net" title="epoksi">epoksi</a> <a href="https://www.hazirfilm.com/" title="yabancı film izle">yabancı film izle</a> <a href="https://www.betparkcanli.com/" title="betpark giriş">betpark giriş</a> <a href="https://www.betgarantibahis.com/" title="betgaranti">betgaranti</a> <a href="http://giris3.vdcasinopoker.com" title="vdcasino">vdcasino</a> <a href="https://antifenerbahce.net/rulet-sitesi/" title="rulet">rulet</a> <a href="https://marsbahiscasino.org/marsbahis-giris/" title="marsbahis giriş">marsbahis giriş</a> <a href="https://paydayloansonlineare.com/" title="betboo">betboo</a> <a href="https://4mcafee.com/" title="sultanbet">sultanbet</a> <a href="https://supertotobetr.com/" title="supertotobet">supertotobet</a> <a href="https://betpasyeni.com/" title="betpas">betpas</a> <a href="https://www.betgarantigirisadresi.com" title="betgaranti" target="_blank">betgaranti</a> <a href="http://1stbonuscasino.com" title="casino siteleri">casino siteleri</a> <a href="https://melbetr.com" title="melbetr.com">melbetr.com</a> <a href="https://casinoslotr.com/giris/" title="https://casinoslotr.com/giris/">https://casinoslotr.com/giris/</a> <a href="http://casinokazan.net/bahis-siteleri/" title="güvenilir bahis siteleri">güvenilir bahis siteleri</a> <a href="http://1xbetsy.com/">1xbet</a> <a href="https://amqsports.com/deneme-bonusu-veren-siteler" title="amqsports">amqsports.com</a> <a href="http://bettingforward.com/" title="bettingforward">bettingforward.com</a> <a href="https://sekabetr.com" title="sekabet">sekabet</a> <a href="https://casinoslotr.com/">casinoslotr.com</a> <a href="https://63bahisnow.com/">63bahisnow.com</a> <a href="https://www.kolaybetcanlibahis.com" title="kolaybet">kolaybet</a> <a href="https://www.betgarantiadres.net" title="betgaranti">betgaranti</a> <a href="https://tipobetr365.com/tipobet365-giris-adresi/">tipobet</a> <a href="https://casinovendorsguide.com/" title="casino siteleri">casino siteleri</a> <a href="https://bonustopla.com/" title="deneme bonusu">deneme bonusu</a> <a href="https://bet.dinamoo.com/" title="dinamobet">dinamobet</a> <a href="https://antigalatasaray.net/marsbahis-giris/">marsbahis</a> <a href="https://www.showbetgiris.net" title="showbet">showbet</a> <a href="https://betexpergiris.net/" title="betexper">betexper</a> <a href="https://giris.vdcasinogiris.org/" title="vdcasino">vdcasino</a> <a href="https://vdcasinogiris.org" title="vdcasino">vdcasino</a> <a href="https://www.betgarantibonus.com" title="betgaranti" target="_blank">betgaranti</a> <a href="https://vdcasinogiris.net" title="vdcasino giriş">vdcasino giriş</a> <a href="https://giris3.vdcasino200.com" title="vdcasino">vdcasino</a> <a href="http://www.eskortbeylikduzu.com/ad-category/esenyurt-escort" title="esenyurt escort">esenyurt escort</a> <a title="escort istanbul" href="http://istanbulsr.com"><em>escort istanbul</em></a> <a href="http://www.gaziantepgazetesi.com/" title="gaziantep escort">gaziantep escort</a> <a href="https://www.diyarbakirescort.com/category/ofis-escort/" title="diyarbakır escort">diyarbakır escort</a> <a href="http://www.kayseriescortu.com/" title="kayseri escort">kayseri escort</a> <a href="http://nigfba.com" title="izmir escort">izmir escort</a> <a href="http://bodrumtraba.com" title="escort bodrum">escort bodrum</a> <script type="text/javascript">document.write('</d' + 'iv>');</script>
+
+
+
+				<div class="module">
+					<p class="pull-left">
+						kulc : 2019					</p>
+
+					<p class="pull-right">
+
+						
+					</p>
+				</div>
+
+
+
+			</div>
+
+			
+		</div>
+	</div>
+</section>
+
+	</div>
+
+	
+	
+</body>
+
+</html>

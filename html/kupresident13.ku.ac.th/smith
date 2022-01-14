@@ -1,0 +1,595 @@
+<!doctype html>
+<html dir="ltr" lang="th-th">
+<head><!--animacja head start-->
+
+  <link rel="stylesheet" href="/kup13/templates/dd_education_09/themes/default/default.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/kup13/templates/dd_education_09/themes/pascal/pascal.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/kup13/templates/dd_education_09/themes/orman/orman.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/kup13/templates/dd_education_09/css/nivo-slider.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/kup13/templates/dd_education_09/css/style.css" type="text/css" media="screen" />
+<!--animacja head koniec-->
+   <base href="https://kupresident13.ku.ac.th/kup13/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="joomla! - open source content management" />
+  <title>หน้าแรก</title>
+  <link href="/kup13/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="rss 2.0" />
+  <link href="/kup13/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="atom 1.0" />
+  <link href="/kup13/templates/dd_education_09/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/css/widgetkit.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/plugins/system/widgetkit_joomla/assets/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/accordion/styles/default/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/gallery/styles/inside/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/gallery/styles/showcase/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/gallery/styles/showcase_box/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/gallery/styles/slider/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/gallery/styles/wall/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/lightbox/css/lightbox.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/mediaplayer/mediaelement/mediaelementplayer.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/slideset/styles/default/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/slideshow/styles/default/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/slideshow/styles/list/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/slideshow/styles/screen/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/slideshow/styles/showcase_box/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/slideshow/styles/showcase_buttons/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/slideshow/styles/tabs/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/slideshow/styles/tabs_bar/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/spotlight/css/spotlight.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/widgetkit/widgets/twitter/styles/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="https://kupresident13.ku.ac.th/kup13/modules/mod_djimageslider/assets/style.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/plugins/content/jw_allvideos/jw_allvideos/tmpl/classic/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/mod_vvisit_counter/digit_counter/default.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/media/mod_vvisit_counter/stats/users.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/modules/mod_rokajaxsearch/css/rokajaxsearch.css" type="text/css" />
+  <link rel="stylesheet" href="/kup13/modules/mod_rokajaxsearch/themes/light/rokajaxsearch-theme.css" type="text/css" />
+  <style type="text/css">
+
+		/* styles for dj image slider with module id 104 */
+		#djslider-loader104 {
+			margin: 0 auto;
+			position: relative;
+		}
+		#djslider104 {
+			margin: 0 auto;
+			position: relative;
+			height: 180px; 
+			width: 240px;
+			max-width: 240px;
+		}
+		#slider-container104 {
+			position: absolute;
+			overflow:hidden;
+			left: 0; 
+			top: 0;
+			height: 100%;
+			width: 100%;
+		}
+		#djslider104 ul#slider104 {
+			margin: 0 !important;
+			padding: 0 !important;
+			border: 0 !important;
+		}
+		#djslider104 ul#slider104 li {
+			list-style: none outside !important;
+			float: left;
+			margin: 0 !important;
+			border: 0 !important;
+			padding: 0 10px 0px 0 !important;
+			position: relative;
+			height: 180px;
+			width: 240px;
+			background: none;
+			overflow: hidden;
+		}
+		#slider104 li img {
+			width: auto;
+			height: 100%;
+			border: 0 !important;
+			margin: 0 !important;
+		}
+		#slider104 li a img, #slider104 li a:hover img {
+			border: 0 !important;
+		}
+		
+		/* navigation buttons */
+		#navigation104 {
+			position: relative;
+			top: 16.666666666667%; 
+			margin: 0 5px;
+			text-align: center !important;
+		}
+		
+		#prev104 {
+			cursor: pointer;
+			display: block;
+			position: absolute;
+			left: 0;
+		}
+		#next104 {
+			cursor: pointer;
+			display: block;
+			position: absolute;
+			right: 0;
+		}
+		
+		#play104, 
+		#pause104 {
+			cursor: pointer;
+			display: block;
+			position: absolute;
+			left: 50%;
+		}
+		
+  </style>
+  <script src="/kup13/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/kup13/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/kup13/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/kup13/media/widgetkit/js/jquery.js" type="text/javascript"></script>
+  <script src="/kup13/media/widgetkit/js/jquery.plugins.js" type="text/javascript"></script>
+  <script src="/kup13/media/widgetkit/js/responsive.js" type="text/javascript"></script>
+  <script src="/kup13/media/widgetkit/widgets/accordion/js/accordion.js" type="text/javascript"></script>
+  <script src="/kup13/media/widgetkit/widgets/gallery/js/lazyloader.js" type="text/javascript"></script>
+  <script src="/kup13/media/widgetkit/widgets/map/js/lazyloader.js" type="text/javascript"></script>
+  <script src="/kup13/media/widgetkit/widgets/slideset/js/lazyloader.js" type="text/javascript"></script>
+  <script src="/kup13/media/widgetkit/widgets/slideshow/js/lazyloader.js" type="text/javascript"></script>
+  <script src="/kup13/media/widgetkit/widgets/twitter/twitter.js" type="text/javascript"></script>
+  <script src="/kup13/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/kup13/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="/kup13/modules/mod_djimageslider/assets/powertools-1.2.0.js" type="text/javascript"></script>
+  <script src="/kup13/modules/mod_djimageslider/assets/slider.js" type="text/javascript"></script>
+  <script src="/kup13/plugins/content/jw_allvideos/jw_allvideos/includes/js/behaviour.js?v=4.7.0" type="text/javascript"></script>
+  <script src="/kup13/plugins/content/jw_allvideos/jw_allvideos/includes/js/wmvplayer/silverlight.js?v=4.7.0" type="text/javascript"></script>
+  <script src="/kup13/plugins/content/jw_allvideos/jw_allvideos/includes/js/wmvplayer/wmvplayer.js?v=4.7.0" type="text/javascript"></script>
+  <script src="/kup13/plugins/content/jw_allvideos/jw_allvideos/includes/js/quicktimeplayer/ac_quicktime.js?v=4.7.0" type="text/javascript"></script>
+  <script src="/kup13/plugins/content/jw_allvideos/jw_allvideos/includes/js/jwplayer/jwplayer.js?v=4.7.0" type="text/javascript"></script>
+  <script src="/kup13/modules/mod_rokajaxsearch/js/rokajaxsearch.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addevent('load', function() {
+				new jcaption('img.caption');
+			});window["widgetkit_url"]="/kup13/media/widgetkit";function wk_ajax_render_url(widgetid){ return "/kup13/index.php/component/widgetkit/?format=raw&id="+widgetid}$widgetkit.load('/kup13/media/widgetkit/widgets/lightbox/js/lightbox.js').done(function(){ 
+					jquery(function($){
+						settimeout(function() { 
+							$('a[data-lightbox]').lightbox({"titleposition":"float","transitionin":"fade","transitionout":"fade","overlayshow":1,"overlaycolor":"#777","overlayopacity":0.7}); 
+						}, 500);
+					});
+			});$widgetkit.trans.adddic({"from_address":"from address: ","get_directions":"get directions","fill_in_address":"please fill in your address.","address_not_found":"sorry, address not found!","location_not_found":", not found!"});if (!window['mejs']) { $widgetkit.load('/kup13/media/widgetkit/widgets/mediaplayer/mediaelement/mediaelement-and-player.js').done(function() { jquery(function($){
+				mejs.mediaelementdefaults.pluginpath='/kup13/media/widgetkit/widgets/mediaplayer/mediaelement/'; 
+				$('video,audio').each(function(){
+					var ele = $(this);
+					if (!ele.parent().hasclass('mejs-mediaelement')) {
+						ele.data('mediaelement',new mejs.mediaelementplayer(this, {"pluginpath":"\/kup13\/media\/widgetkit\/widgets\/mediaplayer\/mediaelement\/"}));
+
+						var w = ele.data('mediaelement').width, h = ele.data('mediaelement').height;
+
+						$.onmediaquery('(max-width: 767px)', {
+							valid: function(){
+								ele.data('mediaelement').setplayersize('100%', ele.is('video') ? '100%':h);
+							},
+							invalid: function(){
+								var parent_width = ele.parent().width();
+
+								if (w>parent_width) {
+									ele.css({width:'',height:''}).data('mediaelement').setplayersize('100%', '100%');
+								} else {
+									ele.css({width:'',height:''}).data('mediaelement').setplayersize(w, h);
+								}
+							}
+						});
+
+						if ($(window).width() <= 767) {
+							ele.data('mediaelement').setplayersize('100%', ele.is('video') ? '100%':h);
+						}
+					}
+				});
+			}); });} else { jquery(function($){
+				mejs.mediaelementdefaults.pluginpath='/kup13/media/widgetkit/widgets/mediaplayer/mediaelement/'; 
+				$('video,audio').each(function(){
+					var ele = $(this);
+					if (!ele.parent().hasclass('mejs-mediaelement')) {
+						ele.data('mediaelement',new mejs.mediaelementplayer(this, {"pluginpath":"\/kup13\/media\/widgetkit\/widgets\/mediaplayer\/mediaelement\/"}));
+
+						var w = ele.data('mediaelement').width, h = ele.data('mediaelement').height;
+
+						$.onmediaquery('(max-width: 767px)', {
+							valid: function(){
+								ele.data('mediaelement').setplayersize('100%', ele.is('video') ? '100%':h);
+							},
+							invalid: function(){
+								var parent_width = ele.parent().width();
+
+								if (w>parent_width) {
+									ele.css({width:'',height:''}).data('mediaelement').setplayersize('100%', '100%');
+								} else {
+									ele.css({width:'',height:''}).data('mediaelement').setplayersize(w, h);
+								}
+							}
+						});
+
+						if ($(window).width() <= 767) {
+							ele.data('mediaelement').setplayersize('100%', ele.is('video') ? '100%':h);
+						}
+					}
+				});
+			});; }$widgetkit.load('/kup13/media/widgetkit/widgets/spotlight/js/spotlight.js').done(function(){jquery(function($){ $('[data-spotlight]').spotlight({"duration":300}); });});$widgetkit.trans.adddic({"less_than_a_minute_ago":"less than a minute ago","about_a_minute_ago":"about a minute ago","x_minutes_ago":"%s minutes ago","about_an_hour_ago":"about an hour ago","x_hours_ago":"about %s hours ago","one_day_ago":"1 day ago","x_days_ago":"%s days ago"});
+		window.addevent('domready', function() {
+
+			squeezebox.initialize({});
+			squeezebox.assign($$('a.djmodal'), {
+				parse: 'rel'
+			});
+		});(function($){ window.addevent('domready',function(){this.slider104 = new djimageslidermodule({id: '104', slider_type: 0, slide_size: 250, visible_slides: 1, show_buttons: 1, show_arrows: 1, preload: 800},{auto: 1, transition: fx.transitions.linear, duration: 600, delay: 3600})}); })(document.id);
+					/* jw player api key */
+					jwplayer.key="plxkzcoheqxvlro0nd6auscwexmfjcmipgl3kw==";
+				window.addevent((window.webkit) ? 'load' : 'domready', function() {
+				window.rokajaxsearch = new rokajaxsearch({
+					'results': 'results',
+					'close': '',
+					'websearch': 0,
+					'blogsearch': 0,
+					'imagesearch': 0,
+					'videosearch': 0,
+					'imagesize': 'small',
+					'safesearch': 'moderate',
+					'search': 'search...',
+					'readmore': 'read more...',
+					'noresults': 'no results',
+					'advsearch': 'advanced search',
+					'page': 'page',
+					'page_of': 'of',
+					'searchlink': 'https://kupresident13.ku.ac.th/kup13/index.php?option=com_search&amp;view=search&amp;tmpl=component',
+					'advsearchlink': 'https://kupresident13.ku.ac.th/kup13/index.php?option=com_search&amp;view=search',
+					'uribase': 'https://kupresident13.ku.ac.th/kup13/',
+					'limit': '10',
+					'perpage': '3',
+					'ordering': 'newest',
+					'phrase': 'any',
+					'hidedivs': '',
+					'includelink': 1,
+					'viewall': 'view all results',
+					'estimated': 'estimated',
+					'showestimated': 0,
+					'showpagination': 1,
+					'showcategory': 1,
+					'showreadmore': 1,
+					'showdescription': 1
+				});
+			});
+
+/*===  easy google analytics : start tracking code  ===*/
+	(function(i,s,o,g,r,a,m){i['googleanalyticsobject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new date();a=s.createelement(o),
+	m=s.getelementsbytagname(o)[0];a.async=1;a.src=g;m.parentnode.insertbefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'ua-70397019-3', 'ku.ac.th');
+	ga('send', 'pageview');
+/*===  easy google analytics : end tracking code  ===*/
+
+  </script>
+
+ <link rel="stylesheet" href="/kup13/templates/system/css/system.css" />
+ <link rel="stylesheet" href="/kup13/templates/system/css/general.css" />
+ <!--[if lt ie 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+ <link rel="stylesheet" href="/kup13/templates/dd_education_09/css/template.css" media="screen">
+ <!--[if lte ie 7]><link rel="stylesheet" href="/kup13/templates/dd_education_09/css/template.ie7.css" media="screen" /><![endif]-->
+ <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=abel">
+ <script>if ('undefined' != typeof jquery) document._artxjquerybackup = jquery;</script>
+ <script src="/kup13/templates/dd_education_09/jquery.js"></script>
+ <script>jquery.noconflict();</script>
+ <script src="/kup13/templates/dd_education_09/script.js"></script>
+ <script>if (document._artxjquerybackup) jquery = document._artxjquerybackup;</script>
+<!--animacja script-->
+<script type="text/javascript" src="/kup13/templates/dd_education_09/js/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="/kup13/templates/dd_education_09/js/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoslider();
+    });
+    </script>
+<!--koniec animacji script-->
+<link href="/kup13/css/template.css" rel="stylesheet" type="text/css">
+
+
+<meta name="google-site-verification" content="" />
+
+<script type="text/javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setaccount', 'ua-44085068-1']);
+ _gaq.push(['_gat._anonymizeip']);
+_gaq.push(['_trackpageview']);
+					
+ (function() {
+  var ga = document.createelement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getelementsbytagname('script')[0]; s.parentnode.insertbefore(ga, s);
+ })();
+</script>
+
+</head>
+<body>
+
+<div id="dd-main">
+
+<header class="dd-header clearfix">
+
+    <div class="dd-shapes">
+
+<div class="dd-object1098063759" data-left="100%"></div>
+
+
+<!-------------animacja pliki graficzne--------------------------------------->
+
+<div class="animacja">
+<div id="wrapper">
+<div class="slider-wrapper theme-default">
+            <div class="ribbon"></div>
+            <div id="slider" class="nivoslider">
+   <!--pliki graficzne animacji-->             
+                <img src="/kup13/templates/dd_education_09/images/demo/1.jpg" style="margin:0 auto; max-width:673px; max-height:332px;"/>
+                     <img src="/kup13/templates/dd_education_09/images/demo/2.jpg" style="margin:0 auto; max-width:673px; max-height:332px;"/>
+                     <img src="/kup13/templates/dd_education_09/images/demo/3.jpg" style="margin:0 auto; max-width:673px; max-height:332px;"/>
+                     <img src="/kup13/templates/dd_education_09/images/demo/4.jpg" style="margin:0 auto; max-width:673px; max-height:332px;"/>
+              <img src="/kup13/templates/dd_education_09/images/demo/5.jpg" style="margin:0 auto; max-width:673px; max-height:332px;"/>
+ 
+   <!--koniec pliki graficzne-->
+</div>
+</div>
+</div>
+</div>
+
+<!-----------------------koniec animacja pliki graficzne----------------------->
+    </div>
+    <div class="dd-header-inner">
+      
+        
+<nav class="dd-nav clearfix">
+    <!--logo-->
+<div class="logo"><a href="/kup13/index.php">
+       		<img src="/kup13/images/dd_education_09/images/president13-2.png" style="margin:0 auto; max-width:308px; max-height:105px;"/>
+				
+     </a>
+     <!--end logo--></div> 
+    <!--share icon-->
+<div class="ikony"><div class="iko">
+     <!--wstawia link z panelu konfiguracyjnego-->	 
+	 				<a href="http://">
+							<!-- koniec wstawia link z panelu  konfiguracyjnego--><img src="/kup13/templates/dd_education_09/images/share_icon/facebook_icon.png" width="31" height="31" /></a></div><div class="iko">
+ <!--wstawia link z panelu konfiguracyjnego-->	 
+	 				<a href="https://twitter.com/vkup13v">
+							<!-- koniec wstawia link z panelu  konfiguracyjnego--><img src="/kup13/templates/dd_education_09/images/share_icon/twitter_icon.png" width="31" height="31" /></a></div><div class="iko"> <!--wstawia link z panelu konfiguracyjnego-->	 
+	 				<a href="http://">
+							<!-- koniec wstawia link z panelu  konfiguracyjnego--><img src="/kup13/templates/dd_education_09/images/share_icon/digg_icon.png" width="31" height="31" /></a></div><div class="iko"> <!--wstawia link z panelu konfiguracyjnego-->	 
+	 				<a href="http://">
+							<!-- koniec wstawia link z panelu  konfiguracyjnego--><img src="/kup13/templates/dd_education_09/images/share_icon/flickr_icon.png" width="31" height="31" /></a></div><div class="iko"><!--wstawia link z panelu konfiguracyjnego-->	 
+	 				<a href="http://">
+							<!-- koniec wstawia link z panelu  konfiguracyjnego--><img src="/kup13/templates/dd_education_09/images/share_icon/youtube_icon.png" width="31" height="31" /></a></div><div class="iko"><!--wstawia link z panelu konfiguracyjnego-->	 
+	 							<a href="http://">
+							<!-- koniec wstawia link z panelu  konfiguracyjnego--><img src="/kup13/templates/dd_education_09/images/share_icon/skype_icon.png" width="31" height="31" /></a></div></div>
+<!--koniec ikony-->
+<ul class="dd-hmenu"><li class="item-464 active"><a class=" active" href="/kup13/">หน้าแรก</a></li><li class="item-468"><a href="/kup13/index.php/2013-01-07-03-17-42">กาลานุกรมชีวิต</a></li><li class="item-469"><a href="/kup13/index.php/2013-01-07-03-18-10">วิถีแห่งชีวิต</a></li><li class="item-470"><a href="/kup13/index.php/2013-01-07-03-18-27">ชีวิตที่ผ่านมา</a></li><li class="item-471"><a href="/kup13/index.php/2013-01-07-03-18-43">ชีวิตที่ก้าวไป</a></li></ul> 
+    </nav>
+
+    </div>
+</header>
+
+<div class="dd-sheet clearfix">
+            <!-- begin nostyle -->
+<div class="dd-nostyle">
+<!-- begin nostyle content -->
+
+
+<div class="custom"  >
+	<p style="text-align: center;"><span style="color: #0000ff; font-size: medium;"><strong><span style="font-family: 'comic sans ms', sans-serif;"><span style="color: #0000ff;"><a data-lightbox="" href="/kup13/images/pic_president13.jpg"> เว็บไซต์อธิการบดี มก. คนที่ 13</a> | </span></span> <span style="color: #0000ff;"><strong><span style="font-family: 'comic sans ms', sans-serif;"><span style="color: #0000ff;"><a href="http://kucc28.ku.ac.th//" target="_blank">เว็บไซต์นายกสภา มก. คนที่ 28</a> | </span></span> <span style="color: #0000ff;"><strong><span style="font-family: 'comic sans ms', sans-serif;"><span style="color: #0000ff;"><a href="http://rmutp-president1-2.rmutp.ac.th/" target="_blank"><span style="color: #0000ff;">เว็บไซต์อธิการบดี มทร.พระนคร 1/2</span></a> | </span></span><br /> <span style="color: #0000ff;"><strong><span style="font-family: 'comic sans ms', sans-serif;"><span style="color: #0000ff;"><a data-lightbox="" href="/kup13/images/former/former_president.jpg"><span style="color: #0000ff;">ทำเนียบอธิการบดี มก.</span></a> | </span></span> <span style="color: #0000ff;"><strong><span style="font-family: 'comic sans ms', sans-serif;"><span style="color: #0000ff;"><a data-lightbox="" href="/kup13/images/former/former_pre_president.jpg"><span style="color: #0000ff;">ทำเนียบรองอธิการบดี มก. ฉกส.</span></a> | </span></span></strong></span></strong></span></strong></span></strong></span></strong></span><a href="http://ivecr5cc1.ivecr5.ac.th/"><span style="font-size: medium; color: #0000ff;"><strong><strong><strong><strong><strong><span style="font-family: 'comic sans ms', sans-serif;">เว็บไซต์นายกสภา สอก.5 คนที่ 1</span></strong></strong></strong></strong></strong></span></a></p></div>
+<!-- end nostyle content -->
+</div>
+<!-- end nostyle -->
+<!-- begin nostyle -->
+<div class="dd-nostyle">
+<h3>ค้นหาข้อมูลในเว็บนี้</h3>
+<!-- begin nostyle content -->
+<form name="rokajaxsearch" id="rokajaxsearch" class="light" action="https://kupresident13.ku.ac.th/kup13/" method="get">
+<div class="rokajaxsearch ">
+	<div class="roksearch-wrapper">
+		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" value="search..." />
+	</div>
+	<input type="hidden" name="searchphrase" value="any"/>
+	<input type="hidden" name="limit" value="20" />
+	<input type="hidden" name="ordering" value="newest" />
+	<input type="hidden" name="view" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+
+	
+	<div id="roksearch_results"></div>
+</div>
+<div id="rokajaxsearch_tmp" style="visibility:hidden;display:none;"></div>
+</form><!-- end nostyle content -->
+</div>
+<!-- end nostyle -->
+<div class="dd-layout-wrapper clearfix">
+                <div class="dd-content-layout">
+                    <div class="dd-content-layout-row">
+                        <div class="dd-layout-cell dd-content clearfix">
+<article class="dd-post dd-messages"><div class="dd-postcontent clearfix">
+<div id="system-message-container">
+</div></div></article><div class="blog-featured"><div class="items-leading"><div class="leading-0"><article class="dd-post"><div class="dd-postcontent clearfix"><div class="dd-article"><p style="text-align: center;"><a href="https://ebook.lib.ku.ac.th/ebook27/ebook/2021rg0032/"><img src="/kup13/images/hny65/hny65.jpg" border="0" width="650" height="910" /></a><a href="https://ebook.lib.ku.ac.th/ebook27/ebook/2021rg0032/"><br /><img src="http://kucc28.ku.ac.th/wp-content/uploads/2015/06/cover1.jpg" border="0" width="650" height="460" /></a></p>
+<p style="text-align: center;"><img src="/kup13/images/121.jpg" border="0" alt="" width="624" height="445" /><br /><img src="/kup13/images/120.jpg" border="0" alt="" width="624" height="445" /><a href="https://photos.google.com/share/af1qippnty4pcl_sevcpvb3xfntbkq_a8pv1fsprqkyxcaa3p3uzovrx7ia1aen3fgnl0q/photo/af1qipooyhy9fb8pn_dciylcqwapv9fa-d7c5t4tlgmu?key=uejod3i4bzhtevy3b0s4mhfjvg9tagg1t05fy21n"><img src="/kup13/images/เกษตร%20เปลี่ยนแปลง%20สู่อนาคต.jpg" border="0" width="570" /></a><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/573-13-13-2565"><br /></a><a href="https://photos.google.com/share/af1qippnty4pcl_sevcpvb3xfntbkq_a8pv1fsprqkyxcaa3p3uzovrx7ia1aen3fgnl0q/photo/af1qipooyhy9fb8pn_dciylcqwapv9fa-d7c5t4tlgmu?key=uejod3i4bzhtevy3b0s4mhfjvg9tagg1t05fy21n"></a></p>
+<table style="width: 670px;" border="1" align="center">
+<tbody>
+<tr bgcolor="#a2e1f8">
+<td>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดี มก. คนที่ 13 ร่วมประชุม สหภาพแรงงานรัฐวิสาหกิจ ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร วันที่ 13 มกราคม 2565 [<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/573-13-13-2565">อ่านต่อ</a>]</span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดี มก. คนที่ 13 ร่วมประชุมคณะกรรมการนโยบายที่ดินแห่งชาติ ครั้งที่ 1/2565 วันที่ 12 มกราคม 2565 [<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/572-13-1-2565">อ่านต่อ</a>]</span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ ที่ปรึกษากรมพัฒนาที่ดิน ร่วมเปิดงานและให้โอวาทในงาน วันที่ 23 ธันวาคม 2564 และติดตามความก้าวหน้าการดำเนินงานพัฒนาศูนย์เรียนรู้ดาวล้อมเดือนกำแพงเพชร วันที่ 24 ธันวาคม 2564 <a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/571-23-2564-24-2564">[อ่านต่อ]</a></span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">การเดินทางครั้งที่ 10 รศ.ดร. วิโรจ อิ่มพิทักษ์ ร่วมพิธีเปิด (kick off) และปฐมนิเทศ โครงการนำร่อง “โรงเรียนหมอดินอาสาทางอากาศ” (ภาคตะวันออกเฉียงเหนือ) วันที่ 3 ธันวาคม 2564<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/568-13-2564-2-2564">[</a><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/570-10-kick-off">อ่านต่อ</a><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/568-13-2564-2-2564">]</a>  </span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">การเดินทางครั้งที่ 9 รศ.ดร. วิโรจ อิ่มพิทักษ์ ร่วมรับเสด็จฯ สมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี ในพิธีเปิดงาน“วันดินโลก ปี 2564 วันที่ 2 ธันวาคม 2564<a href="https://photos.google.com/share/af1qippnty4pcl_sevcpvb3xfntbkq_a8pv1fsprqkyxcaa3p3uzovrx7ia1aen3fgnl0q/photo/af1qipooyhy9fb8pn_dciylcqwapv9fa-d7c5t4tlgmu?key=uejod3i4bzhtevy3b0s4mhfjvg9tagg1t05fy21n">[</a><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/569-9-2564">อ่านต่อ</a>]<br /></span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดี มก.คนที่ 13 ที่ปรึกษากรมพัฒนาที่ดิน ร่วมรับเสด็จและร่วมงานวันดินโลก ปี 2564 วันที่ 2 ธันวาคม 2564<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/568-13-2564-2-2564">[อ่านต่อ]</a>  </span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">มก. เปิดตัว ebook “หนังสือหอประวัติ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน” วันที่ 22 พ.ย. 64 <a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/567-ebook-22-64">[อ่านต่อ]</a>  </span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดี มก.คนที่ 13 ที่ปรึกษากรมทรัพยากรน้ำบาดาล ด้านปฐพีวิทยา ลงพื้นที่ตรวจติดตามความก้าวหน้าโครงการที่ได้รับงบประมาณสนับสนุนจากกองทุนพัฒนาน้ำบาดาล วันที่ 18 พฤศจิกายน 2564<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/566-181164">[อ่านต่อ]</a></span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดี มก. คนที่ 13 ร่วมประชุมคณะกรรมการนโยบายที่ดินแห่งชาติ ครั้งที่ 2/2564 วันที่ 13 กันยายน 2564<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/556-13-2-2564">[อ่านต่อ]</a></span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดี มก. คนที่ 13 ติดตามความก้าวหน้าของ mou ธ.ก.ส. - ท.บ. ครั้งที่ 2/2564 วันที่ 9 กันยายน 2564<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/555-13-mou-2-2564">[อ่านต่อ]</a></span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดีมหาวิทยาลัยเกษตรศาสตร์ คนที่ 13 เป็นประธานการประชุมติดตามความก้าวหน้า mou ธ.ก.ส. - ทบ. วันที่ 25 สิงหาคม 2564<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/553-13-mou">[อ่านต่อ]</a></span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดีมหาวิทยาลัยเกษตรศาสตร์ คนที่ 13 ร่วมประชุม กับ กรมทรัพยากรน้ำบาดาล วันที่ 22 มิถุนายน 2564<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/549-245666">[อ่านต่อ]</a></span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดี มก. คนที่ 13 ร่วมประชุม dgr new look look new วันที่ 9 มิถุนายน 2564 <a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/546-13-dgr-new-look-new">[อ่านต่อ]</a></span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดี มหาวิทยาลัยเกษตรศาสตร์ คนที่ 13 ร่วมประชุม กับกรมทรัพยากรน้ำบาดาล วันที่ 25 และ 31 พฤษภาคม 2564 <a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/545-3333111">[อ่านต่อ]</a></span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดี คนที่ 13 ร่วมงานสวดพระอภิธรรม บำเพ็ญกุศล คุณแม่กัลยา สาคริก วันที่ 27 พ.ค.2564<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/544-1231233">[อ่านต่อ]</a></span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดีมหาวิทยาลัยเกษตรศาสตร์ คนที่ 13 (นายกสภามหาวิทยาลัยเกษตรศาสตร์ คนที่ 28) เข้าร่วมประชุมคณะกรรมการนโยบายที่ดินแห่งชาติ วันที่ 29 มี.ค.2564 <a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/543-13-28">[อ่านต่อ]</a></span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ เข้าพบ ศ.ดร.เกษม จันทร์แก้ว เพื่อแสดงความยินดีเนื่องในโอกาสได้รับการโปรดเกล้าฯ เป็นองคมนตรี วันที่ 25 มี.ค.2564 <a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/506-2021-03-26-03-16-44">[อ่านต่อ]</a></span></p>
+<p><strong><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /></strong><span style="font-size: small;">การเดินทางครั้งที่ 8 การเดินทางครั้งที่ 8 รศ.ดร.วิโรจน์ อิ่มพิทักษ์ ที่ปรึกษากรมพัฒนาที่ดิน พร้อมด้วยคณะ ประกอบด้วย นายสมศักดิ์ สุขจันทร์ ผู้อำนวยการกองนโยบายและแผนการใช้ที่ดิน นายเสรี จึงนิจนิรันทร์ นายชุมพล คงอินทร์ <br />        ที่ปรึกษากรมพัฒนาที่ดิน และนางสาวสลิลา เอี่ยมอิทธิพล นักวิชาการเกษตรชำนาญการพิเศษ ร่วมประชุม<br />        การใช้ที่ดินระดับตำบลวันศุกร์ที่ 10 มีนาคม พ.ศ.2564 <a href="/kup13/pdf/idd/การเดินทางครั้งที่_8.pdf">[อ่านต่อ]</a></span></p>
+<p><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /><span style="font-size: small;"><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดีมหาวิทยาลัยเกษตรศาสตร์ คนที่ 13 เข้าร่วมประชุมกับคณะกรรมการบริหารและที่ปรึกษาสมาคมสื่อมวลชนเกษตรแห่งประเทศไทย อังคารที่ 9 มีนาคม 2564 ... </span>[<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/505-1212121213">อ่านต่อ</a>]</span></p>
+<p><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /><span style="font-size: small;"><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดีมหาวิทยาลัยเกษตรศาสตร์ คนที่ 13 เข้าร่วมประชุม สรุปโครงการนิทรรศการจากอดีตสู่ปัจจุบัน วันศุกร์ที่ 22 มกราคม พ.ศ. 2564 ... </span>[<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/503-1212312121">อ่านต่อ</a>]</span></p>
+<p><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /><span style="font-size: small;"><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ เดินทาง (ธุดงค์) ไป มก.ฉกส. ครั้งที่ 372 วันที่ 19-21 ธันวาคม พ.ศ. 2563 ... </span>[<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/502-370-4">อ่านต่อ</a>]</span></p>
+<p><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /><span style="font-size: small;"><span style="font-size: small;">พระราชทานพระราชวโรกาสให้ผู้ที่ได้รับพระราชทานทุนมูลนิธิอานันทมหิดล แผนกเกษตรศาสตร์ ประจำปีการศึกษา 2563 เข้าเฝ้าทูลละอองพระบาท สมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี <br />       (แทนพระองค์) วันพุธที่ 9 ธันวาคม 2563 ... </span>[<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/500-2020-12-14-04-39-20">อ่านต่อ</a>]</span></p>
+<p><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /><span style="font-size: small;"><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดี มก. คนที่ 13 ร่วมงาน “นนทรีทรงปลูก ดนตรีทรงโปรด” วันที่ 27 พ.ย.63 ... </span>[<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/498-222sss">อ่านต่อ</a>]</span></p>
+<p><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /><span style="font-size: small;"><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดี มก. คนที่ 13 ดูงานและให้คำปรึกษา "การพัฒนาน้ำบาดาลเพื่อการเกษตร" <br />วันที่ 25-26 พ.ย.63 ... </span>[<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/497-ssss2222">อ่านต่อ</a>]</span></p>
+<p><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /><span style="font-size: small;"><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ เดินทางไป มก.ฉกส. ครั้งที่ 371 วันที่ 4-5 พฤศจิกายน พ.ศ. 2563 ... </span>[<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/496-370-3">อ่านต่อ</a>]</span></p>
+<p><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /><span style="font-size: small;"><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดี มก.คนที่ 13 พร้อมคณะผู้บริหารของมหาวิทยาลัย เฝ้าทูลละอองพระบาทรับเสด็จฯ <br />สมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี ... </span>[<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/495-370-2">อ่านต่อ</a>]</span></p>
+<p><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /><span style="font-size: small;"><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ เดินทางไป มก.ฉกส. ครั้งที่ 370 วันที่ 18-20 ตุลาคม พ.ศ. 2563 ... </span>[<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/494-370">อ่านต่อ</a>]</span></p>
+<p><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /><span style="font-size: small;"><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ เดินทางไป มก.ฉกส. ครั้งที่ 369 วันที่ 9- 11 ตุลาคม พ.ศ. 2563 ... </span>[<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/492-368-2">อ่านต่อ</a>]</span></p>
+<p><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /><span style="font-size: small;"><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดี มก. คนที่ 13 ร่วมงานแสดงมุทิตาจิต เนื่องในโอกาสเกษียณอายุราชการ ผู้อำนวยการวิทยาลัย ในสังกัด สกอ.5 วันที่ 9 กันยายน 2563 ... </span>[<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/491-4321">อ่านต่อ</a>]</span></p>
+<p><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /><span style="font-size: small;"><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ ร่วมพิธีวางพวงมาลาหม่อมเจ้าสิทธิพร กฤดากร และร่วมงาน 100 ปี ฟาร์มบางเบิด วันที่ 3 กันยายน พ.ศ. 2563 ... </span>[<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/490-12312312124">อ่านต่อ</a>]</span></p>
+<p><img src="/kup13/images/lift_menu.gif" border="0" width="10" height="10" style="float: left;" /><span style="font-size: small;"><span style="font-size: small;">รศ.ดร.วิโรจ อิ่มพิทักษ์ อธิการบดี มก. คนที่ 13 ร่วมประชุมเชิงปฏิบัติการ การจัดทำแผนปฏิบัติราชการ ประจำปีงบประมาณ พ.ศ.2564 วันที่ 2 กันยายน พ.ศ. 2563 ... </span>[<a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/488-13-2564">อ่านต่อ</a>]</span></p>
+<p style="text-align: right;"><a href="/kup13/index.php/2013-02-08-04-04-14"><span style="font-size: small;">ข่าวย้อนหลัง &gt;&gt;</span></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/437-2019-08-14-03-54-54"><img src="/kup13/images/bannerku.jpg" border="0" alt="" /></a><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/437-2019-08-14-03-54-54"><br /></a> <a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/438-2019-08-14-09-23-33"><img src="/kup13/images/banner-csc.jpg" border="0" alt="" /></a><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/306-k-k-k-100"><img src="/kup13/images/new-strip kkk.jpg" border="0" alt="" /></a><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/307-2017-08-31-02-40-12"><img src="/kup13/images/new-strip 17  2558.jpg" border="0" alt="" /></a><br /><a href="/kup13/index.php/component/content/article/81-2013-01-07-03-15-48/443-887878"><img src="/kup13/images/bannernew5.jpg" border="0" alt="" width="573" height="234" /><br /></a></p>
+<p style="text-align: center;"><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/504-2021-02-09-06-22-01"><img src="/kup13/images/bannercscmu.jpg" border="0" alt="" /></a></p>
+<p style="text-align: center;"><a href="/kup13/pdf/bookant.pdf"><img src="/kup13/images/antbutton.png" border="0" width="100" height="104" /></a><br /><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/437-2019-08-14-03-54-54"><img src="/kup13/images/iconviroj/icon_road_viroj1.jpg" border="0" width="100" /></a><a href="/kup13/index.php/component/content/article/9-uncategorised/431-2019-08-08-04-29-00"><img src="/kup13/images/iconviroj/icon_road_viroj2.jpg" border="0" width="100" /></a><a href="/kup13/index.php/187-2013-09-17-08-41-28"><img src="/kup13/images/iconviroj/icon_red_viroj.jpg" border="0" width="100" /></a><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/197-2013-09-25-04-29-25"><img src="/kup13/images/iconviroj/icon_hall_viroj.jpg" border="0" width="100" /></a><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/198-2013-09-25-06-54-13"><img src="/kup13/images/iconviroj/icon_meeting_viroj.jpg" border="0" width="100" /></a></p></div></div></article></div></div></div>
+
+
+                        </div>
+                        <div class="dd-layout-cell dd-sidebar1 clearfix">
+<div class="dd-block clearfix"><div class="dd-blockcontent"><div style="border: 0px !important;">
+<div id="djslider-loader104" class="djslider-loader">
+    <div id="djslider104" class="djslider">
+        <div id="slider-container104" class="slider-container">
+        	<ul id="slider104">
+          		          			<li>
+          					            											<a class="djmodal" href="/kup13/images/4images/01.jpg" target="_self">
+															<img src="/kup13/images/4images/01.jpg" alt="01.jpg" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a class="djmodal" href="/kup13/images/4images/02.jpg" target="_self">
+															<img src="/kup13/images/4images/02.jpg" alt="02.jpg" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a class="djmodal" href="/kup13/images/4images/03.jpg" target="_self">
+															<img src="/kup13/images/4images/03.jpg" alt="03.jpg" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a class="djmodal" href="/kup13/images/4images/04.jpg" target="_self">
+															<img src="/kup13/images/4images/04.jpg" alt="04.jpg" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a class="djmodal" href="/kup13/images/4images/05.jpg" target="_self">
+															<img src="/kup13/images/4images/05.jpg" alt="05.jpg" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a class="djmodal" href="/kup13/images/4images/06.jpg" target="_self">
+															<img src="/kup13/images/4images/06.jpg" alt="06.jpg" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a class="djmodal" href="/kup13/images/4images/07.jpg" target="_self">
+															<img src="/kup13/images/4images/07.jpg" alt="07.jpg" />
+															</a>
+																									
+						
+					</li>
+                        	</ul>
+        </div>
+                <div id="navigation104" class="navigation-container">
+        	        	<img id="prev104" class="prev-button" src="https://kupresident13.ku.ac.th/kup13//modules/mod_djimageslider/assets/prev.png" alt="previous" />
+			<img id="next104" class="next-button" src="https://kupresident13.ku.ac.th/kup13//modules/mod_djimageslider/assets/next.png" alt="next" />
+									<img id="play104" class="play-button" src="https://kupresident13.ku.ac.th/kup13//modules/mod_djimageslider/assets/play.png" alt="play" />
+			<img id="pause104" class="pause-button" src="https://kupresident13.ku.ac.th/kup13//modules/mod_djimageslider/assets/pause.png" alt="pause" />
+			        </div>
+                    </div>
+</div>
+</div>
+<div style="clear: both"></div></div></div><div class="dd-block clearfix"><div class="dd-blockcontent"><div class="custom"  >
+	<p><a href="/kup13/buddha" target="_blank"> <img src="/kup13/images/banner_budha.jpg" border="0" width="137" height="34" /></a> <a href="/kup13/king" target="_blank"> <img src="/kup13/images/banner_king.jpg" border="0" width="137" height="33" /></a> <a href="/kup13/kingrama9/"><img src="/kup13/images/banner_new.jpg" border="0" width="126" height="33" /></a><a href="/kup13/index.php/component/content/article/80-2013-01-07-03-15-37/211-2013-01-07-08-18-58"><img src="/kup13/images/banner_nomnam.jpg" border="0" width="138" height="33" /></a> <a href="/kup13/index.php/component/content/article/79-2013-01-07-03-15-26/215-2013-01-07-08-18-59"> <img src="/kup13/images/banner_work.jpg" border="0" width="137" height="36" /></a> <a href="http://www.royalprojectthailand.com/" target="_blank"> <img src="/kup13/images/banner_projectking.jpg" border="0" width="137" height="34" /></a> <a href="http://www.hrdi.or.th/" target="_blank"> <img src="/kup13/images/banner_hrdi.jpg" border="0" width="137" height="34" /></a><a href="/kup13/index.php/component/content/article/80-2013-01-07-03-15-37/221-web-2"><img src="/kup13/images/tks.png" border="0" width="130" height="33" /></a>   <a href="/kup13/index.php/component/content/article/80-2013-01-07-03-15-37/222-web-3"><img src="/kup13/images/rmutpj.png" border="0" width="126" height="33" /></a>   <a href="https://photos.app.goo.gl/qjsoj34zbyr8jrqaa"><img src="/kup13/images/vei5.png" border="0" width="126" height="33" /></a>   <img src="/kup13/images/nation.png" border="0" alt="" />   <img src="/kup13/images/thai.png" border="0" alt="" /><a href="/kup13/index.php/component/content/article/80-2013-01-07-03-15-37/222-web-3"></a></p></div></div></div><div class="dd-block clearfix"><div class="dd-blockcontent"><div class="custom"  >
+	<p><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/435-ku100"><img src="/kup13/images/ku100-4.jpg" border="0" alt="" /></a><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/434-ku72"><img src="/kup13/images/e-book/ku72.jpg" border="0" width="145" height="36" /></a><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/433-ku60"><img src="/kup13/images/e-book/ku60.jpg" border="0" width="145" height="36" /></a><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/436-ku53"><img src="/kup13/images/ku53-4.jpg" border="0" alt="" /></a><a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/226-2013-09-24-07-33-8"><img src="/kup13/images/e-book/kuunseen.jpg" border="0" width="145" height="36" /></a> <a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/522-e-book"> <img src="/kup13/images/e-book/ebook.jpg" border="0" alt="" /></a> <a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/195-2013-09-24-07-33-07"> <img src="/kup13/images/e-book/gallery.jpg" border="0" alt="" /></a> <!-- <a href="/kup13/index.php/using-joomla/extensions/components/content-component/article-categories/226-2013-09-24-07-33-8">
+<img src="/kup13/images/e-book/unseen.jpg" border="0" alt="" /></a>  --> <a href="/kup13/index.php/component/content/article/83-2013-01-12-15-36-11/214-2014-01-10-04-40-26"> <img src="/kup13/images/e-book/team.jpg" border="0" alt="" /></a> <a href="/kup13/timeline72/"><img src="/kup13/images/e-book/legend.jpg" border="0" alt="" /></a> <a href="https://kucc28.ku.ac.th/"><img src="/kup13/images/e-book/kucc28.jpg" border="0" width="145" height="36" /></a><a href="http://rmutp-president1-2.rmutp.ac.th/"><img src="/kup13/images/e-book/rmutp.jpg" border="0" width="145" height="36" /></a><a href="http://ivecr5cc1.ivecr5.ac.th/"><img src="/kup13/images/e-book/ivecr5.jpg" border="0" width="145" height="36" /></a></p></div></div></div><div class="dd-block clearfix"><div class="dd-blockcontent"><div class="custom"  >
+	<p><a href="https://www.youtube.com/channel/ucv0blsqbbncc1c1ew5yvqya/videos?view_as=subscriber"><img src="/kup13/images/vch.jpg" border="0" width="150" height="98" /></a></p>
+<p><a href="/kup13/index.php/component/content/article/84-2013-01-12-15-36-25/145-2013-07-02-06-58-06"><img src="/kup13/images/musicku1.jpg" border="0" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p><img src="/kup13/images/thumbnail_vertical_qrc_1498293681478-2.png" border="0" width="150" /></p>
+<p style="text-align: center;"><span>
+
+<!-- joomlaworks "allvideos" plugin (v4.7.0) starts here -->
+
+<div class="avplayerwrapper avvideo">
+	<div style="width:150px;" class="avplayercontainer">
+		<div id="avplayerid_0_7b20826b7211a14537fe0cf6fad7095e" class="avplayerblock">
+			<iframe src="//www.youtube.com/embed/vhp8miaaeio?rel=0&amp;fs=1&amp;wmode=transparent" width="150" height="150</span><span>" frameborder="0" allowfullscreen title="joomlaworks allvideos player"></iframe>					</div>
+	</div>
+</div>
+
+<!-- joomlaworks "allvideos" plugin (v4.7.0) ends here -->
+
+</span></p>
+<p style="text-align: center;"><a href="https://ebook.lib.ku.ac.th/ebook27/ebook/2017rg0029/"><img src="/kup13/images/ebook_v.jpg" border="0" alt="" width="150" height="208" /></a></p>
+<p style="text-align: center;"><a href="https://ebook.lib.ku.ac.th/ebook27/ebook/2021rg0032/"><img class="aligncenter wp-image-2573 size-full" src="http://kucc28.ku.ac.th/wp-content/uploads/2015/06/cover1.jpg" border="0" alt="" width="150" height="106" /></a></p></div></div></div><div class="dd-block clearfix"><div class="dd-blockcontent"><!-- vinaora visitors counter >> http://vinaora.com/ -->
+<style type="text/css">
+	.vfleft{float:left;}.vfright{float:right;}.vfclear{clear:both;}.valeft{text-align:left;}.varight{text-align:right;}.vacenter{text-align:center;}
+	#vvisit_counter94 .vstats_counter{margin-top: 5px;}
+	#vvisit_counter94 .vrow{height:24px;}
+	#vvisit_counter94 .vstats_icon{margin-right:5px;}
+	#vvisit_counter94{padding:5px;}</style>
+<div id="vvisit_counter94" class="vvisit_counter vacenter">
+	<div class="vdigit_counter"><span class="vdigit-0" title="vinaora visitors counter">0</span><span class="vdigit-5" title="vinaora visitors counter">5</span><span class="vdigit-9" title="vinaora visitors counter">9</span><span class="vdigit-1" title="vinaora visitors counter">1</span><span class="vdigit-7" title="vinaora visitors counter">7</span><span class="vdigit-2" title="vinaora visitors counter">2</span><span class="vdigit-2" title="vinaora visitors counter">2</span></div>
+	<div class="vstats_counter">
+		<div class="vstats_icon vfleft varight">
+			<div class="vrow vstats-vtoday" title="2022-01-14"></div><div class="vfclear"></div><div class="vrow vstats-vyesterday" title="2022-01-13"></div><div class="vfclear"></div><div class="vrow vstats-vxweek" title="2022-01-09"></div><div class="vfclear"></div><div class="vrow vstats-vlweek" title="2022-01-02"></div><div class="vfclear"></div><div class="vrow vstats-vxmonth" title="2022-01-01"></div><div class="vfclear"></div><div class="vrow vstats-vlmonth" title="2021-12-01"></div><div class="vfclear"></div><div class="vrow vstats-vall" title=""></div><div class="vfclear"></div>		</div>
+		<div class="vstats_title vfleft valeft">
+			<div class="vrow" title="">today</div><div class="vfclear"></div><div class="vrow" title="">yesterday</div><div class="vfclear"></div><div class="vrow" title="">this week</div><div class="vfclear"></div><div class="vrow" title="">last week</div><div class="vfclear"></div><div class="vrow" title="">this month</div><div class="vfclear"></div><div class="vrow" title="">last month</div><div class="vfclear"></div><div class="vrow" title="">all days</div><div class="vfclear"></div>		</div>
+		<div class="vstats_number varight">
+			<div class="vrow" title="">23</div><div class="vrow" title="">947</div><div class="vrow" title="">4685</div><div class="vrow" title="">569837</div><div class="vrow" title="">21954</div><div class="vrow" title="">4314</div><div class="vrow" title="">591722</div>		</div>
+		<div class="vfclear"></div>
+	</div>
+	<hr style="margin-bottom: 5px;"/>
+	<div style="margin-bottom: 5px;">your ip: 2001:44c8:4480:29d4:d562:25af:3fda:64d0</div>
+	<div>today: 2022-01-14 </div>
+<div style="margin-top:5px;"><a href="http://vinaora.com/" title="vinaora visitors counter" target="_blank">visitors counter</a></div></div>
+<!-- vinaora visitors counter >> http://vinaora.com/ --></div></div>
+
+
+
+                      </div>
+
+                    </div>
+                </div>
+    </div><footer class="dd-footer clearfix">
+</footer>
+
+
+    </div>
+    <p class="dd-page-footer">
+     copyright © 2013 รศ.ดร.วิโรจ อิ่มพิทักษ์	<br/> 
+   <!--  <a href="http://www.ku.ac.th"> --> <img width="100%" border="0" title="พุทธรักษาพันธุ์ แดงวิโรจ  ได้จากการนำเมล็ด ของพุทธรักษาพันธุ์ gisc 10 (no.10) ไปฉายรังสีแกมมาแบบเฉียบพลัน (acute irradiation) ด้วยเครื่องฉายรังสีแกมมารุ่นมาร์ควัน ที่ศูนย์บริการฉายรังสีแกมมาและวิจัยนิวเคลียร์เทคโนโลยี มหาวิทยาลัยเกษตรศาสตร์ โดยใช้ปริมาณรังสี 250 เกรย์ ปลูกให้แตกหน่อใหม่ แยกหน่อที่มีลักษณะกลายออกมาขยายพันธุ์ เพื่อให้ได้พันธุ์ใหม่ที่คงตัว และขอขึ้นทะเบียนพันธุ์พืชไว้ที่มหาวิทยาลัยเกษตรศาสตร์ ในชื่อพันธุ์ แดงวิโรจ (red viroch) เมื่อวันที่ 7 มิถุนายน 2545" src="/kup13/images/flower2.png"></a>
+      </p>
+
+</div>
+
+
+
+
+</body>
+</html>

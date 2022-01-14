@@ -1,0 +1,95 @@
+<html>
+<head>
+<title>à¸¨à¸²à¸ªà¸à¸£à¹à¸à¸£à¸°à¸£à¸²à¸à¸² à¸¨à¸²à¸ªà¸à¸£à¹à¹à¸«à¹à¸à¹à¸à¹à¸à¸à¸´à¸</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
+<!-- bootstrap core css -->
+<link href="dist/css/bootstrap.min.css" rel="stylesheet">
+<style type="text/css">   
+	body {
+		background: url(images/king-bg.png) no-repeat center center fixed; 
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}    
+</style>
+<!-- global site tag (gtag.js) - google analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=ua-86922358-3"></script>
+<script>
+  window.datalayer = window.datalayer || [];
+  function gtag(){datalayer.push(arguments);}
+  gtag('js', new date());
+
+  gtag('config', 'ua-86922358-3');
+</script>
+
+<script type="text/javascript" src="dist/js/bootstrap.min.js"></script>
+
+<script type="text/javascript">
+function mm_swapimgrestore() { //v3.0
+  var i,x,a=document.mm_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.osrc;i++) x.src=x.osrc;
+}
+function mm_preloadimages() { //v3.0
+  var d=document; if(d.images){ if(!d.mm_p) d.mm_p=new array();
+    var i,j=d.mm_p.length,a=mm_preloadimages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexof("#")!=0){ d.mm_p[j]=new image; d.mm_p[j++].src=a[i];}}
+}
+
+function mm_findobj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexof("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=mm_findobj(n,d.layers[i].document);
+  if(!x && d.getelementbyid) x=d.getelementbyid(n); return x;
+}
+
+function mm_swapimage() { //v3.0
+  var i,j=0,x,a=mm_swapimage.arguments; document.mm_sr=new array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=mm_findobj(a[i]))!=null){document.mm_sr[j++]=x; if(!x.osrc) x.osrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+<body onload="mm_preloadimages('images/kingweb02-web_02.jpg','images/kingweb02-web_03.jpg','images/kingweb02-web_04.jpg')">
+<div class="container">
+	<div class="row">
+    <div class="col">
+				<img src="images/king01.png" alt="" style="width:100%;">
+    </div>
+	</div>
+	<div class="row">
+		<div class="col">
+				<table id="table_01" border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+					<tr>
+						<td style="width:36%;"><a href="kingphilosophy/" onmouseout="mm_swapimgrestore()" onmouseover="mm_swapimage('image3','','images/king03-1.png',1)"><img src="images/king02-1.png" id="image3" style="width:100%; height:100%;"></a></td>
+						<td style="width:28%;"><a href="http://ebook.lib.ku.ac.th/king-rama9" onmouseout="mm_swapimgrestore()" onmouseover="mm_swapimage('image4','','images/king03-2.png',1)"><img src="images/king02-2.png" id="image4" style="width:100%; height:100%;"></a></td>
+						<td style="width:36%;"><a href="http://kukr.lib.ku.ac.th/db/rama9" onmouseout="mm_swapimgrestore()" onmouseover="mm_swapimage('image5','','images/king03-3.png',1)"><img src="images/king02-3.png" id="image5" style="width:100%; height:100%;"></a></td>
+					</tr>
+				</table>
+		</div>
+	</div>
+	<div class="row"></div>
+		<div class="col">
+				<img src="images/king-ft.png" alt="" style="width:100%;">
+		</div>
+	</div>
+<!--
+<center><table id="table_01" border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+	<tr>
+		<td colspan="3">
+			<img src="images/kingweb02-web_01.jpg" alt="" style="width:100%;"></td>
+	</tr>
+	<tr>
+		<td style="width:36%;"><a href="../" onmouseout="mm_swapimgrestore()" onmouseover="mm_swapimage('image3','','images/kingweb02-web_02.jpg',1)"><img src="images/kingweb02-web-1_02.jpg" id="image3" style="width:100%; height:100%;"></a></td>
+		<td style="width:28%;"><a href="http://ebook.lib.ku.ac.th/king-rama9" onmouseout="mm_swapimgrestore()" onmouseover="mm_swapimage('image4','','images/kingweb02-web_03.jpg',1)"><img src="images/kingweb02-web-1_03.jpg" id="image4" style="width:100%; height:100%;"></a></td>
+		<td style="width:36%;"><a href="http://kukr.lib.ku.ac.th/db/rama9" onmouseout="mm_swapimgrestore()" onmouseover="mm_swapimage('image5','','images/kingweb02-web_04.jpg',1)"><img src="images/kingweb02-web-1_04.jpg" id="image5" style="width:100%; height:100%;"></a></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<img src="images/kingweb02-web_05.jpg" alt="" style="width:100%;"></td>
+	</tr>
+</table></center>
+-->
+</div>
+</body>
+</html>

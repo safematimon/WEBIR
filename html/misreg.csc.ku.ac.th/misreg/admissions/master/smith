@@ -1,0 +1,107 @@
+<!doctype html public "-//w3c//dtd xhtml 1.0 strict//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>csc.ku</title>
+<link rel="shortcut icon" href="logocsc_mini.ico" />
+<meta http-equiv="content-type" content="text/html; charset=tis-620">
+
+<!-- menu dropdorw -->
+  <link rel="stylesheet" href="styles_menu.css">
+  <link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
+  <link rel="stylesheet" type="text/css" href="js/epoch_styles.css" />
+  <script src="ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="style/jquery-latest.min.js" type="text/javascript"></script>
+  <script type="text/javascript" src="js/jquery.min.js"></script> 
+ <script type="text/javascript" >
+	  function frmback(){
+		   window.history.back();
+	  }
+ </script> 
+ 
+</head>
+<body>
+ <div id="main">
+ <div id="header">
+      <div id="logo">
+		<img src="images/logo_ku_thai_color_mini.png" width="100px">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php">รับสมัคร ระดับบัณฑิตศึกษา (ปริญญาโท)  </a></h1> 
+          <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</h2> 
+        </div>
+      </div>
+      <div id='cssmenu'>
+        <ul>
+			<li ><a href="index.php"><span><img src="images/home.png" width="15px"></span></a></li>
+			<li><a href="https://mis.grad.ku.ac.th/recruitment/major/2563/02"><span>สมัคร</span></a></li>
+			<!-- <li><a href="register.php?chk=1"><span>ตรวจสอบข้อมูล</span></a></li>
+			<li><a href="doc_send.php"><span>ส่งเอกสาร</span></a></li>
+			<li><a href="#"><span>สาขาการจัดการวิศวกรรม</span></a>
+			<ul>
+				<li><a href="_files_/xe55_612_2_2.pdf" target="_blank"><span>กำหนดการและขั้นตอน</span></a></li>
+ 
+			</ul>
+			</li>-->
+			<li><a href="#"><span>download</span></a>
+			<ul>
+				<li><a href="pay_reg.php">ค่าสมัคร หลักสูตรการจัดการวิศวกรรมและเทคโนโลยี</a></li>
+				  <li><a href="payment.php">ใบแทนการชำระค่าธรรมเนียมการศึกษา</a></li> 
+			</ul>
+			</li>
+
+			<!-- <li><a href="payment.php?oy=2562&round=1">พิมพ์ใบชำระค่าธรรมเนียม</a></li>-->
+			 
+			<li><a href="admin.php">สำหรับเจ้าหน้าที่</a></li>
+	   </ul>
+           
+      </div>
+    </div>
+	
+	<div id="site_content"> 
+      <div id="content_full">
+	  	
+<h2>ประกาศ :: ประจำภาคปลาย ปีการศึกษา 2563</h2>
+<font size="5">-> <a href="../632-xe55_101.pdf">ประกาศรายชื่อผู้มีสิทธิ์สอบคัดเลือก ภาคปลาย 2563 (เพิ่มเติม) สาขาการจัดการวิศวกรรมและเทคโนโลยี</a><br>
+<font size="5">-> <a href="../632-xe55_100.pdf">ประกาศรายชื่อผู้มีสิทธิ์สอบคัดเลือก ภาคปลาย 2563 สาขาการจัดการวิศวกรรมและเทคโนโลยี</a><br>
+
+<!--<h2>ประกาศ :: ประจำภาคต้น ปีการศึกษา 2563</h2>
+<font size="5">-> <a href="http://misreg.csc.ku.ac.th/misreg/admissions/2563_xe55-2563-631-2.pdf">ประกาศรายชื่อผู้มีสิทธิ์เข้าศึกษา สาขาการจัดการวิศวกรรมและเทคโนโลยี ภาคต้น รอบสอง ปีการศึกษา 2563</a>  <br>
+<font size="5">-> <a href="http://misreg.csc.ku.ac.th/misreg/admissions/2563_master_15042020.pdf">ประกาศเปลี่ยนแปลงกำหนดการสอบคัดเลือก และรายงานตัวนิสิตระดับบัณฑิตศึกษา ประจำภาคต้น  รอบสอง ปีการศึกษา 2563 ครั้ง ที่ 2</a>  <br> -->
+<!-- <font size="5">-> <a href="http://misreg.csc.ku.ac.th/misreg/admissions/2563_master_27032020.pdf">ประกาศเปลี่ยนแปลงกำหนดการสอบคัดเลือก และรายงานตัวนิสิตระดับบัณฑิตศึกษา ประจำภาคต้น  รอบสอง ปีการศึกษา 2563</a>  <br>-->
+<!-- 
+<font size="5">-> <a href="_files_/xe55_631_2.pdf">ประกาศรายชื่อผู้ผ่านการคัดเลือกภาคต้น 2563 สาขาการจัดการวิศวกรรมและเทคโนโลยี ครั้งที่ 1</a>  <br>
+<font size="5">-> <a href="_files_/xe55_631.pdf">กําหนดการของผู้มีสิทธิ์เข้าศึกษาระดับบัณฑิตศึกษา ภาคปกติและภาคพิเศษ</a>  <br>
+
+<h2>ประกาศ :: ประจำภาคปลาย ปีการศึกษา 2562</h2> 
+<font size="5">-> <a href="xe55-622.pdf">ประกาศรายชื่อผู้มีสิทธิ์  วิศวกรรมศาสตรมหาบัณฑิต (การจัดการวิศกรรมและเทคโนโลยี)  ภาคปลาย ปีการศึกษา 2562</a>  <br>
+<font size="5">-> <a href="sit622.pdf">กำหนดการของผู้มีสิทธิ์เข้าศึกษาระดับบัณฑิตศึกษา ภาคปลาย 2562</a>  <br>
+<font size="5">-> เปิดรับสมัคร  วิศวกรรมศาสตรมหาบัณฑิต (การจัดการวิศกรรมและเทคโนโลยี) ภาคพิเศษ วันที่ 7 ต.ค. -  6 ธ.ค. 2562<br>
+</font>
+<h2>ประกาศ :: ประจำภาคต้น ปีการศึกษา 2562</h2>
+
+<font size="4">
+-> <a href="https://misreg.csc.ku.ac.th/misreg/admissions/xe55_622_3_003.pdf" target="_blank">ประกาศรายชื่อผู้มีสิทธิ์เข้าสอบคัดเลือกระดับบัณฑิตศึกษา ประจำภาคปลาย ปีการศึกษา 2562 สาขาการจัดการวิศวกรรมและเทคโนโลยี</a><br>-->
+<!--
+-> <a href="_files_/xe55_621_1.pdf" target="_blank">ประกาศรายชื่อผู้มีสิทธิ์เข้าศึกษา ป.โท การจัดการวิศวกรรมและเทคโนโลยี</a><br>
+-> <a href="https://misreg.csc.ku.ac.th/misreg/admissions/master621r2.pdf" target="_blank">ประกาศรายชื่อผู้มีสิทธิ์เข้าสอบคัดเลือก ภาคต้น ปีการศึกษา 2562 รอบที่ 2</a><br>
+-> <a href="_files_/xe55_621_p.pdf" target="_blank">กำหนดการสำหรับผู้มีสิทธิ์เข้าศึกษา ระดับบัณฑิตศึกษา ภาคต้น ปีการศึกษา 2562</a><br>
+</font><br> 
+<h2>ประกาศ :: ประจำภาคปลาย ปีการศึกษา 2561</h2>
+-> <a href="_files_/xe55_612_2.pdf" target="_blank">
+	ประกาศผู้มีสิทธิ์เข้าศึกษาระดับบัณฑิตศึกษา สาขาวิชาการจัดการวิศวกรรมและเทคโนโลยี 
+</a> <br> 
+-> <a href="_files_/xe55_612.pdf" target="_blank">
+	รายชื่อผู้มีสิทธิ์สอบคัดเลือกระดับบัณฑิตศึกษา สาขาวิชาการจัดการวิศวกรรมและเทคโนโลยี
+</a><br><br>
+-->
+
+ <!-- div main page header -->
+</div>
+</div>
+<div id="content_footer"></div>
+<div id="footer">
+      copyright &copy; mar 2018 <a href="http://www.csc.ku.ac.th">มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</a> <br>
+	  กองบริการกลาง งานเทคโนโลยีสารสนเทศ หน่วยพัฒนาโปรแกรม tel. 042-725042 ต่อ 9009 หรือ 689009<br>
+    </div>
+	</body>
+</html>

@@ -13,7 +13,7 @@
 <meta property="og:locale" content="th_th"/>
 <meta property="og:type" content="website"/>
 <meta property="og:title" content="ku | มหาวิทยาลัยเกษตรศาสตร์ รอบรั้วชาวนนทรี" />
-<meta property="og:url" content="https://www.ku.ac.th/th/"/>
+<meta property="og:url" content="https://www.ku.ac.th/th"/>
 <meta property="og:image" content="https://www.ku.ac.th/assets/ku_logo.png" />
 <meta property="og:description" content="มหาวิทยาลัยเกษตรศาสตร์ สร้างสรรค์ศาสตร์แห่งแผ่นดินสู่สากลเพื่อพัฒนาประเทศอย่างยั่งยืน kasetsart university is a public research university in bangkok,..."/>
   <!-- web fonts -->
@@ -21,7 +21,7 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" type="text/css">
   <link rel="stylesheet" href="/assets/css/header.css" type="text/css">
   <!-- style for intro event page. -->
-  <link rel="stylesheet" href="/assets/css/intro-event/intro-event.css?v=1642168186" type="text/css">
+  <link rel="stylesheet" href="/assets/css/intro-event/intro-event.css?v=1642189319" type="text/css">
   <style>
     .intro-link {
       cursor: pointer;

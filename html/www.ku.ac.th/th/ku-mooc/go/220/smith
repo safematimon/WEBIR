@@ -1,0 +1,383 @@
+<!doctype html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/xmlschema# ">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=ua-184002844-1"></script>
+<script>window.datalayer = window.datalayer || [];function gtag(){datalayer.push(arguments)};gtag("js", new date());gtag("config", "ua-184002844-1", {"groups":"default","anonymize_ip":true});</script>
+<meta name="generator" content="drupal 8 (https://www.drupal.org)" />
+<meta name="mobileoptimized" content="width" />
+<meta name="handheldfriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<link rel="shortcut icon" href="/sites/default/files/apple-icon-152x152.png" type="image/png" />
+<link rel="canonical" href="https://thaimooc.org/course/thaimooc%3a%3acourse--v1%3aku-ku006-2019" />
+<link rel="shortlink" href="https://thaimooc.org/node/1746" />
+<link rel="revision" href="https://thaimooc.org/course/thaimooc%3a%3acourse--v1%3aku-ku006-2019" />
+
+    <title>ภาษาอังกฤษฟัง-พูดเชิงวิชาการสำหรับบัณฑิตศึกษา | academic english listening and speaking skills for graduate program | thai mooc directory</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_2x5siv7vjqt1e_urmkhmrbu0bmj2pjcgzm0koijhpzq.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_6rppphu_xmktnv0cyvd3dnuzmwbbqotzvdpd1of79zs.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_z5jmg7p_bjcw9iuzuji7oaechmyxqtuqzhhj_aysq04.css" />
+
+    
+<!--[if lte ie 8]>
+<script src="/sites/default/files/js/js_vtafjxmrvougazqzyta3wrjkx9wcwhjp0g4znnqrama.js"></script>
+<![endif]-->
+
+  </head>
+  <body class="layout-no-sidebars page-node-1746 path-node node--type-course-records">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+  <div id="page">
+    <header id="header" class="header" role="banner" aria-label="site header">
+                        <nav class="navbar" id="navbar-top">
+                    <div class="container">
+                        
+                <section class="row region region-top-header">
+          <a href="/" title="home" rel="home" class="navbar-brand">
+              <img src="/sites/default/files/thaimooc_logo_1.png" alt="home" class="img-fluid d-inline-block align-top" />
+            
+    </a>
+    
+  </section>
+
+                              <div class="form-inline navbar-form float-right">
+                    <section class="row region region-top-header-form">
+    <div class="views-exposed-form block block-views block-views-exposed-filter-blockcourse-records-list-page-1" data-drupal-selector="views-exposed-form-course-records-list-page-1" id="block-search-menubar">
+  
+    
+      <div class="content">
+      
+<form action="/course" method="get" id="views-exposed-form-course-records-list-page-1" accept-charset="utf-8">
+  <div class="form-row">
+  
+
+
+  <fieldset class="js-form-item js-form-type-search-api-autocomplete form-type-search-api-autocomplete js-form-item-keys form-item-keys form-no-label form-group col-auto">
+                <input placeholder="ค้นหาชื่อรายวิชา" data-drupal-selector="edit-keys" type="text" id="edit-keys" name="keys" value="" size="30" maxlength="128" class="form-text form-control" />
+
+                  </fieldset>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-group col-auto" id="edit-actions"><button data-drupal-selector="edit-submit-course-records-list" type="submit" id="edit-submit-course-records-list" value="ค้นหา" class="button js-form-submit form-submit btn btn-primary">ค้นหา</button>
+</div>
+
+</div>
+
+</form>
+
+    </div>
+  </div>
+<nav role="navigation" aria-labelledby="block-bootstrap-barrio-punsarn-directorymenu-menu" id="block-bootstrap-barrio-punsarn-directorymenu" class="block block-menu navigation menu--directory-menu">
+            
+  <h2 class="sr-only" id="block-bootstrap-barrio-punsarn-directorymenu-menu">directory menu</h2>
+  
+
+        
+              <ul class="clearfix nav">
+                    <li class="nav-item">
+                <a href="/course" class="nav-link" data-drupal-link-system-path="course">รายวิชา</a>
+              </li>
+                <li class="nav-item">
+                <a href="/publishers" class="nav-link" data-drupal-link-system-path="publishers">หน่วยงาน</a>
+              </li>
+                <li class="nav-item">
+                <a href="/providers" class="nav-link" data-drupal-link-system-path="providers">ผู้ให้บริการ</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </section>
+
+                </div>
+                                  </div>
+                    </nav>
+                <nav class="navbar navbar-expand-lg" id="navbar-main">
+                    <div class="container">
+                      
+                                            </div>
+                  </nav>
+          </header>
+            <div id="main-wrapper" class="layout-main-wrapper clearfix">
+              <div id="main" class="container">
+          
+          <div class="row row-offcanvas row-offcanvas-left clearfix">
+              <main class="main-content col" id="content" role="main">
+                <section class="section">
+                  <a id="main-content" tabindex="-1"></a>
+                    <section class="content-c region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  
+<div data-history-node-id="1746" class="group-one-sidebar ds-3col-stacked-fluid clearfix">
+
+  
+
+  <div class="group-header">
+    
+  </div>
+
+  
+      <div class="group-middle">
+      
+            <div class="field field--name-node-title field--type-ds field--label-hidden field__item"><h2>
+  ภาษาอังกฤษฟัง-พูดเชิงวิชาการสำหรับบัณฑิตศึกษา | academic english listening and speaking skills for graduate program
+</h2>
+</div>
+      
+            <div class="field field--name-field-short-course-id field--type-string-long field--label-hidden field__item">ku006</div>
+      
+      <div class="field field--name-field-course-category-taxonomy field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="/taxonomy/category/lag_cate" hreflang="en">ภาษาและการสื่อสาร</a></div>
+          </div>
+  
+            <div class="field field--name-field-course-image field--type-link field--label-hidden field__item"><img class="course-image" src="https://lms.thaimooc.org/asset-v1:ku+ku006+2019+type@asset+block@vdo_cover_%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%b2%e0%b8%ad_%e0%b8%87%e0%b8%81%e0%b8%a4%e0%b8%a9%e0%b8%9f_%e0%b8%87%e0%b8%9e_%e0%b8%94.jpg"></div>
+      
+  <div class="field field--name-field-course-description field--type-string-long field--label-above">
+    <div class="field__label">คำอธิบายรายวิชา</div>
+              <div class="field__item">เนื้อหาวิชาภาษาอังกฤษเชิงวิชาการสำหรับบัณฑิตศึกษาออกแบบมาเพื่อพัฒนาและฝึกฝนทักษะภาษาอังกฤษ เชิงวิชาการในระดับพื้นฐานด้าน การฟังและการพูด เนื้อหาวิชานี้เตรียมความพร้อมผู้เรียนให้สามารถสืบค้น วิเคราะห์ ตีความข้อมูลที่ได้รับ รวมทั้งฝึกผู้เรียนให้รู้เท่าทันข้อมูลจากแหล่งสารสนเทศทุกรูปแบบ การเรียนเน้นให้ผู้เรียนได้ศึกษาค้นคว้าหาความรู้ได้ด้วยตนเอง สามารถนำความรู้ที่ได้ ไปแลกเปลี่ยนเรียนรู้ทำกิจกรรมการศึกษา ทั้งในและนอกห้องเรียน ช่วยผู้เรียนให้ได้ต่อยอดความรู้ที่มีอยู่ให้ลึกซึ้งและกว้างขวางมากขึ้น ผู้เรียนจะได้ฝึกการคิดขั้นสูง การแสดงความคิดเห็นเชิงวิเคราะห์  (analytical thinking) การแสดงความคิดเห็นเชิงวิพากษ์ (critical thinking) และการนำความรู้ที่ได้รับจากการฟังภาษาอังกฤษในรูปแบบต่างๆตามสาขาวิชาที่ศึกษาอยู่มาใช้ด้วยความเข้าใจอย่างถูกต้อง และเหมาะสม  เมื่อผู้เรียนเรียนจบและผ่านบททดสอบตามกำหนดของรายวิชา ผู้เรียนจะสามารถนำความรู้ในทักษะฟัง-พูดเชิงวิชาการ มาปรับใช้ถ่ายทอดและนำเสนอผลงานทางวิชาการเป็นภาษาอังกฤษได้อย่างเต็มศักยภาพและด้วยความมั่นใจ โดยจะเห็นพัฒนาการได้จากการพูด การอภิปรายและการสอบปากเปล่าที่มีประสิทธิภาพ ตามมาตรฐานการเรียนในระดับบัณฑิตศึกษา</div>
+          </div>
+
+  <div class="field field--name-field-course-publisher-contact field--type-entity-reference field--label-above">
+    <div class="field__label">พัฒนาวิชาโดย</div>
+              <div class="field__item"><div about="/taxonomy/publisher/ku" id="taxonomy-term-430" class="taxonomy-term vocabulary-publishers">
+  
+      <h2><a href="/taxonomy/publisher/ku">
+            <div class="field field--name-name field--type-string field--label-hidden field__item">มหาวิทยาลัยเกษตรศาสตร์</div>
+      </a></h2>
+    
+  <div class="content">
+    
+            <div class="clearfix text-formatted field field--name-field-publisher-title field--type-text-long field--label-hidden field__item"><p>มหาวิทยาลัยเกษตรศาสตร์</p>
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-publisher-tel field--type-text-long field--label-hidden field__item"><p>(66) 2942 8200-45</p>
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-publisher-email field--type-text-long field--label-hidden field__item"><p><a href="mailto:hotline@ku.ac.th">hotline@ku.ac.th</a></p>
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-publisher-address field--type-text-long field--label-hidden field__item"><p>50 thanon ngamwongwan, lat yao, chatuchak, bangkok 10900</p>
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-publisher-facebook field--type-text-long field--label-hidden field__item"><p><a href="https://www.facebook.com/kasetsartuniversity/">https://www.facebook.com/kasetsartuniversity/</a></p>
+</div>
+      
+  </div>
+</div>
+</div>
+          </div>
+
+    </div>
+  
+      <div class="group-right">
+      
+            <div class="field field--name-field-course-publisher-taxonomy field--type-entity-reference field--label-hidden field__item"><div about="/taxonomy/publisher/ku" id="taxonomy-term-430" class="taxonomy-term vocabulary-publishers">
+  
+      <h2><a href="/taxonomy/publisher/ku">
+            <div class="field field--name-name field--type-string field--label-hidden field__item">มหาวิทยาลัยเกษตรศาสตร์</div>
+      </a></h2>
+    
+  <div class="content">
+    
+            <div class="field field--name-field-publisher-logo field--type-image field--label-hidden field__item">  <a href="/taxonomy/publisher/ku"><img src="/sites/default/files/2021-01/ku.png" width="500" height="500" typeof="foaf:image" />
+</a>
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-publisher-title field--type-text-long field--label-hidden field__item"><p>มหาวิทยาลัยเกษตรศาสตร์</p>
+</div>
+      
+  </div>
+</div>
+</div>
+      
+  <div class="field field--name-field-course-publisher-contact-m field--type-entity-reference field--label-above">
+    <div class="field__label">พัฒนาวิชาโดย</div>
+              <div class="field__item"><div about="/taxonomy/publisher/ku" id="taxonomy-term-430" class="taxonomy-term vocabulary-publishers">
+  
+      <h2><a href="/taxonomy/publisher/ku">
+            <div class="field field--name-name field--type-string field--label-hidden field__item">มหาวิทยาลัยเกษตรศาสตร์</div>
+      </a></h2>
+    
+  <div class="content">
+    
+            <div class="clearfix text-formatted field field--name-field-publisher-title field--type-text-long field--label-hidden field__item"><p>มหาวิทยาลัยเกษตรศาสตร์</p>
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-publisher-tel field--type-text-long field--label-hidden field__item"><p>(66) 2942 8200-45</p>
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-publisher-email field--type-text-long field--label-hidden field__item"><p><a href="mailto:hotline@ku.ac.th">hotline@ku.ac.th</a></p>
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-publisher-address field--type-text-long field--label-hidden field__item"><p>50 thanon ngamwongwan, lat yao, chatuchak, bangkok 10900</p>
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-publisher-facebook field--type-text-long field--label-hidden field__item"><p><a href="https://www.facebook.com/kasetsartuniversity/">https://www.facebook.com/kasetsartuniversity/</a></p>
+</div>
+      
+  </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-field-course-enrollment-start field--type-datetime field--label-above">
+    <div class="field__label">เปิดลงทะเบียน</div>
+              <div class="field__item">01 september 2020</div>
+          </div>
+
+            <div class="field field--name-field-course-url field--type-link field--label-hidden field__item"><a href="https://lms.thaimooc.org/courses/course-v1:ku+ku006+2019/about">ไปยังรายวิชา</a></div>
+      
+            <div class="field field--name-field-course-provider-taxonomy field--type-entity-reference field--label-hidden field__item"><div about="/taxonomy/provider/thaimooc" id="taxonomy-term-669" class="taxonomy-term vocabulary-providers">
+  
+      <h2><a href="/taxonomy/provider/thaimooc">
+            <div class="field field--name-name field--type-string field--label-hidden field__item">thaimooc</div>
+      </a></h2>
+    
+  <div class="content">
+    
+            <div class="field field--name-field-provider-logo field--type-image field--label-hidden field__item">  <a href="/taxonomy/provider/thaimooc"><img src="/sites/default/files/2022-01/thaimooc_337.png" width="561" height="125" typeof="foaf:image" />
+</a>
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-provider-title field--type-text-long field--label-hidden field__item"><p>thaimooc</p>
+</div>
+      
+  </div>
+</div>
+</div>
+      
+    </div>
+  
+  <div class="group-footer">
+    
+  </div>
+
+</div>
+
+
+  </section>
+
+                </section>
+              </main>
+                                  </div>
+        </div>
+          </div>
+        <footer class="site-footer">
+              <div class="container">
+                      <div class="site-footer__top clearfix">
+                <section class="region region-footer-first">
+    <div id="block-directoyfooterlogo" class="block block-block-content block-block-content76e32935-fc6a-4fb6-a3e2-f8471d5b7ab0">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img alt="thaimooc logo" src="/themes/custom/bootstrap_barrio_punsarn/punsarn/images/thmooc-logo.png" /></p>
+
+<p>โครงการมหาวิทยาลัยไซเบอร์ไทย (thailand cyber university)</p>
+
+<p>กระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม</p></div>
+      
+    </div>
+  </div>
+
+  </section>
+
+                <section class="region region-footer-second">
+    <div id="block-directoyfooterrelatedlinks" class="block block-block-content block-block-contente6685b07-ecdf-4da7-b9d2-7a5c48c898d2">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h4>ลิงก์ที่เกี่ยวข้อง</h4>
+
+<p><a href="https://www.mhesi.go.th/">กระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม</a></p>
+
+<p><a href="https://www.uni.net.th/">สำนักบริหารงานเทคโนโลยีสารสนเทศเพื่อพัฒนาการศึกษา</a></p>
+
+<p><a href="https://www.niets.or.th/">สถาบันทดสอบทางการศึกษาแห่งชาติ (องค์การมหาชน)</a></p>
+
+<p><a href="https://www.tpqi.go.th/">สถาบันคุณวุฒิวิชาชีพ (องค์การมหาชน)</a></p>
+
+<p><a href="https://www.dga.or.th/">สำนักงานพัฒนารัฐบาลดิจิทัล (องค์การมหาชน)</a></p>
+</div>
+      
+    </div>
+  </div>
+
+  </section>
+
+              
+                <section class="region region-footer-fourth">
+    <div id="block-directoyfootercontact" class="block block-block-content block-block-content73350cdf-554e-403e-8a32-8b66c8c2eac7">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h4>ข้อมูลการติดต่อ</h4>
+
+<div class="contact">
+<p class="label tel">โทรศัพท์สำนักงาน</p>
+
+<p class="name"><a href="tel:+6620395671">(+66) 2 039 5671-73</a></p>
+</div>
+
+<div class="contact">
+<p class="label address">ที่อยู่ติดต่อ</p>
+
+<p class="name">328 ถนนศรีอยุธยา ราชเทวี กรุงเทพมหานคร 10400</p>
+</div>
+
+<div class="contact">
+<p class="label email">email</p>
+
+<p class="name"><a href="mailto:thaimooc@thaicyberu.go.th">thaimooc@thaicyberu.go.th</a></p>
+</div>
+
+<div class="contact">
+<p class="label facebook">facebook</p>
+
+<p class="name"><a href="https://www.facebook.com/thaimooc/">https://www.facebook.com/thaimooc/</a></p>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </section>
+
+            </div>
+                                <div class="site-footer__bottom">
+                <div id="block-directoyfootersecond" class="block block-block-content block-block-contentf6087576-c297-45f0-83a7-34359431d198">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>สงวนลิขสิทธิ์ © 2563 โครงการมหาวิทยาลัยไซเบอร์ไทย.</p>
+</div>
+      
+    </div>
+  </div>
+
+
+            </div>
+                  </div>
+          </footer>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseurl":"\/","scriptpath":null,"pathprefix":"","currentpath":"node\/1746","currentpathisadmin":false,"isfront":false,"currentlanguage":"en"},"pluraldelimiter":"\u0003","suppressdeprecationerrors":true,"google_analytics":{"account":"ua-184002844-1","trackoutbound":true,"trackmailto":true,"trackdownload":true,"trackdownloadextensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"responsive_menus":[{"toggler_text":"\u2630","selectors":["#block-bootstrap-barrio-punsarn-directorymenu"],"media_size":"768","media_unit":"px","absolute":1,"disable_mouse_events":0,"remove_attributes":1,"responsive_menus_style":"responsive_menus_simple"}],"ajaxtrustedurl":{"\/course":true},"user":{"uid":0,"permissionshash":"bb088cfbf71caa175a9bed5c90601784c291f64bea2a432aeedc958e928546e6"}}</script>
+<script src="/sites/default/files/js/js_6djwhzynzv7lk0brzcefs2rjvnvpcjzpcm4ustwlrvw.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+<script src="/sites/default/files/js/js_ldldgsq1le1x1ka0gpjtsc14c6otaao4ffyddzoprx8.js"></script>
+
+  </body>
+</html>

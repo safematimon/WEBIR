@@ -1,0 +1,11 @@
+ï»¿<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>kasetsart journal</title>
+</head>
+<body onload='window.location.replace("home.aspx");' style="text-align: center; padding-top: 20px; padding-top: 35vh">
+    <div><img src="images/loading.gif" /></div>
+    <b>loading</b>
+</body>
+</html>

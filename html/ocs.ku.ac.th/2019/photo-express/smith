@@ -1,0 +1,972 @@
+		<!doctype html>
+		<html lang="en-us">
+	 	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>บริการถ่ายภาพด่วนติดบัตร &#8211; ocs | office of computer service</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="ocs | office of computer service &raquo; feed" href="https://ocs.ku.ac.th/2019/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ocs | office of computer service &raquo; comments feed" href="https://ocs.ku.ac.th/2019/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojisettings = {"baseurl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgurl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgext":".svg","source":{"concatemoji":"https:\/\/ocs.ku.ac.th\/2019\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=string.fromcharcode;l.clearrect(0,0,k.width,k.height),l.filltext(c.apply(this,a),0,0);var d=k.todataurl();l.clearrect(0,0,k.width,k.height),l.filltext(c.apply(this,b),0,0);var e=k.todataurl();return d===e}function e(a){var b;if(!l||!l.filltext)return!1;switch(l.textbaseline="top",l.font="600 32px arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createelement("script");c.src=a,c.defer=c.type="text/javascript",b.getelementsbytagname("head")[0].appendchild(c)}var g,h,i,j,k=b.createelement("canvas"),l=k.getcontext&&k.getcontext("2d");for(j=array("flag","emoji"),c.supports={everything:!0,everythingexceptflag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingexceptflag=c.supports.everythingexceptflag&&c.supports[j[i]]);c.supports.everythingexceptflag=c.supports.everythingexceptflag&&!c.supports.flag,c.domready=!1,c.readycallback=function(){c.domready=!0},c.supports.everything||(h=function(){c.readycallback()},b.addeventlistener?(b.addeventlistener("domcontentloaded",h,!1),a.addeventlistener("load",h,!1)):(a.attachevent("onload",h),b.attachevent("onreadystatechange",function(){"complete"===b.readystate&&c.readycallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojisettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://ocs.ku.ac.th/2019/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://ocs.ku.ac.th/2019/wp-content/plugins/woocommerce/assets/css/blocks/style.css?ver=3.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://ocs.ku.ac.th/2019/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='themebeez-toolkit-css'  href='https://ocs.ku.ac.th/2019/wp-content/plugins/themebeez-toolkit/public/css/themebeez-toolkit-public.css?ver=1.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://ocs.ku.ac.th/2019/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://ocs.ku.ac.th/2019/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.6.4' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://ocs.ku.ac.th/2019/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.6.4' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wpm-main-css'  href='//ocs.ku.ac.th/2019/wp-content/plugins/wp-multilang/assets/styles/main.min.css?ver=2.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cream-magazine-pro-style-css'  href='https://ocs.ku.ac.th/2019/wp-content/themes/cream-magazine-pro/style.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cream-magazine-pro-fonts-css'  href='//fonts.googleapis.com/css?family=montserrat%3a400%2c400i%2c500%2c500i%2c600%2c600i%2c700%2c700i%2c800%2c800i%7copen+sans%3a400%2c400i%2c600%2c600i%2c700%2c700i%2c800%2c800i&#038;subset=latin%2clatin-ext&#038;ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cream-magazine-pro-main-css'  href='https://ocs.ku.ac.th/2019/wp-content/themes/cream-magazine-pro/assets/dist/css/main.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cream-magazine-pro-woocommerce-style-css'  href='https://ocs.ku.ac.th/2019/wp-content/themes/cream-magazine-pro/woocommerce.css?ver=5.2.2' type='text/css' media='all' />
+<style id='cream-magazine-pro-woocommerce-style-inline-css' type='text/css'>
+@font-face {
+				font-family: "star";
+				src: url("https://ocs.ku.ac.th/2019/wp-content/plugins/woocommerce/assets/fonts/star.eot");
+				src: url("https://ocs.ku.ac.th/2019/wp-content/plugins/woocommerce/assets/fonts/star.eot?#iefix") format("embedded-opentype"),
+					url("https://ocs.ku.ac.th/2019/wp-content/plugins/woocommerce/assets/fonts/star.woff") format("woff"),
+					url("https://ocs.ku.ac.th/2019/wp-content/plugins/woocommerce/assets/fonts/star.ttf") format("truetype"),
+					url("https://ocs.ku.ac.th/2019/wp-content/plugins/woocommerce/assets/fonts/star.svg#star") format("svg");
+				font-weight: normal;
+				font-style: normal;
+			}
+</style>
+<script type='text/javascript' src='https://ocs.ku.ac.th/2019/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://ocs.ku.ac.th/2019/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://ocs.ku.ac.th/2019/wp-content/plugins/themebeez-toolkit/public/js/themebeez-toolkit-public.js?ver=1.1.2'></script>
+<link rel='https://api.w.org/' href='https://ocs.ku.ac.th/2019/wp-json/' />
+<link rel="edituri" type="application/rsd+xml" title="rsd" href="https://ocs.ku.ac.th/2019/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ocs.ku.ac.th/2019/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="wordpress 5.2.2" />
+<meta name="generator" content="woocommerce 3.6.4" />
+<link rel="canonical" href="https://ocs.ku.ac.th/2019/photo-express/" />
+<link rel='shortlink' href='https://ocs.ku.ac.th/2019/?p=460' />
+<link rel="alternate" type="application/json+oembed" href="https://ocs.ku.ac.th/2019/wp-json/oembed/1.0/embed?url=https%3a%2f%2focs.ku.ac.th%2f2019%2fphoto-express%2f" />
+<link rel="alternate" type="text/xml+oembed" href="https://ocs.ku.ac.th/2019/wp-json/oembed/1.0/embed?url=https%3a%2f%2focs.ku.ac.th%2f2019%2fphoto-express%2f&#038;format=xml" />
+<!-- global site tag (gtag.js) - google analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=ua-150912693-1"></script>
+<script>
+  window.datalayer = window.datalayer || [];
+  function gtag(){datalayer.push(arguments);}
+  gtag('js', new date());
+
+  gtag('config', 'ua-150912693-1');
+</script><link rel="alternate" hreflang="x-default" href="https://ocs.ku.ac.th/2019/photo-express/"/>
+<link rel="alternate" hreflang="th-th" href="https://ocs.ku.ac.th/2019/photo-express/"/>
+<link rel="alternate" hreflang="en-en" href="https://ocs.ku.ac.th/2019/en/photo-express/"/>
+		<style>
+			h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+									font-family: montserrat;
+									
+			}
+			h1, .h1 {
+									font-weight: 500;
+										font-size: 36px;
+										font-style: inherit;
+										line-height: 1.2;
+								}
+			h2, .h2 {
+									font-weight: 500;
+										font-size: 32px;
+										font-style: inherit;
+										line-height: 1.2;
+								}
+			h3, .h3 {
+									font-weight: 500;
+										font-size: 28px;
+										font-style: inherit;
+										line-height: 1.2;
+								}
+			h4, .h4 {
+									font-weight: 500;
+										font-size: 24px;
+										font-style: inherit;
+										line-height: 1.2;
+								}
+			h5, .h5 {
+									font-weight: 500;
+										font-size: 20px;
+										font-style: inherit;
+										line-height: 1.2;
+								}
+			h6, .h6 {
+									font-weight: 500;
+										font-size: 16px;
+										font-style: inherit;
+										line-height: 1.2;
+								}
+			header .logo h1 {
+									font-family: montserrat;
+										font-weight: 800;
+										font-size: 36px;
+										font-style: inherit;
+										line-height: 1.2;
+										text-transform: inherit;
+								}
+			body {
+									font-family: open sans;
+										font-weight: 400;
+										font-size: 14px;
+										font-style: inherit;
+										line-height: 1.6;
+										letter-spacing: 0.15px;
+								}
+							header .mask {
+					background-color: rgba(0,0,0,0.2);
+				}
+								.primary-navigation ul li a,
+				.cm_header_lay_two .primary-navigation.dark li a {
+					font-family: open sans;
+				}
+								.primary-navigation ul li a,
+				.cm_header_lay_two .primary-navigation.dark > ul > li > a {
+					font-weight: 400;
+				}
+								.primary-navigation ul li a,
+				.cm_header_lay_two .primary-navigation.dark li a {
+					font-style: inherit;
+				}
+								.primary-navigation ul li a,
+				.cm_header_lay_two .primary-navigation.dark li a,
+				.cm_header_lay_three .primary-navigation ul li a {
+					text-transform: inherit;
+				}
+								.primary-navigation ul li a,
+				.cm_header_lay_two .primary-navigation.dark > ul > li > a {
+					line-height: 1.6;
+				}
+								.primary-navigation ul li a,
+				.cm_header_lay_two .primary-navigation.dark li a {
+					letter-spacing: 0.15px;
+				}
+								.primary-navigation ul li a,
+				.cm_header_lay_two .primary-navigation.dark > ul > li > a {
+					font-size: 14px;
+				}
+								.widget_tag_cloud .tagcloud a {
+					font-size: 14px !important;
+				}
+				.breadcrumb ul li a, 
+				.breadcrumb ul li span {
+					font-size: 14px;
+				}
+							.primary-navigation li.primarynav_search_icon {
+							}
+			#totop {
+							}
+
+			
+				button,
+				input[type="button"],
+				input[type="reset"],
+				input[type="submit"],
+				.primary-navigation > ul > li.home-btn,
+				.cm_header_lay_three .primary-navigation > ul > li.home-btn,
+				.news_ticker_wrap .ticker_head,
+				#totop,
+				.section-title h2::after,
+				.sidebar-widget-area .widget .widget-title h2::after,
+				footer .widget .widget-title h2::after,
+				#comments div#respond h3#reply-title::after,
+				#comments h2.comments-title:after,
+				ul.post-categories li a,
+				.post_tags a,
+				.owl-carousel .owl-nav button.owl-prev, 
+				.owl-carousel .owl-nav button.owl-next,
+				.cm_author_widget .author-detail-link a,
+				.error_foot form input[type="submit"], 
+				.widget_search form input[type="submit"],
+				.header-search-container input[type="submit"],
+				.widget_tag_cloud .tagcloud a:hover,
+				.trending_widget_carousel .owl-dots button.owl-dot,
+				footer .widget_calendar .calendar_wrap caption,
+				.pagination .page-numbers.current,
+				.post-navigation .nav-links .nav-previous a, 
+				.post-navigation .nav-links .nav-next a,
+				#comments form input[type="submit"],
+				footer .widget_tag_cloud .tagcloud a,
+				footer .widget.widget_search form input[type="submit"]:hover,
+				.widget_product_search .woocommerce-product-search button[type="submit"],
+				.woocommerce ul.products li.product .button,
+				.woocommerce .woocommerce-pagination ul.page-numbers li span.current,
+				.woocommerce .product div.summary .cart button.single_add_to_cart_button,
+				.woocommerce .product div.woocommerce-tabs div.panel #reviews #review_form_wrapper .comment-form p.form-submit .submit,
+				.woocommerce .product section.related > h2::after,
+				.woocommerce .cart .button:hover, 
+				.woocommerce .cart .button:focus, 
+				.woocommerce .cart input.button:hover, 
+				.woocommerce .cart input.button:focus, 
+				.woocommerce #respond input#submit:hover, 
+				.woocommerce #respond input#submit:focus, 
+				.woocommerce button.button:hover, 
+				.woocommerce button.button:focus, 
+				.woocommerce input.button:hover, 
+				.woocommerce input.button:focus,
+				.woocommerce #respond input#submit.alt:hover, 
+				.woocommerce a.button.alt:hover, 
+				.woocommerce button.button.alt:hover, 
+				.woocommerce input.button.alt:hover,
+				.woocommerce a.remove:hover,
+				.woocommerce-account .woocommerce-myaccount-navigation ul li.is-active a,
+				.woocommerce a.button:hover, 
+				.woocommerce a.button:focus,
+				.widget_product_tag_cloud .tagcloud a:hover, 
+				.widget_product_tag_cloud .tagcloud a:focus,
+				.woocommerce .widget_price_filter .price_slider_wrapper .ui-slider .ui-slider-handle {
+
+					background-color: rgba(3,169,244,1);
+				}
+				
+				a:hover,
+				.the_content a,
+				.post_title h2 a:hover,
+				.post_title h2 a:focus,
+				.post_meta li a:hover,
+				.post_meta li a:focus,
+				ul.social-icons li a[href*=".com"]:hover::before,
+				.ticker_carousel .owl-nav button.owl-prev i, 
+				.ticker_carousel .owl-nav button.owl-next i,
+				.news_ticker_wrap .ticker_items .item a:hover,
+				.news_ticker_wrap .ticker_items .item a:focus,
+				.cm_banner .post_title h2 a:hover,
+				.cm_banner .post_meta li a:hover,
+				.cm-post-widget-two .big-card .post-holder a:hover, 
+				.cm-post-widget-two .big-card .post-holder a:focus,
+				.cm-post-widget-two .small-card .post-holder a:hover, 
+				.cm-post-widget-two .small-card .post-holder a:focus,
+				.cm_middle_post_widget_one .post_title h2 a:hover, 
+				.cm_middle_post_widget_one .post_meta li a:hover,
+				.cm_middle_post_widget_three .post_thumb .post-holder a:hover,
+				.cm_middle_post_widget_three .post_thumb .post-holder a:focus,
+				.cm_middle_post_widget_six .middle_widget_six_carousel .item .card .card_content a:hover, 
+				.cm_middle_post_widget_six .middle_widget_six_carousel .item .card .card_content a:focus,
+				.cm_post_widget_twelve .card .post-holder a:hover, 
+				.cm_post_widget_twelve .card .post-holder a:focus,
+				.cm_post_widget_seven .card .card_content a:hover, 
+				.cm_post_widget_seven .card .card_content a:focus,
+				.copyright_section a:hover,
+				.footer_nav ul li a:hover,
+				.breadcrumb ul li:last-child span,
+				.pagination .page-numbers:hover,
+				#comments ol.comment-list li article footer.comment-meta .comment-metadata span.edit-link a:hover,
+				#comments ol.comment-list li article .reply a:hover,
+				.social-share ul li a:hover,
+				ul.social-icons li a:hover,
+				ul.social-icons li a:focus,
+				.woocommerce ul.products li.product a:hover,
+				.woocommerce ul.products li.product .price,
+				.woocommerce .woocommerce-pagination ul.page-numbers li a.page-numbers:hover,
+				.woocommerce div.product p.price, 
+				.woocommerce div.product span.price,
+				.video_section .video_details .post_title h2 a:hover {
+
+					color: rgba(3,169,244,1);
+				}
+				
+				.ticker_carousel .owl-nav button.owl-prev, 
+				.ticker_carousel .owl-nav button.owl-next,
+				.error_foot form input[type="submit"], 
+				.widget_search form input[type="submit"],
+				.pagination .page-numbers:hover,
+				#comments form input[type="submit"],
+				.social-share ul li a:hover,
+				.header-search-container form,
+				.widget_product_search .woocommerce-product-search button[type="submit"],
+				.woocommerce .woocommerce-pagination ul.page-numbers li span.current,
+				.woocommerce .woocommerce-pagination ul.page-numbers li a.page-numbers:hover,
+				.woocommerce a.remove:hover,
+				.ticker_carousel .owl-nav button.owl-prev:hover, 
+				.ticker_carousel .owl-nav button.owl-next:hover,
+				footer .widget.widget_search form input[type="submit"]:hover,
+				.trending_widget_carousel .owl-dots button.owl-dot,
+				.the_content blockquote {
+
+					border-color: rgba(3,169,244,1);
+				}
+
+				
+				button:hover,
+				input[type="button"]:hover,
+				input[type="reset"]:hover,
+				input[type="submit"]:hover,
+				.cm-post-widget-two .big-card .post_thumb .post-format span,
+				.cm_middle_post_widget_one .post-holder .post-format span,
+				.cm_middle_post_widget_three .post_thumb .post-format span,
+				.cm_middle_post_widget_four .left-container .post-holder .post-format span,
+				.cm-post-widget-three .post-format span,
+				.cm_post_widget_twelve .card .post_thumb .post-format span,
+				.cm_post_widget_twelve .text-post-holder .post-number span,
+				.cm_author_widget .author-detail-link a:hover, 
+				.cm_author_widget .author-detail-link a:focus,
+				#totop:hover,
+				.error_foot form input[type="submit"]:hover, 
+				.widget_search form input[type="submit"]:hover,
+				ul.post-categories li a:hover,
+				.sidebar-widget-area .calendar_wrap caption,
+				.woocommerce span.onsale,
+				.widget_product_search .woocommerce-product-search button[type="submit"]:hover, .widget_product_search .woocommerce-product-search button[type="submit"]:focus,
+				.woocommerce .cart .button, 
+				.woocommerce .cart input.button, 
+				.woocommerce #respond input#submit, 
+				.woocommerce button.button, 
+				.woocommerce input.button,
+				.woocommerce .widget_price_filter .price_slider_wrapper .ui-slider .ui-slider-range,
+				.woocommerce #respond input#submit.alt, 
+				.woocommerce a.button.alt, 
+				.woocommerce button.button.alt, 
+				.woocommerce input.button.alt,
+				.woocommerce-account .woocommerce-myaccount-navigation ul li a,
+				.woocommerce a.button,
+				.header-search-container input[type="submit"]:hover {
+
+					background-color: rgba(244,67,54,1);
+				}
+
+				.cm-post-widget-two .big-card .post_thumb .post-format span,
+				.cm_middle_post_widget_one .post-holder .post-format span,
+				.cm_middle_post_widget_three .post_thumb .post-format span,
+				.cm_middle_post_widget_four .left-container .post-holder .post-format span,
+				.cm-post-widget-three .post-format span,
+				.cm_post_widget_twelve .card .post_thumb .post-format span,
+				.error_foot form input[type="submit"]:hover, 
+				.widget_search form input[type="submit"]:hover,
+				.widget_product_search .woocommerce-product-search button[type="submit"]:hover, .widget_product_search .woocommerce-product-search button[type="submit"]:focus {
+
+					border-color: rgba(244,67,54,1);
+				}
+
+				.the_content a:hover,
+				.breadcrumb ul li a:hover,
+				.breadcrumb ul li a span:hover {
+
+					color: rgba(244,67,54,1);
+				}
+								.primary-navigation.dark ul li.home-btn a,
+				.cm_header_lay_three .primary-navigation>ul>li.home-btn a,
+				.cm_header_lay_four .navigation-container .primary-navigation ul li.home-btn a {
+
+					color: #ffffff;
+				}
+								.primary-navigation.dark,
+				.cm_header_lay_three .top-header,
+				.cm_header_lay_four .navigation-container,
+				.primary-navigation.dark ul ul {
+
+					background-color: #52bee5;
+				}
+								.primary-navigation.dark ul ul.sub-menu {
+					background-color: #299be8;
+				}
+								.primary-navigation.dark li a:hover,
+				.cm_header_lay_two .primary-navigation.dark ul ul li a:hover {
+					background-color: #f24202;
+				}
+								.primary-navigation.dark li a,
+				.cm_header_lay_two .primary-navigation.dark li a {
+					color: #ffffff;
+				}
+								.primary-navigation.dark li a:hover,
+				.primary-navigation.dark ul li.home-btn a:hover,
+				.cm_header_lay_three .primary-navigation>ul>li.home-btn a:hover,
+				.cm_header_lay_two .primary-navigation.dark>ul>li>a:hover,
+				.cm_header_lay_four .navigation-container .primary-navigation ul li.home-btn a:hover {
+					color: #f24202;
+				}
+								.primary-navigation.dark ul ul li a {
+					color: rgba(255,255,255,1);
+				}
+								.breadcrumb {
+					background-color: rgba(3,169,244,0.05);
+				}
+
+				.breadcrumb::after {
+					border-bottom-color: rgba(3,169,244,0.05);
+				}
+								.breadcrumb ul li a, 
+				.breadcrumb ul li span,
+				.breadcrumb ul li a:after {
+					color: rgba(0,0,0,0.7);
+				}
+								.sidebar-widget-area .widget {
+
+					background-color: rgba(3,169,244,0.05);
+				}
+								.sidebar-widget-area .widget .widget-title h2 {
+
+					color: rgba(3,169,244,1);
+				}
+								.sidebar-widget-area .widget,
+				.sidebar-widget-area .widget a,
+				.sidebar-widget-area .widget .post_title h2 a,
+				.sidebar-widget-area .widget .post_meta a,
+				.sidebar-widget-area .widget_archive a, 
+				.sidebar-widget-area .widget_categories a, 
+				.sidebar-widget-area .widget_recent_entries a, 
+				.sidebar-widget-area .widget_meta a, 
+				.sidebar-widget-area .widget_recent_comments li a, 
+				.sidebar-widget-area .widget_rss li a, 
+				.sidebar-widget-area .widget_pages li a, 
+				.sidebar-widget-area .widget_nav_menu a,
+				.sidebar-widget-area .widget_calendar a,
+				.sidebar-widget-area .widget_tag_cloud .tagcloud a,
+				.sidebar-widget-area .woocommerce .woocommerce-widget-layered-nav-list .woocommerce-widget-layered-nav-list__item a,
+				.sidebar-widget-area .woocommerce ul.cart_list li a, 
+				.sidebar-widget-area .woocommerce ul.product_list_widget li a,
+				.sidebar-widget-area .widget_product_categories a,
+				.sidebar-widget-area .widget_product_tag_cloud .tagcloud a {
+
+					color: rgba(0,0,0,0.6);	
+				}
+								.sidebar-widget-area .widget a:hover,
+				.sidebar-widget-area .widget .post_title h2 a:hover,
+				.sidebar-widget-area .widget .post_meta a:hover,
+				.sidebar-widget-area .widget_archive a:hover, 
+				.sidebar-widget-area .widget_categories a:hover, 
+				.sidebar-widget-area .widget_recent_entries a:hover, 
+				.sidebar-widget-area .widget_meta a:hover, 
+				.sidebar-widget-area .widget_recent_comments li a:hover, 
+				.sidebar-widget-area .widget_rss li a:hover, 
+				.sidebar-widget-area .widget_pages li a:hover, 
+				.sidebar-widget-area .widget_nav_menu a:hover,
+				.sidebar-widget-area .widget_calendar a:hover,
+				.sidebar-widget-area .woocommerce .woocommerce-widget-layered-nav-list .woocommerce-widget-layered-nav-list__item a:hover,
+				.sidebar-widget-area .woocommerce ul.cart_list li a:hover, 
+				.sidebar-widget-area .woocommerce ul.product_list_widget li a:hover,
+				.sidebar-widget-area .widget_product_categories a:hover {
+
+					color: #dd7302;	
+				}
+								.sidebar-widget-area .widget_archive li, 
+				.sidebar-widget-area .widget_categories li, 
+				.sidebar-widget-area .widget_recent_entries li, 
+				.sidebar-widget-area .widget_meta li, 
+				.sidebar-widget-area .widget_recent_comments li, 
+				.sidebar-widget-area .widget_rss li, 
+				.sidebar-widget-area .widget_pages li, 
+				.sidebar-widget-area .widget_nav_menu li,
+				.sidebar-widget-area .calendar_wrap table th,
+				.sidebar-widget-area .calendar_wrap table td,
+				.sidebar-widget-area .widget_categories select, 
+				.sidebar-widget-area .widget_archive select,
+				.sidebar-widget-area .widget_search form input,
+				.sidebar-widget-area .widget_text .textwidget select,
+				.sidebar-widget-area .widget_nav_menu ul.menu li.menu-item-has-children>a,
+				.sidebar-widget-area .widget.woocommerce ul li, 
+				.sidebar-widget-area .widget.woocommerce ul.woocommerce-widget-layered-nav-list li,
+				.sidebar-widget-area .widget_product_categories ul.product-categories li.cat-parent > a,
+				.sidebar-widget-area .widget_product_search .woocommerce-product-search input.search-field,
+				.sidebar-widget-area .widget_product_search .woocommerce-product-search button[type="submit"] {
+
+					border-color: rgba(0,0,0,0.05);
+				}
+								footer .footer_inner {
+
+					background-color: #52bee5;
+				}
+								footer .widget .widget-title h2 {
+
+					color: rgba(3,169,244,1);
+				}
+								footer .widget,
+				footer .copyrights,
+				footer p, 
+				footer span, 
+				footer strong, 
+				footer a, 
+				footer em, 
+				footer b, 
+				footer i, 
+				footer h1, 
+				footer h2, 
+				footer h3, 
+				footer h4, 
+				footer h5, 
+				footer h6,
+				.footer .widget a,
+				.footer .widget .post_title h2 a,
+				.footer .widget .post_meta a,
+				.footer .widget_archive a, 
+				.footer .widget_categories a, 
+				.footer .widget_recent_entries a, 
+				.footer .widget_meta a, 
+				.footer .widget_recent_comments li a, 
+				.footer .widget_rss li a, 
+				.footer .widget_pages li a, 
+				.footer .widget_nav_menu a,
+				.footer .widget_calendar a,
+				.footer .woocommerce .woocommerce-widget-layered-nav-list .woocommerce-widget-layered-nav-list__item a,
+				.footer .woocommerce ul.cart_list li a, 
+				.footer .woocommerce ul.product_list_widget li a,
+				.footer .widget_product_categories a,
+				.footer .widget_product_tag_cloud .tagcloud a,
+				.footer_nav ul li a,
+				.copyrights a {
+
+					color: #e5e5e5;	
+				}
+								.footer .widget a:hover,
+				.footer .widget .post_title h2 a:hover,
+				.footer .widget .post_meta a:hover,
+				.footer .widget_archive a:hover, 
+				.footer .widget_categories a:hover, 
+				.footer .widget_recent_entries a:hover, 
+				.footer .widget_meta a:hover, 
+				.footer .widget_recent_comments li a:hover, 
+				.footer .widget_rss li a:hover, 
+				.footer .widget_pages li a:hover, 
+				.footer .widget_nav_menu a:hover,
+				.footer .widget_calendar a:hover,
+				.footer .woocommerce .woocommerce-widget-layered-nav-list .woocommerce-widget-layered-nav-list__item a:hover,
+				.footer .woocommerce ul.cart_list li a:hover, 
+				.footer .woocommerce ul.product_list_widget li a:hover,
+				.footer .widget_product_categories a:hover,
+				.footer_nav ul li a:hover,
+				.copyrights a:hover {
+
+					color: rgba(3,169,244,1);	
+				}
+								.footer .widget_archive li, 
+				.footer .widget_categories li, 
+				.footer .widget_recent_entries li, 
+				.footer .widget_meta li, 
+				.footer .widget_recent_comments li, 
+				.footer .widget_rss li, 
+				.footer .widget_pages li, 
+				.footer .widget_nav_menu li,
+				.footer .calendar_wrap table th,
+				.footer .calendar_wrap table td,
+				.footer .widget_categories select, 
+				.footer .widget_archive select,
+				.footer .widget_search form input,
+				.footer .widget_text .textwidget select,
+				.footer_nav ul li a,
+				.footer .widget_nav_menu ul.menu li.menu-item-has-children>a,
+				.footer .widget.woocommerce ul li, 
+				.footer .widget.woocommerce ul.woocommerce-widget-layered-nav-list li,
+				.footer .widget_product_categories ul.product-categories li.cat-parent > a,
+				.footer .widget_product_search .woocommerce-product-search input.search-field,
+				.footer .widget_product_search .woocommerce-product-search button[type="submit"] {
+
+					border-color: #777777;
+				}
+						</style>
+			<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #000000; }
+</style>
+	<link rel="icon" href="https://ocs.ku.ac.th/2019/wp-content/uploads/2019/06/cropped-capture-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://ocs.ku.ac.th/2019/wp-content/uploads/2019/06/cropped-capture-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://ocs.ku.ac.th/2019/wp-content/uploads/2019/06/cropped-capture-180x180.png" />
+<meta name="msapplication-tileimage" content="https://ocs.ku.ac.th/2019/wp-content/uploads/2019/06/cropped-capture-270x270.png" />
+	</head>
+ 	 		<body class="page-template-default page page-id-460 custom-background wp-custom-logo woocommerce-no-js language-th cm_woocommerce woocommerce-active">
+ 	 		<div class="page-wrapper">
+ 	<header class="general-header cm_header_lay_two">
+            <div class="top-header hidden-sm hidden-xs">
+            <div class="cm-container">
+                <div class="row">
+                    <div class="col-md-8 col-sm-7 col-xs-12">
+                        <div class="top-header-left">
+                                                    </div><!-- .top-header-left -->
+                    </div><!-- .col -->
+                    <div class="col-md-4 col-sm-5 col-xs-12">
+                        <div class="top-header-social-links">
+                             		<ul class="social-icons">
+ 			 				<li><a href="https://www.facebook.com/ocs.ku">facebook</a></li>
+ 				       
+            	<li><a href="https://www.youtube.com/user/ocsku2012">youtube</a></li>
+            	       
+            	<li><a href="https://ocs.ku.ac.th/ku-emagazine/">linkedin</a></li>
+            	       
+        </ul>
+ 		                        </div><!-- .top-header-social-links -->
+                    </div><!-- .col -->
+                </div><!-- .row -->
+            </div><!-- .cm-container -->
+        </div><!-- .top-header -->
+        <div class="cm-container">
+        <div class="logo-container">
+            <div class="row">
+                <div class="col-md-4 col-sm-12 col-xs-12">
+                     		<div class="logo">
+ 			<a href="https://ocs.ku.ac.th/2019/" class="custom-logo-link" rel="home"><img width="799" height="188" src="https://ocs.ku.ac.th/2019/wp-content/uploads/2019/06/cropped-untitled-1-1.jpg" class="custom-logo" alt="ocs | office of computer service" srcset="https://ocs.ku.ac.th/2019/wp-content/uploads/2019/06/cropped-untitled-1-1.jpg 799w, https://ocs.ku.ac.th/2019/wp-content/uploads/2019/06/cropped-untitled-1-1-300x71.jpg 300w, https://ocs.ku.ac.th/2019/wp-content/uploads/2019/06/cropped-untitled-1-1-768x181.jpg 768w, https://ocs.ku.ac.th/2019/wp-content/uploads/2019/06/cropped-untitled-1-1-600x141.jpg 600w" sizes="(max-width: 799px) 100vw, 799px" /></a>        </div><!-- .logo -->
+ 		                </div><!-- .col -->
+                <div class="col-md-8 col-sm-12 col-xs-12">
+                    <nav class="main-navigation">
+                        <div id="main-nav" class="primary-navigation">
+                            <ul id="menu-primary-menu" class=""><li class="home-btn"><a href="https://ocs.ku.ac.th/2019/"><i class="feather icon-home" aria-hidden="true"></i></a></li><li id="menu-item-1024" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1024"><a href="#">แนะนำสำนักฯ</a>
+<ul class="sub-menu">
+	<li id="menu-item-1039" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1039"><a href="#">เกี่ยวกับเรา</a>
+	<ul class="sub-menu">
+		<li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247"><a href="https://ocs.ku.ac.th/2019/his/">ประวัติ</a></li>
+		<li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246"><a href="https://ocs.ku.ac.th/2019/vision/">วิสัยทัศน์ พันธกิจ ค่านิยมหลัก และประเด็นยุทธศาสตร์</a></li>
+		<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="https://ocs.ku.ac.th/2019/structure/">โครงสร้างการแบ่งส่วนราชการ</a></li>
+		<li id="menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-710"><a href="https://ocs.ku.ac.th/2019/policy/">นโยบายการใช้งานเครือข่าย</a></li>
+		<li id="menu-item-2421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2421"><a href="https://ocs.ku.ac.th/2019/award/">รางวัล</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1038" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1038"><a href="#">ผู้บริหารและบุคลากร</a>
+	<ul class="sub-menu">
+		<li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="https://ocs.ku.ac.th/2019/ajocs/">คณะกรรมการประจำ</a></li>
+		<li id="menu-item-244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-244"><a href="https://ocs.ku.ac.th/2019/admin/">คณะผู้บริหาร</a></li>
+		<li id="menu-item-292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-292"><a href="https://ocs.ku.ac.th/2019/adm/">สำนักงานเลขานุการ</a></li>
+		<li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-308"><a href="https://ocs.ku.ac.th/2019/sat/">ฝ่ายฝึกอบรมและสื่ออิเล็กทรอนิกส์</a></li>
+		<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="https://ocs.ku.ac.th/2019/inf/">ฝ่ายระบบสารสนเทศ</a></li>
+		<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-306"><a href="https://ocs.ku.ac.th/2019/san/">ฝ่ายระบบคอมพิวเตอร์และเครือข่าย</a></li>
+		<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305"><a href="https://ocs.ku.ac.th/2019/its/">ฝ่ายบริการสารสนเทศ</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1490" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1490"><a href="https://ocs.ku.ac.th/2019/wp-content/uploads/2020/01/policy_greenoffice.pdf">สำนักงานสีเขียว</a></li>
+	<li id="menu-item-2777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2777"><a href="https://ocs.ku.ac.th/2019/knowledge-ocs/">คลังความรู้ดิจิทัล</a></li>
+	<li id="menu-item-1727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1727"><a href="https://ocs.ku.ac.th/2019/map-ocs/">แผนที่และการเดินทาง</a></li>
+</ul>
+</li>
+<li id="menu-item-1040" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1040"><a href="#">ประกันคุณภาพหน่วยงาน</a>
+<ul class="sub-menu">
+	<li id="menu-item-268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-268"><a href="https://ocs.ku.ac.th/2019/plan/">แผนงานประกันคุณภาพ</a></li>
+	<li id="menu-item-267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267"><a href="https://ocs.ku.ac.th/2019/report/">รายงานประจำปี</a></li>
+</ul>
+</li>
+<li id="menu-item-1023" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-1023"><a href="#">การบริการ</a>
+<ul class="sub-menu">
+	<li id="menu-item-1041" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1041"><a href="#">บริการระบบคอมพิวเตอร์และเครือข่าย</a>
+	<ul class="sub-menu">
+		<li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375"><a href="https://ocs.ku.ac.th/2019/service-nontri/">บริการบัญชีผู้ใช้เครือข่ายนนทรี</a></li>
+		<li id="menu-item-382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-382"><a href="https://ocs.ku.ac.th/2019/service-email/">บริการจดหมายอิเล็กทรอนิกส์</a></li>
+		<li id="menu-item-385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385"><a href="https://ocs.ku.ac.th/2019/service-homepage/">บริการพื้นที่โฮมเพจ</a></li>
+		<li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="https://ocs.ku.ac.th/2019/ku-google/">บริการบัญชี ku-google</a></li>
+		<li id="menu-item-399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399"><a href="https://ocs.ku.ac.th/2019/kuwin/">บริการเครือข่ายไร้สาย (kuwin)</a></li>
+		<li id="menu-item-403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-403"><a href="https://ocs.ku.ac.th/2019/service-vpn/">บริการเชื่อมต่อเครือข่ายเสมือน (vpn)</a></li>
+		<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="https://ocs.ku.ac.th/2019/cloud-services/">บริการ cloud services</a></li>
+		<li id="menu-item-413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-413"><a href="https://ocs.ku.ac.th/2019/service-account/">บริการระบบยืนยันตัวบุคคลและบริหารจัดการบัญชีผู้ใช้</a></li>
+		<li id="menu-item-417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-417"><a href="https://ocs.ku.ac.th/2019/colocation-service/">บริการให้เช่าพื้นที่จัดเก็บสารสนเทศ</a></li>
+		<li id="menu-item-422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422"><a href="https://ocs.ku.ac.th/2019/eduroam/">บริการเครือข่ายโรมมิ่ง eduroam</a></li>
+		<li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-431"><a href="https://ocs.ku.ac.th/2019/ku-microsoft-office-365/">บริการบัญชี ku-microsoft office 365</a></li>
+		<li id="menu-item-435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a href="https://ocs.ku.ac.th/2019/ku-all-login/">บริการระบบยืนยันตัวบุคคลส่วนกลาง ku all-login</a></li>
+		<li id="menu-item-522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522"><a href="https://ocs.ku.ac.th/2019/ai-server/">บริการ ai server</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1042" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1042"><a href="#">บริการสารสนเทศ</a>
+	<ul class="sub-menu">
+		<li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><a href="https://ocs.ku.ac.th/2019/helpdesk-service/">บริการศูนย์ให้คำปรึกษา รับแจ้งและแก้ไขปัญหาทางเทคนิค (helpdesk)</a></li>
+		<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="https://ocs.ku.ac.th/2019/kits/">บริการห้องปฏิบัติการคอมพิวเตอร์ (kits) และห้องศึกษากลุ่มย่อย</a></li>
+		<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="https://ocs.ku.ac.th/2019/download/">บริการดาวน์โหลดโปรแกรมลิขสิทธิ์</a></li>
+		<li id="menu-item-462" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-460 current_page_item menu-item-462"><a href="https://ocs.ku.ac.th/2019/photo-express/" aria-current="page">บริการถ่ายภาพด่วนติดบัตร</a></li>
+		<li id="menu-item-465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-465"><a href="https://ocs.ku.ac.th/2019/nontri-live/">บริการถ่ายทอดสด (nontri live)</a></li>
+		<li id="menu-item-468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-468"><a href="https://ocs.ku.ac.th/2019/vdo-conference/">บริการการเรียนการสอนทางไกลผ่านเครือข่าย (vdo conference)</a></li>
+		<li id="menu-item-473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="https://ocs.ku.ac.th/2019/microsoft-azure/">บริการ microsoft azure dev tools for teaching</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1043" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1043"><a href="#">ระบบระบบสารสนเทศ</a>
+	<ul class="sub-menu">
+		<li id="menu-item-480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://ocs.ku.ac.th/2019/service-inf-2/">บริการระบบสารสนเทศ</a></li>
+		<li id="menu-item-485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-485"><a href="https://ocs.ku.ac.th/2019/mobileapp/">บริการแอปพลิเคชันสำหรับสมาร์ทโฟน</a></li>
+	</ul>
+</li>
+	<li id="menu-item-365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-365"><a href="https://ocs.ku.ac.th/2019/service-training/">บริการฝึกอบรม (training)</a></li>
+	<li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="https://ocs.ku.ac.th/2019/service-room/">บริการให้เช่าห้องอบรม / ห้องปฏิบัติการคอมพิวเตอร์ / สัมมนา</a></li>
+</ul>
+</li>
+<li id="menu-item-1022" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1022"><a href="#">ดาวน์โหลด</a>
+<ul class="sub-menu">
+	<li id="menu-item-318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-318"><a href="https://ocs.ku.ac.th/2019/form/">แบบฟอร์ม</a></li>
+	<li id="menu-item-319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-319"><a href="https://ocs.ku.ac.th/2019/manual/">คู่มือและเอกสารแนะนำ</a></li>
+</ul>
+</li>
+<li id="menu-item-1128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1128"><a href="https://ocs.ku.ac.th/2019/nisit-2/">สำหรับนิสิต</a></li>
+<li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-249"><a href="https://ocs.ku.ac.th/2019/personnel/">สำหรับบุคลากร</a></li>
+</ul>                        </div><!-- #main-nav.primary-navigation -->
+                        <div class="header-search-container">
+                            <form role="search" method="get" id="search-form" class="clearfix" action="https://ocs.ku.ac.th/2019/"><input type="search" name="s" placeholder="type here" value"" ><input type="submit" id="submit" value="search"></form>                        </div><!-- .search-container -->
+                    </nav><!-- .main-navigation -->
+                </div><!-- .col -->
+            </div><!-- .row -->
+        </div><!-- .logo-container -->
+    </div><!-- .cm-container -->
+</header><!-- .general-header.cm_header_lay_two --> 	<div class="cm-container">
+    <div class="inner-page-wrapper">
+        <div id="primary" class="content-area">
+            <main id="main" class="site-main">
+                <div class="cm_post_page_lay_wrap">
+                     			<div class="breadcrumb hidden-xs hidden-sm">
+	            <nav role="navigation" aria-label="breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/breadcrumblist"><meta name="numberofitems" content="2" /><meta name="itemlistorder" content="ascending" /><li itemprop="itemlistelement" itemscope itemtype="http://schema.org/listitem" class="trail-item trail-begin"><a href="https://ocs.ku.ac.th/2019/" rel="home" itemprop="item"><span itemprop="name">home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemlistelement" itemscope itemtype="http://schema.org/listitem" class="trail-item trail-end"><span itemprop="item"><span itemprop="name">บริการถ่ายภาพด่วนติดบัตร</span></span><meta itemprop="position" content="2" /></li></ul></nav>	        </div><!-- .breadcrumb -->
+ 			                    <div class="row">
+                        <div class="page-container clearfix">
+                        	                            <div class="col-md-8 col-sm-12 col-xs-12 sticky_portion">
+                                <div class="content-entry">
+	<article id="post-460" class="post-460 page type-page status-publish hentry">
+	    <div class="the_title">
+	        <h2>บริการถ่ายภาพด่วนติดบัตร</h2>
+	    </div><!-- .the_title -->
+	    	    <div class="the_content">
+	    	
+<p>บริการถ่ายภาพติดบัตร เพื่อใช้ในการสมัครเรียน สมัครงาน และวีซ่า ด้วยกล้อง dslr คุณภาพสูง พร้อมแต่งภาพสวยงาม ขนาดตั้งแต่ 1 – 2 นิ้ว ในราคาโหลละ 60 บาท (กรณีตัดต่อภาพสำหรับชุดข้าราชการ หรือต้องการไฟล์ภาพด้วย ราคาโหลละ 120 บาท) สามารถใช้บริการได้ที่ ชั้น 2 counter services อาคารสำนักบริการคอมพิวเตอร์ เวลาทำการ วันจันทร์-ศุกร์ 8.30-16.30 น. (ตามวันและเวลาราชการ)</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://ocs.ku.ac.th/new/wp-content/uploads/2015/02/photo-express.jpg" alt="photo-express" class="wp-image-2432"/></figure></div>
+
+
+
+<blockquote class="wp-block-quote"><p>สอบถามเพิ่มเติม: ฝ่ายบริการสารสนเทศ โทร. 0-2562-0951-6 ต่อ 622541-3</p></blockquote>
+	    </div><!-- .the_content -->
+	</article><!-- #post-460 -->
+</div><!-- .content-entry -->
+                            </div><!-- .col -->
+                            <div class="col-md-4 col-sm-12 col-xs-12 sticky_portion">
+	<aside id="secondary" class="sidebar-widget-area">
+		<div id="wpm_language_switcher-2" class="widget wpm widget_language_switcher"><ul class="wpm-language-switcher switcher-list">
+			<li class="item-language-th active">
+							<span data-lang="th">
+												<img src="https://ocs.ku.ac.th/2019/wp-content/plugins/wp-multilang/flags/th.png" alt="th">
+													<span>th</span>
+											</span>
+					</li>
+			<li class="item-language-en">
+							<a href="https://ocs.ku.ac.th/2019/en/photo-express/" data-lang="en">
+												<img src="https://ocs.ku.ac.th/2019/wp-content/plugins/wp-multilang/flags/en.png" alt="english (us)">
+													<span>english (us)</span>
+											</a>
+					</li>
+	</ul>
+</div><div id="custom_html-6" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href ="https://ocs.ku.ac.th/2019/nisit-2/"><img class="wp-image-79 alignleft" src="https://ocs.ku.ac.th/2019/wp-content/uploads/2019/06/nisit.png" alt="" width="115" height="133"></a> &nbsp; &nbsp;<a href ="https://ocs.ku.ac.th/2019/index.php/personnel/"><img class="wp-image-78 alignleft" src="https://ocs.ku.ac.th/2019/wp-content/uploads/2019/06/empo.png" alt="" width="115" height="133"></a></div></div><div id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="widget-title"><h2>บริการของเรา</h2></div>			<div class="cm_relatedpost_widget">
+                <div class="row clearfix">
+                              
+                                                <div class="col-md-12 col-sm-6 col-xs-12">
+                            <div class="row">
+                                <div class="box clearfix">
+                                    <div class="col-md-5 col-sm-5 col-xs-4">
+                                        <div class="post_thumb imghover">
+                                            	 	<a href="https://ocs.ku.ac.th/2019/service-network/">
+		 	<img src="https://ocs.ku.ac.th/2019/wp-content/uploads/2019/11/network.png" class="attachment-cream-magazine-thumbnail-3 size-cream-magazine-thumbnail-3 wp-post-image" alt="test slide 3" width="720" height="540">	 	</a>
+		                                        </div><!-- .post_thumb.imghover -->
+                                    </div>
+                                    <div class="col-md-7 col-sm-7 col-xs-8">
+                                        <div class="post_title">
+                                            <h2><a href="https://ocs.ku.ac.th/2019/service-network/">บริการระบบคอมพิวเตอร์และเครือข่าย</a></h2>
+                                        </div>
+                                        			<div class="meta">
+				<ul class="post_meta">
+							        </ul><!-- .post_meta -->
+		    </div><!-- .meta -->
+			                                    </div>
+                                </div><!-- .box.clearfix -->
+                            </div><!-- .row -->
+                        </div>
+                                                    <div class="row clearfix"></div>
+                                                    <div class="col-md-12 col-sm-6 col-xs-12">
+                            <div class="row">
+                                <div class="box clearfix">
+                                    <div class="col-md-5 col-sm-5 col-xs-4">
+                                        <div class="post_thumb imghover">
+                                            	 	<a href="https://ocs.ku.ac.th/2019/service-information/">
+		 	<img src="https://ocs.ku.ac.th/2019/wp-content/uploads/2019/11/0013_01_0.png" class="attachment-cream-magazine-thumbnail-3 size-cream-magazine-thumbnail-3 wp-post-image" alt="test slide 2" width="720" height="540">	 	</a>
+		                                        </div><!-- .post_thumb.imghover -->
+                                    </div>
+                                    <div class="col-md-7 col-sm-7 col-xs-8">
+                                        <div class="post_title">
+                                            <h2><a href="https://ocs.ku.ac.th/2019/service-information/">บริการสารสนเทศ</a></h2>
+                                        </div>
+                                        			<div class="meta">
+				<ul class="post_meta">
+							        </ul><!-- .post_meta -->
+		    </div><!-- .meta -->
+			                                    </div>
+                                </div><!-- .box.clearfix -->
+                            </div><!-- .row -->
+                        </div>
+                                                <div class="row clearfix"></div>
+                                                    <div class="col-md-12 col-sm-6 col-xs-12">
+                            <div class="row">
+                                <div class="box clearfix">
+                                    <div class="col-md-5 col-sm-5 col-xs-4">
+                                        <div class="post_thumb imghover">
+                                            	 	<a href="https://ocs.ku.ac.th/2019/service-system/">
+		 	<img src="https://ocs.ku.ac.th/2019/wp-content/uploads/2019/11/003_02.png" class="attachment-cream-magazine-thumbnail-3 size-cream-magazine-thumbnail-3 wp-post-image" alt="test slide 2" width="720" height="540">	 	</a>
+		                                        </div><!-- .post_thumb.imghover -->
+                                    </div>
+                                    <div class="col-md-7 col-sm-7 col-xs-8">
+                                        <div class="post_title">
+                                            <h2><a href="https://ocs.ku.ac.th/2019/service-system/">บริการระบบสารสนเทศ</a></h2>
+                                        </div>
+                                        			<div class="meta">
+				<ul class="post_meta">
+							        </ul><!-- .post_meta -->
+		    </div><!-- .meta -->
+			                                    </div>
+                                </div><!-- .box.clearfix -->
+                            </div><!-- .row -->
+                        </div>
+                                                <div class="col-md-12 col-sm-6 col-xs-12">
+                            <div class="row">
+                                <div class="box clearfix">
+                                    <div class="col-md-5 col-sm-5 col-xs-4">
+                                        <div class="post_thumb imghover">
+                                            	 	<a href="https://ocs.ku.ac.th/2019/service-room/">
+		 	<img src="https://ocs.ku.ac.th/2019/wp-content/uploads/2019/06/009.png" class="attachment-cream-magazine-thumbnail-3 size-cream-magazine-thumbnail-3 wp-post-image" alt="test slide 1" width="720" height="540">	 	</a>
+		                                        </div><!-- .post_thumb.imghover -->
+                                    </div>
+                                    <div class="col-md-7 col-sm-7 col-xs-8">
+                                        <div class="post_title">
+                                            <h2><a href="https://ocs.ku.ac.th/2019/service-room/">บริการให้เช่าห้อง</a></h2>
+                                        </div>
+                                        			<div class="meta">
+				<ul class="post_meta">	
+
+							        </ul><!-- .post_meta -->
+		    </div><!-- .meta -->
+			                                    </div>
+                                </div><!-- .box.clearfix -->
+                            </div><!-- .row -->
+                        </div>
+                                          <div class="col-md-12 col-sm-6 col-xs-12">
+                            <div class="row">
+                                <div class="box clearfix">
+                                    <div class="col-md-5 col-sm-5 col-xs-4">
+                                        <div class="post_thumb imghover">
+                                            	 	<a href="https://ocs.ku.ac.th/2019/service-training/">
+		 	<img src="https://ocs.ku.ac.th/2019/wp-content/uploads/2019/06/005.png" class="attachment-cream-magazine-thumbnail-3 size-cream-magazine-thumbnail-3 wp-post-image" alt="test slide 1" width="720" height="540">	 	</a>
+		                                        </div><!-- .post_thumb.imghover -->
+                                    </div>
+                                    <div class="col-md-7 col-sm-7 col-xs-8">
+                                        <div class="post_title">
+                                            <h2><a href="https://ocs.ku.ac.th/2019/service-training/">บริการฝึกอบรม</a></h2>
+                                        </div>
+                                        			<div class="meta">
+				<ul class="post_meta">	
+
+							        </ul><!-- .post_meta -->
+		    </div><!-- .meta -->
+			                                    </div>
+                                </div><!-- .box.clearfix -->
+                            </div><!-- .row -->
+                        </div>
+                                        </div><!-- .row.clearfix -->
+            </div><!-- .cm_relatedpost_widget --></div></div>	</aside><!-- #secondary -->
+</div><!-- .col.sticky_portion -->                        </div><!-- .page-container -->
+                    </div><!-- .row -->
+                </div><!-- .cm_post_page_lay_wrap -->
+            </main><!-- #main.site-main -->
+        </div><!-- #primary.content-area -->
+    </div><!-- .inner-page-wrapper -->
+</div><!-- .cm-container -->
+ 		<footer class="footer">
+	        <div class="footer_inner">
+	            <div class="cm-container">
+ 		 		<div class="footer-widget-container row">
+ 		            <div class="col-md-4 col-sm-12 col-xs-12">
+                <div class="blocks">
+                    <div id="text-3" class="widget widget_text">			<div class="textwidget"><p>สำนักบริการคอมพิวเตอร์ มหาวิทยาลัยเกษตรศาสตร์</p>
+<p>50 ถนนงามวงศ์วาน แขวงลาดยาว เขตจตุจักร กทม. 10900<br />
+โทร. 0-2562-0951-6 ต่อ 622501, 622555<br />
+helpdesk 622541-3<br />
+แฟกซ์. 0-2562-0950</p>
+</div>
+		</div>                </div><!-- .blocks -->
+            </div><!-- .col-->
+    		            <div class="col-md-4 col-sm-12 col-xs-12">
+                <div class="blocks">
+                    <div id="wpm_language_switcher-3" class="widget wpm widget_language_switcher"><ul class="wpm-language-switcher switcher-list">
+			<li class="item-language-th active">
+							<span data-lang="th">
+												<img src="https://ocs.ku.ac.th/2019/wp-content/plugins/wp-multilang/flags/th.png" alt="th">
+													<span>th</span>
+											</span>
+					</li>
+			<li class="item-language-en">
+							<a href="https://ocs.ku.ac.th/2019/en/photo-express/" data-lang="en">
+												<img src="https://ocs.ku.ac.th/2019/wp-content/plugins/wp-multilang/flags/en.png" alt="english (us)">
+													<span>english (us)</span>
+											</a>
+					</li>
+	</ul>
+</div>                </div><!-- .blocks -->
+            </div><!-- .col-->
+    		            <div class="col-md-4 col-sm-12 col-xs-12">
+                <div class="blocks">
+                    <div id="text-4" class="widget widget_text">			<div class="textwidget"><p><a href="http://www.ocs.ku.ac.th">www.ocs.ku.ac.th</a></p>
+<p><a href="http://www.facebook.com/ocs.ku">www.facebook.com/ocs.ku</a></p>
+<p>อีเมล์ : <a href="mailto:webmaster-cpc@ku.ac.th">webmaster-cpc@ku.ac.th</a></p>
+<p><a href="http://ocs.ku.ac.th/new"><strong>เว็บไซต์เดิม</strong></a></p>
+</div>
+		</div>                </div><!-- .blocks -->
+            </div><!-- .col-->
+    		 		</div><!-- .row -->
+ 		 		<div class="copyright_section">
+            <div class="row">
+ 		        <div class="col-md-7 col-sm-6 col-xs-12">
+            <div class="copyrights">
+ 									<p>ocs | office of computer service kasetsart university © 2019 </p>
+					            </div>
+        </div><!-- .col -->
+    	 		<div class="col-md-5 col-sm-6 col-xs-12">
+	        <div class="footer_nav">
+	            	        </div><!-- .footer_nav -->
+	    </div><!-- .col -->
+	     			</div><!-- .row -->
+        </div><!-- .copyright_section -->
+ 			 				</div><!-- .cm-container -->
+	 				        </div><!-- .footer_inner -->
+	    </footer><!-- .footer -->
+ 		 		</div><!-- .page_wrap -->
+ 		<script type="text/javascript">
+		var c = document.body.classname;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.classname = c;
+	</script>
+	<script type='text/javascript'>
+/* <![cdata[ */
+var wpcf7 = {"apisettings":{"root":"https:\/\/ocs.ku.ac.th\/2019\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ocs.ku.ac.th/2019/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3'></script>
+<script type='text/javascript' src='https://ocs.ku.ac.th/2019/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockui.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var wc_add_to_cart_params = {"ajax_url":"\/2019\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/2019\/?wc-ajax=%%endpoint%%","i18n_view_cart":"view cart","cart_url":"https:\/\/ocs.ku.ac.th\/2019","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ocs.ku.ac.th/2019/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.6.4'></script>
+<script type='text/javascript' src='https://ocs.ku.ac.th/2019/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var woocommerce_params = {"ajax_url":"\/2019\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/2019\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ocs.ku.ac.th/2019/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.6.4'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var wc_cart_fragments_params = {"ajax_url":"\/2019\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/2019\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_b4ccdcb683532839c3daa6543c25e698","fragment_name":"wc_fragments_b4ccdcb683532839c3daa6543c25e698","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ocs.ku.ac.th/2019/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.6.4'></script>
+<script type='text/javascript' src='https://ocs.ku.ac.th/2019/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://ocs.ku.ac.th/2019/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://ocs.ku.ac.th/2019/wp-content/themes/cream-magazine-pro/assets/dist/js/bundle.min.js?ver=1.1.0'></script>
+<script type='text/javascript' src='https://ocs.ku.ac.th/2019/wp-includes/js/wp-embed.min.js?ver=5.2.2'></script>
+            </body>
+        </html>
+    	

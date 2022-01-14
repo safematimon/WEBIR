@@ -1,0 +1,1120 @@
+
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="author" content="inspiro"/>
+    <meta name="description" content="themeforest template polo">
+    <link rel="shortcut icon" type="image/png" href="/assets/ku_logo_new-eef9e6c63bac8e1c08dbae129f5d8762.png"/>
+    <!-- document title -->
+    <title>หน้าแรก | สภามหาวิทยาลัยเกษตรศาสตร์</title>
+
+    <!-- loading fonts and icons -->
+    <link href="https://fonts.googleapis.com/css?family=prompt&display=swap" rel="stylesheet">
+
+    <!-- stylesheets & fonts -->
+    <link rel="stylesheet" href="/assets/home/application-aec08ce359d0a0107305747133fb3f51.css"/>
+
+    <!-- template color -->
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/home/color-variations/green-80f16499aa91ece2f05112b556ed2f2c.css"/>
+
+    <!-- global site tag (gtag.js) - google analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=ua-150299228-1"></script>
+    <script> window.datalayer = window.datalayer || []; function gtag(){datalayer.push(arguments);} gtag('js', new date()); gtag('config', 'ua-150299228-1'); </script>
+
+    
+    
+    <meta name="layout" content="home">
+
+    <!-- load jquery library -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
+
+    <link rel="stylesheet" href="/assets/home/home-8b2d7f5168a2031230f43b6ff5bac61e.css"/>
+    <script type="text/javascript" src="/assets/home/home-0435eebe753a325a2c9c7c11d6409511.js" ></script>
+
+
+</head>
+
+<body>
+
+<!-- body inner -->
+<div class="body-inner">
+
+    <!-- header -->
+    <header id="header" class="main-header">
+        <div class="header-inner">
+            <div class="container">
+                <!--logo-->
+                <div class="box-logo">
+                    <div class="logo">
+                        <a href="https://www.ku.ac.th/web2012/index.php?c=adms&amp;m=mainpage1"
+                           data-src-dark="http://kucouncil.ku.ac.th/uploads/logo/76e9d870-cbbc-43e2-9fea-b343c7eb4130.png">
+                            <img src="http://kucouncil.ku.ac.th/uploads/logo/76e9d870-cbbc-43e2-9fea-b343c7eb4130.png" alt="ku logo"/>
+                        </a>
+                    </div>
+
+                    <div class="logo">
+                        <a href="http://council.ku.ac.th/" data-src-dark="http://kucouncil.ku.ac.th/uploads/logo/54692a56-8a47-42a0-99bb-d6fbfbc28c36.png">
+                            <img src="http://kucouncil.ku.ac.th/uploads/logo/54692a56-8a47-42a0-99bb-d6fbfbc28c36.png" alt="ku logo"/>
+                        </a>
+                    </div>
+                </div>
+                <!--end logo-->
+
+                <!--navigation resposnive trigger-->
+                <div id="mainmenu-trigger">
+                    <button class="lines-button x"><span class="lines"></span></button>
+                </div>
+                <!--end: navigation resposnive trigger-->
+
+                <!--navigation-->
+                <div id="mainmenu" class="light mainmenu">
+                    <div class="container">
+                        <nav>
+                            <ul>
+                                <li><a href="/">หน้าแรก</a></li>
+                                <li class="dropdown" onclick="controlheadermenu(this)">
+                                    <a>เกี่ยวกับสภา</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="/about/structure">โครงสร้างสภามหาวิทยาลัย</a></li>
+                                        <li><a href="/about/mission">ภารกิจสภามหาวิทยาลัย</a></li>
+                                        <li><a href="/committee/index">คณะกรรมการสภา</a></li>
+                                        <li><a href="/about/president">ทำเนียบนายกสภามหาวิทยาลัย</a></li>
+                                        <li><a href="/about/laws">กฏหมายที่เกี่ยวข้องกับสภามหาวิทยาลัย</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="dropdown" onclick="controlheadermenu(this)">
+                                    <a href="#">สำนักงานสภา</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="/office/about">เกี่ยวกับสำนักงานสภามหาวิทยาลัย</a></li>
+                                        <li><a href="/office/structure">โครงสร้างสำนักงานสภามหาวิทยาลัย</a></li>
+                                        <li><a href="/board/index" >ผู้บริหารและบุคลากร</a></li>
+                                        <li><a href="/office/laws">กฏหมายที่เกี่ยวข้องกับสำนักงานสภามหาวิทยาลัย</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="dropdown" onclick="controlheadermenu(this)">
+                                    <a href="#">ปริญญากิตติมศักดิ์/ศาสตราจารย์เกียรติคุณ</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="/honorarydegree/getdynastylist">ปริญญากิตติมศักดิ์</a></li>
+                                        <li><a href="/honorarydegree/index">ศาสตราจารย์เกียรติคุณ</a></li>
+                                    </ul>
+                                </li>
+
+
+                                <li class="dropdown" onclick="controlheadermenu(this)">
+                                    <a href="#">อื่นๆ</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="/other/meetingagenda">ระเบียบวาระการประชุมสภา</a></li>
+                                        <li><a href="/other/meetingsummary">มติการประชุมสภา</a></li>
+                                        <li><a href="/other/meetingcalendar" >ปฏิทินการประชุมสภา</a></li>
+                                        <li><a href="/other/gallery">ภาพกิจกรรม</a></li>
+                                        <li><a href="/other/contact">ติดต่อเรา</a></li>
+                                    </ul>
+                                </li>
+
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+                <!--end: navigation-->
+            </div>
+        </div>
+    </header>
+    <!-- end: header -->
+    
+<!-- revolution slider -->
+<section id="slider">
+    <div id="rev_slider_1078_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container banner-home"
+         data-alias="classic4export"
+         style="margin:0 auto;background-color:transparent;padding:0;">
+        <!-- start revolution slider 5.4.1 auto mode -->
+        <div id="rev_slider_1078_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.1">
+            <ul>
+                
+                    <!-- slide  -->
+                    <li data-index="rs-3040" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0"
+                        data-hideslideonmobile="off" data-easein="power4.easeinout" data-easeout="power4.easeinout"
+                        data-masterspeed="2000" data-thumb="http://kucouncil.ku.ac.th/uploads/banner/e3e3d5a0-8db2-4e0e-8e10-7c4be3298b91.jpg" data-rotate="0"
+                        data-fstransition="fade"
+                        data-title="" data-url="https://forms.gle/qqug8b2zxtmqzdi59" onclick="activelinkbanner(this)">
+
+                        <!-- main image -->
+                        <img src="http://kucouncil.ku.ac.th/uploads/banner/071f77bf-c8cd-4ec4-bf39-2ce99ec72716.jpg" alt=""
+                             data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
+                             data-bgparallax="10" class="rev-slidebg" data-no-retina >
+                        <!-- layers -->
+
+                        <!-- layer nr. 1 -->
+                        <div class="tp-caption notgeneric-title tp-resizeme"
+                             id="slide-3040-layer-1"
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-x="center"
+                             data-y="center"
+                             data-hoffset="0"
+                             data-voffset="0"
+                             data-width="['auto']"
+                             data-height="['auto']"
+
+                             style="z-index: 5; white-space: nowrap;">
+                            
+                        </div>
+
+                        <!-- layer nr. 2 -->
+                        <div class="tp-caption notgeneric-subtitle sub-caption tp-resizeme"
+                             id="slide-3040-layer-4"
+                             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                             data-y="['middle','middle','middle','middle']" data-voffset="['52','52','52','51']"
+                             data-width="none"
+                             data-height="none"
+                             data-whitespace="nowrap"
+
+                             data-type="text"
+                             data-responsive_offset="on"
+
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-textalign="['left','left','left','left']"
+                             data-paddingtop="[0,0,0,0]"
+                             data-paddingright="[0,0,0,0]"
+                             data-paddingbottom="[0,0,0,0]"
+                             data-paddingleft="[0,0,0,0]"
+
+                             style="z-index: 6; white-space: nowrap; font-size: 35px;">
+                            
+                        </div>
+
+                    </li>
+                
+                    <!-- slide  -->
+                    <li data-index="rs-3041" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0"
+                        data-hideslideonmobile="off" data-easein="power4.easeinout" data-easeout="power4.easeinout"
+                        data-masterspeed="2000" data-thumb="http://kucouncil.ku.ac.th/uploads/banner/997f9e29-6aaa-44c8-88a3-73aa8e7a0785.jpg" data-rotate="0"
+                        data-fstransition="fade"
+                        data-title="" data-url="https://forms.gle/quhsfcdt5mgvtw1m6" onclick="activelinkbanner(this)">
+
+                        <!-- main image -->
+                        <img src="http://kucouncil.ku.ac.th/uploads/banner/dc35d37f-4fa9-455c-8536-379662db5847.jpg" alt=""
+                             data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
+                             data-bgparallax="10" class="rev-slidebg" data-no-retina >
+                        <!-- layers -->
+
+                        <!-- layer nr. 1 -->
+                        <div class="tp-caption notgeneric-title tp-resizeme"
+                             id="slide-3041-layer-1"
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-x="center"
+                             data-y="center"
+                             data-hoffset="0"
+                             data-voffset="0"
+                             data-width="['auto']"
+                             data-height="['auto']"
+
+                             style="z-index: 5; white-space: nowrap;">
+                            
+                        </div>
+
+                        <!-- layer nr. 2 -->
+                        <div class="tp-caption notgeneric-subtitle sub-caption tp-resizeme"
+                             id="slide-3041-layer-4"
+                             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                             data-y="['middle','middle','middle','middle']" data-voffset="['52','52','52','51']"
+                             data-width="none"
+                             data-height="none"
+                             data-whitespace="nowrap"
+
+                             data-type="text"
+                             data-responsive_offset="on"
+
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-textalign="['left','left','left','left']"
+                             data-paddingtop="[0,0,0,0]"
+                             data-paddingright="[0,0,0,0]"
+                             data-paddingbottom="[0,0,0,0]"
+                             data-paddingleft="[0,0,0,0]"
+
+                             style="z-index: 6; white-space: nowrap; font-size: 35px;">
+                            
+                        </div>
+
+                    </li>
+                
+                    <!-- slide  -->
+                    <li data-index="rs-3042" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0"
+                        data-hideslideonmobile="off" data-easein="power4.easeinout" data-easeout="power4.easeinout"
+                        data-masterspeed="2000" data-thumb="http://kucouncil.ku.ac.th/uploads/banner/b6b4b9fc-97bc-46c3-8edd-face5b1978e5.png" data-rotate="0"
+                        data-fstransition="fade"
+                        data-title="" data-url="https://forms.gle/bnwpdn31ovbnvtkq9" onclick="activelinkbanner(this)">
+
+                        <!-- main image -->
+                        <img src="http://kucouncil.ku.ac.th/uploads/banner/ada677a5-4168-439f-86de-c17c64396468.png" alt=""
+                             data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
+                             data-bgparallax="10" class="rev-slidebg" data-no-retina >
+                        <!-- layers -->
+
+                        <!-- layer nr. 1 -->
+                        <div class="tp-caption notgeneric-title tp-resizeme"
+                             id="slide-3042-layer-1"
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-x="center"
+                             data-y="center"
+                             data-hoffset="0"
+                             data-voffset="0"
+                             data-width="['auto']"
+                             data-height="['auto']"
+
+                             style="z-index: 5; white-space: nowrap;">
+                            
+                        </div>
+
+                        <!-- layer nr. 2 -->
+                        <div class="tp-caption notgeneric-subtitle sub-caption tp-resizeme"
+                             id="slide-3042-layer-4"
+                             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                             data-y="['middle','middle','middle','middle']" data-voffset="['52','52','52','51']"
+                             data-width="none"
+                             data-height="none"
+                             data-whitespace="nowrap"
+
+                             data-type="text"
+                             data-responsive_offset="on"
+
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-textalign="['left','left','left','left']"
+                             data-paddingtop="[0,0,0,0]"
+                             data-paddingright="[0,0,0,0]"
+                             data-paddingbottom="[0,0,0,0]"
+                             data-paddingleft="[0,0,0,0]"
+
+                             style="z-index: 6; white-space: nowrap; font-size: 35px;">
+                            
+                        </div>
+
+                    </li>
+                
+                    <!-- slide  -->
+                    <li data-index="rs-3043" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0"
+                        data-hideslideonmobile="off" data-easein="power4.easeinout" data-easeout="power4.easeinout"
+                        data-masterspeed="2000" data-thumb="http://kucouncil.ku.ac.th/uploads/banner/ab8dab74-e9e7-4859-babb-8b17ea141cfe.jpg" data-rotate="0"
+                        data-fstransition="fade"
+                        data-title="สภามหาวิทยาลัยเกษตรศาสตร์" data-url="" onclick="activelinkbanner(this)">
+
+                        <!-- main image -->
+                        <img src="http://kucouncil.ku.ac.th/uploads/banner/d3e22c1b-fd4d-48f1-8f53-5062e9075776.jpg" alt=""
+                             data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
+                             data-bgparallax="10" class="rev-slidebg" data-no-retina >
+                        <!-- layers -->
+
+                        <!-- layer nr. 1 -->
+                        <div class="tp-caption notgeneric-title tp-resizeme"
+                             id="slide-3043-layer-1"
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-x="center"
+                             data-y="center"
+                             data-hoffset="0"
+                             data-voffset="0"
+                             data-width="['auto']"
+                             data-height="['auto']"
+
+                             style="z-index: 5; white-space: nowrap;">
+                            สภามหาวิทยาลัยเกษตรศาสตร์
+                        </div>
+
+                        <!-- layer nr. 2 -->
+                        <div class="tp-caption notgeneric-subtitle sub-caption tp-resizeme"
+                             id="slide-3043-layer-4"
+                             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                             data-y="['middle','middle','middle','middle']" data-voffset="['52','52','52','51']"
+                             data-width="none"
+                             data-height="none"
+                             data-whitespace="nowrap"
+
+                             data-type="text"
+                             data-responsive_offset="on"
+
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-textalign="['left','left','left','left']"
+                             data-paddingtop="[0,0,0,0]"
+                             data-paddingright="[0,0,0,0]"
+                             data-paddingbottom="[0,0,0,0]"
+                             data-paddingleft="[0,0,0,0]"
+
+                             style="z-index: 6; white-space: nowrap; font-size: 35px;">
+                            kasetsart university council
+                        </div>
+
+                    </li>
+                
+                    <!-- slide  -->
+                    <li data-index="rs-3044" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0"
+                        data-hideslideonmobile="off" data-easein="power4.easeinout" data-easeout="power4.easeinout"
+                        data-masterspeed="2000" data-thumb="http://kucouncil.ku.ac.th/uploads/banner/24027977-6ead-40fc-9db0-82294beb2cf8.jpg" data-rotate="0"
+                        data-fstransition="fade"
+                        data-title="รวมกันเพื่อการเปลี่ยนแปลง" data-url="" onclick="activelinkbanner(this)">
+
+                        <!-- main image -->
+                        <img src="http://kucouncil.ku.ac.th/uploads/banner/5653597b-d57d-4ad0-8b36-5e55560de345.jpg" alt=""
+                             data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
+                             data-bgparallax="10" class="rev-slidebg" data-no-retina >
+                        <!-- layers -->
+
+                        <!-- layer nr. 1 -->
+                        <div class="tp-caption notgeneric-title tp-resizeme"
+                             id="slide-3044-layer-1"
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-x="center"
+                             data-y="center"
+                             data-hoffset="0"
+                             data-voffset="0"
+                             data-width="['auto']"
+                             data-height="['auto']"
+
+                             style="z-index: 5; white-space: nowrap;">
+                            รวมกันเพื่อการเปลี่ยนแปลง
+                        </div>
+
+                        <!-- layer nr. 2 -->
+                        <div class="tp-caption notgeneric-subtitle sub-caption tp-resizeme"
+                             id="slide-3044-layer-4"
+                             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                             data-y="['middle','middle','middle','middle']" data-voffset="['52','52','52','51']"
+                             data-width="none"
+                             data-height="none"
+                             data-whitespace="nowrap"
+
+                             data-type="text"
+                             data-responsive_offset="on"
+
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-textalign="['left','left','left','left']"
+                             data-paddingtop="[0,0,0,0]"
+                             data-paddingright="[0,0,0,0]"
+                             data-paddingbottom="[0,0,0,0]"
+                             data-paddingleft="[0,0,0,0]"
+
+                             style="z-index: 6; white-space: nowrap; font-size: 35px;">
+                            together we change
+                        </div>
+
+                    </li>
+                
+                    <!-- slide  -->
+                    <li data-index="rs-3045" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0"
+                        data-hideslideonmobile="off" data-easein="power4.easeinout" data-easeout="power4.easeinout"
+                        data-masterspeed="2000" data-thumb="http://kucouncil.ku.ac.th/uploads/banner/5bc7f75b-2d91-45e7-b894-903b27ce05f7.jpeg" data-rotate="0"
+                        data-fstransition="fade"
+                        data-title="ศาสตร์แห่งแผ่นดิน" data-url="" onclick="activelinkbanner(this)">
+
+                        <!-- main image -->
+                        <img src="http://kucouncil.ku.ac.th/uploads/banner/30706b62-1616-4922-aaca-ee8b4232eebc.jpg" alt=""
+                             data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
+                             data-bgparallax="10" class="rev-slidebg" data-no-retina >
+                        <!-- layers -->
+
+                        <!-- layer nr. 1 -->
+                        <div class="tp-caption notgeneric-title tp-resizeme"
+                             id="slide-3045-layer-1"
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-x="center"
+                             data-y="center"
+                             data-hoffset="0"
+                             data-voffset="0"
+                             data-width="['auto']"
+                             data-height="['auto']"
+
+                             style="z-index: 5; white-space: nowrap;">
+                            ศาสตร์แห่งแผ่นดิน
+                        </div>
+
+                        <!-- layer nr. 2 -->
+                        <div class="tp-caption notgeneric-subtitle sub-caption tp-resizeme"
+                             id="slide-3045-layer-4"
+                             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                             data-y="['middle','middle','middle','middle']" data-voffset="['52','52','52','51']"
+                             data-width="none"
+                             data-height="none"
+                             data-whitespace="nowrap"
+
+                             data-type="text"
+                             data-responsive_offset="on"
+
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-textalign="['left','left','left','left']"
+                             data-paddingtop="[0,0,0,0]"
+                             data-paddingright="[0,0,0,0]"
+                             data-paddingbottom="[0,0,0,0]"
+                             data-paddingleft="[0,0,0,0]"
+
+                             style="z-index: 6; white-space: nowrap; font-size: 35px;">
+                            knowledge of the land
+                        </div>
+
+                    </li>
+                
+                    <!-- slide  -->
+                    <li data-index="rs-3046" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0"
+                        data-hideslideonmobile="off" data-easein="power4.easeinout" data-easeout="power4.easeinout"
+                        data-masterspeed="2000" data-thumb="http://kucouncil.ku.ac.th/uploads/banner/efed677d-067f-4d36-8d53-a445afaeb1af.jpeg" data-rotate="0"
+                        data-fstransition="fade"
+                        data-title="แนวทางการบริหาร" data-url="" onclick="activelinkbanner(this)">
+
+                        <!-- main image -->
+                        <img src="http://kucouncil.ku.ac.th/uploads/banner/288112c9-57da-4471-8786-b2d9e5ce56e6.jpg" alt=""
+                             data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
+                             data-bgparallax="10" class="rev-slidebg" data-no-retina >
+                        <!-- layers -->
+
+                        <!-- layer nr. 1 -->
+                        <div class="tp-caption notgeneric-title tp-resizeme"
+                             id="slide-3046-layer-1"
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-x="center"
+                             data-y="center"
+                             data-hoffset="0"
+                             data-voffset="0"
+                             data-width="['auto']"
+                             data-height="['auto']"
+
+                             style="z-index: 5; white-space: nowrap;">
+                            แนวทางการบริหาร
+                        </div>
+
+                        <!-- layer nr. 2 -->
+                        <div class="tp-caption notgeneric-subtitle sub-caption tp-resizeme"
+                             id="slide-3046-layer-4"
+                             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                             data-y="['middle','middle','middle','middle']" data-voffset="['52','52','52','51']"
+                             data-width="none"
+                             data-height="none"
+                             data-whitespace="nowrap"
+
+                             data-type="text"
+                             data-responsive_offset="on"
+
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-textalign="['left','left','left','left']"
+                             data-paddingtop="[0,0,0,0]"
+                             data-paddingright="[0,0,0,0]"
+                             data-paddingbottom="[0,0,0,0]"
+                             data-paddingleft="[0,0,0,0]"
+
+                             style="z-index: 6; white-space: nowrap; font-size: 35px;">
+                            directions
+                        </div>
+
+                    </li>
+                
+                    <!-- slide  -->
+                    <li data-index="rs-3047" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0"
+                        data-hideslideonmobile="off" data-easein="power4.easeinout" data-easeout="power4.easeinout"
+                        data-masterspeed="2000" data-thumb="http://kucouncil.ku.ac.th/uploads/banner/c42fb8f8-b5e9-4a30-a51c-a32e409e69b6.jpg" data-rotate="0"
+                        data-fstransition="fade"
+                        data-title="มหาวิทยาลัยสีเขียว" data-url="" onclick="activelinkbanner(this)">
+
+                        <!-- main image -->
+                        <img src="http://kucouncil.ku.ac.th/uploads/banner/5db37871-ff7c-4ac6-93b3-24e72a8d5a5f.jpg" alt=""
+                             data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
+                             data-bgparallax="10" class="rev-slidebg" data-no-retina >
+                        <!-- layers -->
+
+                        <!-- layer nr. 1 -->
+                        <div class="tp-caption notgeneric-title tp-resizeme"
+                             id="slide-3047-layer-1"
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-x="center"
+                             data-y="center"
+                             data-hoffset="0"
+                             data-voffset="0"
+                             data-width="['auto']"
+                             data-height="['auto']"
+
+                             style="z-index: 5; white-space: nowrap;">
+                            มหาวิทยาลัยสีเขียว
+                        </div>
+
+                        <!-- layer nr. 2 -->
+                        <div class="tp-caption notgeneric-subtitle sub-caption tp-resizeme"
+                             id="slide-3047-layer-4"
+                             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                             data-y="['middle','middle','middle','middle']" data-voffset="['52','52','52','51']"
+                             data-width="none"
+                             data-height="none"
+                             data-whitespace="nowrap"
+
+                             data-type="text"
+                             data-responsive_offset="on"
+
+                             data-frames='[{"from":"y:[100%];z:0;rx:0deg;ry:0;rz:0;sx:1;sy:1;skx:0;sky:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"power4.easeinout"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"power2.easeinout"}]'
+                             data-textalign="['left','left','left','left']"
+                             data-paddingtop="[0,0,0,0]"
+                             data-paddingright="[0,0,0,0]"
+                             data-paddingbottom="[0,0,0,0]"
+                             data-paddingleft="[0,0,0,0]"
+
+                             style="z-index: 6; white-space: nowrap; font-size: 35px;">
+                            green university
+                        </div>
+
+                    </li>
+                
+
+            </ul>
+
+            <div class="tp-bannertimer" style="background-color: rgba(255, 255, 255, 0.25);"></div>
+
+        </div>
+    </div><!-- end revolution slider -->
+
+    <script type="text/javascript">
+        var tpj = jquery;
+
+        var revapi1078;
+
+        tpj(document).ready(function () {
+            if (tpj("#rev_slider_1078_1").revolution == undefined) {
+                revslider_showdoublejqueryerror("#rev_slider_1078_1");
+            } else {
+                revapi1078 = tpj("#rev_slider_1078_1").show().revolution({
+                    slidertype: "standard",
+                    jsfilelocation: "revolution/js/",
+                    sliderlayout: "auto",
+                    dottedoverlay: "none",
+                    delay: 9000,
+                    navigation: {
+                        keyboardnavigation: "off",
+                        keyboard_direction: "horizontal",
+                        mousescrollnavigation: "off",
+                        mousescrollreverse: "default",
+                        onhoverstop: "off",
+                        touch: {
+                            touchenabled: "on",
+                            swipe_threshold: 75,
+                            swipe_min_touches: 1,
+                            swipe_direction: "horizontal",
+                            drag_block_vertical: false
+                        }
+                        ,
+                        arrows: {
+                            style: "zeus",
+                            enable: true,
+                            hide_onmobile: true,
+                            hide_under: 600,
+                            hide_onleave: true,
+                            hide_delay: 200,
+                            hide_delay_mobile: 1200,
+                            tmp: '<div class="tp-title-wrap">  	<div class="tp-arr-imgholder"></div> </div>',
+                            left: {
+                                h_align: "left",
+                                v_align: "center",
+                                h_offset: 30,
+                                v_offset: 0
+                            },
+                            right: {
+                                h_align: "right",
+                                v_align: "center",
+                                h_offset: 30,
+                                v_offset: 0
+                            }
+                        }
+                        ,
+                        bullets: {
+                            enable: true,
+                            hide_onmobile: true,
+                            hide_under: 600,
+                            style: "metis",
+                            hide_onleave: true,
+                            hide_delay: 200,
+                            hide_delay_mobile: 1200,
+                            direction: "horizontal",
+                            h_align: "center",
+                            v_align: "bottom",
+                            h_offset: 0,
+                            v_offset: 30,
+                            space: 5,
+                            tmp: '<span class="tp-bullet-img-wrap">  <span class="tp-bullet-image"></span></span><span class="tp-bullet-title">{{title}}</span>'
+                        }
+                    },
+                    viewport: {
+                        enable: true,
+                        outof: "pause",
+                        visible_area: "80%",
+                        presize: false
+                    },
+                    responsivelevels: [1240, 1024, 778, 480],
+                    visibilitylevels: [1240, 1024, 778, 480],
+                    gridwidth: [1240, 1024, 778, 480],
+                    gridheight: [450, 600, 500, 400],
+                    lazytype: "none",
+                    parallax: {
+                        type: "mouse",
+                        origo: "slidercenter",
+                        speed: 2000,
+                        levels: [2, 3, 4, 5, 6, 7, 12, 16, 10, 50, 46, 47, 48, 49, 50, 55],
+                    },
+                    shadow: 0,
+                    spinner: "off",
+                    stoploop: "off",
+                    stopafterloops: -1,
+                    stopatslide: -1,
+                    shuffle: "off",
+                    autoheight: "on",
+                    hidethumbsonmobile: "off",
+                    hideslideratlimit: 0,
+                    hidecaptionatlimit: 0,
+                    hideallcaptionatlilmit: 0,
+                    debugmode: false,
+                    fallbacks: {
+                        simplifyall: "off",
+                        nextslideonwindowfocus: "off",
+                        disablefocuslistener: false,
+                    }
+                });
+            }
+        });
+
+        function activelinkbanner(event) {
+            var url = $(event).data("url");
+            window.location.href = url;
+        }
+    </script>
+</section>
+
+<!-- end: revolution slider-->
+
+<section class="no-padding equalize sub-menu">
+    <div class="row col-no-margin body">
+
+        <div class="slick">
+            
+                <div class="sub-menu-box">
+                    <div class="text-box">
+                        <a href="http://kucouncil.ku.ac.th/other/meetingagenda">
+                            <i class="fa fa-comments"></i>
+                            <h3>ระเบียบวาระการประชุมสภา</h3>
+                        </a>
+                    </div>
+                </div>
+            
+                <div class="sub-menu-box">
+                    <div class="text-box">
+                        <a href="http://kucouncil.ku.ac.th/other/meetingsummary">
+                            <i class="fa fa-newspaper"></i>
+                            <h3>มติการประชุมสภา</h3>
+                        </a>
+                    </div>
+                </div>
+            
+                <div class="sub-menu-box">
+                    <div class="text-box">
+                        <a href="http://kucouncil.ku.ac.th/other/meetingcalendar">
+                            <i class="fa fa-calendar-alt"></i>
+                            <h3>ปฎิทินการประชุมสภา</h3>
+                        </a>
+                    </div>
+                </div>
+            
+                <div class="sub-menu-box">
+                    <div class="text-box">
+                        <a href="http://kucouncil.ku.ac.th/regulations">
+                            <i class="fa fa-university"></i>
+                            <h3>ระเบียบ/ข้อบังคับ</h3>
+                        </a>
+                    </div>
+                </div>
+            
+                <div class="sub-menu-box">
+                    <div class="text-box">
+                        <a href="http://kucouncil.ku.ac.th/announce">
+                            <i class="fa fa-microphone"></i>
+                            <h3>ประกาศ/คำสั่ง</h3>
+                        </a>
+                    </div>
+                </div>
+            
+        </div>
+
+    </div>
+</section>
+<!-- content -->
+<section id="page-content">
+    <div class="container">
+        <!-- post content -->
+
+        <div class="col-lg-8 m-b-100 center">
+            <div class="heading-text heading-section text-center">
+                <p class="header-2">รายงานความคืบหน้าการดำเนินการ</p>
+
+            </div>
+        </div>
+
+        <!-- blog -->
+        <div id="blog" class="blog-body">
+        
+            <div class="post-box-body">
+                <div class="news-post-content">
+
+                    <div class="image-frame">
+                        <div class="crop">
+                            <a href="/news/detail/47">
+                                <img alt="" src="http://kucouncil.ku.ac.th/uploads/news/0b495a64-b2a5-4f35-b82a-7a70db975ac1.png">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="post-description">
+                        <span class="post-meta-date"><i class="fa fa-calendar-o"></i>13 jan 2022
+                        </span>
+
+                        <div class="raw-description in-home">
+                            <a href="/news/detail/47">
+                                <p>รับสมัครผู้เข้ารับการสรรหาคณบดีศึกษาศาสตร์และพัฒนศาสตร์</p>
+                            </a>
+                        </div>
+
+                        <div class="item-link">
+                            <a href="/news/detail/47">
+                                อ่านเพิ่มเติม <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        
+            <div class="post-box-body">
+                <div class="news-post-content">
+
+                    <div class="image-frame">
+                        <div class="crop">
+                            <a href="/news/detail/46">
+                                <img alt="" src="http://kucouncil.ku.ac.th/uploads/news/8fcec156-aa0e-4de9-9a95-69ff8a87b504.png">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="post-description">
+                        <span class="post-meta-date"><i class="fa fa-calendar-o"></i>11 jan 2022
+                        </span>
+
+                        <div class="raw-description in-home">
+                            <a href="/news/detail/46">
+                                <p>รับสมัครผู้เข้ารับการสรรหาผู้อำนวยการสำนักส่งเสริม กำแพงแสน</p>
+                            </a>
+                        </div>
+
+                        <div class="item-link">
+                            <a href="/news/detail/46">
+                                อ่านเพิ่มเติม <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        
+            <div class="post-box-body">
+                <div class="news-post-content">
+
+                    <div class="image-frame">
+                        <div class="crop">
+                            <a href="/news/detail/45">
+                                <img alt="" src="http://kucouncil.ku.ac.th/uploads/news/abc0e9ee-d794-42cb-96a2-aa1552e47ce8.jpg">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="post-description">
+                        <span class="post-meta-date"><i class="fa fa-calendar-o"></i>06 jan 2022
+                        </span>
+
+                        <div class="raw-description in-home">
+                            <a href="/news/detail/45">
+                                <p>รับสมัครผู้เข้ารับการสรรหาผู้อำนวยการสำนักบริการคอมพิวเตอร์</p>
+                            </a>
+                        </div>
+
+                        <div class="item-link">
+                            <a href="/news/detail/45">
+                                อ่านเพิ่มเติม <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        
+            <div class="post-box-body">
+                <div class="news-post-content">
+
+                    <div class="image-frame">
+                        <div class="crop">
+                            <a href="/news/detail/28">
+                                <img alt="" src="http://kucouncil.ku.ac.th/uploads/news/b08b95ed-b0ef-4990-b419-ade8bb442e3e.png">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="post-description">
+                        <span class="post-meta-date"><i class="fa fa-calendar-o"></i>04 aug 2021
+                        </span>
+
+                        <div class="raw-description in-home">
+                            <a href="/news/detail/28">
+                                <p>แบบฟอร์มที่เกี่ยวข้องกับการประเมินผลการปฏิบัติหน้าที่ของหัวหน้าส่วนงาน</p>
+                            </a>
+                        </div>
+
+                        <div class="item-link">
+                            <a href="/news/detail/28">
+                                อ่านเพิ่มเติม <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        
+            <div class="post-box-body">
+                <div class="news-post-content">
+
+                    <div class="image-frame">
+                        <div class="crop">
+                            <a href="/news/detail/29">
+                                <img alt="" src="http://kucouncil.ku.ac.th/uploads/news/47705e97-7c99-4c64-b778-416ea7157727.jpg">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="post-description">
+                        <span class="post-meta-date"><i class="fa fa-calendar-o"></i>04 mar 2021
+                        </span>
+
+                        <div class="raw-description in-home">
+                            <a href="/news/detail/29">
+                                <p>การติดตามและประเมินผลการปฏิบัติหน้าที่ของหัวหน้าส่วนงาน สำหรับผู้ปฏิบัตงานในส่วนงาน</p>
+                            </a>
+                        </div>
+
+                        <div class="item-link">
+                            <a href="/news/detail/29">
+                                อ่านเพิ่มเติม <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        
+            <div class="post-box-body">
+                <div class="news-post-content">
+
+                    <div class="image-frame">
+                        <div class="crop">
+                            <a href="/news/detail/33">
+                                <img alt="" src="http://kucouncil.ku.ac.th/uploads/news/f44631be-ddde-4430-9080-799b3e9d97d9.png">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="post-description">
+                        <span class="post-meta-date"><i class="fa fa-calendar-o"></i>15 jan 2021
+                        </span>
+
+                        <div class="raw-description in-home">
+                            <a href="/news/detail/33">
+                                <p>รายงานการติดตามและประเมินผลการปฏิบัติหน้าที่ของหัวหน้าส่วนงาน</p>
+                            </a>
+                        </div>
+
+                        <div class="item-link">
+                            <a href="/news/detail/33">
+                                อ่านเพิ่มเติม <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        
+        </div>
+        <!-- end: blog -->
+        <div class="row">
+            <div class="col-sm-12">
+                <a href="/news/index">
+                    <div class="load-more">
+                        <p>ดูทั้งหมด</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <!-- end: post content -->
+</section>
+
+
+
+
+<!-- client logo -->
+<section class="background-grey text-center">
+
+    <div class="container relatedlink">
+        <div class="slick-releatedlink">
+            
+                <div class="box">
+                    <a href="https://www.ku.ac.th/web2012/index.php?c=adms&amp;m=mainpage1">
+                        <div class="content-image">
+                            <img alt="" src="http://kucouncil.ku.ac.th/uploads/relatedlinkmenu/7f6b5c7d-4059-4071-a36c-5cae318298f2.png">
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="box">
+                    <a href="https://www.ku.ac.th/kunews/news58/07/ratchakitcha_ku.pdf">
+                        <div class="content-image">
+                            <img alt="" src="http://kucouncil.ku.ac.th/uploads/relatedlinkmenu/64a1bec2-4c46-4006-80f0-3f045c1940e5.jpg">
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="box">
+                    <a href="http://council.ku.ac.th/e-book/">
+                        <div class="content-image">
+                            <img alt="" src="http://kucouncil.ku.ac.th/uploads/relatedlinkmenu/c09de23f-cd50-463f-9bc5-5961f5900a7a.jpeg">
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="box">
+                    <a href="http://kucouncil.ku.ac.th/externallink/index">
+                        <div class="content-image">
+                            <img alt="" src="http://kucouncil.ku.ac.th/uploads/relatedlinkmenu/ea4a1366-3d95-48ed-97bd-d611e19e637a.png">
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="box">
+                    <a href="https://council.ku.ac.th/news/">
+                        <div class="content-image">
+                            <img alt="" src="http://kucouncil.ku.ac.th/uploads/relatedlinkmenu/bf91466f-4516-4e76-9922-d9f33316eb22.jpg">
+                        </div>
+                    </a>
+                </div>
+            
+        </div>
+    </div>
+
+</section>
+<!-- end: client logo -->
+<!-- our numbers -->
+<section class="background-colored p-t-120 p-b-40 ">
+    <div id="particles-js" class="particles"></div>
+
+    <div class="container xs-text-center sm-text-center text-light">
+        <div class="row">
+            <div class="col-lg-9 p-b-40">
+                <p class="header-2"><b>ศาสตร์แห่งแผ่นดิน - knowledge of the land</b></p>
+
+                <p class="lead">ศาสตร์แห่งแผ่นดิน สภามหาวิทยาลัยเกษตรศาสตร์ - มหาวิทยาลัยเกษตรศาสตร์ มุ่งสร้างศาสตร์ แห่งแผ่นดิน เพื่อความกินอยู่ดีของชาติ</p>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- end: our numbers -->
+
+    <!-- footer -->
+    <footer id="footer">
+        <div class="footer-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="widget">
+                            <div class="widget-title">สำนักงานสภามหาวิทยาลัยเกษตรศาสตร์</div>
+                            <address>ชั้น 9 อาคารสารนิเทศ 50 ปี มหาวิทยาลัยเกษตรศาสตร์ เลขที่ 50     ถนนงามวงศ์วาน แขวงลาดยาว เขตจตุจักร กรุงเทพฯ 10900<br>
+                            </address>
+                            <strong>โทรศัพท์:</strong> 02-942-8145
+                            <br>
+                            <strong>โทรสาร:</strong> 02-942-8145
+                            <br>
+                            <strong>อีเมล์:</strong> kucouncil&#64;ku.ac.th<br>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-7">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="widget">
+                                    <div class="widget-title">อื่น ๆ ที่น่าสนใจ</div>
+                                    <ul class="list">
+                                        <li><a href="/other/gallery">ภาพกิจกรรม</a></li>
+                                        <li><a href="/honorarydegree/index">ปริญญากิตติมศักดิ์</a></li>
+                                        <li><a href="/externallink/index">กิจกรรมการดำเนินงานของสภามหาวิทยาลัย ชุด 2558</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <div class="widget">
+                                    <div class="widget-title">ลิ้งค์ที่เกี่ยวข้อง</div>
+                                    <ul class="list">
+                                        <li><a href="https://www.ku.ac.th/" target="_blank">มหาวิทยาลัยเกษตรศาสตร์</a></li>
+                                        <li><a href="http://kps.ku.ac.th/v8/index.php/th/" target="_blank">วิทยาเขตกำแพงแสน</a></li>
+                                        <li><a href="http://www.csc.ku.ac.th/" target="_blank">วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</a></li>
+                                        <li><a href="http://www.src.ku.ac.th/" target="_blank">วิทยาเขตศรีราชา</a></li>
+                                    </ul>
+                                </div>
+
+                                <div class="social-icons social-icons-light social-icons-colored-hover">
+                                    <ul>
+                                        <li class="social-facebook"><a href="https://www.facebook.com/kucouncilku.ac.th/"><i
+                                                class="fab fa-facebook-f"></i></a>
+                                        </li>
+                                        <li class="social-youtube"><a href=""><i
+                                                class="fab fa-youtube"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="copyright-content">
+            <div class="container">
+                <div class="copyright-text text-center">&copy; 2019 kasetsart university council. all rights reserved.<a
+                        href="#" target="_blank"></a></div>
+            </div>
+        </div>
+    </footer>
+    <!-- end: footer -->
+
+</div>
+<!-- end: body inner -->
+
+<!-- scroll top -->
+<a id="scrolltop"><i class="icon-chevron-up1"></i><i class="icon-chevron-up1"></i></a>
+<!--plugins-->
+<script type="text/javascript" src="/assets/home/application-fc8ddd74cf0588755ecd9bcdbcbf764b.js" ></script>
+
+<script>
+    $(document).ready(function () {
+        lineclamp();
+    });
+
+    $(window).resize(function () {
+        lineclamp();
+    });
+
+    function lineclamp() {
+        var tagp = $('.raw-description p');
+        var lineheight = parsefloat(tagp.css('line-height'));
+        var articleheight = $('.raw-description').height();
+        var calc = parseint(articleheight / lineheight);
+        tagp.css({
+            "-webkit-line-clamp": "" + calc + ""
+        });
+    }
+</script>
+
+</body>
+</html>

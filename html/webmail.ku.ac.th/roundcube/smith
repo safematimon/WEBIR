@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>office of computer services, kasetsart university :: welcome to office of computer services, kasetsart university</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no, maximum-scale=1.0">
+<meta name="theme-color" content="#f4f4f4">
+<meta name="msapplication-navbutton-color" content="#f4f4f4">
+
+	<link rel="shortcut icon" href="skins/elastic/images/favicon.ico?s=1596290237">
+
+	<link rel="stylesheet" href="skins/elastic/deps/bootstrap.min.css?s=1596290237">
+			<link rel="stylesheet" href="skins/elastic/styles/styles.css?s=1596290237">
+		
+	<link rel="stylesheet" type="text/css" href="plugins/jqueryui/themes/elastic/jquery-ui.css?s=1596290237">
+<script src="program/js/jquery.min.js?s=1596290236"></script>
+<script src="program/js/common.min.js?s=1596290236"></script>
+<script src="program/js/app.min.js?s=1596290236"></script>
+<script src="program/js/jstz.min.js?s=1596290236"></script>
+<script>
+/*
+        @licstart  the following is the entire license notice for the 
+        javascript code in this page.
+
+        copyright (c) the roundcube dev team
+
+        the javascript code in this page is free software: you can redistribute
+        it and/or modify it under the terms of the gnu general public license
+        as published by the free software foundation, either version 3 of
+        the license, or (at your option) any later version.
+
+        the code is distributed without any warranty; without even the implied
+        warranty of merchantability or fitness for a particular purpose.
+        see the gnu gpl for more details.
+
+        @licend  the above is the entire license notice
+        for the javascript code in this page.
+*/
+var rcmail = new rcube_webmail();
+rcmail.set_env({"task":"login","standard_windows":false,"locale":"en_us","devel_mode":null,"rcversion":10406,"cookie_domain":"","cookie_path":"/","cookie_secure":true,"skin":"elastic","blankpage":"skins/elastic/watermark.html","refresh_interval":60,"session_lifetime":10800,"action":"","comm_path":"./?_task=login","compose_extwin":false,"date_format":"yy-mm-dd","date_format_localized":"yyyy-mm-dd","request_token":"8m97o7ibjwwyetdgb7onn26pqg9e9erg"});
+rcmail.add_label({"loading":"loading...","servererror":"server error!","connerror":"connection error (failed to reach the server)!","requesttimedout":"request timed out","refreshing":"refreshing...","windowopenerror":"the popup window was blocked!","uploadingmany":"uploading files...","uploading":"uploading file...","close":"close","save":"save","cancel":"cancel","alerttitle":"attention","confirmationtitle":"are you sure...","delete":"delete","continue":"continue","ok":"ok","back":"back","errortitle":"an error occurred!","options":"options","plaintoggle":"plain text","htmltoggle":"html","previous":"previous","next":"next","select":"select","browse":"browse","choosefile":"choose file...","choosefiles":"choose files..."});
+rcmail.gui_container("loginfooter","login-footer");rcmail.gui_object('loginform', 'login-form');
+rcmail.gui_object('message', 'messagestack');
+</script>
+
+<script src="plugins/jqueryui/js/jquery-ui.min.js?s=1596290237"></script>
+
+</head>
+<body class="task-login action-none">
+			<div id="layout">
+	
+
+<h1 class="voice">office of computer services, kasetsart university login</h1>
+<div id="layout-content" class="selected no-navbar" role="main">
+	<img src="skins/elastic/images/logo.svg?s=1596290237" id="logo" alt="logo">
+	<form id="login-form" name="login-form" method="post" class="propform" action="./?_task=login">
+<input type="hidden" name="_token" value="8m97o7ibjwwyetdgb7onn26pqg9e9erg">
+<h2 class="text-dark">ku webmail (staff only)</h2>
+  <div class="align-self-center" style="margin-top: 20px;">
+	<!--a href="./index.php" class="btn btn-lg btn-info btn-block" role="button">เข้าสู่ระบบ<br>ku all-login</a-->
+	<a href="https://kuwebmail.ku.ac.th/roundcube/index.php" class="btn btn-lg btn-info btn-block" role="button">เข้าสู่ระบบ<br>ku all-login</a>
+  </div>
+<h5 class="text-secondary" style="margin-top: 20px;">manual login</h5>
+	<input type="hidden" name="_task" value="login"><input type="hidden" name="_action" value="login"><input type="hidden" name="_timezone" id="rcmlogintz" value="_default_"><input type="hidden" name="_url" id="rcmloginurl" value=""><table><tbody><tr><td class="title"><label for="rcmloginuser">username</label>
+</td>
+<td class="input"><input name="_user" id="rcmloginuser" required size="40" autocapitalize="off" autocomplete="off" type="text"></td>
+</tr>
+<tr><td class="title"><label for="rcmloginpwd">password</label>
+</td>
+<td class="input"><input name="_pass" id="rcmloginpwd" required size="40" autocapitalize="off" autocomplete="off" type="password"></td>
+</tr>
+</tbody>
+</table>
+<input type="hidden" name="_host" id="rcmloginhost" value="nontri.ku.ac.th" form="login-form" size="40" submit="true" autocapitalize="off"><p class="formbuttons"><button type="submit" id="rcmloginsubmit" class="button mainaction submit">login</button>
+</p>
+
+		<div id="login-footer" role="contentinfo">
+			
+			
+						
+			<!--p><a href="https://webmail2.ku.ac.th/" target="_blank" class="text-danger">old webmail</a></p-->
+		</div>
+	</form>
+</div>
+
+<noscript>
+	<p class="noscriptwarning">warning: this webmail service requires javascript! in order to use it please enable javascript in your browser's settings.</p>
+</noscript>
+
+</div>
+<div id="messagestack"></div>
+<script>
+$(function() {
+rcmail.init();
+});
+</script>
+
+
+
+<script src="skins/elastic/deps/bootstrap.bundle.min.js?s=1596290237"></script>
+<script src="skins/elastic/ui.min.js?s=1596290237"></script>
+
+</body>
+</html>

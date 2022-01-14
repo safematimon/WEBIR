@@ -1,0 +1,497 @@
+
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://web.sbc.ku.ac.th/newsupan/xmlrpc.php" />
+<title>ภาพหอพัก</title>
+<link rel="alternate" type="application/rss+xml" title=" &raquo; ฟีด" href="http://web.sbc.ku.ac.th/newsupan/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; ฟีดความเห็น" href="http://web.sbc.ku.ac.th/newsupan/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojisettings = {"baseurl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.2"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createelement("canvas"),g=f.getcontext&&f.getcontext("2d"),h=string.fromcharcode;if(!g||!g.filltext)return!1;switch(g.textbaseline="top",g.font="600 32px arial",a){case"flag":return g.filltext(h(55356,56806,55356,56826),0,0),f.todataurl().length>3e3;case"diversity":return g.filltext(h(55356,57221),0,0),c=g.getimagedata(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.filltext(h(55356,57221,55356,57343),0,0),c=g.getimagedata(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.filltext(h(55357,56835),0,0),0!==g.getimagedata(16,16,1,1).data[0];case"unicode8":return g.filltext(h(55356,57135),0,0),0!==g.getimagedata(16,16,1,1).data[0]}return!1}function e(a){var c=b.createelement("script");c.src=a,c.type="text/javascript",b.getelementsbytagname("head")[0].appendchild(c)}var f,g,h,i;for(i=array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingexceptflag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingexceptflag=c.supports.everythingexceptflag&&c.supports[i[h]]);c.supports.everythingexceptflag=c.supports.everythingexceptflag&&!c.supports.flag,c.domready=!1,c.readycallback=function(){c.domready=!0},c.supports.everything||(g=function(){c.readycallback()},b.addeventlistener?(b.addeventlistener("domcontentloaded",g,!1),a.addeventlistener("load",g,!1)):(a.attachevent("onload",g),b.attachevent("onreadystatechange",function(){"complete"===b.readystate&&c.readycallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojisettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='categoryposttab-css'  href='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/category-and-post-tab/assets/css/categoryposttab.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wps_style-css'  href='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/widget-post-slider/css/style.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_carousel_css-css'  href='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/widget-post-slider/css/bootstrap.min.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wa_chpcs_style-css'  href='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/css/custom-style.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='easingslider-css'  href='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/easing-slider/assets/css/public.min.css?ver=3.0.8' type='text/css' media='all' />
+<link rel='stylesheet' id='foogallery-template-default-css'  href='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/foogallery/extensions/default-templates/default/css/gallery-default.css?ver=1.2.15' type='text/css' media='all' />
+<link rel='stylesheet' id='svt-style-css'  href='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/simple-vertical-timeline/css/simple-vertical-timeline.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='colormag_google_fonts-css'  href='//fonts.googleapis.com/css?family=open+sans%3a400%2c600&#038;ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='colormag_style-css'  href='http://web.sbc.ku.ac.th/newsupan/wp-content/themes/colormag/style.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='colormag-fontawesome-css'  href='http://web.sbc.ku.ac.th/newsupan/wp-content/themes/colormag/fontawesome/css/font-awesome.css?ver=4.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='colormag-featured-image-popup-css-css'  href='http://web.sbc.ku.ac.th/newsupan/wp-content/themes/colormag/js/magnific-popup/magnific-popup.css?ver=20150310' type='text/css' media='all' />
+<link rel='stylesheet' id='slb_core-css'  href='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-includes/js/jquery/jquery.js?ver=1.12.3'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var categoryposttab = {"cpt_ajax_url":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-admin\/admin-ajax.php","cpt_security":"f522ad26f8","cpt_plugin_url":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/plugins\/category-and-post-tab\/include\/"};
+var categoryposttab = {"cpt_ajax_url":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-admin\/admin-ajax.php","cpt_security":"f522ad26f8","cpt_plugin_url":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/plugins\/category-and-post-tab\/include\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/category-and-post-tab/assets/js/categoryposttab.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/widget-post-slider/js/bootstrap.min.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/widget-post-slider/js/scripts.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/js/caroufredsel/jquery.transit.min.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/js/caroufredsel/jquery.caroufredsel-6.2.1-packed.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/js/caroufredsel/jquery.touchswipe.min.js?ver=4.5.2'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var chpcsargs = {"auto_scroll":"true","circular":"false","easing_effect":"linear","item_align":"center","direction":"left","touch_swipe":"false","item_width":"180","time_out":"3000","css_transition":"false","infinite":"true","fx":"scroll"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/js/script.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/easing-slider/assets/js/public.min.js?ver=3.0.8'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/simple-vertical-timeline/js/svt-animation.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/themes/colormag/js/colormag-custom.js?ver=4.5.2'></script>
+<link rel='https://api.w.org/' href='http://web.sbc.ku.ac.th/newsupan/?rest_route=/' />
+<link rel="edituri" type="application/rsd+xml" title="rsd" href="http://web.sbc.ku.ac.th/newsupan/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://web.sbc.ku.ac.th/newsupan/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="wordpress 4.5.2" />
+<link rel="canonical" href="http://web.sbc.ku.ac.th/newsupan/?page_id=149" />
+<link rel='shortlink' href='http://web.sbc.ku.ac.th/newsupan/?p=149' />
+<link rel="alternate" type="application/json+oembed" href="http://web.sbc.ku.ac.th/newsupan/?rest_route=%2foembed%2f1.0%2fembed&#038;url=http%3a%2f%2fweb.sbc.ku.ac.th%2fnewsupan%2f%3fpage_id%3d149" />
+<link rel="alternate" type="text/xml+oembed" href="http://web.sbc.ku.ac.th/newsupan/?rest_route=%2foembed%2f1.0%2fembed&#038;url=http%3a%2f%2fweb.sbc.ku.ac.th%2fnewsupan%2f%3fpage_id%3d149&#038;format=xml" />
+<!--  internal styles --><style type="text/css"> .colormag-button,blockquote,button,input[type=reset],input[type=button],input[type=submit]{background-color:#00aa38}#site-title a,.next a:hover,.previous a:hover,.social-links i.fa:hover,a{color:#00aa38}.fa.search-top:hover{background-color:#00aa38}#site-navigation{border-top:4px solid #00aa38}.home-icon.front_page_on,.main-navigation a:hover,.main-navigation ul li ul li a:hover,.main-navigation ul li ul li:hover>a,.main-navigation ul li.current-menu-ancestor>a,.main-navigation ul li.current-menu-item ul li a:hover,.main-navigation ul li.current-menu-item>a,.main-navigation ul li.current_page_ancestor>a,.main-navigation ul li.current_page_item>a,.main-navigation ul li:hover>a,.main-small-navigation li a:hover,.site-header .menu-toggle:hover{background-color:#00aa38}.main-small-navigation .current-menu-item>a,.main-small-navigation .current_page_item>a{background:#00aa38}.promo-button-area a:hover{border:2px solid #00aa38;background-color:#00aa38}#content .wp-pagenavi .current,#content .wp-pagenavi a:hover,.format-link .entry-content a,.pagination span{background-color:#00aa38}.pagination a span:hover{color:#00aa38;border-color:#00aa38}#content .comments-area a.comment-edit-link:hover,#content .comments-area a.comment-permalink:hover,#content .comments-area article header cite a:hover,.comments-area .comment-author-link a:hover{color:#00aa38}.comments-area .comment-author-link span{background-color:#00aa38}.comment .comment-reply-link:hover,.nav-next a,.nav-previous a{color:#00aa38}#secondary .widget-title{border-bottom:2px solid #00aa38}#secondary .widget-title span{background-color:#00aa38}.footer-widgets-area .widget-title{border-bottom:2px solid #00aa38}.footer-widgets-area .widget-title span{background-color:#00aa38}.footer-widgets-area a:hover{color:#00aa38}.advertisement_above_footer .widget-title{border-bottom:2px solid #00aa38}.advertisement_above_footer .widget-title span{background-color:#00aa38}a#scroll-up i{color:#00aa38}.page-header .page-title{border-bottom:2px solid #00aa38}#content .post .article-content .above-entry-meta .cat-links a,.page-header .page-title span{background-color:#00aa38}#content .post .article-content .entry-title a:hover,.entry-meta .byline i,.entry-meta .cat-links i,.entry-meta a,.post .entry-title a:hover,.search .entry-title a:hover{color:#00aa38}.entry-meta .post-format i{background-color:#00aa38}.entry-meta .comments-link a:hover,.entry-meta .edit-link a:hover,.entry-meta .posted-on a:hover,.entry-meta .tag-links a:hover,.single #content .tags a:hover{color:#00aa38}.more-link,.no-post-thumbnail{background-color:#00aa38}.post-box .entry-meta .cat-links a:hover,.post-box .entry-meta .posted-on a:hover,.post.post-box .entry-title a:hover{color:#00aa38}.widget_featured_slider .slide-content .above-entry-meta .cat-links a{background-color:#00aa38}.widget_featured_slider .slide-content .below-entry-meta .byline a:hover,.widget_featured_slider .slide-content .below-entry-meta .comments a:hover,.widget_featured_slider .slide-content .below-entry-meta .posted-on a:hover,.widget_featured_slider .slide-content .entry-title a:hover{color:#00aa38}.widget_highlighted_posts .article-content .above-entry-meta .cat-links a{background-color:#00aa38}.byline a:hover,.comments a:hover,.edit-link a:hover,.posted-on a:hover,.tag-links a:hover,.widget_highlighted_posts .article-content .below-entry-meta .byline a:hover,.widget_highlighted_posts .article-content .below-entry-meta .comments a:hover,.widget_highlighted_posts .article-content .below-entry-meta .posted-on a:hover,.widget_highlighted_posts .article-content .entry-title a:hover{color:#00aa38}.widget_featured_posts .article-content .above-entry-meta .cat-links a{background-color:#00aa38}.widget_featured_posts .article-content .entry-title a:hover{color:#00aa38}.widget_featured_posts .widget-title{border-bottom:2px solid #00aa38}.widget_featured_posts .widget-title span{background-color:#00aa38}.related-posts-main-title .fa,.single-related-posts .article-content .entry-title a:hover{color:#00aa38}</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #cccccc; }
+</style>
+</head>
+
+<body class="page page-id-149 page-template-default custom-background ">
+<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header clearfix">
+		<div id="header-text-nav-container" class="clearfix">
+                     <div class="news-bar">
+               <div class="inner-wrap clearfix">
+                     <div class="date-in-header">
+      วันเสาร์, มกราคม 15, 2022   </div>
+
+                     <div class="breaking-news">
+      <strong class="breaking-news-latest">latest:</strong>
+      <ul class="newsticker">
+               <li>
+            <a href="http://web.sbc.ku.ac.th/newsupan/?p=6557" title="พิธีจุดเทียนเพื่อน้อมรำลึกในพระมหากรุณาธิคุณ">พิธีจุดเทียนเพื่อน้อมรำลึกในพระมหากรุณาธิคุณ</a>
+         </li>
+               <li>
+            <a href="http://web.sbc.ku.ac.th/newsupan/?p=6541" title="ตารางสอบ ปลายภาค ภาคต้น ปีการศึกษา 2563">ตารางสอบ ปลายภาค ภาคต้น ปีการศึกษา 2563</a>
+         </li>
+               <li>
+            <a href="http://web.sbc.ku.ac.th/newsupan/?p=6513" title="กำหนดการรับสมัครเข้าศึกษาต่อมหาวิทยาลัยเกษตรศาสตร์ tcas64">กำหนดการรับสมัครเข้าศึกษาต่อมหาวิทยาลัยเกษตรศาสตร์ tcas64</a>
+         </li>
+               <li>
+            <a href="http://web.sbc.ku.ac.th/newsupan/?p=6536" title="ฝึกซ้อมรับพระราชทานปริญญาบัตร">ฝึกซ้อมรับพระราชทานปริญญาบัตร</a>
+         </li>
+               <li>
+            <a href="http://web.sbc.ku.ac.th/newsupan/?p=6488" title="มอบประกาศเกียรติยศและเหรียญเกียรตินิยม">มอบประกาศเกียรติยศและเหรียญเกียรตินิยม</a>
+         </li>
+            </ul>
+   </div>
+   
+                  	<div class="social-links clearfix">
+		<ul>
+		<li><a href="https://www.facebook.com/kasetsartsuphanburi/" target="_blank"><i class="fa fa-facebook"></i></a></li>		</ul>
+	</div><!-- .social-links -->
+	               </div>
+            </div>
+         
+			
+			<div class="inner-wrap">
+
+				<div id="header-text-nav-wrap" class="clearfix">
+					<div id="header-left-section">
+													<div id="header-logo-image">
+
+								<a href="http://web.sbc.ku.ac.th/newsupan/" title="" rel="home"><img src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2017/02/logo02.png" alt=""></a>
+							</div><!-- #header-logo-image -->
+												<div id="header-text" class="screen-reader-text">
+                                             <h3 id="site-title">
+                           <a href="http://web.sbc.ku.ac.th/newsupan/" title="" rel="home"></a>
+                        </h3>
+                     							<!-- #site-description -->
+						</div><!-- #header-text -->
+					</div><!-- #header-left-section -->
+					<div id="header-right-section">
+									    	</div><!-- #header-right-section -->
+
+			   </div><!-- #header-text-nav-wrap -->
+
+			</div><!-- .inner-wrap -->
+
+					<a href="http://web.sbc.ku.ac.th/newsupan/" title="" rel="home">
+				<div class="header-image-wrap"><img src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2020/10/tcas64รอบ1portfolio_web_small.jpg" class="header-image" width="1400" height="400" alt=""></div>
+			</a>
+		
+			<nav id="site-navigation" class="main-navigation clearfix" role="navigation">
+				<div class="inner-wrap clearfix">
+					                  <div class="home-icon">
+                     <a href="http://web.sbc.ku.ac.th/newsupan/" title=""><i class="fa fa-home"></i></a>
+                  </div>
+                                 <h4 class="menu-toggle"></h4>
+               <div class="menu-primary-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-82" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-82"><a href="http://web.sbc.ku.ac.th/newsupan/">หน้าแรก</a></li>
+<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=2">แนะนำวิทยาเขต</a>
+<ul class="sub-menu">
+	<li id="menu-item-244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-244"><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=231">หลักการและเหตุผล</a></li>
+	<li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=236">ประวัติความเป็นมา</a></li>
+	<li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246"><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=234">วัตถุประสงค์</a></li>
+	<li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247"><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=240">ปรัชญาและปณิธาน</a></li>
+	<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=242">วิสัยทัศน์และภารกิจ</a></li>
+	<li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-249"><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=238">พื้นที่จัดตั้ง</a></li>
+</ul>
+</li>
+<li id="menu-item-84" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-84"><a href="#">หลักสูตร</a>
+<ul class="sub-menu">
+	<li id="menu-item-278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-278"><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=273">ปริญญาตรี</a></li>
+	<li id="menu-item-277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-277"><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=275">ปริญญาโท</a></li>
+	<li id="menu-item-473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=471">การฝึกอบรม</a></li>
+</ul>
+</li>
+<li id="menu-item-322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322"><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=280">บุคลากร</a></li>
+<li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=88">ติดต่อ</a></li>
+</ul></div>                                                <i class="fa fa-search search-top"></i>
+                  <div class="search-form-top">
+                     <form action="http://web.sbc.ku.ac.th/newsupan/" class="search-form searchform clearfix" method="get">
+   <div class="search-wrap">
+      <input type="text" placeholder="search" class="s field" name="s">
+      <button class="search-icon" type="submit"></button>
+   </div>
+</form><!-- .searchform -->                  </div>
+               				</div>
+			</nav>
+
+		</div><!-- #header-text-nav-container -->
+
+		
+	</header>
+			<div id="main" class="clearfix">
+		<div class="inner-wrap clearfix">
+	
+	<div id="primary">
+		<div id="content" class="clearfix">
+			
+				
+<article id="post-149" class="post-149 page type-page status-publish has-post-thumbnail hentry">
+	
+	<header class="entry-header">
+               <h1 class="entry-title">
+            ภาพหอพัก         </h1>
+      	</header>
+
+	<div class="entry-content clearfix">
+		<p>&nbsp;</p>
+<div id="foogallery-gallery-139" class="foogallery-container foogallery-default foogallery-link-image foogallery-lightbox-unknown spacing-width-10 hover-effect-zoom  border-style-square-white alignment-center hover-caption-simple foogallery-default-loading">
+	<a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2017/02/dscf2747.jpg" data-attachment-id="485" data-slb-active="1" data-slb-asset="677797843" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2017/02/dscf2747/1179731244.jpg" width="150" height="150" /></a><a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/104461.jpg" data-attachment-id="6068" data-slb-active="1" data-slb-asset="299026857" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2016/09/104461/1727231441.jpg" width="150" height="150" /></a><a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/104462.jpg" data-attachment-id="6069" data-slb-active="1" data-slb-asset="1104730553" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2016/09/104462/3900469810.jpg" width="150" height="150" /></a><a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/img_5723.jpg" data-attachment-id="142" data-slb-active="1" data-slb-asset="1745133011" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2016/09/img_5723/1224257176.jpg" width="150" height="150" /></a><a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/img_5726.jpg" data-attachment-id="143" data-slb-active="1" data-slb-asset="818290613" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2016/09/img_5726/1614076.jpg" width="150" height="150" /></a><a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/img_5728.jpg" data-attachment-id="144" data-slb-active="1" data-slb-asset="242877332" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2016/09/img_5728/361935566.jpg" width="150" height="150" /></a><a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/img_5731.jpg" data-attachment-id="145" data-slb-active="1" data-slb-asset="453897906" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2016/09/img_5731/497466790.jpg" width="150" height="150" /></a><a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/img_5732.jpg" data-attachment-id="146" data-slb-active="1" data-slb-asset="190996415" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2016/09/img_5732/2468985413.jpg" width="150" height="150" /></a><a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/104472.jpg" data-attachment-id="6071" data-slb-active="1" data-slb-asset="1915691595" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2016/09/104472/4278675057.jpg" width="150" height="150" /></a><a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/104473.jpg" data-attachment-id="6072" data-slb-active="1" data-slb-asset="735381472" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2016/09/104473/867002095.jpg" width="150" height="150" /></a><a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/104474.jpg" data-attachment-id="6073" data-slb-active="1" data-slb-asset="802062439" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2016/09/104474/963145718.jpg" width="150" height="150" /></a><a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/104480.jpg" data-attachment-id="6074" data-slb-active="1" data-slb-asset="608896727" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2016/09/104480/1654370013.jpg" width="150" height="150" /></a><a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/104483.jpg" data-attachment-id="6075" data-slb-active="1" data-slb-asset="273884410" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2016/09/104483/3960777022.jpg" width="150" height="150" /></a><a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/104484.jpg" data-attachment-id="6076" data-slb-active="1" data-slb-asset="1579990007" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2016/09/104484/3872497703.jpg" width="150" height="150" /></a><a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/104510.jpg" data-attachment-id="6077" data-slb-active="1" data-slb-asset="179366364" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2016/09/104510/570061752.jpg" width="150" height="150" /></a><a href="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/104512.jpg" data-attachment-id="6079" data-slb-active="1" data-slb-asset="911225380" data-slb-internal="0" data-slb-group="149"><img  src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/cache/2016/09/104512/1675588805.jpg" width="150" height="150" /></a></div>
+
+<p style="text-align: center;"><span style="color: #993300; font-size: 18pt;"><strong>&#8211; อาคารหอพักนิสิตหญิง &#8211;</strong></span></p>
+<p style="text-align: center;"><span style="color: #008000; font-size: 14pt;"><strong>+ มีแอร์, เครื่องทำน้ำอุ่น, เตียงนอน, ตู้เสื้อผ้า<br />
++ บริการ ฟรี wifi</strong></span><br />
+<span style="color: #008000; font-size: 14pt;"><strong>+ รักษาความปลอดภัย 24 ชม.</strong></span><br />
+<span style="color: #008000; font-size: 14pt;"><strong>+ ตู้เติมเงิน ขายเครื่องดื่มอัตโนมัติ</strong></span><br />
+<span style="color: #008000; font-size: 14pt;"><strong>+ เครื่องพิมพ์ fast print</strong></span><br />
+<span style="color: #008000; font-size: 14pt;"><strong>+ บริเวณตากผ้าส่วนรวม</strong></span><br />
+<span style="color: #008000; font-size: 14pt;"><strong>+ ร้านค้าสวัสดิการ</strong></span><br />
+<span style="color: #008000; font-size: 14pt;"><strong>+ ตู้น้ำหยอดเหรียญ</strong></span><br />
+<span style="color: #008000; font-size: 14pt;"><strong>+ เครื่องซักผ้า</strong></span><br />
+<span style="color: #008000; font-size: 14pt;"><strong>+ ตู้อบผ้า</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong><span style="color: #008000;">+ ราคาหอพักเดือนละ 1,500 บาท/คน</span></strong></span><br />
+<span style="font-size: 14pt;"><strong><span style="color: #008000;"> + จำกัดพักได้ห้องละ 2 คน</span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong><span style="color: #008000;">+ ค่าน้ำ เหมาจ่าย เดือนละ 100 บาท</span></strong></span><br />
+<span style="font-size: 14pt;"><strong><span style="color: #008000;"> + ค่าไฟ หน่วยละ 5 บาท</span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: 18pt;"><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=3828" target="_blank"><span style="color: #ff6600;">&#8211; หอพักเอกชนบริเวณรอบมหาวิทยาลัย &#8211;</span></a></span></p>
+			</div>
+
+	</article>
+				
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+	
+<div id="secondary">
+			
+		<aside id="easingslider_widget-5" class="widget widget_easingslider_widget clearfix"><style type="text/css">.easingslider-221 { width: 100%; }.easingslider-221 .easingslider-image { max-height: 400px; max-width: 640px; }.easingslider-221 .easingslider-fade-in, .easingslider-fade-out { -webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; animation-duration: 400ms; }</style><script type="text/javascript">window.easingslider221 = {"width":640,"height":400,"singleitem":true,"items":1,"itemsdesktop":false,"itemsdesktopsmall":false,"itemstablet":false,"itemstabletsmall":false,"itemsmobile":false,"responsive":true,"lazyload":true,"autoplay":4000,"slidespeed":400,"navigation":true,"navigationtext":["",""],"pagination":true,"autoheight":false,"mousedrag":false,"touchdrag":false,"addclassactive":true,"transitionstyle":"fade"};</script><div data-id="221" class="easingslider easingslider-221 easingslider-container easingslider-full-width easingslider-resizing-enabled easingslider-aspect-ratio easingslider-arrows-hover easingslider-arrows-inside easingslider-pagination-inside easingslider-pagination-bottom-center"><div class="easingslider-slide"><img src="http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/easing-slider/assets/images/placeholder-pixel.png" data-src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2017/02/p6018774-1.jpg" alt="" title="" class="easingslider-image easingslider-lazy" /></div><div class="easingslider-slide"><img src="http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/easing-slider/assets/images/placeholder-pixel.png" data-src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2017/02/p1040411.jpg" alt="" title="" class="easingslider-image easingslider-lazy" /></div><div class="easingslider-slide"><img src="http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/easing-slider/assets/images/placeholder-pixel.png" data-src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2017/02/dscf2747.jpg" alt="" title="" class="easingslider-image easingslider-lazy" /></div><div class="easingslider-slide"><img src="http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/easing-slider/assets/images/placeholder-pixel.png" data-src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2017/02/79304.jpg" alt="" title="" class="easingslider-image easingslider-lazy" /></div><div class="easingslider-slide"><img src="http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/easing-slider/assets/images/placeholder-pixel.png" data-src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2017/02/dscf2745.jpg" alt="" title="" class="easingslider-image easingslider-lazy" /></div></div></aside><aside id="categories-6" class="widget widget_categories clearfix"><h3 class="widget-title"><span>ข่าวและกิจกรรม</span></h3>		<ul>
+	<li class="cat-item cat-item-7"><a href="http://web.sbc.ku.ac.th/newsupan/?cat=7" title="ข่าวนิสิต">ข่าวนิสิต</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://web.sbc.ku.ac.th/newsupan/?cat=3" title="ข่าวประชาสัมพันธ์">ข่าวประชาสัมพันธ์</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://web.sbc.ku.ac.th/newsupan/?cat=1" title="ข่าวรับสมัครงาน">ข่าวรับสมัครงาน</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://web.sbc.ku.ac.th/newsupan/?cat=6" title="ข่าวอบรมสัมมนา">ข่าวอบรมสัมมนา</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://web.sbc.ku.ac.th/newsupan/?cat=11" title="ภาพกิจกรรม">ภาพกิจกรรม</a>
+</li>
+		</ul>
+</aside><aside id="linkcat-12" class="widget widget_links clearfix"><h3 class="widget-title"><span>ส่วนกลางเกษตรศาสตร์</span></h3>
+	<ul class='xoxo blogroll'>
+<li><a href="https://eoffice.ku.ac.th/e-office/?mode=view-doc-share" title="จดหมายเวียน" target="_blank">หนังสือเวียน</a></li>
+<li><a href="http://www.ku.ac.th/web2012/index.php?c=adms&#038;m=selcon_th&#038;time=20120814093708" title="ลิงค์ด่วน" target="_blank">ลิงค์ด่วน</a></li>
+<li><a href="http://www.ku.ac.th/web2012/index.php?c=adms&#038;m=selcon_th&#038;time=20120724004745" title="องค์ความรู้ทางวิชาการ" target="_blank">องค์ความรู้ทางวิชาการ</a></li>
+<li><a href="http://www.ku.ac.th/kunews/policy_internet_ku.pdf" title="นโยบายความมั่นคงปลอดภัยด้านสารสนเทศ" target="_blank">นโยบายความมั่นคงปลอดภัยด้านสารสนเทศ</a></li>
+<li><a href="http://www.ku.ac.th/web2012/index.php?c=adms&#038;m=selcon_th&#038;time=20120906110803" title="ข้อปฏิบัติในการใช้ e-mail มก." target="_blank">ข้อปฏิบัติในการใช้ e-mail มก.</a></li>
+<li><a href="http://live.ku.ac.th/" title="ระบบถ่ายทอดสด (nontri live)" target="_blank">ระบบถ่ายทอดสด (nontri live)</a></li>
+<li><a href="http://ku-online.ku.ac.th/index.php?id=292" title="รายการ ku online" target="_blank">รายการ ku online</a></li>
+<li><a href="http://autonomy.ku.ac.th/new/" title="พรบ. มหาวิทยาลัยเกษตรศาสตร์ พ.ศ. 2558" target="_blank">พรบ. มหาวิทยาลัยเกษตรศาสตร์ พ.ศ. 2558</a></li>
+<li><a href="http://council.ku.ac.th/" title="สภามหาวิทยาลัย 2558" target="_blank">สภามหาวิทยาลัย 2558</a></li>
+
+	</ul>
+</aside>
+<aside id="colormag_300x250_advertisement_widget-6" class="widget widget_300x250_advertisement clearfix">
+      <div class="advertisement_300x250">
+         <div class="advertisement-content"><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=149" class="single_ad_300x250" target="_blank" rel="nofollow">
+                                    <img src="http://web.sbc.ku.ac.th/newsupan/wp-content/uploads/2016/09/dscf27472.jpg" width="300" height="250">
+                           </a></div>      </div>
+      </aside>
+	</div>
+	
+
+		</div><!-- .inner-wrap -->
+	</div><!-- #main -->
+   			<footer id="colophon" class="clearfix">
+			
+<div class="footer-widgets-wrapper">
+	<div class="inner-wrap">
+		<div class="footer-widgets-area clearfix">
+         <div class="tg-footer-main-widget">
+   			<div class="tg-first-footer-widget">
+   				<aside id="text-3" class="widget widget_text clearfix"><h3 class="widget-title"><span>ติดต่อสำนักงาน</span></h3>			<div class="textwidget"><p>โครงการจัดตั้งวิทยาเขตสุพรรณบุรี มหาวิทยาลัยเกษตรศาสตร์ <br />
+98 หมู่ 11 ต.โคกคราม อ.บางปลาม้า จ.สุพรรณบุรี 72150 </p>
+<p>โทรศัพท์ : 0-3552-1260 หรือ 02 942 8200-45 ต่อ <br /> - ผู้ช่วยอธิการบดี 622967<br />
+- สำนักงาน วข.สุพรรณบุรี 622966<br />
+- การเงินและบัญชี 622969<br />
+- พัสดุ 622970<br />
+- ห้องพักอาจารย์ 622968</p>
+<p>ศูนย์ประสานงานโครงการจัดตั้งวิทยาเขตสุพรรณบุรี <br />มหาวิทยาลัยเกษตรศาสตร์ บางเขน<br />
+เลขที่ 50 ถ.งามวงศ์วาน แขวงลาดยาว เขตจตุจักร กรุงเทพฯ 10900<br />
+โทรศัพท์ : 02 942 8200-45 ต่อ 644017</p>
+<p>โครงการปริญญาตรีการจัดการโรงแรมและท่องเที่ยว : 0-3552-2946</p>
+</div>
+		</aside><aside id="text-7" class="widget widget_text clearfix"><h3 class="widget-title"><span>ติดต่อผู้บริหาร</span></h3>			<div class="textwidget">รศ.ดร. สมหวัง ขันตยานุวงศ์<br>
+รองอธิการบดีฝ่ายพัฒนาบัณฑิตขั้นสูงและโครงการจัดตั้งวิทยาเขตสุพรรณบุรี
+<br>
+<br>
+รศ.ดร.ชลิดา เล็กสมบูรณ์<br>
+ผู้ช่วยอธิการบดีฝ่ายพัฒนาบัณฑิตขั้นสูงและโครงการจัดตั้งวิทยาเขตสุพรรณบุรี
+<br>
+<br>เลขานุการ : น.ส.ยุวดี เกตุมณี : 081-804-2857<br></div>
+		</aside><aside id="newstatpress" class="widget nsp_widgetstats clearfix"><h3 class="widget-title"><span>สถิติเว็บ</span></h3>วันนี้ : <span id="visits">_</span>
+          <script type="text/javascript">
+
+            var xmlhttp_visits = new xmlhttprequest();
+
+            xmlhttp_visits.onreadystatechange = function() {
+              if (xmlhttp_visits.readystate == 4 && xmlhttp_visits.status == 200) {
+                document.getelementbyid("visits").innerhtml=xmlhttp_visits.responsetext;
+              }
+            }
+
+            var url="http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/newstatpress/includes/api/variables.php?var=visits&limit=0&flag=&url=";
+
+            xmlhttp_visits.open("get", url, true);
+            xmlhttp_visits.send();
+          </script>
+          คน      
+สัปดาห์นี้ : <span id="wvisits">_</span>
+          <script type="text/javascript">
+
+            var xmlhttp_wvisits = new xmlhttprequest();
+
+            xmlhttp_wvisits.onreadystatechange = function() {
+              if (xmlhttp_wvisits.readystate == 4 && xmlhttp_wvisits.status == 200) {
+                document.getelementbyid("wvisits").innerhtml=xmlhttp_wvisits.responsetext;
+              }
+            }
+
+            var url="http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/newstatpress/includes/api/variables.php?var=wvisits&limit=0&flag=&url=";
+
+            xmlhttp_wvisits.open("get", url, true);
+            xmlhttp_wvisits.send();
+          </script>
+          คน 
+เดือนนี้ :  <span id="mvisits">_</span>
+          <script type="text/javascript">
+
+            var xmlhttp_mvisits = new xmlhttprequest();
+
+            xmlhttp_mvisits.onreadystatechange = function() {
+              if (xmlhttp_mvisits.readystate == 4 && xmlhttp_mvisits.status == 200) {
+                document.getelementbyid("mvisits").innerhtml=xmlhttp_mvisits.responsetext;
+              }
+            }
+
+            var url="http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/newstatpress/includes/api/variables.php?var=mvisits&limit=0&flag=&url=";
+
+            xmlhttp_mvisits.open("get", url, true);
+            xmlhttp_mvisits.send();
+          </script>
+          คน 
+ออนไลน์ :  0 คน <br> 
+ทั้งหมด :  <span id="alltotalvisits">_</span>
+          <script type="text/javascript">
+
+            var xmlhttp_alltotalvisits = new xmlhttprequest();
+
+            xmlhttp_alltotalvisits.onreadystatechange = function() {
+              if (xmlhttp_alltotalvisits.readystate == 4 && xmlhttp_alltotalvisits.status == 200) {
+                document.getelementbyid("alltotalvisits").innerhtml=xmlhttp_alltotalvisits.responsetext;
+              }
+            }
+
+            var url="http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/newstatpress/includes/api/variables.php?var=alltotalvisits&limit=0&flag=&url=";
+
+            xmlhttp_alltotalvisits.open("get", url, true);
+            xmlhttp_alltotalvisits.send();
+          </script>
+          คน <br>
+นับเมื่อวันที่ 9 กันยายน 2559</aside>   			</div>
+         </div>
+         <div class="tg-footer-other-widgets">
+   			<div class="tg-second-footer-widget">
+   				<aside id="linkcat-9" class="widget widget_links clearfix"><h3 class="widget-title"><span>บริการบุคลากร</span></h3>
+	<ul class='xoxo blogroll'>
+<li><a href="https://ocs.ku.ac.th/new/?page_id=2143">account ku-google</a></li>
+<li><a href="https://accounts.google.com/addsession?continue=https%3a%2f%2fmail.google.com%2fmail%2f&#038;service=mail&#038;hd=ku.th&#038;sacu=1&#038;ignoreshadow=0&#038;acui=1#email=seksan.v%40ku.th" title="ku google for education" target="_blank">ku google for education</a></li>
+<li><a href="https://login.microsoftonline.com/" title="ku office 365 for education" target="_blank">ku office 365 for education</a></li>
+<li><a href="https://smart.ku.ac.th/" title="ku smart " target="_blank">ku smart</a></li>
+<li><a href="https://webmail.ku.ac.th/roundcube/" title="ku webmail" target="_blank">ku webmail</a></li>
+<li><a href="http://live.ku.ac.th/" target="_blank">nontri live</a></li>
+<li><a href="http://www.sbc.ku.ac.th/qasbc/" title="งานประกันคุณภาพ" target="_blank">งานประกันคุณภาพ</a></li>
+<li><a href="https://eassess.ku.ac.th/m/" title="ระบบประเมินการเรียนการสอน" target="_blank">งานประเมินการเรียนการสอน</a></li>
+<li><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=4858" title="ระบบแจ้งซ่อมออนไลน์ เมื่อคุณส่งข้อมูล ฝ่ายซ่อมบำรุงจะได้รับข้อมูลทันที" target="_blank">บริการบุคลากร &#8230;..</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-16" class="widget widget_links clearfix"><h3 class="widget-title"><span>วารสารประชาสัมพันธ์</span></h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=5066">วารสารประชาสัมพันธ์</a></li>
+
+	</ul>
+</aside>
+   			</div>
+            <div class="tg-third-footer-widget">
+               <aside id="linkcat-8" class="widget widget_links clearfix"><h3 class="widget-title"><span>บริการนิสิต</span></h3>
+	<ul class='xoxo blogroll'>
+<li><a href="https://sp-regis.ku.ac.th/" title="ระบบสารสนเทศนิสิต" target="_blank">ระบบสารสนเทศนิสิต</a></li>
+<li><a href="https://lib.ku.ac.th/" title="ห้องสมุดอิเล็กทรอนิกส์" target="_blank">ห้องสมุดอิเล็กทรอนิกส์</a></li>
+<li><a href="https://course.ku.ac.th/lms/login1/ilogins.php" title="m@xlearn ku" target="_blank">m@xlearn ku</a></li>
+<li><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=3828" title="หอพักเอกชน" target="_blank">หอพักเอกชน</a></li>
+<li><a href="http://kuappstore.ku.ac.th/" title="ku app store" target="_blank">ku app store</a></li>
+<li><a href="https://ocs.ku.ac.th/" target="_blank">สำนักบริการคอมพิวเตอร์</a></li>
+<li><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=6060" target="_blank">กองทุนเงินให้กู้ยืมเพื่อการศึกษา</a></li>
+<li><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=4865" target="_blank">บริการนิสิต &#8230;..</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-15" class="widget widget_links clearfix"><h3 class="widget-title"><span>เอกสาร ประกาศ</span></h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=4660" title="อัตราค่าธรรมเนียมการใช้สถานที่" target="_blank">ค่าธรรมเนียมการใช้สถานที่</a></li>
+<li><a href="http://web.sbc.ku.ac.th/newsupan/?page_id=3962" target="_blank">ประกาศ อัตราค่าธรรมเนียมการศึกษา</a></li>
+
+	</ul>
+</aside>
+            </div>
+            <div class="tg-fourth-footer-widget">
+               <aside id="linkcat-10" class="widget widget_links clearfix"><h3 class="widget-title"><span>วิทยาเขต</span></h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.ku.ac.th/" title="วิทยาเขตบางเขน" target="_blank">วิทยาเขตบางเขน</a></li>
+<li><a href="http://www.kps.ku.ac.th/" title="วิทยาเขตกำแพงแสน" target="_blank">วิทยาเขตกำแพงแสน</a></li>
+<li><a href="http://www.csc.ku.ac.th" title="วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร" target="_blank">วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</a></li>
+<li><a href="http://www.src.ku.ac.th/" title="วิทยาเขตศรีราชา" target="_blank">วิทยาเขตศรีราชา</a></li>
+
+	</ul>
+</aside>
+<aside id="text-5" class="widget widget_text clearfix">			<div class="textwidget"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3623.827685506212!2d100.16094782490916!3d14.424316454554386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e2474e3dc6b0ed%3a0x72dc785c399c1e1b!2z4lih4lir4liy4lin4li04lix4lii4liy4lil4lix4lii4lma4lib4lip4liv4lij4lio4liy4liq4liv4lij4lmmioc4p-c4toc4l-c4ouc4suc5goc4guc4lec4quc4uoc4nuc4o-c4o-c4k-c4muc4uoc4o-c4tq!5e1!3m2!1sth!2sth!4v1473662790455" width="300" height="150" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+		</aside><aside id="linkcat-14" class="widget widget_links clearfix"><h3 class="widget-title"><span>เว็บไซต์น่าสนใจ</span></h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.tatsuphan.net/" title="การท่องเที่ยวแห่งประเทศไทย สำนักงานสุพรรณบุรี" target="_blank">ททท.สุพรรณบุรี</a></li>
+<li><a href="http://www.bpm.police7.go.th/police7_station/newsite.php" title="สถานีตำรวจบางปลาม้า" target="_blank">สถานีตำรวจบางปลาม้า</a></li>
+<li><a href="http://www.mspb.police7.go.th/police7_station/newsite.php" title="สถานีตำรวจสุพรรณบุรี" target="_blank">สถานีตำรวจสุพรรณบุรี</a></li>
+<li><a href="http://www.suphanburi.go.th/suphan/" title="สำนักงานจังหวัดสุพรรณบุรี" target="_blank">สนง.จังหวัดสุพรรณบุรี</a></li>
+<li><a href="https://www.suphan.go.th/" title="องค์การบริหารส่วนจังหวัดสุพรรณบุรี" target="_blank">อบจ.สุพรรณบุรี</a></li>
+<li><a href="http://www.welovesuphan.com/th/" title="แนะนำแหล่งท่องเที่ยวสุพรรณบุรี" target="_blank">เรารักสุพรรณ</a></li>
+
+	</ul>
+</aside>
+            </div>
+         </div>
+		</div>
+	</div>
+</div>			<div class="footer-socket-wrapper clearfix">
+				<div class="inner-wrap">
+					<div class="footer-socket-area">
+                  <div class="footer-socket-right-section">
+   							<div class="social-links clearfix">
+		<ul>
+		<li><a href="https://www.facebook.com/kasetsartsuphanburi/" target="_blank"><i class="fa fa-facebook"></i></a></li>		</ul>
+	</div><!-- .social-links -->
+	                  </div>
+                  <div class="footer-socket-left-sectoin">
+   						<div class="copyright">copyright &copy; 2022 <a href="http://web.sbc.ku.ac.th/newsupan/" title="" ><span></span></a>. all rights reserved.<br>theme: colormag by <a href="http://themegrill.com/themes/colormag" target="_blank" title="themegrill" rel="designer"><span>themegrill</span></a>. powered by <a href="http://wordpress.org" target="_blank" title="wordpress"><span>wordpress</span></a>.</div>                  </div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<a href="#masthead" id="scroll-up"><i class="fa fa-chevron-up"></i></a>
+	</div><!-- #page -->
+			<script type="text/javascript"> 
+			jquery(document).ready(function($) {
+				$('#horizontal-scroll').marquee({
+					duration: 13000,
+					pauseonhover: true
+				});
+
+				$('#vertical-scroll').marquee({
+					duration: 12000,
+					direction: 'up',
+					duplicated: false,
+					pauseonhover: true
+				});
+			});
+		</script>
+	<link rel='stylesheet' id='post-scroll-style-css'  href='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/post-scroll-widget/assets/css/post-scroll-style.css?ver=4.5.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/themes/colormag/js/jquery.bxslider.min.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/themes/colormag/js/colormag-slider-setting.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/themes/colormag/js/navigation.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/themes/colormag/js/news-ticker/jquery.newsticker.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/themes/colormag/js/news-ticker/ticker-setting.js?ver=20150304'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/themes/colormag/js/sticky/jquery.sticky.js?ver=20150309'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/themes/colormag/js/sticky/sticky-setting.js?ver=20150309'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/themes/colormag/js/magnific-popup/jquery.magnific-popup.min.js?ver=20150310'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/themes/colormag/js/magnific-popup/image-popup-setting.js?ver=20150310'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/themes/colormag/js/fitvids/jquery.fitvids.js?ver=20150311'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/themes/colormag/js/fitvids/fitvids-setting.js?ver=20150311'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-includes/js/wp-embed.min.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/foogallery/extensions/default-templates/shared/js/imagesloaded.pkgd.min.js?ver=1.2.15'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/foogallery/extensions/default-templates/default/js/gallery-default.js?ver=1.2.15'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/simple-lightbox/client/js/prod/lib.core.js?ver=2.5.3'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/simple-lightbox/client/js/prod/lib.view.js?ver=2.5.3'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/post-scroll-widget/assets/js/jquery.marquee.min.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/simple-lightbox/themes/baseline/js/prod/client.js?ver=2.5.3'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/simple-lightbox/themes/default/js/prod/client.js?ver=2.5.3'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/simple-lightbox/template-tags/item/js/prod/tag.item.js?ver=2.5.3'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/simple-lightbox/template-tags/ui/js/prod/tag.ui.js?ver=2.5.3'></script>
+<script type='text/javascript' src='http://web.sbc.ku.ac.th/newsupan/wp-content/plugins/simple-lightbox/content-handlers/image/js/prod/handler.image.js?ver=2.5.3'></script>
+<script type="text/javascript" id="slb_footer">/* <![cdata[ */if ( !!window.jquery ) {(function($){$(document).ready(function(){if ( !!window.slb && slb.has_child('view.init') ) { slb.view.init({"ui_autofit":true,"ui_animate":true,"slideshow_autostart":true,"slideshow_duration":"6","group_loop":true,"ui_overlay_opacity":"0.8","ui_title_default":false,"theme_default":"slb_default","ui_labels":{"loading":"loading","close":"\u0e1b\u0e34\u0e14","nav_next":"\u0e16\u0e31\u0e14\u0e44\u0e1b","nav_prev":"\u0e22\u0e49\u0e2d\u0e19\u0e01\u0e25\u0e31\u0e1a","slideshow_start":"\u0e40\u0e23\u0e34\u0e48\u0e21","slideshow_stop":"\u0e2b\u0e22\u0e38\u0e14","group_status":"item %current% of %total%"}}); }
+if ( !!window.slb && slb.has_child('view.assets') ) { {$.extend(slb.view.assets, {"677797843":{"id":485,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2017\/02\/dscf2747.jpg","internal":true,"image_meta":{"aperture":"8","credit":"","camera":"x-m1","caption":"","created_timestamp":"1474097782","copyright":"","focal_length":"16","iso":"200","shutter_speed":"0.004","title":"","orientation":"0","keywords":[],"resized_images":["640x400"]},"sizes":{"original":{"file":"2017\/02\/dscf2747.jpg","width":800,"height":533}},"description":"","title":"dscf2747","caption":""},"299026857":{"id":6068,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2016\/09\/104461.jpg","internal":true,"sizes":{"thumbnail":{"file":"104461-150x150.jpg","width":150,"height":150,"mime-type":"image\/jpeg"},"medium":{"file":"104461-300x192.jpg","width":300,"height":192,"mime-type":"image\/jpeg"},"medium_large":{"file":"104461-768x492.jpg","width":768,"height":492,"mime-type":"image\/jpeg"},"large":{"file":"104461-1024x656.jpg","width":1024,"height":656,"mime-type":"image\/jpeg"},"wps_thumbnail_size":{"file":"104461-300x230.jpg","width":300,"height":230,"mime-type":"image\/jpeg"},"colormag-highlighted-post":{"file":"104461-392x272.jpg","width":392,"height":272,"mime-type":"image\/jpeg"},"colormag-featured-post-medium":{"file":"104461-390x205.jpg","width":390,"height":205,"mime-type":"image\/jpeg"},"colormag-featured-post-small":{"file":"104461-130x90.jpg","width":130,"height":90,"mime-type":"image\/jpeg"},"colormag-featured-image":{"file":"104461-800x445.jpg","width":800,"height":445,"mime-type":"image\/jpeg"},"original":{"file":"2016\/09\/104461.jpg","width":1477,"height":946}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"description":"","title":"104461","caption":""},"1104730553":{"id":6069,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2016\/09\/104462.jpg","internal":true,"sizes":{"thumbnail":{"file":"104462-150x150.jpg","width":150,"height":150,"mime-type":"image\/jpeg"},"medium":{"file":"104462-300x225.jpg","width":300,"height":225,"mime-type":"image\/jpeg"},"medium_large":{"file":"104462-768x576.jpg","width":768,"height":576,"mime-type":"image\/jpeg"},"large":{"file":"104462-1024x768.jpg","width":1024,"height":768,"mime-type":"image\/jpeg"},"wps_thumbnail_size":{"file":"104462-300x230.jpg","width":300,"height":230,"mime-type":"image\/jpeg"},"colormag-highlighted-post":{"file":"104462-392x272.jpg","width":392,"height":272,"mime-type":"image\/jpeg"},"colormag-featured-post-medium":{"file":"104462-390x205.jpg","width":390,"height":205,"mime-type":"image\/jpeg"},"colormag-featured-post-small":{"file":"104462-130x90.jpg","width":130,"height":90,"mime-type":"image\/jpeg"},"colormag-featured-image":{"file":"104462-800x445.jpg","width":800,"height":445,"mime-type":"image\/jpeg"},"original":{"file":"2016\/09\/104462.jpg","width":1477,"height":1108}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"description":"","title":"104462","caption":""},"1745133011":{"id":142,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2016\/09\/img_5723.jpg","internal":true,"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"sizes":{"original":{"file":"2016\/09\/img_5723.jpg","width":800,"height":533}},"description":"","title":"img_5723","caption":""},"818290613":{"id":143,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2016\/09\/img_5726.jpg","internal":true,"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"sizes":{"original":{"file":"2016\/09\/img_5726.jpg","width":800,"height":533}},"description":"","title":"img_5726","caption":""},"242877332":{"id":144,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2016\/09\/img_5728.jpg","internal":true,"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"sizes":{"original":{"file":"2016\/09\/img_5728.jpg","width":800,"height":518}},"description":"","title":"img_5728","caption":""},"453897906":{"id":145,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2016\/09\/img_5731.jpg","internal":true,"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"sizes":{"original":{"file":"2016\/09\/img_5731.jpg","width":800,"height":533}},"description":"","title":"img_5731","caption":""},"190996415":{"id":146,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2016\/09\/img_5732.jpg","internal":true,"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"sizes":{"original":{"file":"2016\/09\/img_5732.jpg","width":800,"height":533}},"description":"","title":"img_5732","caption":""},"1915691595":{"id":6071,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2016\/09\/104472.jpg","internal":true,"sizes":{"thumbnail":{"file":"104472-150x150.jpg","width":150,"height":150,"mime-type":"image\/jpeg"},"medium":{"file":"104472-300x300.jpg","width":300,"height":300,"mime-type":"image\/jpeg"},"medium_large":{"file":"104472-768x771.jpg","width":768,"height":771,"mime-type":"image\/jpeg"},"large":{"file":"104472-1019x1024.jpg","width":1019,"height":1024,"mime-type":"image\/jpeg"},"wps_thumbnail_size":{"file":"104472-300x230.jpg","width":300,"height":230,"mime-type":"image\/jpeg"},"colormag-highlighted-post":{"file":"104472-392x272.jpg","width":392,"height":272,"mime-type":"image\/jpeg"},"colormag-featured-post-medium":{"file":"104472-390x205.jpg","width":390,"height":205,"mime-type":"image\/jpeg"},"colormag-featured-post-small":{"file":"104472-130x90.jpg","width":130,"height":90,"mime-type":"image\/jpeg"},"colormag-featured-image":{"file":"104472-800x445.jpg","width":800,"height":445,"mime-type":"image\/jpeg"},"original":{"file":"2016\/09\/104472.jpg","width":1108,"height":1113}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"description":"","title":"104472","caption":""},"735381472":{"id":6072,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2016\/09\/104473.jpg","internal":true,"sizes":{"thumbnail":{"file":"104473-150x150.jpg","width":150,"height":150,"mime-type":"image\/jpeg"},"medium":{"file":"104473-225x300.jpg","width":225,"height":300,"mime-type":"image\/jpeg"},"medium_large":{"file":"104473-768x1024.jpg","width":768,"height":1024,"mime-type":"image\/jpeg"},"large":{"file":"104473-768x1024.jpg","width":768,"height":1024,"mime-type":"image\/jpeg"},"wps_thumbnail_size":{"file":"104473-300x230.jpg","width":300,"height":230,"mime-type":"image\/jpeg"},"colormag-highlighted-post":{"file":"104473-392x272.jpg","width":392,"height":272,"mime-type":"image\/jpeg"},"colormag-featured-post-medium":{"file":"104473-390x205.jpg","width":390,"height":205,"mime-type":"image\/jpeg"},"colormag-featured-post-small":{"file":"104473-130x90.jpg","width":130,"height":90,"mime-type":"image\/jpeg"},"colormag-featured-image":{"file":"104473-800x445.jpg","width":800,"height":445,"mime-type":"image\/jpeg"},"original":{"file":"2016\/09\/104473.jpg","width":1108,"height":1477}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"description":"","title":"104473","caption":""},"802062439":{"id":6073,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2016\/09\/104474.jpg","internal":true,"sizes":{"thumbnail":{"file":"104474-150x150.jpg","width":150,"height":150,"mime-type":"image\/jpeg"},"medium":{"file":"104474-225x300.jpg","width":225,"height":300,"mime-type":"image\/jpeg"},"medium_large":{"file":"104474-768x1024.jpg","width":768,"height":1024,"mime-type":"image\/jpeg"},"large":{"file":"104474-768x1024.jpg","width":768,"height":1024,"mime-type":"image\/jpeg"},"wps_thumbnail_size":{"file":"104474-300x230.jpg","width":300,"height":230,"mime-type":"image\/jpeg"},"colormag-highlighted-post":{"file":"104474-392x272.jpg","width":392,"height":272,"mime-type":"image\/jpeg"},"colormag-featured-post-medium":{"file":"104474-390x205.jpg","width":390,"height":205,"mime-type":"image\/jpeg"},"colormag-featured-post-small":{"file":"104474-130x90.jpg","width":130,"height":90,"mime-type":"image\/jpeg"},"colormag-featured-image":{"file":"104474-800x445.jpg","width":800,"height":445,"mime-type":"image\/jpeg"},"original":{"file":"2016\/09\/104474.jpg","width":1108,"height":1477}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"description":"","title":"104474","caption":""},"608896727":{"id":6074,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2016\/09\/104480.jpg","internal":true,"sizes":{"thumbnail":{"file":"104480-150x150.jpg","width":150,"height":150,"mime-type":"image\/jpeg"},"medium":{"file":"104480-300x207.jpg","width":300,"height":207,"mime-type":"image\/jpeg"},"medium_large":{"file":"104480-768x530.jpg","width":768,"height":530,"mime-type":"image\/jpeg"},"large":{"file":"104480-1024x707.jpg","width":1024,"height":707,"mime-type":"image\/jpeg"},"wps_thumbnail_size":{"file":"104480-300x230.jpg","width":300,"height":230,"mime-type":"image\/jpeg"},"colormag-highlighted-post":{"file":"104480-392x272.jpg","width":392,"height":272,"mime-type":"image\/jpeg"},"colormag-featured-post-medium":{"file":"104480-390x205.jpg","width":390,"height":205,"mime-type":"image\/jpeg"},"colormag-featured-post-small":{"file":"104480-130x90.jpg","width":130,"height":90,"mime-type":"image\/jpeg"},"colormag-featured-image":{"file":"104480-800x445.jpg","width":800,"height":445,"mime-type":"image\/jpeg"},"original":{"file":"2016\/09\/104480.jpg","width":1477,"height":1020}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"description":"","title":"104480","caption":""},"273884410":{"id":6075,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2016\/09\/104483.jpg","internal":true,"sizes":{"thumbnail":{"file":"104483-150x150.jpg","width":150,"height":150,"mime-type":"image\/jpeg"},"medium":{"file":"104483-270x300.jpg","width":270,"height":300,"mime-type":"image\/jpeg"},"medium_large":{"file":"104483-768x854.jpg","width":768,"height":854,"mime-type":"image\/jpeg"},"large":{"file":"104483-921x1024.jpg","width":921,"height":1024,"mime-type":"image\/jpeg"},"wps_thumbnail_size":{"file":"104483-300x230.jpg","width":300,"height":230,"mime-type":"image\/jpeg"},"colormag-highlighted-post":{"file":"104483-392x272.jpg","width":392,"height":272,"mime-type":"image\/jpeg"},"colormag-featured-post-medium":{"file":"104483-390x205.jpg","width":390,"height":205,"mime-type":"image\/jpeg"},"colormag-featured-post-small":{"file":"104483-130x90.jpg","width":130,"height":90,"mime-type":"image\/jpeg"},"colormag-featured-image":{"file":"104483-800x445.jpg","width":800,"height":445,"mime-type":"image\/jpeg"},"original":{"file":"2016\/09\/104483.jpg","width":1108,"height":1232}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"description":"","title":"104483","caption":""},"1579990007":{"id":6076,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2016\/09\/104484.jpg","internal":true,"sizes":{"thumbnail":{"file":"104484-150x150.jpg","width":150,"height":150,"mime-type":"image\/jpeg"},"medium":{"file":"104484-220x300.jpg","width":220,"height":300,"mime-type":"image\/jpeg"},"medium_large":{"file":"104484-768x1045.jpg","width":768,"height":1045,"mime-type":"image\/jpeg"},"large":{"file":"104484-752x1024.jpg","width":752,"height":1024,"mime-type":"image\/jpeg"},"wps_thumbnail_size":{"file":"104484-300x230.jpg","width":300,"height":230,"mime-type":"image\/jpeg"},"colormag-highlighted-post":{"file":"104484-392x272.jpg","width":392,"height":272,"mime-type":"image\/jpeg"},"colormag-featured-post-medium":{"file":"104484-390x205.jpg","width":390,"height":205,"mime-type":"image\/jpeg"},"colormag-featured-post-small":{"file":"104484-130x90.jpg","width":130,"height":90,"mime-type":"image\/jpeg"},"colormag-featured-image":{"file":"104484-800x445.jpg","width":800,"height":445,"mime-type":"image\/jpeg"},"original":{"file":"2016\/09\/104484.jpg","width":1031,"height":1403}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"description":"","title":"104484","caption":""},"179366364":{"id":6077,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2016\/09\/104510.jpg","internal":true,"sizes":{"thumbnail":{"file":"104510-150x150.jpg","width":150,"height":150,"mime-type":"image\/jpeg"},"medium":{"file":"104510-300x206.jpg","width":300,"height":206,"mime-type":"image\/jpeg"},"medium_large":{"file":"104510-768x528.jpg","width":768,"height":528,"mime-type":"image\/jpeg"},"large":{"file":"104510-1024x703.jpg","width":1024,"height":703,"mime-type":"image\/jpeg"},"wps_thumbnail_size":{"file":"104510-300x230.jpg","width":300,"height":230,"mime-type":"image\/jpeg"},"colormag-highlighted-post":{"file":"104510-392x272.jpg","width":392,"height":272,"mime-type":"image\/jpeg"},"colormag-featured-post-medium":{"file":"104510-390x205.jpg","width":390,"height":205,"mime-type":"image\/jpeg"},"colormag-featured-post-small":{"file":"104510-130x90.jpg","width":130,"height":90,"mime-type":"image\/jpeg"},"colormag-featured-image":{"file":"104510-800x445.jpg","width":800,"height":445,"mime-type":"image\/jpeg"},"original":{"file":"2016\/09\/104510.jpg","width":1236,"height":849}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"description":"","title":"104510","caption":""},"911225380":{"id":6079,"type":"image","source":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/uploads\/2016\/09\/104512.jpg","internal":true,"sizes":{"thumbnail":{"file":"104512-150x150.jpg","width":150,"height":150,"mime-type":"image\/jpeg"},"medium":{"file":"104512-240x300.jpg","width":240,"height":300,"mime-type":"image\/jpeg"},"medium_large":{"file":"104512-768x961.jpg","width":768,"height":961,"mime-type":"image\/jpeg"},"large":{"file":"104512-819x1024.jpg","width":819,"height":1024,"mime-type":"image\/jpeg"},"wps_thumbnail_size":{"file":"104512-300x230.jpg","width":300,"height":230,"mime-type":"image\/jpeg"},"colormag-highlighted-post":{"file":"104512-392x272.jpg","width":392,"height":272,"mime-type":"image\/jpeg"},"colormag-featured-post-medium":{"file":"104512-390x205.jpg","width":390,"height":205,"mime-type":"image\/jpeg"},"colormag-featured-post-small":{"file":"104512-130x90.jpg","width":130,"height":90,"mime-type":"image\/jpeg"},"colormag-featured-image":{"file":"104512-800x445.jpg","width":800,"height":445,"mime-type":"image\/jpeg"},"original":{"file":"2016\/09\/104512.jpg","width":1108,"height":1386}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"description":"","title":"104512","caption":""}});} }
+/* thm */
+if ( !!window.slb && slb.has_child('view.extend_theme') ) { slb.view.extend_theme('slb_baseline',{"name":"baseline","parent":"","styles":[{"handle":"base","uri":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/plugins\/simple-lightbox\/themes\/baseline\/css\/style.css","deps":[]}],"layout_raw":"<div class=\"slb_container\"><div class=\"slb_content\">{{item.content}}<div class=\"slb_nav\"><span class=\"slb_prev\">{{ui.nav_prev}}<\/span><span class=\"slb_next\">{{ui.nav_next}}<\/span><\/div><div class=\"slb_controls\"><span class=\"slb_close\">{{ui.close}}<\/span><span class=\"slb_slideshow\">{{ui.slideshow_control}}<\/span><\/div><div class=\"slb_loading\">{{ui.loading}}<\/div><\/div><div class=\"slb_details\"><div class=\"inner\"><div class=\"slb_data\"><div class=\"slb_data_content\"><span class=\"slb_data_title\">{{item.title}}<\/span><span class=\"slb_group_status\">{{ui.group_status}}<\/span><div class=\"slb_data_desc\">{{item.description}}<\/div><\/div><\/div><div class=\"slb_nav\"><span class=\"slb_prev\">{{ui.nav_prev}}<\/span><span class=\"slb_next\">{{ui.nav_next}}<\/span><\/div><\/div><\/div><\/div>"}); }if ( !!window.slb && slb.has_child('view.extend_theme') ) { slb.view.extend_theme('slb_default',{"name":"default (light)","parent":"slb_baseline","styles":[{"handle":"font","uri":"http:\/\/fonts.googleapis.com\/css?family=yanone+kaffeesatz","deps":[]},{"handle":"base","uri":"http:\/\/web.sbc.ku.ac.th\/newsupan\/wp-content\/plugins\/simple-lightbox\/themes\/default\/css\/style.css","deps":[]}]}); }})})(jquery);}/* ]]> */</script>
+<script type="text/javascript" id="slb_context">/* <![cdata[ */if ( !!window.jquery ) {(function($){$(document).ready(function(){if ( !!window.slb ) { {$.extend(slb, {"context":["public","user_guest"]});} }})})(jquery);}/* ]]> */</script>
+</body>
+</html>

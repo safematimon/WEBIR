@@ -73,7 +73,7 @@ def url_nor(extracted_links):
                   ,'.mov','.qt','.mpg','.mpeg','.mp2','.mp3','.mp4','.pcx','.pdf'
                   ,'.pl','.plx','.png','.pov','.ppm','.ps','.ra','.ram','.rm','.reg'
                   ,'.rtf','.tga','.tif','.tiff','.wav','.wri','.wrl','.vrml','.xbm'
-                  ,'.xml','.zip','.txt','.xlsx','.xls','.ppt','.php','.url','*']
+                  ,'.xml','.zip','.txt','.xlsx','.xls','.ppt','.php','.url','*','download']
     abs_link = []
     ku_link = []
     not_use = []
@@ -231,7 +231,7 @@ def dequeue():
 # e = error get_page raw_html='' can store
 # l = long name or smthng cant store
 #--- main process ---#
-while len(visited_q) < 200 + l + e:
+while len(visited_q) < 1000 + l + e:
     current_url = dequeue()
     visited_q.append(current_url)
     raw_html = get_page(current_url)

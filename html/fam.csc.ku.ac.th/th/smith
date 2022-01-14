@@ -1,0 +1,1542 @@
+<!doctype html>
+
+<!--[if ie 8]> <html class="ie ie8" lang="th"> <![endif]-->
+<!--[if ie 9]> <html class="ie ie9" lang="th"> <![endif]-->
+<!--[if gt ie 9]><!--> <html lang="th"> <!--<![endif]-->
+
+<head>
+
+
+<meta charset="utf-8" />
+<title>คณะศิลปศาสตร์และวิทยาการจัดการ &mdash; มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</title>
+
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="pingback" href="http://fam.csc.ku.ac.th/xmlrpc.php" />
+	
+
+	
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="คณะศิลปศาสตร์และวิทยาการจัดการ &raquo; ฟีด" href="http://fam.csc.ku.ac.th/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="คณะศิลปศาสตร์และวิทยาการจัดการ &raquo; ฟีดความเห็น" href="http://fam.csc.ku.ac.th/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojisettings = {"baseurl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgurl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgext":".svg","source":{"concatemoji":"http:\/\/fam.csc.ku.ac.th\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createelement("canvas"),i=h.getcontext&&h.getcontext("2d"),j=string.fromcharcode;if(!i||!i.filltext)return!1;switch(i.textbaseline="top",i.font="600 32px arial",a){case"flag":return i.filltext(j(55356,56806,55356,56826),0,0),!(h.todataurl().length<3e3)&&(i.clearrect(0,0,h.width,h.height),i.filltext(j(55356,57331,65039,8205,55356,57096),0,0),c=h.todataurl(),i.clearrect(0,0,h.width,h.height),i.filltext(j(55356,57331,55356,57096),0,0),d=h.todataurl(),c!==d);case"diversity":return i.filltext(j(55356,57221),0,0),e=i.getimagedata(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.filltext(j(55356,57221,55356,57343),0,0),e=i.getimagedata(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.filltext(j(55357,56835),0,0),0!==i.getimagedata(16,16,1,1).data[0];case"unicode8":return i.filltext(j(55356,57135),0,0),0!==i.getimagedata(16,16,1,1).data[0];case"unicode9":return i.filltext(j(55358,56631),0,0),0!==i.getimagedata(16,16,1,1).data[0]}return!1}function e(a){var c=b.createelement("script");c.src=a,c.type="text/javascript",b.getelementsbytagname("head")[0].appendchild(c)}var f,g,h,i;for(i=array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingexceptflag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingexceptflag=c.supports.everythingexceptflag&&c.supports[i[h]]);c.supports.everythingexceptflag=c.supports.everythingexceptflag&&!c.supports.flag,c.domready=!1,c.readycallback=function(){c.domready=!0},c.supports.everything||(g=function(){c.readycallback()},b.addeventlistener?(b.addeventlistener("domcontentloaded",g,!1),a.addeventlistener("load",g,!1)):(a.attachevent("onload",g),b.attachevent("onreadystatechange",function(){"complete"===b.readystate&&c.readycallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojisettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sfmcss-css'  href='http://fam.csc.ku.ac.th/wp-content/plugins/feedburner-alternative-and-rss-redirect/css/sfm_style.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sfmcss-css'  href='http://fam.csc.ku.ac.th/wp-content/plugins/feedburner-alternative-and-rss-redirect/css/sfm_widgetstyle.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://fam.csc.ku.ac.th/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://fam.csc.ku.ac.th/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.0.8.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='weblator_polling-plugin-styles-css'  href='http://fam.csc.ku.ac.th/wp-content/plugins/weblator-polling/public/assets/css/public.css?ver=1.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='weblator_polling-fa-css'  href='http://fam.csc.ku.ac.th/wp-content/plugins/weblator-polling/public/assets/css/font-awesome.min.css?ver=1.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-fonts-css'  href='http://fonts.googleapis.com/css?family=open+sans:400,400italic,600,700|roboto+slab|merriweather:300italic&#038;subset' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-core-css'  href='http://fam.csc.ku.ac.th/wp-content/themes/csctheme/style.css?ver=2.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-responsive-css'  href='http://fam.csc.ku.ac.th/wp-content/themes/csctheme/css/responsive.css?ver=2.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pretty-photo-css'  href='http://fam.csc.ku.ac.th/wp-content/themes/csctheme/css/prettyphoto.css?ver=2.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-font-awesome-css'  href='http://fam.csc.ku.ac.th/wp-content/themes/csctheme/css/fontawesome/css/font-awesome.min.css?ver=2.6.1' type='text/css' media='all' />
+<style id='smartmag-font-awesome-inline-css' type='text/css'>
+@import url('http://fonts.googleapis.com/css?family=open+sans%3a400|open+sans%3a600|open+sans%3a700&subset=');
+
+
+@font-face { font-family: "kanit"; src: url('https://fonts.googleapis.com/css?family=kanit') format('woff'); }
+h1, h2, h3, h4, h5, h6, .gallery-block .carousel .title a, .list-timeline .posts article, .posts-list .content > a, .block.posts a, 
+								#bbpress-forums .bbp-topic-title, #bbpress-forums .bbp-forum-title, .bbpress.single-topic .main-heading, .navigate-posts .link { font-family: "open sans", georgia, serif; }
+.highlights .excerpt, .listing-alt .content .excerpt { color: #3884ce; }
+
+.navigation { background-color: #3884ce;; }
+
+@media only screen and (max-width: 799px) { .navigation .menu > li:hover > a, .navigation .menu > .current-menu-item > a, 
+.navigation .menu > .current-menu-parent > a { background-color: #3884ce;; } }
+
+.navigation.sticky { background: rgb(56,132,206); background: rgba(56,132,206, 0.9);; }
+
+.navigation .mega-menu, .navigation .menu ul { background-color: #3884ce;; }
+
+@media only screen and (max-width: 799px) { .navigation .mega-menu.links > li:hover { background-color: #3884ce;; } }
+
+.navigation .menu > li:hover, .navigation .menu li li:hover, .navigation .menu li li.current-menu-item,
+.navigation .mega-menu .sub-nav li:hover, .navigation .menu .sub-nav li.current-menu-item { background-color: #3a91e5;; }
+
+@media only screen and (max-width: 799px) { .navigation .menu > li:hover > a, .navigation .menu > .current-menu-item > a, 
+.navigation .menu > .current-menu-parent > a, .navigation .mega-menu.links > li:hover,
+.navigation .menu > .current-menu-ancestor > a, .navigation .menu li.active { background-color: #3a91e5;; } }
+
+.navigation .mega-menu .sub-nav { background: #5da6ed;; }
+
+.main .sidebar .widgettitle, .tabbed .tabs-list { background-color: #3884ce;; }
+
+.main-footer { background-color: #3884ce; background-image: none;; }
+
+.lower-foot { background-color: #264891; }
+
+::selection { background: #264891; }
+
+::-moz-selection { background: #264891; }
+
+.top-bar, .post-content .modern-quote, .mobile-head { border-top-color: #264891; }
+
+.trending-ticker .heading, .breadcrumbs .location, .gallery-title, .related-posts .section-head, 
+.post-content a, .comments-list .bypostauthor .comment-author a, .error-page 
+.text-404, .main-color, .section-head.prominent, .block.posts .fa-angle-right, a.bbp-author-name, .main-stars span:before,
+.main-stars, .recentcomments .url, .nav-light .menu > li:hover > a, .nav-light .menu > .current-menu-item > a, 
+.nav-light .menu > .current-menu-parent > a, .nav-light-search .active .search-icon, .nav-light-search .search-icon:hover,
+.nav-light .menu li li:hover > a, .nav-light .menu li li.current-menu-item > a, .nav-light .mega-menu .sub-nav li:hover > a, 
+.nav-light .menu .sub-nav li.current-menu-item > a { color: #264891; }
+
+.navigation .menu > li:hover > a, .navigation .menu >.current-menu-item > a, .navigation .menu > .current-menu-parent > a,
+.navigation .menu > .current-menu-ancestor > a, .tabbed .tabs-list .active a, .nav-search .search-icon:hover, 
+.nav-search .active .search-icon, .comment-content .reply, .sc-tabs .active a { border-bottom-color: #264891; }
+
+.main-featured .cat, .main-featured .pages .flex-active, .rate-number .progress, .highlights .rate-number .progress, 
+.main-pagination .current, .main-pagination a:hover, .cat-title, .sc-button-default:hover, .drop-caps, .review-box .bar,
+.review-box .overall, .post .read-more a, .button, .post-pagination > span { background: #264891; }
+
+.post-content .wpcf7-not-valid-tip, .main-heading, .review-box .heading, .post-header .post-title:before, 
+.highlights h2:before, div.bbp-template-notice, div.indicator-hint, div.bbp-template-notice.info, 
+.modal-header .modal-title, .entry-title, .page-title { border-left-color: #264891; }
+
+@media only screen and (max-width: 799px) { .navigation .mobile .fa { background: #264891; } }
+
+.post-content a { color: #3884ce; }
+
+.main .sidebar .widgettitle, .tabbed .tabs-list a { color: #ffffff; }
+
+.navigation { border-color: #5da6ed;; }
+
+.navigation .menu > li li a, .navigation .mega-menu.links > li > a, .navigation .mega-menu.links > li li a,
+.mega-menu .posts-list .content, .navigation .mega-menu .sub-nav li a { border-color: #5da6ed;; }
+
+@media only screen and (max-width: 799px) { .navigation .menu li a { border-color: #5da6ed;; } }
+
+.mega-menu .heading, .navigation .mega-menu.links > li > a { border-color: #5da6ed;; }
+
+.highlights .excerpt, .listing-alt .content .excerpt { font-size: 10px;  }
+.post-content h1 { font-size: 16px;; }
+
+.post-content h2 { font-size: 16px;; }
+
+.post-content h3 { font-size: 16px;; }
+
+.post-content h5 { font-size: 10px;; }
+
+.post-content h6 { font-size: 10px;; }
+
+.post-content { font-family: "open sans", arial, sans-serif; font-weight: 600; font-size: 14px;  }
+
+
+</style>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.0.8.5'></script>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.0.8.5'></script>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=3.0.2'></script>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-content/plugins/weblator-polling/public/assets/js/vendors/excanvas.js?ver=1.3.0'></script>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-content/plugins/weblator-polling/public/assets/js/vendors/chart.min.js?ver=1.3.0'></script>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-content/plugins/weblator-polling/public/assets/js/app/legend.js?ver=1.3.0'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var ajaxurl = "http:\/\/fam.csc.ku.ac.th\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-content/plugins/weblator-polling/public/assets/js/app/public.js?ver=1.3.0'></script>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-content/themes/csctheme/js/jquery.prettyphoto.js?ver=4.6.1'></script>
+<link rel='https://api.w.org/' href='http://fam.csc.ku.ac.th/?rest_route=/' />
+<link rel="edituri" type="application/rsd+xml" title="rsd" href="http://fam.csc.ku.ac.th/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://fam.csc.ku.ac.th/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="wordpress 4.6.1" />
+<link rel="canonical" href="http://fam.csc.ku.ac.th/" />
+<link rel='shortlink' href='http://fam.csc.ku.ac.th/' />
+<link rel="alternate" type="application/json+oembed" href="http://fam.csc.ku.ac.th/?rest_route=%2foembed%2f1.0%2fembed&#038;url=http%3a%2f%2ffam.csc.ku.ac.th%2f" />
+<link rel="alternate" type="text/xml+oembed" href="http://fam.csc.ku.ac.th/?rest_route=%2foembed%2f1.0%2fembed&#038;url=http%3a%2f%2ffam.csc.ku.ac.th%2f&#038;format=xml" />
+<style type="text/css">
+.qtranxs_flag_th {background-image: url(http://fam.csc.ku.ac.th/wp-content/plugins/qtranslate-x/flags/); background-repeat: no-repeat;}
+.qtranxs_flag_en {background-image: url(http://fam.csc.ku.ac.th/wp-content/plugins/qtranslate-x/flags/gb.png); background-repeat: no-repeat;}
+</style>
+<link hreflang="thai" href="http://fam.csc.ku.ac.th/th/?lang=th" rel="alternate" />
+<link hreflang="x-default" href="http://fam.csc.ku.ac.th/th/" rel="alternate" />
+<meta name="generator" content="qtranslate-x 3.4.6.8" />
+<meta name="generator" content="powered by slider revolution 5.0.8.5 - responsive, mobile-friendly slider plugin for wordpress with comfortable drag and drop interface." />
+	
+<!--[if lt ie 9]>
+<script src="http://fam.csc.ku.ac.th/wp-content/themes/csctheme/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+</head>
+
+
+<body class="home page page-id-6 page-template page-template-page-blocks page-template-page-blocks-php page-builder right-sidebar full has-featured has-nav-dark has-mobile-head">
+
+<div class="main-wrap">
+
+	
+	
+	<div class="top-bar">
+
+		<div class="wrap">
+			<section class="top-bar-content cf">
+			
+								<div class="trending-ticker">
+					<span class="heading">hotnews :</span>
+
+					<ul>
+												
+												
+							<li><a href="http://fam.csc.ku.ac.th/?p=8491" title="81">81</a></li>
+						
+												
+							<li><a href="http://fam.csc.ku.ac.th/?p=8447" title="งาน ‘เรียนรู้ตลอดชีวิต’ แนวทางการลดความเหลื่อมล้ำในสังคมไทย จังหวัดสกลนคร-นครพนม">งาน ‘เรียนรู้ตลอดชีวิต’ แนวทางการลดความเหลื่อมล้ำในสังคมไทย จังหวัดสกลนคร-นครพนม</a></li>
+						
+												
+							<li><a href="http://fam.csc.ku.ac.th/?p=8437" title=""></a></li>
+						
+												
+							<li><a href="http://fam.csc.ku.ac.th/?p=8433" title=""></a></li>
+						
+												
+							<li><a href="http://fam.csc.ku.ac.th/?p=8428" title="โครงการยุวชนอาสา คณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ผ่านเข้ารอบ 10 ทีมสุดท้ายระดับประเทศ จาก 38 มหาวิทยาลัย">โครงการยุวชนอาสา คณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ผ่านเข้ารอบ 10 ทีมสุดท้ายระดับประเทศ จาก 38 มหาวิทยาลัย</a></li>
+						
+												
+							<li><a href="http://fam.csc.ku.ac.th/?p=8419" title="เยี่ยมชมพิพิธภัณฑ์ป้าทุ้ม ป้าไท้ (ศูนย์เรียนรู้บ้านป้าทุ้ม ป้าไท้) ผ้าไหมย้อมคราม">เยี่ยมชมพิพิธภัณฑ์ป้าทุ้ม ป้าไท้ (ศูนย์เรียนรู้บ้านป้าทุ้ม ป้าไท้) ผ้าไหมย้อมคราม</a></li>
+						
+												
+							<li><a href="http://fam.csc.ku.ac.th/?p=8396" title=""></a></li>
+						
+												
+							<li><a href="http://fam.csc.ku.ac.th/?p=8393" title=""></a></li>
+						
+												
+											</ul>
+				</div>
+				
+									
+					
+		<div class="search">
+			<form role="search" action="http://fam.csc.ku.ac.th/" method="get">
+				<input type="text" name="s" class="query live-search-query" value="" placeholder="ค้นหา..."/>
+				<button class="search-button" type="submit"><i class="fa fa-search"></i></button>
+			</form>
+		</div> <!-- .search -->					
+				
+							<div class="textwidget"><ul class="social-icons cf"></ul>
+<ul class="social-icons cf">
+<li><a href="http://fam.csc.ku.ac.th/"><img src="http://www.csc.ku.ac.th/th/wp-content/uploads/2016/09/th-1.png" alt="th" width="63" height="21" /></a></li>
+<li><a href="http://fam.csc.ku.ac.th/en/"><img src="http://www.csc.ku.ac.th/th/wp-content/uploads/2016/09/en-1.png" alt="en" width="63" height="21" /></a></li>
+</ul></div>
+						
+			</section>
+		</div>
+		
+	</div>
+	
+	<div id="main-head" class="main-head">
+		
+		<div class="wrap">
+			
+							<div class="mobile-head">
+				
+					<div class="menu-icon"><a href="#"><i class="fa fa-bars"></i></a></div>
+					<div class="title">
+								<a href="http://fam.csc.ku.ac.th/" title="คณะศิลปศาสตร์และวิทยาการจัดการ" rel="home" class="is-logo-mobile"">
+		
+														
+									<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/ปก.jpg" class="logo-mobile" width="0" height="0" />
+								
+				<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2016/10/famlogoth.png" class="logo-image" alt="คณะศิลปศาสตร์และวิทยาการจัดการ"  />
+					 
+						
+		</a>					</div>
+					<div class="search-overlay">
+						<a href="#" title="ค้นหา" class="search-icon"><i class="fa fa-search"></i></a>
+					</div>
+					
+				</div>
+			
+			<header class="default">
+			
+				<div class="title">
+							<a href="http://fam.csc.ku.ac.th/" title="คณะศิลปศาสตร์และวิทยาการจัดการ" rel="home" class="is-logo-mobile"">
+		
+														
+									<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/ปก.jpg" class="logo-mobile" width="0" height="0" />
+								
+				<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2016/10/famlogoth.png" class="logo-image" alt="คณะศิลปศาสตร์และวิทยาการจัดการ"  />
+					 
+						
+		</a>				</div>
+				
+									
+					<div class="right">
+								<div class="textwidget"><a href="https://misreg.csc.ku.ac.th/admission/" target="_blank"><img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/2.jpg" alt="bannernisit2" width="40%"></a></div>
+		
+							
+			<div class="about-widget">
+			
+						
+						
+			</div>
+		
+				
+							</div>
+					
+								
+			</header>
+				
+							
+				
+<div class="navigation-wrap cf" data-sticky-nav="1" data-sticky-type="smart">
+
+	<nav class="navigation cf nav-center nav-dark">
+	
+		<div class>
+		
+			<div class="mobile" data-type="off-canvas" data-search="1">
+				<a href="#" class="selected">
+					<span class="text">เมนูขณะนี้</span><span class="current"></span> <i class="hamburger fa fa-bars"></i>
+				</a>
+			</div>
+			
+			<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-9"><a href="http://fam.csc.ku.ac.th/">home</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10"><a href="#">เกี่ยวกับคณะ</a><ul class="mega-menu links row">
+		<li id="menu-item-69" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69"><a href="http://fam.csc.ku.ac.th/?p=216">ประวัติความเป็นมา</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7361"><a href="http://fam.csc.ku.ac.th/?p=7359">ประวัติคณะ</a></li>
+		<li id="menu-item-7358" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7358"><a href="http://fam.csc.ku.ac.th/?p=224%20">วิสัยทัศน์ พันธกิจ</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7355"><a href="#">โครงสร้างการบริหาร</a>
+	<ul class="sub-menu">
+		<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-43"><a href="http://fam.csc.ku.ac.th/?p=29">ผู้บริหารคณะ</a></li>
+		<li id="menu-item-6913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6913"><a href="http://fam.csc.ku.ac.th/?p=6911">หัวหน้าภาควิชา</a></li>
+		<li id="menu-item-7354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7354"><a href="http://fam.csc.ku.ac.th/?p=7352">ประธานหลักสูตร</a></li>
+		<li id="menu-item-7364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7364"><a href="http://fam.csc.ku.ac.th/?p=7362%20">ฝ่ายบริหารและพัฒนาคุณภาพองค์กร</a></li>
+		<li id="menu-item-7367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7367"><a href="http://fam.csc.ku.ac.th/?p=7365">ฝ่ายวิชาการ</a></li>
+		<li id="menu-item-7370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7370"><a href="http://fam.csc.ku.ac.th/?p=7368">ฝ่ายวิจัยและบริการวิชาการ</a></li>
+		<li id="menu-item-7373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7373"><a href="http://fam.csc.ku.ac.th/?p=7371">ฝ่ายกิจการนิสิต</a></li>
+		<li id="menu-item-7376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7376"><a href="http://fam.csc.ku.ac.th/?p=7374">ฝ่ายสื่อสารการตลาด</a></li>
+		<li id="menu-item-7379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7379"><a href="http://fam.csc.ku.ac.th/?p=7377%20">ฝ่ายกิจการพิเศษและวิเทศสัมพันธ์</a></li>
+		<li id="menu-item-7382" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7382"><a href="http://fam.csc.ku.ac.th/?p=7380%20">สำนักงานเลขานุการ</a></li>
+	</ul>
+</li>
+	<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="#">โครงสร้างหลักสูตร</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000"><a href="http://fam.csc.ku.ac.th/?p=1016">สาขาวิชาการจัดการ</a></li>
+		<li id="menu-item-4917" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4917"><a href="http://fam.csc.ku.ac.th/?p=4914">สาขาวิชาการตลาด</a></li>
+		<li id="menu-item-4920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4920"><a href="http://fam.csc.ku.ac.th/?p=4918">สาขาวิชาการจัดการโรงแรมและท่องเที่ยว</a></li>
+		<li id="menu-item-4927" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4927"><a href="http://fam.csc.ku.ac.th/?p=4925%20">สาขาวิชาการเงิน</a></li>
+		<li id="menu-item-4930" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4930"><a href="http://fam.csc.ku.ac.th/?p=4928">สาขาวิชาการบัญชี</a></li>
+		<li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a target="_blank" href="http://fam.csc.ku.ac.th/?p=8056">สาขาวิชาภาษาอังกฤษ</a></li>
+		<li id="menu-item-8060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8060"><a href="http://fam.csc.ku.ac.th/?p=8058">สาขาวิชานิติศาสตร์</a></li>
+		<li id="menu-item-8063" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8063"><a href="http://fam.csc.ku.ac.th/?p=8061">สาขารัฐประศาสนศาสตร์</a></li>
+		<li id="menu-item-8067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8067"><a href="http://fam.csc.ku.ac.th/?p=8065">สาขาวิชาสังคมศาสตร์</a></li>
+		<li id="menu-item-8070" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8070"><a href="http://fam.csc.ku.ac.th/?p=8068">สาขาพลศึกษา</a></li>
+	</ul>
+</li>
+	<li id="menu-item-8064" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8064"><a href="#">หน่วยงานภายใน</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2011" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2011"><a href="http://occ.csc.ku.ac.th/">สำนักงานวิทยาเขต</a></li>
+		<li id="menu-item-8071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8071"><a href="https://occ.csc.ku.ac.th/dca/">กองบริหารทั่วไป</a></li>
+		<li id="menu-item-2008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2008"><a href="http://www.csc.ku.ac.th/reg/">งานทะเบียน</a></li>
+		<li id="menu-item-2009" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2009"><a href="http://office.csc.ku.ac.th/dorm/">หอพัก</a></li>
+		<li id="menu-item-2010" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2010"><a href="http://office.csc.ku.ac.th/dsa/">กองบริหารวิชาการและนิสิต</a></li>
+		<li id="menu-item-8072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8072"><a href="https://www.csc.ku.ac.th/th/?page_id=2351#">กองบริหารการวิจัยและบริการวิชาการ</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13"><a href="#">การเข้าศึกษา</a><ul class="mega-menu links row">
+		<li id="menu-item-165" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-165"><a href="#">หลักสูตร</a>
+	<ul class="sub-menu">
+		<li id="menu-item-432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-432"><a href="http://fam.csc.ku.ac.th/?p=391">ระดับปริญญาตรี</a></li>
+		<li id="menu-item-433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-433"><a href="http://fam.csc.ku.ac.th/?p=394">ระดับปริญญาโท</a></li>
+	</ul>
+</li>
+	<li id="menu-item-86" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86"><a href="#">ค่าใช้จ่าย</a>
+	<ul class="sub-menu">
+		<li id="menu-item-111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111"><a target="_blank" href="http://www.csc.ku.ac.th/th/?p=2397">ปริญญาตรี</a></li>
+		<li id="menu-item-112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112"><a target="_blank" href="http://www.csc.ku.ac.th/th/?p=2327">ปริญญาโท</a></li>
+	</ul>
+</li>
+	<li id="menu-item-89" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-89"><a href="http://www.csc.ku.ac.th/th/?cat=25">ทุนการศึกษา</a>
+	<ul class="sub-menu">
+		<li id="menu-item-116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116"><a target="_blank" href="#">กยศ./กรอ.</a></li>
+		<li id="menu-item-117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117"><a target="_blank" href="http://www.csc.ku.ac.th/th/?p=2948">ทุนเพชรพระพิรุณ</a></li>
+		<li id="menu-item-181" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181"><a target="_blank" href="http://www.csc.ku.ac.th/th/?p=2956">ทุนไผ่ลอดกอ</a></li>
+		<li id="menu-item-182" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-182"><a target="_blank" href="http://www.csc.ku.ac.th/th/?p=2952">ทุนผู้มีภูมิลำเนา 4 จังหวัดชายแดนภาคใต้</a></li>
+		<li id="menu-item-183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-183"><a href="#">ทุนต่างประเทศ</a></li>
+		<li id="menu-item-184" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-184"><a href="http://fam.csc.ku.ac.th/?p=419">ทุนอื่นๆ</a></li>
+	</ul>
+</li>
+	<li id="menu-item-441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-441"><a href="http://fam.csc.ku.ac.th/?p=413">คุณสมบัติผู้เข้าศึกษาต่อ</a></li>
+</ul>
+</li>
+<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16"><a href="#">บุคลากร</a><ul class="mega-menu links row">
+		<li id="menu-item-3225" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3225"><a href="http://eduserv.ku.ac.th/">ฝ่ายบริการการศึกษา</a></li>
+	<li id="menu-item-3226" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3226"><a href="http://www.famedocument.com/login.php?accesscheck=%2fmain_frame_index.php%3ffbclid%3diwar2wluxgtnx8ntonob1t4m49vn4goxgq0op44_yykskde5xgy8elltfiwqq&#038;user=group=">ระบบ e-office</a></li>
+	<li id="menu-item-6871" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6871"><a href="http://fam.csc.ku.ac.th/?p=6869">ดาวน์โหลดเอกสาร</a></li>
+	<li id="menu-item-8496" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8496"><a href="https://www.csc.ku.ac.th/famform/index.php">คำร้องออนไลน์</a></li>
+	<li id="menu-item-119" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119"><a href="#">ข่าวสำหรับบุคลากร</a>
+	<ul class="sub-menu">
+		<li id="menu-item-125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-125"><a href="#">ข่าวหน่วยทรัพยากรบุคคล</a></li>
+		<li id="menu-item-126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126"><a href="#">ข่าวสวัสดิการ</a></li>
+		<li id="menu-item-127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127"><a href="#">ข่าวประกาศส่วนกลาง มก.</a></li>
+	</ul>
+</li>
+	<li id="menu-item-124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-124"><a href="#">ข่าวกิจกรรม มก.ฉกส.</a>
+	<ul class="sub-menu">
+		<li id="menu-item-120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-120"><a href="#">ระบบสารสนเทศ</a>
+		<ul class="sub-menu">
+			<li id="menu-item-129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-129"><a target="_blank" href="https://misreg.csc.ku.ac.th/studentdata/">ระบบฐานข้อมูลนิสิต</a></li>
+			<li id="menu-item-130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130"><a target="_blank" href="https://misreg.csc.ku.ac.th/ku8/">รายงานนิสิตลงทะเบียนเรียน</a></li>
+			<li id="menu-item-131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a target="_blank" href="https://misreg.csc.ku.ac.th/autoforms/">กำหนดค่าธรรมเนียม/ค่าหอพัก</a></li>
+			<li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a target="_blank" href="http://dbs.csc.ku.ac.th:8080/lockstd/loginpage.jsp">กำหนดสิทธิ์การลงทะเบียน</a></li>
+			<li id="menu-item-133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a target="_blank" href="https://misreg.csc.ku.ac.th/course/formlogin.php">ระบบบันทึกข้อมูลรายวิชา</a></li>
+			<li id="menu-item-134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a target="_blank" href="https://misreg.csc.ku.ac.th/cscreport/">ระบบรายงานสถิติอื่นๆ</a></li>
+			<li id="menu-item-135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-135"><a target="_blank" href="https://misreg.csc.ku.ac.th/reserve_room/">ระบบจองห้องออนไลน์</a></li>
+			<li id="menu-item-136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136"><a target="_blank" href="http://dbs.csc.ku.ac.th:8080/graduate/formlogin.jsp">ระบบยื่นใบขอจบการศึกษา</a></li>
+			<li id="menu-item-137" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-137"><a target="_blank" href="http://misreg.csc.ku.ac.th/ku/cschelpdesk/">ระบบแจ้งซ่อมสาธารณูปโภค</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14"><a href="#">นิสิต</a><ul class="mega-menu links row">
+		<li id="menu-item-82" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-82"><a href="http://www.csc.ku.ac.th/th/?cat=28">ข่าวสำหรับนิสิต คณะศว.</a>
+	<ul class="sub-menu">
+		<li id="menu-item-174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-174"><a href="#">สำหรับนิสิต</a>
+		<ul class="sub-menu">
+			<li id="menu-item-444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-444"><a href="http://fam.csc.ku.ac.th/?p=419">ทุนการศึกษาสำหรับนิสิต</a></li>
+			<li id="menu-item-1026" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1026"><a href="http://fam.csc.ku.ac.th/?p=1024">โครงการฝึกงาน</a></li>
+			<li id="menu-item-1029" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1029"><a>โครงการสหกิจศึกษา</a></li>
+			<li id="menu-item-1032" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1032"><a href="http://iad.intaff.ku.ac.th/wordpress/">โครงการแลกเปลี่ยนนิสิตระหว่างประเทศ</a></li>
+			<li id="menu-item-3221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3221"><a href="http://eduserv.ku.ac.th/">ข้อบังคับว่าด้วยการศึกษา</a></li>
+			<li id="menu-item-3222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3222"><a href="http://ku-iged.psd.ku.ac.th/">หมวดวิชาศึกษาทั่วไป</a></li>
+		</ul>
+</li>
+		<li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90"><a target="_blank" href="http://www.csc.ku.ac.th/th/?cat=31">ข่าวทะเบียนและประมวลผล</a></li>
+		<li id="menu-item-91" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-91"><a target="_blank" href="http://www.csc.ku.ac.th/th/?cat=32">ข่าวฝึกอบรม</a></li>
+		<li id="menu-item-92" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-92"><a target="_blank" href="http://www.csc.ku.ac.th/th/?cat=28">ข่าวกิจกรรมนิสิต</a></li>
+		<li id="menu-item-93" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93"><a target="_blank" href="http://www.csc.ku.ac.th/th/?cat=25">ข่าวทุนการศึกษา</a></li>
+		<li id="menu-item-94" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94"><a target="_blank" href="http://www.csc.ku.ac.th/th/?cat=30">ข่าวงานคลัง</a></li>
+		<li id="menu-item-95" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95"><a target="_blank" href="http://www.csc.ku.ac.th/th/?cat=26">ข่าวหอพัก</a></li>
+	</ul>
+</li>
+	<li id="menu-item-83" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-83"><a href="#">ระบบสารสนเทศ</a>
+	<ul class="sub-menu">
+		<li id="menu-item-96" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96"><a target="_blank" href="https://misreg.csc.ku.ac.th/student/">ระบบสารสนเทศนิสิต</a></li>
+		<li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97"><a target="_blank" href="http://nisit.kasetsart.org/webformlist_student.aspx?campus=4&#038;head=2">ระบบตรวจสอบชั่วโมงกิจกรรม</a></li>
+		<li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98"><a target="_blank" href="http://nisitmis.csc.ku.ac.th/webapp2/postoffice/index.php">ระบบตรวจสอบพัสดุไปรษณีย์</a></li>
+		<li id="menu-item-99" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99"><a target="_blank" href="http://www.csc.ku.ac.th/reg/?p=2991">ตารางเรียน</a></li>
+		<li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100"><a target="_blank" href="http://www.csc.ku.ac.th/reg/?p=2993">ตารางสอบ</a></li>
+		<li id="menu-item-101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101"><a target="_blank" href="http://misreg.csc.ku.ac.th/fsespt/exam/exam_nisit/search.php">ตรวจสอบเลขที่นั่งสอบ</a></li>
+		<li id="menu-item-8497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8497"><a href="https://www.csc.ku.ac.th/famform/index.php">คำร้องออนไลน์</a></li>
+	</ul>
+</li>
+	<li id="menu-item-84" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-84"><a href="#">เอกสาร/รายงาน</a>
+	<ul class="sub-menu">
+		<li id="menu-item-102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102"><a target="_blank" href="http://www.csc.ku.ac.th/reg/?p=2989">ปฏิทินการศึกษา</a></li>
+		<li id="menu-item-103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103"><a target="_blank" href="https://misreg.csc.ku.ac.th/ku8/">รายงานการลงทะเบียนเรียน</a></li>
+		<li id="menu-item-104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104"><a target="_blank" href="https://misreg.csc.ku.ac.th/ku5/report_ku5.php">รายงานสถานะการบันทึกเกรด</a></li>
+		<li id="menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105"><a target="_blank" href="https://misreg.csc.ku.ac.th/ku5/report_ku7.php">รายงานสถานะ ku7</a></li>
+		<li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106"><a target="_blank" href="http://misweb.csc.ku.ac.th/stdmanual/">คู่มือนิสิตออนไลน์</a></li>
+		<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a target="_blank" href="http://www.csc.ku.ac.th/reg/?p=2995">ดาวน์โหลดแบบฟอร์ม</a></li>
+		<li id="menu-item-7035" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7035"><a href="http://fam.csc.ku.ac.th/?p=7023">ดาวน์โหลดใบบันทึกผลการเรียน</a></li>
+		<li id="menu-item-7284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7284"><a href="http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/ขั้นตอนการยื่นคำร้อง-ปรับ-91164.pdf">ขั้นตอนการยื่นคำร้อง</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7099"><a href="https://eduserv.ku.ac.th/academics%202008/index.html?fbclid=iwar1etbrri6chx3brfjrizh7sd2ctcafs8n73zbs8pkf4t9crculpe1b-qpk">หลักสูตร</a></li>
+	<li id="menu-item-85" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-85"><a href="#">ประเมินความพึงพอใจ</a>
+	<ul class="sub-menu">
+		<li id="menu-item-108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108"><a target="_blank" href="https://eassess.ku.ac.th/m/">ประเมินการสอน</a></li>
+		<li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109"><a target="_blank" href="https://regis.ku.ac.th/assessku-v2/">ประเมินความพึ่งพอใจต่อ มก.</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-4948" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4948"><a href="#">งานวิชาการ</a>
+<ul class="sub-menu">
+	<li id="menu-item-4965" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4965"><a href="http://fam.csc.ku.ac.th/?p=4946">e-booking fam csc</a></li>
+	<li id="menu-item-4964" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4964"><a href="http://fam.csc.ku.ac.th/?p=4961%20">โครงสร้างบริหารงานวิชาการ</a></li>
+	<li id="menu-item-4969" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4969"><a href="#">ลิงค์ที่เกี่ยวข้อง</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4970" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4970"><a href="https://eduserv.ku.ac.th//">ฝ่ายบริการการศึกษาสำนักทะเบียน</a></li>
+		<li id="menu-item-4971" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4971"><a href="https://eduserv.ku.ac.th//001/cur/">ระบบ มคอ. ออนไลน์</a></li>
+		<li id="menu-item-4972" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4972"><a href="https://eduserv.ku.ac.th/index.php?method=curriculum">งานพัฒนาและปรับปรุงหลักสูตร</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5652"><a href="http://fam.csc.ku.ac.th/?p=5649">ดาวน์โหลดเอกสาร</a></li>
+</ul>
+</li>
+<li id="menu-item-2443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2443"><a href="https://sites.google.com/site/famcscresearch/%20%20">วิจัยและบริการวิชาการ</a>
+<ul class="sub-menu">
+	<li id="menu-item-79" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79"><a target="_blank" href="http://kuojs.lib.ku.ac.th/index.php/jfam">วารสารคณะ</a></li>
+	<li id="menu-item-2446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2446"><a href="http://fam.csc.ku.ac.th/?p=2444">เกี่ยวกับเรา (ฝ่ายวิจัย)</a></li>
+	<li id="menu-item-2449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2449"><a href="http://fam.csc.ku.ac.th/?p=7368%20">โครงสร้างการบริหาร</a></li>
+	<li id="menu-item-2761" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2761"><a href="http://fam.csc.ku.ac.th/?p=2757">จริยธรรมการวิจัยในมนุษย์</a></li>
+	<li id="menu-item-2452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2452"><a href="http://fam.csc.ku.ac.th/?p=2450">แผนปฏิบัติการฝ่ายวิจัย</a></li>
+	<li id="menu-item-2456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2456"><a href="http://fam.csc.ku.ac.th/?p=2454">การค้นหาผลงานคณาจารย์</a></li>
+	<li id="menu-item-2459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2459"><a href="http://fam.csc.ku.ac.th/?p=2457">คู่มือการปฏิบัติงานฝ่ายวิจัย</a></li>
+	<li id="menu-item-2548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2548"><a href="http://fam.csc.ku.ac.th/?p=2546">คู่มือแหล่งทุน</a></li>
+	<li id="menu-item-2462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2462"><a href="http://fam.csc.ku.ac.th/?p=2460%20">ข่าวสารและกิจกรรม</a></li>
+	<li id="menu-item-2465" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2465"><a href="http://fam.csc.ku.ac.th/?p=2463">ดาวน์โหลดแบบฟอร์ม</a></li>
+	<li id="menu-item-2468" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2468"><a href="http://fam.csc.ku.ac.th/?p=2466">ลิงค์ที่เกี่ยวข้อง</a></li>
+</ul>
+</li>
+<li id="menu-item-7467" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7467"><a href="http://fam.csc.ku.ac.th/?p=7468">ติดต่อเรา</a></li>
+<li id="menu-item-7876" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7876"><a href="https://l.facebook.com/l.php?u=https%3a%2f%2fdocs.google.com%2fspreadsheets%2fd%2f1kduak2i2sebfgumeqqt-x5pht5u0bwmr4fry5ox2iy0%2fedit%3fusp%3dsharing%26fbclid%3diwar04w2i8hj97yxkb-zyzvawitxh5qpttkn1kijsew2ejhf79dvc2xwt_ttm&#038;h=at0tkmv_9qvnpjjkgdjymf2hfojq43eggoyjaeootoezjfmkgcctok-vvsjmxvct8noi9wb15u4jrbdwxlnkmtfr9trqodputt1h754srrysvycnxl_yidqdxeg6bwwziqfkp9114dcrhmzsugu1ca">ช่องทางเข้าชั้นเรียน ประจำภาคต้น 2564</a></li>
+</ul></div>			
+				
+		</div>
+		
+	</nav>
+
+		
+</div>				
+							
+		</div>
+		
+				
+	</div>	
+	<div class="breadcrumbs-wrap">
+		
+		<div class="wrap">
+				</div>
+		
+	</div>
+
+<div class="main-featured"><div class="wrap cf"><link href="http://fonts.googleapis.com/css?family=kanit" rel="stylesheet" property="stylesheet" type="text/css" media="all" /><link href="http://fonts.googleapis.com/css?family=font-family: &#039;kanit&#039;;" rel="stylesheet" property="stylesheet" type="text/css" media="all" />
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#f2f2f2;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- start revolution slider 5.0.8.5 auto mode -->
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.8.5">
+<ul>	<!-- slide  -->
+	<li data-index="rs-8491" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="150"  data-link="http://fam.csc.ku.ac.th/?p=8491"   data-thumb="http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/board_welcome-ku-81_final_resize-100x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="81" data-description="">
+		<!-- main image -->
+		<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/board_welcome-ku-81_final_resize.png"  alt=""  width="2461" height="984" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+
+		<!-- layer nr. 1 -->
+		<div class="tp-caption csc-heading   tp-resizeme" 
+			 id="slide-8491-layer-1" 
+			 data-x="18" 
+			 data-y="275" 
+						data-width="['661']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="opacity:0;s:300;e:power2.easeinout;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 661px; max-width: 661px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400;">81 
+		</div>
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-8447" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="150"  data-link="http://fam.csc.ku.ac.th/?p=8447"   data-thumb="http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/1-1-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="งาน ‘เรียนรู้ตลอดชีวิต’ แนวทางการลดความเหลื่อมล้ำในสังคมไทย จังหวัดสกลนคร-นครพนม" data-description="">
+		<!-- main image -->
+		<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/1-1.jpg"  alt=""  width="1890" height="591" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+
+		<!-- layer nr. 1 -->
+		<div class="tp-caption csc-heading   tp-resizeme" 
+			 id="slide-8447-layer-1" 
+			 data-x="18" 
+			 data-y="275" 
+						data-width="['661']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="opacity:0;s:300;e:power2.easeinout;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 661px; max-width: 661px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400;">งาน ‘เรียนรู้ตลอดชีวิต’ แนวทางการลดความเหลื่อมล้ำในสังคมไทย จังหวัดสกลนคร-นครพนม 
+		</div>
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-8437" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="150"  data-link="http://fam.csc.ku.ac.th/?p=8437"   data-thumb="http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/คณะ-web-100x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="" data-description="">
+		<!-- main image -->
+		<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/คณะ-web.png"  alt=""  width="1890" height="591" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+
+		<!-- layer nr. 1 -->
+		<div class="tp-caption csc-heading   tp-resizeme" 
+			 id="slide-8437-layer-1" 
+			 data-x="18" 
+			 data-y="275" 
+						data-width="['661']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="opacity:0;s:300;e:power2.easeinout;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 661px; max-width: 661px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400;"> 
+		</div>
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-8433" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="150"  data-link="http://fam.csc.ku.ac.th/?p=8433"   data-thumb="http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/อ-ยุ้ย-web-100x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="" data-description="">
+		<!-- main image -->
+		<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/อ-ยุ้ย-web.png"  alt=""  width="1890" height="591" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+
+		<!-- layer nr. 1 -->
+		<div class="tp-caption csc-heading   tp-resizeme" 
+			 id="slide-8433-layer-1" 
+			 data-x="18" 
+			 data-y="275" 
+						data-width="['661']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="opacity:0;s:300;e:power2.easeinout;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 661px; max-width: 661px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400;"> 
+		</div>
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-8428" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="150"  data-link="http://fam.csc.ku.ac.th/?p=8428"   data-thumb="http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/1-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="โครงการยุวชนอาสา คณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ผ่านเข้ารอบ 10 ทีมสุดท้ายระดับประเทศ จาก 38 มหาวิทยาลัย" data-description="">
+		<!-- main image -->
+		<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/1.jpg"  alt=""  width="1273" height="657" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+
+		<!-- layer nr. 1 -->
+		<div class="tp-caption csc-heading   tp-resizeme" 
+			 id="slide-8428-layer-1" 
+			 data-x="18" 
+			 data-y="275" 
+						data-width="['661']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="opacity:0;s:300;e:power2.easeinout;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 661px; max-width: 661px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400;">โครงการยุวชนอาสา คณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ผ่านเข้ารอบ 10 ทีมสุดท้ายระดับประเทศ จาก 38 มหาวิทยาลัย 
+		</div>
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-8419" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="150"  data-link="http://fam.csc.ku.ac.th/?p=8419"   data-thumb="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/245954828_613779319990188_4073441186941830668_n-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="เยี่ยมชมพิพิธภัณฑ์ป้าทุ้ม ป้าไท้ (ศูนย์เรียนรู้บ้านป้าทุ้ม ป้าไท้) ผ้าไหมย้อมคราม" data-description="">
+		<!-- main image -->
+		<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/245954828_613779319990188_4073441186941830668_n.jpg"  alt=""  width="1740" height="1160" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+
+		<!-- layer nr. 1 -->
+		<div class="tp-caption csc-heading   tp-resizeme" 
+			 id="slide-8419-layer-1" 
+			 data-x="18" 
+			 data-y="275" 
+						data-width="['661']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="opacity:0;s:300;e:power2.easeinout;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 661px; max-width: 661px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400;">เยี่ยมชมพิพิธภัณฑ์ป้าทุ้ม ป้าไท้ (ศูนย์เรียนรู้บ้านป้าทุ้ม ป้าไท้) ผ้าไหมย้อมคราม 
+		</div>
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-8396" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="150"  data-link="http://fam.csc.ku.ac.th/?p=8396"   data-thumb="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/7-ศว_web-100x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="" data-description="">
+		<!-- main image -->
+		<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/7-ศว_web.png"  alt=""  width="1890" height="591" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+
+		<!-- layer nr. 1 -->
+		<div class="tp-caption csc-heading   tp-resizeme" 
+			 id="slide-8396-layer-1" 
+			 data-x="18" 
+			 data-y="275" 
+						data-width="['661']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="opacity:0;s:300;e:power2.easeinout;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 661px; max-width: 661px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400;"> 
+		</div>
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-8393" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="150"  data-link="http://fam.csc.ku.ac.th/?p=8393"   data-thumb="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/4-ผศ-ดร-ปณิธี_web-100x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="" data-description="">
+		<!-- main image -->
+		<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/4-ผศ-ดร-ปณิธี_web.png"  alt=""  width="1890" height="591" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+
+		<!-- layer nr. 1 -->
+		<div class="tp-caption csc-heading   tp-resizeme" 
+			 id="slide-8393-layer-1" 
+			 data-x="18" 
+			 data-y="275" 
+						data-width="['661']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="opacity:0;s:300;e:power2.easeinout;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 661px; max-width: 661px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400;"> 
+		</div>
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-8390" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="150"  data-link="http://fam.csc.ku.ac.th/?p=8390"   data-thumb="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/3-ผศ-ดร-เปรมฤดี_web-100x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="" data-description="">
+		<!-- main image -->
+		<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/3-ผศ-ดร-เปรมฤดี_web.png"  alt=""  width="1890" height="591" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+
+		<!-- layer nr. 1 -->
+		<div class="tp-caption csc-heading   tp-resizeme" 
+			 id="slide-8390-layer-1" 
+			 data-x="18" 
+			 data-y="275" 
+						data-width="['661']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="opacity:0;s:300;e:power2.easeinout;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 661px; max-width: 661px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400;"> 
+		</div>
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-8387" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="150"  data-link="http://fam.csc.ku.ac.th/?p=8387"   data-thumb="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/5-ดร-ขวัยชนก-ดีเก่นวิชาการ_web-100x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="" data-description="">
+		<!-- main image -->
+		<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/5-ดร-ขวัยชนก-ดีเก่นวิชาการ_web.png"  alt=""  width="1890" height="591" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+
+		<!-- layer nr. 1 -->
+		<div class="tp-caption csc-heading   tp-resizeme" 
+			 id="slide-8387-layer-1" 
+			 data-x="18" 
+			 data-y="275" 
+						data-width="['661']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="opacity:0;s:300;e:power2.easeinout;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 661px; max-width: 661px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400;"> 
+		</div>
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-8379" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="150"  data-link="http://fam.csc.ku.ac.th/?p=8379"   data-thumb="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/1-ดร-ภูริชชญา_ed_web-100x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="" data-description="">
+		<!-- main image -->
+		<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/1-ดร-ภูริชชญา_ed_web.png"  alt=""  width="1890" height="591" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+
+		<!-- layer nr. 1 -->
+		<div class="tp-caption csc-heading   tp-resizeme" 
+			 id="slide-8379-layer-1" 
+			 data-x="18" 
+			 data-y="275" 
+						data-width="['661']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="opacity:0;s:300;e:power2.easeinout;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 661px; max-width: 661px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400;"> 
+		</div>
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-7853" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="150"  data-link="http://fam.csc.ku.ac.th/?p=7853"   data-thumb="http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/แก้ไข-copy-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="ku81" data-description="">
+		<!-- main image -->
+		<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/แก้ไข-copy.jpg"  alt=""  width="960" height="300" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+
+		<!-- layer nr. 1 -->
+		<div class="tp-caption csc-heading   tp-resizeme" 
+			 id="slide-7853-layer-1" 
+			 data-x="18" 
+			 data-y="275" 
+						data-width="['661']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="opacity:0;s:300;e:power2.easeinout;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 661px; max-width: 661px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400;">ku81 
+		</div>
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-7820" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="150"  data-link="http://fam.csc.ku.ac.th/?p=7820"   data-thumb="http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/ขนาด-ลง-web-copy-2-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="โควิด-19" data-description="">
+		<!-- main image -->
+		<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/ขนาด-ลง-web-copy-2.jpg"  alt=""  width="960" height="300" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+
+		<!-- layer nr. 1 -->
+		<div class="tp-caption csc-heading   tp-resizeme" 
+			 id="slide-7820-layer-1" 
+			 data-x="18" 
+			 data-y="275" 
+						data-width="['661']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="opacity:0;s:300;e:power2.easeinout;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 661px; max-width: 661px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400;">โควิด-19 
+		</div>
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-7554" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="150"  data-link="http://fam.csc.ku.ac.th/?p=7554"   data-thumb="http://fam.csc.ku.ac.th/wp-content/uploads/2021/03/non-degree-web-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="non degree" data-description="">
+		<!-- main image -->
+		<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/03/non-degree-web.jpg"  alt=""  width="960" height="300" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+
+		<!-- layer nr. 1 -->
+		<div class="tp-caption csc-heading   tp-resizeme" 
+			 id="slide-7554-layer-1" 
+			 data-x="18" 
+			 data-y="275" 
+						data-width="['661']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="opacity:0;s:300;e:power2.easeinout;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 661px; max-width: 661px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400;">non degree 
+		</div>
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-7499" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="150"  data-link="http://fam.csc.ku.ac.th/?p=7499"   data-thumb="http://fam.csc.ku.ac.th/wp-content/uploads/2021/02/วิสัยทัศน์-copy-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="" data-description="">
+		<!-- main image -->
+		<img src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/02/วิสัยทัศน์-copy.jpg"  alt=""  width="1080" height="360" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+
+		<!-- layer nr. 1 -->
+		<div class="tp-caption csc-heading   tp-resizeme" 
+			 id="slide-7499-layer-1" 
+			 data-x="18" 
+			 data-y="275" 
+						data-width="['661']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="opacity:0;s:300;e:power2.easeinout;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 661px; max-width: 661px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400;"> 
+		</div>
+	</li>
+</ul>
+<div class="tp-static-layers">
+</div>
+<div class="tp-bannertimer" style="height: 5px; background-color: rgba(0, 0, 0, 0.15);"></div>	</div>
+<script>var htmldiv = document.getelementbyid("rs-plugin-settings-inline-css"); var htmldivcss=".tp-caption.csc-heading,.csc-heading{color:rgba(255,255,255,1.00);font-size:38px;line-height:38px;font-weight:700;font-style:normal;font-family:kanit;padding:0px 0px 0px 0px;text-decoration:none;background-color:transparent;border-color:rgba(255,255,255,1.00);border-style:none;border-width:0px;border-radius:0px 0px 0px 0px;text-align:left}";
+				if(htmldiv) {
+					htmldiv.innerhtml = htmldiv.innerhtml + htmldivcss;
+				}
+				else{
+					var htmldiv = document.createelement("div");
+					htmldiv.innerhtml = "<style>" + htmldivcss + "</style>";
+					document.getelementsbytagname("head")[0].appendchild(htmldiv.childnodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	prepare placeholder for slider	-
+			******************************************/
+
+			var setrevstartsize=function(){
+				try{var e=new object,i=jquery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jquery('#rev_slider_1_1');
+					e.gridwidth = [702];
+					e.gridheight = [336];
+							
+					e.sliderlayout = "auto";
+					if(e.responsivelevels&&(jquery.each(e.responsivelevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=math.round(h*f),"fullscreen"==e.sliderlayout){var u=(e.c.width(),jquery(window).height());if(void 0!=e.fullscreenoffsetcontainer){var c=e.fullscreenoffsetcontainer.split(",");if (c) jquery.each(c,function(e,i){u=jquery(i).length>0?u-jquery(i).outerheight(!0):u}),e.fullscreenoffset.split("%").length>1&&void 0!=e.fullscreenoffset&&e.fullscreenoffset.length>0?u-=jquery(window).height()*parseint(e.fullscreenoffset,0)/100:void 0!=e.fullscreenoffset&&e.fullscreenoffset.length>0&&(u-=parseint(e.fullscreenoffset,0))}f=u}else void 0!=e.minheight&&f<e.minheight&&(f=e.minheight);e.c.closest(".rev_slider_wrapper").css({height:f})
+				}catch(d){console.log("failure at presize of slider:"+d)}
+			};
+						
+				
+			setrevstartsize();
+			function revslider_showdoublejqueryerror(sliderid) {
+					var errormessage = "revolution slider error: you have some jquery.js library include that comes after the revolution files js include.";
+					errormessage += "<br> this includes make eliminates the revolution slider libraries, and make it not work.";
+					errormessage += "<br><br> to fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. in the slider settings -> troubleshooting set option:  <strong><b>put js includes to body</b></strong> option to true.";
+					errormessage += "<br>&nbsp;&nbsp;&nbsp; 2. find the double jquery.js include and remove it.";
+					errormessage = "<span style='font-size:16px;color:#bc0c06;'>" + errormessage + "</span>"
+						jquery(sliderid).show().html(errormessage);
+				}
+						var tpj=jquery;
+			tpj.noconflict();
+			var revapi1;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_1_1").revolution == undefined){
+					revslider_showdoublejqueryerror("#rev_slider_1_1");
+				}else{
+					revapi1 = tpj("#rev_slider_1_1").show().revolution({
+						slidertype:"standard",
+						jsfilelocation:"http://fam.csc.ku.ac.th/wp-content/plugins/revslider/public/assets/js/",
+						sliderlayout:"auto",
+						dottedoverlay:"none",
+						delay:3000,
+						navigation: {
+							keyboardnavigation:"off",
+							keyboard_direction: "horizontal",
+							mousescrollnavigation:"off",
+							onhoverstop:"on",
+							touch:{
+								touchenabled:"on",
+								swipe_threshold: 75,
+								swipe_min_touches: 1,
+								swipe_direction: "horizontal",
+								drag_block_vertical: false
+							}
+							,
+							arrows: {
+								style:"gyges",
+								enable:true,
+								hide_onmobile:false,
+								hide_onleave:false,
+								tmp:'',
+								left: {
+									h_align:"left",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								},
+								right: {
+									h_align:"right",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								}
+							}
+						},
+						gridwidth:702,
+						gridheight:336,
+						lazytype:"none",
+						shadow:0,
+						spinner:"spinner0",
+						stoploop:"off",
+						stopafterloops:-1,
+						stopatslide:-1,
+						shuffle:"off",
+						autoheight:"off",
+						hidethumbsonmobile:"off",
+						hideslideratlimit:0,
+						hidecaptionatlimit:0,
+						hideallcaptionatlilmit:0,
+						debugmode:false,
+						fallbacks: {
+							simplifyall:"off",
+							nextslideonwindowfocus:"off",
+							disablefocuslistener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		</div><!-- end revolution slider --></div></div>
+
+<div class="main wrap cf">
+
+	<div class="row">
+		<div class="col-8 main-content">
+			
+			
+			<div id="post-6" class="page-content post-6 page type-page status-publish">
+
+					
+						
+					
+					<div class="row cf builder">
+			
+		
+					
+							<div class="column builder one-1">
+							
+						<div class="textwidget"></div>
+					
+			 </div> 			
+					
+					</div>
+			
+		
+				
+			
+		
+					
+							
+			
+<section class="news-focus">
+
+		
+	<div class="section-head prominent heading cat-text-5">
+		<a href="http://fam.csc.ku.ac.th/?cat=5" title="ข่าวกิจกรรม">ข่าวกิจกรรม</a>
+	
+					
+						
+			</div>
+	
+		
+		
+	<div class="row news-0 highlights">
+
+		<div class="column half blocks">
+		
+					<article itemscope itemtype="http://schema.org/article">
+					
+				<a href="http://fam.csc.ku.ac.th/?p=8447" title="งาน ‘เรียนรู้ตลอดชีวิต’ แนวทางการลดความเหลื่อมล้ำในสังคมไทย จังหวัดสกลนคร-นครพนม" class="image-link" itemprop="url">
+					<img width="351" height="185" src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/1-1-351x185.jpg" class="image wp-post-image" alt="1" title="งาน ‘เรียนรู้ตลอดชีวิต’ แนวทางการลดความเหลื่อมล้ำในสังคมไทย จังหวัดสกลนคร-นครพนม" itemprop="image" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/1-1-351x185.jpg 351w, http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/1-1-351x185@2x.jpg 702w" sizes="(max-width: 351px) 100vw, 351px" />					
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2021-11-26t03:38:56+00:00" itemprop="datepublished" class="meta-item">26/11/2021</time><span class="meta-item comments"><a href="http://fam.csc.ku.ac.th/?p=8447#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="http://fam.csc.ku.ac.th/?p=8447" title="งาน ‘เรียนรู้ตลอดชีวิต’ แนวทางการลดความเหลื่อมล้ำในสังคมไทย จังหวัดสกลนคร-นครพนม">งาน ‘เรียนรู้ตลอดชีวิต’ แนวทางการลดความเหลื่อมล้ำในสังคมไทย จังหวัดสกลนคร-นครพนม</a></h2>
+				
+								
+				<div class="excerpt">
+					<p>วันพฤหัสบดีที่ 25 พ.ย.2564 ผู้ช่วยศาสตราจารย์ ดร.ปัททมา สุริยกุล ณ อยุธยา คณบดีคณะศิลปศาสตร์และวิทยา&hellip;</p>
+				</div>
+				
+			</article>
+			
+					
+		</div>
+		
+		
+		<ul class="column half block posts-list thumb">
+
+				
+						
+				<li>
+				
+					<a href="http://fam.csc.ku.ac.th/?p=8419"><img width="110" height="96" src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/245954828_613779319990188_4073441186941830668_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="245954828_613779319990188_4073441186941830668_n" title="เยี่ยมชมพิพิธภัณฑ์ป้าทุ้ม ป้าไท้ (ศูนย์เรียนรู้บ้านป้าทุ้ม ป้าไท้) ผ้าไหมย้อมคราม" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/245954828_613779319990188_4073441186941830668_n-110x96.jpg 110w, http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/245954828_613779319990188_4073441186941830668_n-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2021-10-21t07:38:27+00:00" itemprop="datepublished" class="meta-item">21/10/2021</time>					
+			</div>
+							
+						<a href="http://fam.csc.ku.ac.th/?p=8419" title="เยี่ยมชมพิพิธภัณฑ์ป้าทุ้ม ป้าไท้ (ศูนย์เรียนรู้บ้านป้าทุ้ม ป้าไท้) ผ้าไหมย้อมคราม">
+							เยี่ยมชมพิพิธภัณฑ์ป้าทุ้ม ป้าไท้ (ศูนย์เรียนรู้บ้านป้าทุ้ม ป้าไท้) ผ้าไหมย้อมคราม</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="http://fam.csc.ku.ac.th/?p=8324"><img width="110" height="96" src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/09/241485667_4549905005061685_4576168674175754287_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="241485667_4549905005061685_4576168674175754287_n" title="โครงการสัมมนาทางรัฐประศาสนศาสตร์ กิจกรรมโต้วาทีออนไลน์ หัวข้อ “ล็อกดาวน์ระลอก 3 แก้ไขหรือซ้ำเติม”" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2021/09/241485667_4549905005061685_4576168674175754287_n-110x96.jpg 110w, http://fam.csc.ku.ac.th/wp-content/uploads/2021/09/241485667_4549905005061685_4576168674175754287_n-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2021-09-13t02:23:14+00:00" itemprop="datepublished" class="meta-item">13/09/2021</time>					
+			</div>
+							
+						<a href="http://fam.csc.ku.ac.th/?p=8324" title="โครงการสัมมนาทางรัฐประศาสนศาสตร์ กิจกรรมโต้วาทีออนไลน์ หัวข้อ “ล็อกดาวน์ระลอก 3 แก้ไขหรือซ้ำเติม”">
+							โครงการสัมมนาทางรัฐประศาสนศาสตร์ กิจกรรมโต้วาทีออนไลน์ หัวข้อ “ล็อกดาวน์ระลอก 3 แก้ไขหรือซ้ำเติม”</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="http://fam.csc.ku.ac.th/?p=8300"><img width="110" height="96" src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/09/241472919_587191729315614_7546742784573653529_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="241472919_587191729315614_7546742784573653529_n" title="ประชุมคณะกรรมการประจำคณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ครั้งที่ 9/2564" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2021/09/241472919_587191729315614_7546742784573653529_n-110x96.jpg 110w, http://fam.csc.ku.ac.th/wp-content/uploads/2021/09/241472919_587191729315614_7546742784573653529_n-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2021-09-09t07:19:06+00:00" itemprop="datepublished" class="meta-item">09/09/2021</time>					
+			</div>
+							
+						<a href="http://fam.csc.ku.ac.th/?p=8300" title="ประชุมคณะกรรมการประจำคณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ครั้งที่ 9/2564">
+							ประชุมคณะกรรมการประจำคณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ครั้งที่ 9/2564</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+		</ul>
+			
+				
+	</div>
+	
+			
+</section>
+<section class="news-focus">
+
+		
+	<div class="section-head prominent heading cat-text-6">
+		<a href="http://fam.csc.ku.ac.th/?cat=6" title="ข่าวประชาสัมพันธ์">ข่าวประชาสัมพันธ์</a>
+	
+					
+						
+			</div>
+	
+		
+		
+	<div class="row news-0 highlights">
+
+		<div class="column half blocks">
+		
+					<article itemscope itemtype="http://schema.org/article">
+					
+				<a href="http://fam.csc.ku.ac.th/?p=8428" title="โครงการยุวชนอาสา คณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ผ่านเข้ารอบ 10 ทีมสุดท้ายระดับประเทศ จาก 38 มหาวิทยาลัย" class="image-link" itemprop="url">
+					<img width="351" height="185" src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/1-351x185.jpg" class="image wp-post-image" alt="1" title="โครงการยุวชนอาสา คณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ผ่านเข้ารอบ 10 ทีมสุดท้ายระดับประเทศ จาก 38 มหาวิทยาลัย" itemprop="image" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/1-351x185.jpg 351w, http://fam.csc.ku.ac.th/wp-content/uploads/2021/11/1-351x185@2x.jpg 702w" sizes="(max-width: 351px) 100vw, 351px" />					
+											<span class="post-format-icon image"><i class="fa fa-picture-o"></i></span>
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2021-11-10t03:41:54+00:00" itemprop="datepublished" class="meta-item">10/11/2021</time><span class="meta-item comments"><a href="http://fam.csc.ku.ac.th/?p=8428#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="http://fam.csc.ku.ac.th/?p=8428" title="โครงการยุวชนอาสา คณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ผ่านเข้ารอบ 10 ทีมสุดท้ายระดับประเทศ จาก 38 มหาวิทยาลัย">โครงการยุวชนอาสา คณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ผ่านเข้ารอบ 10 ทีมสุดท้ายระดับประเทศ จาก 38 มหาวิทยาลัย</a></h2>
+				
+								
+				<div class="excerpt">
+					<p>ขอแสดงความยินดีกับนิสิตและคณาจารย์ คณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ที่ได้รับคั&hellip;</p>
+				</div>
+				
+			</article>
+			
+					
+		</div>
+		
+		
+		<ul class="column half block posts-list thumb">
+
+				
+						
+				<li>
+				
+					<a href="http://fam.csc.ku.ac.th/?p=8374"><img width="110" height="96" src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/243796089_1233309660424944_4000029119702318240_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="243796089_1233309660424944_4000029119702318240_n" title="ประกาศรายชื่อผู้ได้รับการฉีดวัคซีนตามนัดหมาย" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/243796089_1233309660424944_4000029119702318240_n-110x96.jpg 110w, http://fam.csc.ku.ac.th/wp-content/uploads/2021/10/243796089_1233309660424944_4000029119702318240_n-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2021-10-04t03:12:09+00:00" itemprop="datepublished" class="meta-item">04/10/2021</time>					
+			</div>
+							
+						<a href="http://fam.csc.ku.ac.th/?p=8374" title="ประกาศรายชื่อผู้ได้รับการฉีดวัคซีนตามนัดหมาย">
+							ประกาศรายชื่อผู้ได้รับการฉีดวัคซีนตามนัดหมาย</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="http://fam.csc.ku.ac.th/?p=8367"><img width="110" height="96" src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/09/243138496_275323047926572_5063873680493827460_n-110x96.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="243138496_275323047926572_5063873680493827460_n" title="ประกาศทุนโควต้าคณะศิลปศาสตร์และวิทยาการจัดการ ครั้งที่ 1/2565 (รอบที่ 1 portfolio)" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2021/09/243138496_275323047926572_5063873680493827460_n-110x96.png 110w, http://fam.csc.ku.ac.th/wp-content/uploads/2021/09/243138496_275323047926572_5063873680493827460_n-110x96@2x.png 220w" sizes="(max-width: 110px) 100vw, 110px" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2021-09-30t04:58:07+00:00" itemprop="datepublished" class="meta-item">30/09/2021</time>					
+			</div>
+							
+						<a href="http://fam.csc.ku.ac.th/?p=8367" title="ประกาศทุนโควต้าคณะศิลปศาสตร์และวิทยาการจัดการ ครั้งที่ 1/2565 (รอบที่ 1 portfolio)">
+							ประกาศทุนโควต้าคณะศิลปศาสตร์และวิทยาการจัดการ ครั้งที่ 1/2565 (รอบที่ 1 portfolio)</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="http://fam.csc.ku.ac.th/?p=8334"><img width="110" height="96" src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/09/s__13443082-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="s__13443082" title="ขอเชิญ คณาจารย์ บุคลากร และนิสิต ร่วมบริจาคโลหิต" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2021/09/s__13443082-110x96.jpg 110w, http://fam.csc.ku.ac.th/wp-content/uploads/2021/09/s__13443082-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2021-09-15t07:49:33+00:00" itemprop="datepublished" class="meta-item">15/09/2021</time>					
+			</div>
+							
+						<a href="http://fam.csc.ku.ac.th/?p=8334" title="ขอเชิญ คณาจารย์ บุคลากร และนิสิต ร่วมบริจาคโลหิต">
+							ขอเชิญ คณาจารย์ บุคลากร และนิสิต ร่วมบริจาคโลหิต</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+		</ul>
+			
+				
+	</div>
+	
+			
+</section>
+<section class="gallery-block">
+
+	<h3 class="gallery-title prominent">วิดีโอกิจกรรม</h3>
+
+<div class="flexslider carousel">
+	<ul class="slides">
+		
+		<li>
+			<a href="http://fam.csc.ku.ac.th/?p=8258" title="ku cscแค่พี่น้อง &#8211; poom triphob" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/08/untitled-214x140.png" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2021/08/untitled-214x140.png 214w, http://fam.csc.ku.ac.th/wp-content/uploads/2021/08/untitled-214x140@2x.png 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fam.csc.ku.ac.th/?p=8258" title="ku cscแค่พี่น้อง &#8211; poom triphob">ku cscแค่พี่น้อง &#8211; poom triphob</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fam.csc.ku.ac.th/?p=8047" title="โครงการปฐมนิเทศนิสิตใหม่ คณะศิลปศาสตร์และวิทยาการจัดการ ม.เกษตร ปีการศึกษา 2564 | lams.ku" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/untitled-1-214x140.png" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/untitled-1-214x140.png 214w, http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/untitled-1-214x140@2x.png 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fam.csc.ku.ac.th/?p=8047" title="โครงการปฐมนิเทศนิสิตใหม่ คณะศิลปศาสตร์และวิทยาการจัดการ ม.เกษตร ปีการศึกษา 2564 | lams.ku">โครงการปฐมนิเทศนิสิตใหม่ คณะศิลปศาสตร์และวิทยาการจัดการ ม.เกษตร ปีการศึกษา 2564 | lams.ku</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fam.csc.ku.ac.th/?p=8043" title="idku new" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/untitled-214x140.png" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/untitled-214x140.png 214w, http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/untitled-214x140@2x.png 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fam.csc.ku.ac.th/?p=8043" title="idku new">idku new</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fam.csc.ku.ac.th/?p=7882" title="คณบดีกล่าวต้อนรับนิสิตใหม่ ku81 lams22 คณะศิลปศาสตร์และวิทยาการจัดการ | lams.ku" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/2-214x140.png" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/2-214x140.png 214w, http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/2-214x140@2x.png 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fam.csc.ku.ac.th/?p=7882" title="คณบดีกล่าวต้อนรับนิสิตใหม่ ku81 lams22 คณะศิลปศาสตร์และวิทยาการจัดการ | lams.ku">คณบดีกล่าวต้อนรับนิสิตใหม่ ku81 lams22 คณะศิลปศาสตร์และวิทยาการจัดการ | lams.ku</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fam.csc.ku.ac.th/?p=7879" title="แนะนำช่องทางการเรียนออนไลน์ | lams.ku" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/1-214x140.png" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/1-214x140.png 214w, http://fam.csc.ku.ac.th/wp-content/uploads/2021/06/1-214x140@2x.png 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fam.csc.ku.ac.th/?p=7879" title="แนะนำช่องทางการเรียนออนไลน์ | lams.ku">แนะนำช่องทางการเรียนออนไลน์ | lams.ku</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fam.csc.ku.ac.th/?p=4123" title="วันคล้ายวันสถาปนาครบ 20 ปี มหาวิทยาลัยเกษตรศาสตร์วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fam.csc.ku.ac.th/wp-content/uploads/2018/02/maxresdefa1144ult-214x140.jpg" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2018/02/maxresdefa1144ult-214x140.jpg 214w, http://fam.csc.ku.ac.th/wp-content/uploads/2018/02/maxresdefa1144ult-214x140@2x.jpg 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fam.csc.ku.ac.th/?p=4123" title="วันคล้ายวันสถาปนาครบ 20 ปี มหาวิทยาลัยเกษตรศาสตร์วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร">วันคล้ายวันสถาปนาครบ 20 ปี มหาวิทยาลัยเกษตรศาสตร์วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fam.csc.ku.ac.th/?p=1990" title="นิสิต บินไกลถ่ายโฆษณาประเทศญี่ปุ่น" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fam.csc.ku.ac.th/wp-content/uploads/2017/05/untitled-1-214x140.png" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2017/05/untitled-1-214x140.png 214w, http://fam.csc.ku.ac.th/wp-content/uploads/2017/05/untitled-1-536x353.png 536w, http://fam.csc.ku.ac.th/wp-content/uploads/2017/05/untitled-1-214x140@2x.png 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fam.csc.ku.ac.th/?p=1990" title="นิสิต บินไกลถ่ายโฆษณาประเทศญี่ปุ่น">นิสิต บินไกลถ่ายโฆษณาประเทศญี่ปุ่น</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fam.csc.ku.ac.th/?p=423" title="แนะนำ คณะ ศว." class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fam.csc.ku.ac.th/wp-content/uploads/2016/11/untitled-214x140.png" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2016/11/untitled-214x140.png 214w, http://fam.csc.ku.ac.th/wp-content/uploads/2016/11/untitled-214x140@2x.png 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fam.csc.ku.ac.th/?p=423" title="แนะนำ คณะ ศว.">แนะนำ คณะ ศว.</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fam.csc.ku.ac.th/?p=421" title="idku อัตลักษณ์มหาวิทยาลัยเกษตรศาสตร์" class="image-link">
+				<span class="image"><img width="214" height="121" src="http://fam.csc.ku.ac.th/wp-content/uploads/2017/02/38042_500x500_1440040374-1-214x121.jpg" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" />				</span>
+							</a>
+			<p class="title"><a href="http://fam.csc.ku.ac.th/?p=421" title="idku อัตลักษณ์มหาวิทยาลัยเกษตรศาสตร์">idku อัตลักษณ์มหาวิทยาลัยเกษตรศาสตร์</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fam.csc.ku.ac.th/?p=417" title="kudvc big show คณะศว." class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fam.csc.ku.ac.th/wp-content/uploads/2017/02/img_5438-214x140.jpg" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fam.csc.ku.ac.th/wp-content/uploads/2017/02/img_5438-214x140.jpg 214w, http://fam.csc.ku.ac.th/wp-content/uploads/2017/02/img_5438-214x140@2x.jpg 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fam.csc.ku.ac.th/?p=417" title="kudvc big show คณะศว.">kudvc big show คณะศว.</a></p>
+		</li>
+	
+		</ul>
+	<div class="title-bar"></div>
+</div>
+
+
+</section><div class="row cf builder">
+			
+		
+					
+							<div class="column builder one-1">
+							
+			<h3 class="widget-title">ข่าวประชาสัมพันธ์คณะ</h3>			<div class="textwidget"><div class="sc-tabs-wrap"><ul class="sc-tabs"><li class="active"><a href="#" data-id="1">ข่าวประกาศ</a></li><li><a href="#" data-id="2">ข่าวนิสิต</a></li><li><a href="#" data-id="3">ข่าวอบรมสัมมนา</a></li><li><a href="#" data-id="4">ข่าวกิจกรรม</a></li><li><a href="#" data-id="5">ข่าวศิษย์เก่า</a></li></ul><ul class="sc-tabs-panes"><li id="sc-pane-1" class="active"><ul class="lcp_catlist" id="lcp_instance_0"><li><a href="http://fam.csc.ku.ac.th/?p=8491" title="81">81</a> 30/11/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8447" title="งาน ‘เรียนรู้ตลอดชีวิต’ แนวทางการลดความเหลื่อมล้ำในสังคมไทย จังหวัดสกลนคร-นครพนม">งาน ‘เรียนรู้ตลอดชีวิต’ แนวทางการลดความเหลื่อมล้ำในสังคมไทย จังหวัดสกลนคร-นครพนม</a> 26/11/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8437" title=""></a> 17/11/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8433" title=""></a> 17/11/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8428" title="โครงการยุวชนอาสา คณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ผ่านเข้ารอบ 10 ทีมสุดท้ายระดับประเทศ จาก 38 มหาวิทยาลัย">โครงการยุวชนอาสา คณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ผ่านเข้ารอบ 10 ทีมสุดท้ายระดับประเทศ จาก 38 มหาวิทยาลัย</a> 10/11/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8419" title="เยี่ยมชมพิพิธภัณฑ์ป้าทุ้ม ป้าไท้ (ศูนย์เรียนรู้บ้านป้าทุ้ม ป้าไท้) ผ้าไหมย้อมคราม">เยี่ยมชมพิพิธภัณฑ์ป้าทุ้ม ป้าไท้ (ศูนย์เรียนรู้บ้านป้าทุ้ม ป้าไท้) ผ้าไหมย้อมคราม</a> 21/10/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8396" title=""></a> 06/10/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8393" title=""></a> 06/10/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8390" title=""></a> 06/10/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8387" title=""></a> 06/10/2021 </li></ul></li>
+<li id="sc-pane-2"><ul class="lcp_catlist" id="lcp_instance_0"><li><a href="http://fam.csc.ku.ac.th/?p=8374" title="ประกาศรายชื่อผู้ได้รับการฉีดวัคซีนตามนัดหมาย">ประกาศรายชื่อผู้ได้รับการฉีดวัคซีนตามนัดหมาย</a> 04/10/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8331" title="ขอเชิญเข้าร่วมรับฟังการบรรยายพิเศษ &#8220;แนะนำใบอนุญาตผู้วางแผนการลงทุน (investment planner :ip license) และคุณวุฒิวิชาชีพที่ปรึกษาด้านการเงิน ( afpt™)&#8221;">ขอเชิญเข้าร่วมรับฟังการบรรยายพิเศษ &#8220;แนะนำใบอนุญาตผู้วางแผนการลงทุน (investment planner :ip license) และคุณวุฒิวิชาชีพที่ปรึกษาด้านการเงิน ( afpt™)&#8221;</a> 13/09/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8040" title="รับสมัครทุนการศึกษามหาวิทยาลัยเกษตรศาสตร์ ประจำปีการศึกษา 2564 ทุกคณะ ทุกชั้นปี ทุกวิทยาเขต">รับสมัครทุนการศึกษามหาวิทยาลัยเกษตรศาสตร์ ประจำปีการศึกษา 2564 ทุกคณะ ทุกชั้นปี ทุกวิทยาเขต</a> 28/06/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8037" title=""></a> 28/06/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=7813" title="ประกาศยื่นคำร้องนิสิตคณะศว. ปี 2564">ประกาศยื่นคำร้องนิสิตคณะศว. ปี 2564</a> 07/06/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=7794" title="ประกาศสำหรับนิสิตฝึกงาน">ประกาศสำหรับนิสิตฝึกงาน</a> 03/06/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=7644" title="โครงการแลกเปลี่ยนนิสิตรอบปี 2564-2565 ณ tampere university สาธารณรัฐฟินแลนด์">โครงการแลกเปลี่ยนนิสิตรอบปี 2564-2565 ณ tampere university สาธารณรัฐฟินแลนด์</a> 26/03/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=7535" title="เชิญชวน อาจารย์ บุคลากร ศิษย์เก่า และนิสิต มหาวิทยาลัยเกษตรศาสตร์">เชิญชวน อาจารย์ บุคลากร ศิษย์เก่า และนิสิต มหาวิทยาลัยเกษตรศาสตร์</a> 01/03/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=7278" title="เปิดรับสมัครนิสิตวิเทศสัมพันธ์อาสา (kusam) รุ่นที่ 3 ประจำปี 2564">เปิดรับสมัครนิสิตวิเทศสัมพันธ์อาสา (kusam) รุ่นที่ 3 ประจำปี 2564</a> 24/11/2020 </li><li><a href="http://fam.csc.ku.ac.th/?p=7143" title="เปิดรับสมัครเข้าศึกษา tcas 5 คณะศิลปศาสตร์และวิทยาการจัดการ">เปิดรับสมัครเข้าศึกษา tcas 5 คณะศิลปศาสตร์และวิทยาการจัดการ</a> 16/06/2020 </li></ul></li>
+<li id="sc-pane-3"><ul class="lcp_catlist" id="lcp_instance_0"><li><a href="http://fam.csc.ku.ac.th/?p=7919" title="โครงการแลกเปลี่ยนเรียนรู้ ด้านระเบียบ ข้อบังคับ และแนวปฏิบัติของคณะในการอนุมัติเอกสารคำร้องทางวิชาการของนิสิต">โครงการแลกเปลี่ยนเรียนรู้ ด้านระเบียบ ข้อบังคับ และแนวปฏิบัติของคณะในการอนุมัติเอกสารคำร้องทางวิชาการของนิสิต</a> 28/06/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=7256" title="โครงการพัฒนาศักยภาพวิสาหกิจชุมชนให้มีความพร้อมรองรับธุรกิจชุมชนสร้างไทย">โครงการพัฒนาศักยภาพวิสาหกิจชุมชนให้มีความพร้อมรองรับธุรกิจชุมชนสร้างไทย</a> 18/11/2020 </li><li><a href="http://fam.csc.ku.ac.th/?p=4258" title="เชิญชวนผู้ที่สนใจเข้าร่วม โครงการแรงบันดาลใจวัยฝัน  หัวข้อ &#8220;การบริหารงานภาครัฐกับปลัดอำเภอยุค 4.0&#8221;">เชิญชวนผู้ที่สนใจเข้าร่วม โครงการแรงบันดาลใจวัยฝัน  หัวข้อ &#8220;การบริหารงานภาครัฐกับปลัดอำเภอยุค 4.0&#8221;</a> 02/04/2018 </li><li><a href="http://fam.csc.ku.ac.th/?p=4254" title="เชิญชวนผู้ที่สนใจเข้าร่วมโครงการ &#8220;เรียนรู้ภาษาและวัฒนธรรมจีน ณ เมืองเซี่ยะเหมิน และเมืองปักกิ่ง&#8221;">เชิญชวนผู้ที่สนใจเข้าร่วมโครงการ &#8220;เรียนรู้ภาษาและวัฒนธรรมจีน ณ เมืองเซี่ยะเหมิน และเมืองปักกิ่ง&#8221;</a> 02/04/2018 </li><li><a href="http://fam.csc.ku.ac.th/?p=4250" title="เชิญชวนผู้ที่สนใจเข้าร่วม โครงการแรงบันดาลใจวัยฝัน หัวข้อ &#8220;ความสำคัญของภาษาอังกฤษในอนาคต&#8221;">เชิญชวนผู้ที่สนใจเข้าร่วม โครงการแรงบันดาลใจวัยฝัน หัวข้อ &#8220;ความสำคัญของภาษาอังกฤษในอนาคต&#8221;</a> 02/04/2018 </li><li><a href="http://fam.csc.ku.ac.th/?p=4246" title="ขอเชิญเข้าร่วมโครงการอบรมเชิงปฏิบัติการ เรื่อง การจัดเตรียมต้นฉบับผลงานวิจัยเพื่อตีพิมพ์ในวารสารวิชาการนานาชาติ ครั้งที่ 1/2561">ขอเชิญเข้าร่วมโครงการอบรมเชิงปฏิบัติการ เรื่อง การจัดเตรียมต้นฉบับผลงานวิจัยเพื่อตีพิมพ์ในวารสารวิชาการนานาชาติ ครั้งที่ 1/2561</a> 02/04/2018 </li><li><a href="http://fam.csc.ku.ac.th/?p=3013" title="โครงการสัมมนา&#8221;วัยรุ่นอายุน้อยสร้างร้อยให้ได้ล้านกับการลงทุน&#8221;">โครงการสัมมนา&#8221;วัยรุ่นอายุน้อยสร้างร้อยให้ได้ล้านกับการลงทุน&#8221;</a> 08/11/2017 </li><li><a href="http://fam.csc.ku.ac.th/?p=2972" title="โครงการบูรณาการยกระดับความรู้ด้านภาษาอังกฤษของเยาวชนและบุคลากรภาคตะวันออกเฉียงเหนือ รุ่นที่ 1 ประจำปีงบประมาณ 2561">โครงการบูรณาการยกระดับความรู้ด้านภาษาอังกฤษของเยาวชนและบุคลากรภาคตะวันออกเฉียงเหนือ รุ่นที่ 1 ประจำปีงบประมาณ 2561</a> 08/11/2017 </li><li><a href="http://fam.csc.ku.ac.th/?p=2922" title="การประชุมวิชาการระดับชาติ มหาวิทยาลัยเกษตรศาสตร์">การประชุมวิชาการระดับชาติ มหาวิทยาลัยเกษตรศาสตร์</a> 25/10/2017 </li><li><a href="http://fam.csc.ku.ac.th/?p=2720" title="การประชุมวิชาการระดับชาติ">การประชุมวิชาการระดับชาติ</a> 10/10/2017 </li></ul></li>
+<li id="sc-pane-4"><ul class="lcp_catlist" id="lcp_instance_0"><li><a href="http://fam.csc.ku.ac.th/?p=8447" title="งาน ‘เรียนรู้ตลอดชีวิต’ แนวทางการลดความเหลื่อมล้ำในสังคมไทย จังหวัดสกลนคร-นครพนม">งาน ‘เรียนรู้ตลอดชีวิต’ แนวทางการลดความเหลื่อมล้ำในสังคมไทย จังหวัดสกลนคร-นครพนม</a> 26/11/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8419" title="เยี่ยมชมพิพิธภัณฑ์ป้าทุ้ม ป้าไท้ (ศูนย์เรียนรู้บ้านป้าทุ้ม ป้าไท้) ผ้าไหมย้อมคราม">เยี่ยมชมพิพิธภัณฑ์ป้าทุ้ม ป้าไท้ (ศูนย์เรียนรู้บ้านป้าทุ้ม ป้าไท้) ผ้าไหมย้อมคราม</a> 21/10/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8324" title="โครงการสัมมนาทางรัฐประศาสนศาสตร์ กิจกรรมโต้วาทีออนไลน์ หัวข้อ “ล็อกดาวน์ระลอก 3 แก้ไขหรือซ้ำเติม”">โครงการสัมมนาทางรัฐประศาสนศาสตร์ กิจกรรมโต้วาทีออนไลน์ หัวข้อ “ล็อกดาวน์ระลอก 3 แก้ไขหรือซ้ำเติม”</a> 13/09/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8300" title="ประชุมคณะกรรมการประจำคณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ครั้งที่ 9/2564">ประชุมคณะกรรมการประจำคณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ ครั้งที่ 9/2564</a> 09/09/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8261" title="โครงการหนึ่งตำบลหนึ่งมหาลัย ตำบลกกปลาซิว #ท่องเที่ยวทั่วไทยไปกกปลาซิว #ล่องแพไม้ไผ่">โครงการหนึ่งตำบลหนึ่งมหาลัย ตำบลกกปลาซิว #ท่องเที่ยวทั่วไทยไปกกปลาซิว #ล่องแพไม้ไผ่</a> 31/08/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8212" title="โครงการตรวจประเมินคุณภาพการศึกษาภายใน ระดับหลักสูตร ปีการศึกษา 2563 หลักสูตรบริหารธุรกิจมหาบัณฑิต">โครงการตรวจประเมินคุณภาพการศึกษาภายใน ระดับหลักสูตร ปีการศึกษา 2563 หลักสูตรบริหารธุรกิจมหาบัณฑิต</a> 19/07/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8203" title="ประชุมวิพากย์หลักสูตรบริหารธุรกิจบัณฑิต สาขาวิชาการตลาด">ประชุมวิพากย์หลักสูตรบริหารธุรกิจบัณฑิต สาขาวิชาการตลาด</a> 19/07/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=8011" title="โครงการตรวจประเมินคุณภาพการศึกษาภายใน ระดับหลักสูตร ปีการศึกษา 2563 หลักสูตรบัญชีบัณฑิต">โครงการตรวจประเมินคุณภาพการศึกษาภายใน ระดับหลักสูตร ปีการศึกษา 2563 หลักสูตรบัญชีบัณฑิต</a> 28/06/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=7997" title="โครงการตรวจประเมินคุณภาพการศึกษาภายใน ระดับหลักสูตร ปีการศึกษา 2563 หลักสูตรบริหารธุกิจบัณฑิต สาขาวิชาการจัดการโรงแรมและท่องเที่ยว">โครงการตรวจประเมินคุณภาพการศึกษาภายใน ระดับหลักสูตร ปีการศึกษา 2563 หลักสูตรบริหารธุกิจบัณฑิต สาขาวิชาการจัดการโรงแรมและท่องเที่ยว</a> 28/06/2021 </li><li><a href="http://fam.csc.ku.ac.th/?p=7982" title="โครงการตรวจประเมินคุณภาพการศึกษาภายใน ระดับหลักสูตร ปีการศึกษา 2563 หลักสูตรนิติศาสตรบัณฑิต">โครงการตรวจประเมินคุณภาพการศึกษาภายใน ระดับหลักสูตร ปีการศึกษา 2563 หลักสูตรนิติศาสตรบัณฑิต</a> 28/06/2021 </li></ul></li>
+<li id="sc-pane-5"><ul class="lcp_catlist" id="lcp_instance_0"><li><a href="http://fam.csc.ku.ac.th/?p=7535" title="เชิญชวน อาจารย์ บุคลากร ศิษย์เก่า และนิสิต มหาวิทยาลัยเกษตรศาสตร์">เชิญชวน อาจารย์ บุคลากร ศิษย์เก่า และนิสิต มหาวิทยาลัยเกษตรศาสตร์</a> 01/03/2021 </li></ul></li></ul></div></div>
+					
+			 </div> 			
+					
+					</div>
+			
+		
+				
+					<div class="row cf builder">
+			
+		
+					
+							<div class="column builder one-1">
+							
+						
+			 </div> 			
+					
+					</div>
+			
+		
+				
+					<div class="row cf builder">
+			
+		
+					
+							<div class="column builder one-1">
+							
+						
+			 </div> 			
+					
+					</div>
+			
+		
+		
+
+			</div>
+			
+		</div>
+		
+		
+			
+		
+		
+		<aside class="col-4 sidebar" data-sticky="1">
+			<ul>
+			
+			<li id="text-2" class="widget widget_text"><h3 class="widgettitle">คณบดีคณะศิลปศาสตร์และวิทยาการจัดการ</h3>			<div class="textwidget"><img class="alignnone size-medium aligncenter" src="http://fam.csc.ku.ac.th/wp-content/uploads/2019/07/cop-yeepoon-1c.jpg" alt="1" width="200" height="300
+" /><h2 style="text-align: center">ผศ.ดร.ปัททมา สุริยกุล ณ อยุธยา</h2>
+<p style="text-align: center">คณบดีคณะศิลปศาสตร์และวิทยาการจัดการ</br>
+
+
+</div>
+		</li>
+<li id="text-16" class="widget widget_text">			<div class="textwidget"><a href="https://forms.gle/ribq1svyvzrqxzrj7" target="_blank"><img src="http://fam.csc.ku.ac.th/wp-content/uploads/2019/10/สายด่วนคณบดี-2.png" alt="bannernisit2" width="100%" /></a></div>
+		</li>
+recent tabs widget still need to be configured! add tabs, add a title, and select type for each tab in widgets area.<li id="text-8" class="widget widget_text"><h3 class="widgettitle">face book คณะศิลปศาสตร์และวิทยาการจัดการ</h3>			<div class="textwidget"><a href="https://www.facebook.com/lams.ku.csc" target="_blank"><img src="http://fam.csc.ku.ac.th/wp-content/uploads/2017/09/fb.jpg" alt="bannernisit2" width="100%" /></a>
+</div>
+		</li>
+	
+			</ul>
+		</aside>
+		
+			
+	</div> <!-- .row -->
+</div> <!-- .main -->
+
+
+		
+	<footer class="main-footer">
+	
+			<div class="wrap">
+		
+					<ul class="widgets row cf">
+				<li class="widget col-4 widget_text"><h3 class="widgettitle">ที่อยู่/ติดต่อสอบถาม</h3>			<div class="textwidget">คณะศิลปศาสตร์และวิทยาการจัดการ
+มหาวิทยาลัยเกษตรศาสตร์
+วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร
+59/6 หมู่ 1 ถ.วปรอ 366 ตำบลเชียงเครือ อำเภอเมือง จังหวัดสกลนคร 47000 </div>
+		</li><li class="widget col-4 widget_text"><h3 class="widgettitle">ติดต่อหน่วยงานภายใน</h3>			<div class="textwidget">061-0287788 : ประชาสัมพันธ์และวิเทศสัมพันธ์<br/>
+081-7391745 : หน่วยทะเบียนและประมวลผล<br/>
+086-2241118 : หน่วยแนะแนวและรับเข้า (ตรี/โท)<br/>
+098-4854435 : ทุน กยศ. และ กรอ.<br/>
+088-5108007 : หน่วยหอพักนิสิต<br/>
+042-725042 ต่อ 5503 : งานเทคโนโลยีสารสนเทศ<br/></div>
+		</li><li class="widget col-4 widget_text"><h3 class="widgettitle">ช่องการการติดต่อ</h3>			<div class="textwidget">โทรศัพท์ 042-725039 มือถือ 081-7391377
+เบอร์แฟกซ์ 042-725040 
+
+เพจ : คณะศิลปศาสตร์และวิทยาการจัดการ ม.เกษตรศาสตร์ จ.สกลนคร
+
+facebook: คณะศิลปศาสตร์และวิทยาการจัดการ มก.ฉกส
+
+web: http://fam.csc.ku.ac.th/</div>
+		</li>			</ul>
+				
+		</div>
+	
+		
+	
+			<div class="lower-foot">
+			<div class="wrap">
+		
+					
+			</div>
+		</div>		
+		
+	</footer>
+	
+</div> <!-- .main-wrap -->
+
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-includes/js/comment-reply.min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var _wpcf7 = {"loaderurl":"http:\/\/fam.csc.ku.ac.th\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"please verify that you are not a robot."}},"sending":"\u0e01\u0e33\u0e25\u0e31\u0e07\u0e2a\u0e48\u0e07 ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var bunyad = {"ajaxurl":"http:\/\/fam.csc.ku.ac.th\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-content/themes/csctheme/js/bunyad-theme.js?ver=2.6.1'></script>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-content/themes/csctheme/js/jquery.flexslider-min.js?ver=2.6.1'></script>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-content/themes/csctheme/js/jquery.sticky-sidebar.min.js?ver=2.6.1'></script>
+<script type='text/javascript' src='http://fam.csc.ku.ac.th/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+<p class="tk">powered by <a href="http://www.moviekillers.com/" title="moviekillers" rel="follow"> moviekillers.com </a></p>
+</body>
+</html>

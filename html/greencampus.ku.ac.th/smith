@@ -1,0 +1,1012 @@
+
+<!doctype html>
+<html class="html" lang="en-us">
+<head>
+	
+	<!-- global site tag (gtag.js) - google analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=g-py40z2jcky"></script>
+<script>
+  window.datalayer = window.datalayer || [];
+  function gtag(){datalayer.push(arguments);}
+  gtag('js', new date());
+
+  gtag('config', 'g-py40z2jcky');
+</script>
+	
+	<meta charset="utf-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>greencampus</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="greencampus &raquo; feed" href="https://greencampus.ku.ac.th/feed/" />
+<link rel="alternate" type="application/rss+xml" title="greencampus &raquo; comments feed" href="https://greencampus.ku.ac.th/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojisettings = {"baseurl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgurl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgext":".svg","source":{"concatemoji":"https:\/\/greencampus.ku.ac.th\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.10"}};
+			!function(a,b,c){function d(a,b){var c=string.fromcharcode;l.clearrect(0,0,k.width,k.height),l.filltext(c.apply(this,a),0,0);var d=k.todataurl();l.clearrect(0,0,k.width,k.height),l.filltext(c.apply(this,b),0,0);var e=k.todataurl();return d===e}function e(a){var b;if(!l||!l.filltext)return!1;switch(l.textbaseline="top",l.font="600 32px arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createelement("script");c.src=a,c.defer=c.type="text/javascript",b.getelementsbytagname("head")[0].appendchild(c)}var g,h,i,j,k=b.createelement("canvas"),l=k.getcontext&&k.getcontext("2d");for(j=array("flag","emoji"),c.supports={everything:!0,everythingexceptflag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingexceptflag=c.supports.everythingexceptflag&&c.supports[j[i]]);c.supports.everythingexceptflag=c.supports.everythingexceptflag&&!c.supports.flag,c.domready=!1,c.readycallback=function(){c.domready=!0},c.supports.everything||(h=function(){c.readycallback()},b.addeventlistener?(b.addeventlistener("domcontentloaded",h,!1),a.addeventlistener("load",h,!1)):(a.attachevent("onload",h),b.attachevent("onreadystatechange",function(){"complete"===b.readystate&&c.readycallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojisettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bdt-uikit-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/bdt-uikit.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='prime-slider-site-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/prime-slider-site.css?ver=1.14.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://greencampus.ku.ac.th/wp-includes/css/dist/block-library/style.min.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://greencampus.ku.ac.th/wp-includes/css/dist/block-library/theme.min.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='pdfemb-gutenberg-block-backend-js-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='cb70d11b8-css'  href='https://greencampus.ku.ac.th/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.css?ver=1642189052' type='text/css' media='all' />
+<link rel='stylesheet' id='twae-centered-css-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/timeline-widget-addon-for-elementor/assets/css/twae-centered-timeline.min.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='twae-horizontal-css-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/timeline-widget-addon-for-elementor/assets/css/twae-horizontal-styles.min.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='twae-fontello-css-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/timeline-widget-addon-for-elementor/assets/css/twae-fontello.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.11.2' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css'  href='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-google-font-mukta-vaani-css'  href='//fonts.googleapis.com/css?family=mukta+vaani%3a100%2c200%2c300%2c400%2c500%2c600%2c700%2c800%2c900%2c100i%2c200i%2c300i%2c400i%2c500i%2c600i%2c700i%2c800i%2c900i&#038;subset=latin&#038;ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' type='text/css' media='all' />
+<style id='elementor-icons-inline-css' type='text/css'>
+
+		.elementor-add-new-section .elementor-add-templately-promo-button{
+            background-color: #5d4fff;
+            background-image: url(https://greencampus.ku.ac.th/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
+            background-repeat: no-repeat;
+            background-position: center center;
+            margin-left: 5px;
+            position: relative;
+            bottom: 5px;
+        }
+</style>
+<link rel='stylesheet' id='elementor-animations-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-5366-css'  href='https://greencampus.ku.ac.th/wp-content/uploads/elementor/css/post-5366.css?ver=1640055450' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' type='text/css' media='all' />
+<!--n2css--><script type='text/javascript' src='https://greencampus.ku.ac.th/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://greencampus.ku.ac.th/wp-json/' />
+<link rel="edituri" type="application/rsd+xml" title="rsd" href="https://greencampus.ku.ac.th/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://greencampus.ku.ac.th/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="wordpress 5.0.10" />
+<link rel="canonical" href="https://greencampus.ku.ac.th/" />
+<link rel='shortlink' href='https://greencampus.ku.ac.th/' />
+<link rel="alternate" type="application/json+oembed" href="https://greencampus.ku.ac.th/wp-json/oembed/1.0/embed?url=https%3a%2f%2fgreencampus.ku.ac.th%2f" />
+<link rel="alternate" type="text/xml+oembed" href="https://greencampus.ku.ac.th/wp-json/oembed/1.0/embed?url=https%3a%2f%2fgreencampus.ku.ac.th%2f&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<!-- oceanwp css -->
+<style type="text/css">
+/* general css */.site-breadcrumbs a:hover,.background-image-page-header .site-breadcrumbs a:hover{color:#81d742}/* header css */#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:80px}.effect-one #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-three #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after{background-color:#b1ba1d}.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfhover >a.menu-link >span:after{color:#b1ba1d}.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfhover >a.menu-link >span:after{text-shadow:10px 0 #b1ba1d,-10px 0 #b1ba1d}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,#searchform-header-replace-close{color:#63acf7}#site-navigation-wrap .dropdown-menu >li >a:hover,.oceanwp-mobile-menu-icon a:hover,#searchform-header-replace-close:hover{color:#afda53}#site-navigation-wrap .dropdown-menu >.current-menu-item >a,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a,#site-navigation-wrap .dropdown-menu >.current-menu-item >a:hover,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a:hover{color:#afda53}.dropdown-menu .sub-menu,#searchform-dropdown,.current-shop-items-dropdown{border-color:#0e938e}.dropdown-menu ul li a.menu-link{color:#0e938e}.dropdown-menu ul li a.menu-link:hover{color:#b1ba1d}/* footer widgets css */#footer-widgets{padding:30px 0 0 0}/* footer bottom css */#footer-bottom{background-color:#63acf7}#footer-bottom,#footer-bottom p{color:#ffffff}#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover{color:#000000}/* typography css */body{font-size:18px}h1{font-style:italic;font-size:40px;color:#006b67;line-height:0.5;text-transform:none}h3{font-size:20px;letter-spacing:.5px}h4{font-size:17 px;line-height:1.2}#site-navigation-wrap .dropdown-menu >li >a,#site-header.full_screen-header .fs-dropdown-menu >li >a,#site-header.top-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.center-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a{font-family:mukta vaani;font-weight:300;font-size:16px;text-transform:uppercase}#footer-widgets .footer-box .widget-title{font-weight:700;font-size:18px;text-transform:uppercase}
+</style></head>
+
+<body data-rsssl=1 class="home page-template page-template-elementor_header_footer page page-id-5366 wp-custom-logo wp-embed-responsive oceanwp-theme sidebar-mobile default-breakpoint content-full-screen page-header-disabled has-breadcrumbs elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-5366"  itemscope="itemscope" itemtype="https://schema.org/webpage">
+
+	
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+			
+<header id="site-header" class="minimal-header effect-six clr" data-height="74" itemscope="itemscope" itemtype="https://schema.org/wpheader" role="banner">
+
+	
+					
+			<div id="site-header-inner" class="clr container">
+
+				
+				
+
+<div id="site-logo" class="clr" itemscope itemtype="https://schema.org/brand">
+
+	
+	<div id="site-logo-inner" class="clr">
+
+		<a href="https://greencampus.ku.ac.th/" class="custom-logo-link" rel="home" itemprop="url"><img width="263" height="107" src="https://greencampus.ku.ac.th/wp-content/uploads/2020/11/logo_18.png" class="custom-logo" alt="greencampus" itemprop="logo" /></a>
+	</div><!-- #site-logo-inner -->
+
+	
+	
+</div><!-- #site-logo -->
+
+			<div id="site-navigation-wrap" class="clr">
+			
+			
+			
+			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/sitenavigationelement" role="navigation">
+
+				<ul id="menu-main" class="main-menu dropdown-menu sf-menu"><li id="menu-item-81" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-81"><a href="https://greencampus.ku.ac.th/" class="menu-link"><span class="text-wrap">home</span></a></li><li id="menu-item-4969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4969"><a href="https://greencampus.ku.ac.th/about/" class="menu-link"><span class="text-wrap">about</span></a></li><li id="menu-item-962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-962"><a href="https://greencampus.ku.ac.th/green-metric/" class="menu-link"><span class="text-wrap">green metric <span class="nav-arrow fa fa-angle-down"></span></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-5703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5703"><a href="https://greencampus.ku.ac.th/green-metric-2020-2021/" class="menu-link"><span class="text-wrap">green metric 2020-2021</span></a></li>	<li id="menu-item-5645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5645"><a href="https://greencampus.ku.ac.th/green-metric-2019-2020/" class="menu-link"><span class="text-wrap">green metric 2019-2020</span></a></li></ul>
+</li><li id="menu-item-4973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-4973"><a href="https://greencampus.ku.ac.th/ku-sdgs/" class="menu-link"><span class="text-wrap">ku sdgs <span class="nav-arrow fa fa-angle-down"></span></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-5654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5654"><a href="https://greencampus.ku.ac.th/sdgs-report-2020-2021/" class="menu-link"><span class="text-wrap">sdgs report 2020-2021</span></a></li>	<li id="menu-item-3545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3545"><a href="https://greencampus.ku.ac.th/sdgs-report-2019-2020/" class="menu-link"><span class="text-wrap">sdgs report 2019-2020</span></a></li></ul>
+</li><li id="menu-item-4970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4970"><a href="https://greencampus.ku.ac.th/best-practice/" class="menu-link"><span class="text-wrap">best practice</span></a></li><li id="menu-item-83" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83"><a href="https://iad.intaff.ku.ac.th/wordpress/?cat=15&#038;lang=en" class="menu-link"><span class="text-wrap">event&#038;news</span></a></li><li id="menu-item-879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-879"><a href="https://greencampus.ku.ac.th/gallery-2/" class="menu-link"><span class="text-wrap">gallery</span></a></li><li id="menu-item-4972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4972"><a href="https://greencampus.ku.ac.th/contact/" class="menu-link"><span class="text-wrap">contact</span></a></li></ul>
+			</nav><!-- #site-navigation -->
+
+			
+			
+					</div><!-- #site-navigation-wrap -->
+			
+		
+	
+				
+	<div class="oceanwp-mobile-menu-icon clr mobile-right">
+
+		
+		
+		
+		<a href="#" class="mobile-menu" aria-label="mobile menu">
+							<i class="fa fa-bars" aria-hidden="true"></i>
+								<span class="oceanwp-text">menu</span>
+
+						</a>
+
+		
+		
+		
+	</div><!-- #oceanwp-mobile-menu-navbar -->
+
+
+			</div><!-- #site-header-inner -->
+
+			
+			
+			
+		
+		
+</header><!-- #site-header -->
+
+
+			
+			<main id="main" class="site-main clr"  role="main">
+
+						<div data-elementor-type="wp-page" data-elementor-id="5366" class="elementor elementor-5366" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-8d1dde1 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-invisible elementor-section elementor-top-section" data-id="8d1dde1" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadein&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-d7469d1 elementor-column elementor-col-100 elementor-top-column" data-id="d7469d1" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1f03e72 elementor-widget elementor-widget-prime-slider-general" data-id="1f03e72" data-element_type="widget" data-widget_type="prime-slider-general.crelly">
+				<div class="elementor-widget-container">
+					<div class="bdt-prime-slider">
+							<div class="bdt-header-wrapper bdt-position-top">
+					<header class="bdt-prime-header-skin-crelly">
+						<div class="bdt-prime-slider-container">
+							<div class="bdt-header-inner bdt-flex bdt-flex-middle" bdt-grid>
+								<div class="bdt-width-auto">
+									<div class="bdt-prime-slider-logo bdt-flex bdt-flex-middle">
+
+										
+										
+						
+							<a class="bdt-logo-inner" bdt-scrollspy="cls: bdt-animation-fade; delay: 500;" href="https://greencampus.ku.ac.th">
+
+								
+									<img width="75" src="https://greencampus.ku.ac.th/wp-content/uploads/2021/11/ku_sdg_symbol_eng-300x134.png" alt="home">
+								
+							</a>
+
+											
+									</div>
+								</div>
+								<div class="bdt-width-expand">
+																		
+						<div class="bdt-prime-slider-navbar bdt-grid-small" bdt-grid>
+							<div class="bdt-width-expand">
+
+																									
+							</div>
+
+														
+						</div>
+
+													</div>
+							</div>
+						</div>
+					</header>
+				</div>
+			
+			<div class="bdt-prime-slider-skin-crelly">
+
+				<div class="bdt-position-relative bdt-visible-toggle" bdt-slideshow="{&quot;animation&quot;:&quot;fade&quot;,&quot;ratio&quot;:&quot;9:3.6&quot;,&quot;min-height&quot;:480,&quot;autoplay&quot;:true,&quot;autoplay-interval&quot;:7000,&quot;pause-on-hover&quot;:false,&quot;velocity&quot;:1,&quot;finite&quot;:false}" data-settings="{&quot;id&quot;:&quot;#bdt-1f03e72&quot;,&quot;animation_status&quot;:&quot;no&quot;}" id="bdt-1f03e72">
+
+					<ul class="bdt-slideshow-items">
+					                    
+            <li class="bdt-slideshow-item bdt-flex bdt-flex-middle bdt-flex-center elementor-repeater-item-2ed09b0">
+                                    <div class="bdt-position-cover bdt-animation-kenburns bdt-transform-origin-center-left">
+                
+                                            			
+					<div class="bdt-ps-slide-img" style="background-image: url('https://greencampus.ku.ac.th/2021/wp-content/uploads/2021/07/vacc2.jpg')"></div>
+			
+					                    
+                                    </div>
+                
+                
+                
+        <div class="bdt-container">
+            <div class="bdt-slideshow-content-wrapper">
+                <div class="bdt-prime-slider-wrapper">
+                    <div class="bdt-prime-slider-content">
+
+                        <div class="bdt-prime-slider-desc">
+
+                                                            <div class="bdt-sub-title bdt-text-left bdt-ps-sub-title">
+                                    <h4 bdt-slideshow-parallax="x: 300,0,-100; opacity: 1,1,0">
+                                    vaccination site                                    </h4>
+                                </div>
+                            
+                                                            <div class="bdt-main-title bdt-text-left"  bdt-slideshow-parallax="x: 500,0,-100; opacity: 1,1,0">
+                                    <h1 class="bdt-title-tag">
+                                                                                    ku fight covid-19                                                                            </h1>
+                                </div>
+                                                        
+                        </div>
+                                    
+                    </div>
+                                        <div class="bdt-slider-excerpt-content" bdt-slideshow-parallax="y: 200,0,-100; opacity: 1,1,0">
+                        <h3>overview</h3>
+                        <div class="bdt-slider-excerpt">
+                            <p>covid-19 vaccination site  under ministry of higher education, science,</p><p>research and innovation with the support of chulabhorn royal academy</p>                        </div>
+                        <div bdt-slideshow-parallax="y: 200,0,-100; opacity: 1,1,0">
+                            
+		                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+                    </li>
+
+                            
+            <li class="bdt-slideshow-item bdt-flex bdt-flex-middle bdt-flex-center elementor-repeater-item-11f5a30">
+                                    <div class="bdt-position-cover bdt-animation-kenburns bdt-transform-origin-center-left">
+                
+                                            			
+					<div class="bdt-ps-slide-img" style="background-image: url('https://greencampus.ku.ac.th/2021/wp-content/uploads/2021/07/vacc7.jpg')"></div>
+			
+					                    
+                                    </div>
+                
+                
+                
+        <div class="bdt-container">
+            <div class="bdt-slideshow-content-wrapper">
+                <div class="bdt-prime-slider-wrapper">
+                    <div class="bdt-prime-slider-content">
+
+                        <div class="bdt-prime-slider-desc">
+
+                                                            <div class="bdt-sub-title bdt-text-left bdt-ps-sub-title">
+                                    <h4 bdt-slideshow-parallax="x: 300,0,-100; opacity: 1,1,0">
+                                    vaccination site                                    </h4>
+                                </div>
+                            
+                                                            <div class="bdt-main-title bdt-text-left"  bdt-slideshow-parallax="x: 500,0,-100; opacity: 1,1,0">
+                                    <h1 class="bdt-title-tag">
+                                                                                    ku fight covid-19                                                                            </h1>
+                                </div>
+                                                        
+                        </div>
+                                    
+                    </div>
+                                        <div class="bdt-slider-excerpt-content" bdt-slideshow-parallax="y: 200,0,-100; opacity: 1,1,0">
+                        <h3>overview</h3>
+                        <div class="bdt-slider-excerpt">
+                            <p>covid-19 vaccination site  under ministry of higher education, science,</p><p>research and innovation with the support of chulabhorn royal academy</p>                        </div>
+                        <div bdt-slideshow-parallax="y: 200,0,-100; opacity: 1,1,0">
+                            
+		                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+                    </li>
+
+                            
+            <li class="bdt-slideshow-item bdt-flex bdt-flex-middle bdt-flex-center elementor-repeater-item-941d295">
+                                    <div class="bdt-position-cover bdt-animation-kenburns bdt-transform-origin-center-left">
+                
+                                            			
+					<div class="bdt-ps-slide-img" style="background-image: url('https://greencampus.ku.ac.th/2021/wp-content/uploads/2021/07/vacc3.jpg')"></div>
+			
+					                    
+                                    </div>
+                
+                
+                
+        <div class="bdt-container">
+            <div class="bdt-slideshow-content-wrapper">
+                <div class="bdt-prime-slider-wrapper">
+                    <div class="bdt-prime-slider-content">
+
+                        <div class="bdt-prime-slider-desc">
+
+                                                            <div class="bdt-sub-title bdt-text-left bdt-ps-sub-title">
+                                    <h4 bdt-slideshow-parallax="x: 300,0,-100; opacity: 1,1,0">
+                                    vaccination site                                    </h4>
+                                </div>
+                            
+                                                            <div class="bdt-main-title bdt-text-left"  bdt-slideshow-parallax="x: 500,0,-100; opacity: 1,1,0">
+                                    <h1 class="bdt-title-tag">
+                                                                                    ku fight covid-19                                                                            </h1>
+                                </div>
+                                                        
+                        </div>
+                                    
+                    </div>
+                                        <div class="bdt-slider-excerpt-content" bdt-slideshow-parallax="y: 200,0,-100; opacity: 1,1,0">
+                        <h3>overview</h3>
+                        <div class="bdt-slider-excerpt">
+                            <p>covid-19 vaccination site  under ministry of higher education, science,</p><p>research and innovation with the support of chulabhorn royal academy</p>                        </div>
+                        <div bdt-slideshow-parallax="y: 200,0,-100; opacity: 1,1,0">
+                            
+		                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+                    </li>
+
+                
+            </ul>
+                
+                
+            
+                <div class="bdt-navigation-arrows bdt-position-bottom-left bdt-margin-large-bottom">
+                    <a class="bdt-prime-slider-previous" href="#" bdt-slidenav-previous bdt-slideshow-item="previous" ></a>
+        
+                    <a class="bdt-prime-slider-next" href="#" bdt-slidenav-next bdt-slideshow-item="next"></a>
+
+                    <ul class="bdt-ps-counternav bdt-position-bottom bdt-visible@s">
+                                                    <li bdt-slideshow-item="0" data-label="01" ><a href="#">01</a></li>
+                                                    <li bdt-slideshow-item="1" data-label="02" ><a href="#">02</a></li>
+                                                    <li bdt-slideshow-item="2" data-label="03" ><a href="#">03</a></li>
+                        
+                        <span>03</span>
+                    </ul>
+
+                </div>
+
+            
+                        
+            
+        
+            </div>
+                    </div>
+        
+						<div class="bdt-offcanvas" id="bdt-offcanvas-1f03e72" data-settings="{&quot;id&quot;:&quot;bdt-offcanvas-1f03e72&quot;,&quot;layout&quot;:&quot;default&quot;}" bdt-offcanvas="mode: slide;">
+							<div class="bdt-offcanvas-bar">
+
+																	<button class="bdt-offcanvas-close" type="button" bdt-close></button>
+								
+																	
+									
+																								</div>
+						</div>
+
+					        		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-b2c746f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="b2c746f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-13ac7d3 elementor-column elementor-col-100 elementor-top-column" data-id="13ac7d3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ff649bb eael-infobox-shape-square eael-infobox-hover-img-shape-square elementor-widget elementor-widget-eael-info-box" data-id="ff649bb" data-element_type="widget" data-widget_type="eael-info-box.default">
+				<div class="elementor-widget-container">
+			                    <div class="eael-infobox icon-on-left">
+                    <div class="infobox-icon elementor-animation-pop">
+
+                            <img src="https://greencampus.ku.ac.th/wp-content/uploads/2021/10/covid12.png" alt="">
+            
+            
+            
+        </div>
+            <div class="infobox-content">
+            <h3 class="title">announcement</h3>
+                                                                        <p><p><a href="https://iad.intaff.ku.ac.th/wordpress/?page_id=21150&amp;lang=en" target="_blank" rel="noopener">announcement regarding the coronavirus</a>   |   <a href="https://iad.intaff.ku.ac.th/wordpress/?page_id=24696&amp;lang=en" target="_blank" rel="noopener">infographic for covid-19</a></p></p>
+                                                                            </div>
+    </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-4de23c5 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4de23c5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-ebcf9ae elementor-column elementor-col-33 elementor-top-column" data-id="ebcf9ae" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-4979939 elementor-column elementor-col-33 elementor-top-column" data-id="4979939" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-fd23955 animated-slow eael-flipbox-content-align-center elementor-invisible elementor-widget elementor-widget-eael-flip-box" data-id="fd23955" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeinup&quot;}" data-widget_type="eael-flip-box.default">
+				<div class="elementor-widget-container">
+			
+        <div class="eael-elements-flip-box-container eael-animate-flip eael-animate-right eael-content">
+
+            <a class="eael-elements-flip-box-flip-card" href="https://greencampus.ku.ac.th/green-metric/">
+                <div class="eael-elements-flip-box-front-container">
+
+                    
+                        <div class="eael-elements-slider-display-table">
+                            <div class="eael-elements-flip-box-vertical-align">
+                                <div class="eael-elements-flip-box-padding">
+                                    <div class="eael-elements-flip-box-icon-image">
+                                                                            </div>
+                                    <h2 class="eael-elements-flip-box-heading">green metric</h2>
+                                    <div class="eael-elements-flip-box-content">
+                                        <p></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+
+                <div class="eael-elements-flip-box-rear-container">
+
+                                            <div class="eael-elements-slider-display-table">
+                            <div class="eael-elements-flip-box-vertical-align">
+                                <div class="eael-elements-flip-box-padding">
+                                                                            <div class="eael-elements-flip-box-icon-image">
+                                                                                            </div>
+                                    
+                                    <h2 class="eael-elements-flip-box-heading">green metric</h2>
+                                    <div class="eael-elements-flip-box-content">
+                                        <p></p>
+                                    </div>
+
+                                                                    </div>
+                            </div>
+                        </div>
+                                    </div>
+            </a>
+        </div>
+
+		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-aa3541d elementor-column elementor-col-33 elementor-top-column" data-id="aa3541d" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-405fbe2 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="405fbe2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e71ca4c elementor-column elementor-col-100 elementor-top-column" data-id="e71ca4c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1ffe6bf elementor-invisible elementor-widget elementor-widget-eael-fancy-text" data-id="1ffe6bf" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeinup&quot;}" data-widget_type="eael-fancy-text.default">
+				<div class="elementor-widget-container">
+			
+	<div  class="eael-fancy-text-container style-1" data-fancy-text-id="1ffe6bf" data-fancy-text="|sep|sufficiency economy philosophy" data-fancy-text-transition-type="typing" data-fancy-text-speed="50" data-fancy-text-delay="2500" data-fancy-text-cursor="yes" data-fancy-text-loop="yes" >
+		
+		
+					<span id="eael-fancy-text-1ffe6bf" class="eael-fancy-text-strings solid-color">
+				<noscript>
+					sep, sufficiency economy philosophy				</noscript>
+			</span>
+		
+			</div><!-- close .eael-fancy-text-container -->
+
+	<div class="clearfix"></div>
+
+			</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-959a77b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="959a77b" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-2cfac40 elementor-column elementor-col-100 elementor-top-column" data-id="2cfac40" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-f7812c7 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="f7812c7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-b681294 elementor-column elementor-col-33 elementor-inner-column" data-id="b681294" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5a865e0 eael-flipbox-content-align-center eael-flipbox-img-default elementor-widget elementor-widget-eael-flip-box" data-id="5a865e0" data-element_type="widget" data-widget_type="eael-flip-box.default">
+				<div class="elementor-widget-container">
+			
+        <div class="eael-elements-flip-box-container eael-animate-flip eael-animate-zoom-out eael-content">
+
+            <a class="eael-elements-flip-box-flip-card" href="https://greencampus.ku.ac.th/setting-and-inflastructure-2021/">
+                <div class="eael-elements-flip-box-front-container">
+
+                    
+                        <div class="eael-elements-slider-display-table">
+                            <div class="eael-elements-flip-box-vertical-align">
+                                <div class="eael-elements-flip-box-padding">
+                                    <div class="eael-elements-flip-box-icon-image">
+                                                                                    <img class="eael-flipbox-image-as-icon" src="https://greencampus.ku.ac.th/wp-content/uploads/2021/11/si-icon.png" alt="">
+                                                                            </div>
+                                    <h2 class="eael-elements-flip-box-heading"></h2>
+                                    <div class="eael-elements-flip-box-content">
+                                        <p><p>setting and inflastructure</p></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+
+                <div class="eael-elements-flip-box-rear-container">
+
+                                            <div class="eael-elements-slider-display-table">
+                            <div class="eael-elements-flip-box-vertical-align">
+                                <div class="eael-elements-flip-box-padding">
+                                                                            <div class="eael-elements-flip-box-icon-image">
+                                                                                            <img class="eael-flipbox-image-as-icon" src="https://greencampus.ku.ac.th/wp-content/uploads/2021/11/si-icon1.png" alt="">
+                                                                                    </div>
+                                    
+                                    <h2 class="eael-elements-flip-box-heading"></h2>
+                                    <div class="eael-elements-flip-box-content">
+                                        <p><p>setting and inflastructure</p></p>
+                                    </div>
+
+                                                                    </div>
+                            </div>
+                        </div>
+                                    </div>
+            </a>
+        </div>
+
+		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-893f05d elementor-column elementor-col-33 elementor-inner-column" data-id="893f05d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e869f3f eael-flipbox-content-align-center eael-flipbox-img-default elementor-widget elementor-widget-eael-flip-box" data-id="e869f3f" data-element_type="widget" data-widget_type="eael-flip-box.default">
+				<div class="elementor-widget-container">
+			
+        <div class="eael-elements-flip-box-container eael-animate-flip eael-animate-zoom-out eael-content">
+
+            <a class="eael-elements-flip-box-flip-card" href="https://greencampus.ku.ac.th/energy-and-climate-change-2021/">
+                <div class="eael-elements-flip-box-front-container">
+
+                    
+                        <div class="eael-elements-slider-display-table">
+                            <div class="eael-elements-flip-box-vertical-align">
+                                <div class="eael-elements-flip-box-padding">
+                                    <div class="eael-elements-flip-box-icon-image">
+                                                                                    <img class="eael-flipbox-image-as-icon" src="https://greencampus.ku.ac.th/wp-content/uploads/2021/11/ec-icon.png" alt="">
+                                                                            </div>
+                                    <h2 class="eael-elements-flip-box-heading"></h2>
+                                    <div class="eael-elements-flip-box-content">
+                                        <p><p>energy and climate change</p></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+
+                <div class="eael-elements-flip-box-rear-container">
+
+                                            <div class="eael-elements-slider-display-table">
+                            <div class="eael-elements-flip-box-vertical-align">
+                                <div class="eael-elements-flip-box-padding">
+                                                                            <div class="eael-elements-flip-box-icon-image">
+                                                                                            <img class="eael-flipbox-image-as-icon" src="https://greencampus.ku.ac.th/wp-content/uploads/2021/11/ec-icon1.png" alt="">
+                                                                                    </div>
+                                    
+                                    <h2 class="eael-elements-flip-box-heading"></h2>
+                                    <div class="eael-elements-flip-box-content">
+                                        <p><p>energy and climate change</p></p>
+                                    </div>
+
+                                                                    </div>
+                            </div>
+                        </div>
+                                    </div>
+            </a>
+        </div>
+
+		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-9b43925 elementor-column elementor-col-33 elementor-inner-column" data-id="9b43925" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d1e2a32 eael-flipbox-content-align-center eael-flipbox-img-default elementor-widget elementor-widget-eael-flip-box" data-id="d1e2a32" data-element_type="widget" data-widget_type="eael-flip-box.default">
+				<div class="elementor-widget-container">
+			
+        <div class="eael-elements-flip-box-container eael-animate-flip eael-animate-zoom-out eael-content">
+
+            <a class="eael-elements-flip-box-flip-card" href="https://greencampus.ku.ac.th/waste-2021/">
+                <div class="eael-elements-flip-box-front-container">
+
+                    
+                        <div class="eael-elements-slider-display-table">
+                            <div class="eael-elements-flip-box-vertical-align">
+                                <div class="eael-elements-flip-box-padding">
+                                    <div class="eael-elements-flip-box-icon-image">
+                                                                                    <img class="eael-flipbox-image-as-icon" src="https://greencampus.ku.ac.th/wp-content/uploads/2021/11/ws-icon.png" alt="">
+                                                                            </div>
+                                    <h2 class="eael-elements-flip-box-heading"></h2>
+                                    <div class="eael-elements-flip-box-content">
+                                        <p><p>waste</p></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+
+                <div class="eael-elements-flip-box-rear-container">
+
+                                            <div class="eael-elements-slider-display-table">
+                            <div class="eael-elements-flip-box-vertical-align">
+                                <div class="eael-elements-flip-box-padding">
+                                                                            <div class="eael-elements-flip-box-icon-image">
+                                                                                            <img class="eael-flipbox-image-as-icon" src="https://greencampus.ku.ac.th/wp-content/uploads/2021/11/ws-icon1.png" alt="">
+                                                                                    </div>
+                                    
+                                    <h2 class="eael-elements-flip-box-heading"></h2>
+                                    <div class="eael-elements-flip-box-content">
+                                        <p><p>waste</p></p>
+                                    </div>
+
+                                                                    </div>
+                            </div>
+                        </div>
+                                    </div>
+            </a>
+        </div>
+
+		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-78e5ac9 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="78e5ac9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-aef77eb elementor-column elementor-col-33 elementor-inner-column" data-id="aef77eb" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5f5dfb6 eael-flipbox-content-align-center eael-flipbox-img-default elementor-widget elementor-widget-eael-flip-box" data-id="5f5dfb6" data-element_type="widget" data-widget_type="eael-flip-box.default">
+				<div class="elementor-widget-container">
+			
+        <div class="eael-elements-flip-box-container eael-animate-flip eael-animate-zoom-out eael-content">
+
+            <a class="eael-elements-flip-box-flip-card" href="https://greencampus.ku.ac.th/water-2021/">
+                <div class="eael-elements-flip-box-front-container">
+
+                    
+                        <div class="eael-elements-slider-display-table">
+                            <div class="eael-elements-flip-box-vertical-align">
+                                <div class="eael-elements-flip-box-padding">
+                                    <div class="eael-elements-flip-box-icon-image">
+                                                                                    <img class="eael-flipbox-image-as-icon" src="https://greencampus.ku.ac.th/wp-content/uploads/2021/11/wr-icon.png" alt="">
+                                                                            </div>
+                                    <h2 class="eael-elements-flip-box-heading"></h2>
+                                    <div class="eael-elements-flip-box-content">
+                                        <p><p>water</p></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+
+                <div class="eael-elements-flip-box-rear-container">
+
+                                            <div class="eael-elements-slider-display-table">
+                            <div class="eael-elements-flip-box-vertical-align">
+                                <div class="eael-elements-flip-box-padding">
+                                                                            <div class="eael-elements-flip-box-icon-image">
+                                                                                            <img class="eael-flipbox-image-as-icon" src="https://greencampus.ku.ac.th/wp-content/uploads/2021/11/wr-icon1.png" alt="">
+                                                                                    </div>
+                                    
+                                    <h2 class="eael-elements-flip-box-heading"></h2>
+                                    <div class="eael-elements-flip-box-content">
+                                        <p><p>water</p></p>
+                                    </div>
+
+                                                                    </div>
+                            </div>
+                        </div>
+                                    </div>
+            </a>
+        </div>
+
+		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-ebc047e elementor-column elementor-col-33 elementor-inner-column" data-id="ebc047e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-9fb5c79 eael-flipbox-content-align-center eael-flipbox-img-default elementor-widget elementor-widget-eael-flip-box" data-id="9fb5c79" data-element_type="widget" data-widget_type="eael-flip-box.default">
+				<div class="elementor-widget-container">
+			
+        <div class="eael-elements-flip-box-container eael-animate-flip eael-animate-zoom-out eael-content">
+
+            <a class="eael-elements-flip-box-flip-card" href="https://greencampus.ku.ac.th/transportation-2021/">
+                <div class="eael-elements-flip-box-front-container">
+
+                    
+                        <div class="eael-elements-slider-display-table">
+                            <div class="eael-elements-flip-box-vertical-align">
+                                <div class="eael-elements-flip-box-padding">
+                                    <div class="eael-elements-flip-box-icon-image">
+                                                                                    <img class="eael-flipbox-image-as-icon" src="https://greencampus.ku.ac.th/wp-content/uploads/2021/11/tr-icon.png" alt="">
+                                                                            </div>
+                                    <h2 class="eael-elements-flip-box-heading"></h2>
+                                    <div class="eael-elements-flip-box-content">
+                                        <p><p>transportation</p></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+
+                <div class="eael-elements-flip-box-rear-container">
+
+                                            <div class="eael-elements-slider-display-table">
+                            <div class="eael-elements-flip-box-vertical-align">
+                                <div class="eael-elements-flip-box-padding">
+                                                                            <div class="eael-elements-flip-box-icon-image">
+                                                                                            <img class="eael-flipbox-image-as-icon" src="https://greencampus.ku.ac.th/wp-content/uploads/2021/11/tr-icon1.png" alt="">
+                                                                                    </div>
+                                    
+                                    <h2 class="eael-elements-flip-box-heading"></h2>
+                                    <div class="eael-elements-flip-box-content">
+                                        <p><p>transportation</p></p>
+                                    </div>
+
+                                                                    </div>
+                            </div>
+                        </div>
+                                    </div>
+            </a>
+        </div>
+
+		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-3394682 elementor-column elementor-col-33 elementor-inner-column" data-id="3394682" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7ac99db eael-flipbox-content-align-center eael-flipbox-img-default elementor-widget elementor-widget-eael-flip-box" data-id="7ac99db" data-element_type="widget" data-widget_type="eael-flip-box.default">
+				<div class="elementor-widget-container">
+			
+        <div class="eael-elements-flip-box-container eael-animate-flip eael-animate-zoom-out eael-content">
+
+            <a class="eael-elements-flip-box-flip-card" href="https://greencampus.ku.ac.th/education-2021/">
+                <div class="eael-elements-flip-box-front-container">
+
+                    
+                        <div class="eael-elements-slider-display-table">
+                            <div class="eael-elements-flip-box-vertical-align">
+                                <div class="eael-elements-flip-box-padding">
+                                    <div class="eael-elements-flip-box-icon-image">
+                                                                                    <img class="eael-flipbox-image-as-icon" src="https://greencampus.ku.ac.th/wp-content/uploads/2021/11/ed-icon.png" alt="">
+                                                                            </div>
+                                    <h2 class="eael-elements-flip-box-heading"></h2>
+                                    <div class="eael-elements-flip-box-content">
+                                        <p><p>education</p></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+
+                <div class="eael-elements-flip-box-rear-container">
+
+                                            <div class="eael-elements-slider-display-table">
+                            <div class="eael-elements-flip-box-vertical-align">
+                                <div class="eael-elements-flip-box-padding">
+                                                                            <div class="eael-elements-flip-box-icon-image">
+                                                                                            <img class="eael-flipbox-image-as-icon" src="https://greencampus.ku.ac.th/wp-content/uploads/2021/11/ed-icon1.png" alt="">
+                                                                                    </div>
+                                    
+                                    <h2 class="eael-elements-flip-box-heading"></h2>
+                                    <div class="eael-elements-flip-box-content">
+                                        <p><p>education</p></p>
+                                    </div>
+
+                                                                    </div>
+                            </div>
+                        </div>
+                                    </div>
+            </a>
+        </div>
+
+		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-0ef887c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="0ef887c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-bb9ee39 elementor-column elementor-col-100 elementor-top-column" data-id="bb9ee39" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-f27b768 elementor-widget elementor-widget-spacer" data-id="f27b768" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+	</main><!-- #main -->
+
+	
+	
+	
+		
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/wpfooter" role="contentinfo">
+
+	
+	<div id="footer-inner" class="clr">
+
+		
+
+<div id="footer-bottom" class="clr no-footer-nav">
+
+	
+	<div id="footer-bottom-inner" class="container clr">
+
+		
+		
+			<div id="copyright" class="clr" role="contentinfo">
+				<br>
+© 2020-2021 ku greencampus
+<br>
+<br>
+email : vbppd.psd@ku.th
+<br>
+<br>			</div><!-- #copyright -->
+
+			
+	</div><!-- #footer-bottom-inner -->
+
+	
+</div><!-- #footer-bottom -->
+
+
+	</div><!-- #footer-inner -->
+
+	
+</footer><!-- #footer -->
+
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a id="scroll-top" class="scroll-top-right" href="#"><span class="fa fa-angle-up" aria-label="scroll to the top of the page"></span></a>
+
+
+
+<div id="sidr-close">
+	<a href="#" class="toggle-sidr-close" aria-label="close mobile menu">
+		<i class="icon icon-close" aria-hidden="true"></i><span class="close-text">close menu</span>
+	</a>
+</div>
+
+	
+	
+<div id="mobile-menu-search" class="clr">
+	<form method="get" action="https://greencampus.ku.ac.th/" class="mobile-searchform" role="search" aria-label="search for:">
+		<label for="ocean-mobile-search1">
+			<input type="search" name="s" autocomplete="off" placeholder="search" />
+			<button type="submit" class="searchform-submit" aria-label="submit search">
+				<i class="icon icon-magnifier" aria-hidden="true"></i>
+			</button>
+					</label>
+			</form>
+</div><!-- .mobile-menu-search -->
+
+
+<link rel='stylesheet' id='ps-general-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/ps-general.css?ver=1.14.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![cdata[ */
+var localize = {"ajaxurl":"https:\/\/greencampus.ku.ac.th\/wp-admin\/admin-ajax.php","nonce":"831c635ae4","i18n":{"added":"added ","compare":"compare","loading":"loading..."}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.js?ver=1642189052'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/timeline-widget-addon-for-elementor/assets/js/twae-swiper.min.js'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/timeline-widget-addon-for-elementor/assets/js/twae-horizontal.js'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=1.8.6'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.8.6'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var oceanwplocalize = {"isrtl":"","menusearchstyle":"disabled","sidrsource":"#sidr-close, #site-navigation, #mobile-menu-search","sidrdisplace":"1","sidrside":"left","sidrdropdowntarget":"link","verticalheadertarget":"link","customselects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.8.6'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-includes/js/wp-embed.min.js?ver=5.0.10'></script>
+<!--[if lt ie 9]>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/js/third/html5.min.js?ver=1.8.6'></script>
+<![endif]-->
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/bdthemes-prime-slider-lite/assets/js/bdt-uikit.min.js?ver=3.2'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.13'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.13'></script>
+<script type='text/javascript'>
+var elementorfrontendconfig = {"environmentmode":{"edit":false,"wppreview":false},"i18n":{"shareonfacebook":"share on facebook","shareontwitter":"share on twitter","pinit":"pin it","downloadimage":"download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.13","urls":{"assets":"https:\/\/greencampus.ku.ac.th\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorpreferences":[]},"post":{"id":5366,"title":"greencampus","excerpt":"","featuredimage":false}};
+</script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.13'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/bdthemes-prime-slider-lite/assets/js/prime-slider-site.min.js?ver=1.14.2'></script>
+</body>
+</html>

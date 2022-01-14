@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home page - my asp.net application</title>
+    <link href="/content/css?v=-ajo3j6qtggzonnv3azei244jm7a7pcthshb7dstofm1" rel="stylesheet"/>
+
+    <script src="/bundles/modernizr?v=incvuefe6j4q07a0acrsbjic_ue5mwprmngcotk94te1"></script>
+
+
+    <style>
+        .navbar-inverse {
+    background-color: #fff;
+    border-color: #ffffff;
+}
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            
+            
+        </div>
+    </div>
+    <div class="container body-content">
+        
+
+
+<div class="jumbotron">
+    <img src="/content/ku.png" />
+    <h1>กำลังนำทางเข้าสู่เว็บไซต์...</h1>
+   
+</div>
+
+
+
+
+<script src="/scripts/jquery-3.3.1.min.js"></script>
+<script>
+    $(document).ready(function () {
+
+        window.location.href = "https://itsupport.ku.ac.th/helpdesk";
+    });
+
+</script>
+        <hr />
+        
+    </div>
+
+    <script src="/bundles/jquery?v=2u0arendpyxareyilb59etsca2cfqksmlxb6jbmbqf81"></script>
+
+    <script src="/bundles/bootstrap?v=m4nk6kiowmfflseket0ipl9i5ybqbzmzvuord8gycnw1"></script>
+
+    
+</body>
+</html>

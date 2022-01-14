@@ -1,0 +1,170 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>โครงการส่งเสริมการใช้ภาษาไทยและภาษาไทยถิ่น ประจำพุทธศักราช ๒๕๖๔</title>
+    <link href="css/bootstrap.css" rel="stylesheet" >
+    <link href="css/main.css" rel="stylesheet" >
+    <link href="vender/fontawesome-free-5.15.3-web/css/all.css" rel="stylesheet">
+    <script src="js/bootstrap.bundle.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/bootstrap.esm.js"></script>
+</head>
+<body>
+    <div class="text-center">
+        <img src="images/1625459740602.jpg" alt=""height="100" class="d-inline-block align-text-top">
+        <p class="header h3 mb-4 ">
+           <b>โครงการส่งเสริมการใช้ภาษาไทยและภาษาไทยถิ่น ประจำพุทธศักราช ๒๕๖๔</b> 
+        </p>
+<!--        <hr />-->
+    </div>
+    <div class="container">
+        
+<!--
+          <ul class="nav nav-pills mb-3 justify-content-center" id="pills-tab" role="tablist">
+              <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true"><i class="fa fa-home"></i> หน้าหลัก</button>
+              </li>
+              <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false"><i class="fa fa-image"></i> ภาพกิจกรรม</button>
+              </li>
+              <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false"><i class="fa fa-video"></i> วิดีโอ</button>
+              </li>
+            </ul>    
+-->
+    <div class="tab-content mb-5" id="pills-tabcontent">
+      <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+<!--
+          <div class="text-center"> 
+              <a href="images/banner-ประกวดรอบชิง.jpg" target="_blank">
+                  <img src="images/banner-ประกวดรอบชิง.jpg" class="img-thumbnail p-2 shadow" />
+              </a>
+            <hr />
+        </div>
+-->
+          <section class="mt-5">
+              <div class="card">
+                  <div class="card-body">
+                  <h4 class="mb-2"><i class="fa fa-comment-dots"></i> ประชาสัมพันธ์/ ประกาศ</h4>
+                  <table class="table table-striped table-hover table-bordered">
+                      <thead>
+                          <tr>
+                              <th width="120">วันที่ลงประกาศ</th>
+                              <th>รายละเอียด</th>
+                          </tr>
+                      </thead>
+                      <tbody>
+                          <tr>
+                            <th class="text-danger">18/08/2564</th>
+                            <td><a href="pdf/orst004.pdf" target="_blank">ผลการประกวดเล่าเรื่องหัวข้อ “ประวัติศาสตร์ท้องถิ่น : เรื่องเล่า ตำนาน ประวัติบุคคลสำคัญ” (รอบชิงชนะเลิศ)</a></td>
+                          </tr>
+                          <tr>
+                              <th class="text-danger">06/07/2564</th>
+                              <td><a href="pdf/ผลการคัดเลือก_06072564.pdf" target="_blank">ประกาศสำนักงานราชบัณฑิตยสภา เรื่อง ผลการคัดเลือกนักเรียนผู้เข้าประกวดเล่าเรื่องหัวข้อ “ประวัติศาสตร์ท้องถิ่น : เรื่องเล่า ตำนาน ประวัติบุคคลสำคัญ” ด้วยภาษาไทยถิ่น” (รอบคัดเลือก)</a></td>
+                          </tr>
+                          <tr>
+                              <th class="text-danger">27/06/2564</th>
+                              <td><a href="images/webpage3.jpg" target="_blank">ขยายเวลารับสมัครนักเรียนเข้าประกวดเล่าเรื่อง หัวข้อ “ประวัติศาสตร์ท้องถิ่น : เรื่องเล่า ตำนาน ประวัติบุคคลสำคัญ” ด้วยภาษาไทยถิ่น</a></td>
+                          </tr>
+                          <tr>
+                              <th class="text-danger">19/04/2564</th>
+                              <td><a href="images/orst001.jpg" target="_blank">ขอเชิญสมัครเข้าร่วมกิจกรรมการประกวดเล่าเรื่องหัวข้อ "ประวัติศาสตร์ท้องถิ่น : เรื่องเล่า ตำนาน ประวัติบุคคลสำคัญ" ชิงทุนการศึกษาร่วมกว่า 200,000 บาท</a></td>
+                          </tr>
+                      </tbody>
+                  </table>
+            </div>
+              </div>
+              <div class="card mt-3">
+                  <div class="card-body">
+                      <h4 class="mb-2"><i class="fa fa-video"></i> วิดีโอ</h4><hr />
+                          <div class="row text-center">
+							  <div class="col-sm-12 col-md-6 col-lg-3">
+                                  <div class="embed-responsive embed-responsive-16by9">
+                                      <iframe class="embed-responsive-item w-100" style="min-height: 200px;" src="https://www.youtube.com/embed/u5mxb1x1fpm" allowfullscreen></iframe>
+                                      <p class="text-center"><a href="https://youtu.be/u5mxb1x1fpm">กิจกรรมประกวดเล่าเรื่อง รอบชิงชนะเลิศ ภาคเหนือ 9 ส.ค. 64</a></p>
+                                    </div>
+                              
+                              </div>
+							  <div class="col-sm-12 col-md-6 col-lg-3">
+                                  <div class="embed-responsive embed-responsive-16by9">
+                                      <iframe class="embed-responsive-item w-100" style="min-height: 200px;" src="https://www.youtube.com/embed/z12wup5niko" allowfullscreen></iframe>
+                                      <p class="text-center"><a href="https://youtu.be/z12wup5niko">กิจกรรมประกวดเล่าเรื่อง รอบชิงชนะเลิศ ภาคกลาง 10 ส.ค. 64</a></p>
+                                    </div>
+                              
+                              </div>
+                              <div class="col-sm-12 col-md-6 col-lg-3">
+                                  <div class="embed-responsive embed-responsive-16by9">
+                                      <iframe class="embed-responsive-item w-100" style="min-height: 200px;" src="https://www.youtube.com/embed/zqu1rfcqlzo" allowfullscreen></iframe>
+                                      <p class="text-center"><a href="https://youtu.be/zqu1rfcqlzo">กิจกรรมประกวดเล่าเรื่อง รอบชิงชนะเลิศ ภาคใต้ 13 ส.ค. 64</a></p>
+                                    </div>
+                              </div>
+                              
+                              <div class="col-sm-12 col-md-6 col-lg-3">
+                                  <div class="embed-responsive embed-responsive-16by9">
+                                      <iframe class="embed-responsive-item w-100" style="min-height: 200px;" src="https://www.youtube.com/embed/7iqrdeqgw0y" allowfullscreen></iframe>
+                                      <p class="text-center"><a href="https://youtu.be/7iqrdeqgw0y">กิจกรรมประกวดเล่าเรื่อง รอบชิงชนะเลิศ ภาคอีสาน 16 ส.ค. 64</a></p>
+                                    </div>
+                              
+                              </div>
+                              
+                          </div>
+                  </div>
+              </div>
+        </section>
+          
+      </div>
+      <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
+          <div class="row row-cols-1 row-cols-md-3 g-4">
+              <div class="col">
+                <div class="card h-100">
+                  <img src="images/banner ประกวดรอบชิง.png" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">card title</h5>
+                    <p class="card-text">this is a longer card with supporting text below as a natural lead-in to additional content. this content is a little bit longer.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100">
+                  <img src="images/banner ประกวดรอบชิง.png" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">card title</h5>
+                    <p class="card-text">this is a short card.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100">
+                  <img src="images/banner ประกวดรอบชิง.png" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">card title</h5>
+                    <p class="card-text">this is a longer card with supporting text below as a natural lead-in to additional content.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100">
+                  <img src="images/banner ประกวดรอบชิง.png" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">card title</h5>
+                    <p class="card-text">this is a longer card with supporting text below as a natural lead-in to additional content. this content is a little bit longer.</p>
+                  </div>
+                </div>
+              </div>
+            </div>     
+      </div>
+      <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">..333333333333333333333</div>
+    </div> 
+    </div>
+    <footer class="text-white pt-5 pb-5 bg-secondary">
+        <div class="text-center small">
+            <a href="https://eto.ku.ac.th/orst" class="text-white">
+                © all rights reserved by etoku
+            </a>
+            
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en"  dir="ltr"
+      class="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+    <title>twitter / authorize an application</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="https://abs-0.twimg.com/login/tfw-base.3baf723b92aa68729f921c77ca3e3c1315116392.css">
+    <!--[if (iemobile) & (lt ie 9)]>
+      <link href="https://abs-0.twimg.com/login/phoenix-iemobile.49b26ac21d4736060188b5b79bbabc69ca8ef790.css" media="screen" rel="stylesheet" type="text/css" />
+    <![endif]-->
+        <meta name="mswebdialog-title" content="twitter"><meta name="mswebdialog-logo" content="https://abs.twimg.com/favicons/win8-auth-60.png"><meta name="mswebdialog-header-color" content="#202020"><meta name="mswebdialog-newwindowurl" content="*">
+
+
+      <script src="//abs-0.twimg.com/login/base.7ced3ee3ff61dadf91a9c9bd7082adc8f158a360.js" type="text/javascript"></script>
+      <script src="//abs-0.twimg.com/login/authorize_page.c4edf9ccaf94a42b6963991691957aaa827aa56b.js" type="text/javascript"></script>
+  </head>
+  
+  
+  <body class="oauth write tfw en logged-out    noloki">
+
+    <div id="header" role="banner">
+      <div class="bar">
+        <h1 class="logo">
+          <a class="alternate-context" href="https://twitter.com/home">twitter</a>
+        </h1>
+
+        <div id="not-logged-in">
+              <a href="https://twitter.com/signup?context=oauth&amp;oauth_token=_u9ogaaaaaabcfnyaaabfloy8cq" class="register alternate-context">sign up for twitter</a>
+
+        </div>
+      </div>
+    </div>
+
+    <div id="bd" role="main">
+          
+
+
+
+
+    <div class="auth">
+      <h2>authorize ku-website to access your account?</h2>
+
+      <div class="app-info" role="content-info" tabindex="0">
+  <h3>
+    <img alt="" class="app-icon" src="https://pbs.twimg.com/app_img/1227859582342459392/y4kr-os7?format=png&amp;name=73x73" title="ku-website by kasetsart university">
+    ku-website
+  </h3>
+  <dl>
+      <dt class="dev">developer</dt>
+      <dd class="dev">by kasetsart university</dd>
+      <dt class="url">application url</dt>
+      <dd class="url">www.ku.ac.th</dd>
+      <dt class="notes">about this app</dt>
+      <dd class="notes"><p>kasetsart university is a public research university in bangkok, thailand. it was thailand&#39;s first agricultural university and thailand&#39;s third oldest university. it was established on 2 february 1943</p></dd>
+      <dt class="terms">privacy policy</dt>
+      <dd class="terms"><p><a href="https://www.ku.ac.th">privacy policy</a></p></dd>
+      <dt class="terms">terms and conditions</dt>
+      <dd class="terms"><p><a href="https://www.ku.ac.th">terms and conditions</a></p></dd>
+
+  </dl>
+</div>
+
+      <form action="https://api.twitter.com/oauth/authenticate" id="oauth_form" method="post" target="_self">
+        <div>
+          <input name="authenticity_token" type="hidden" value="e0cde59e04795566f25ffb84ac3352cc872f82d0">
+          <input name="redirect_after_login" type="hidden" value="https://api.twitter.com/oauth/authenticate?oauth_token=_u9ogaaaaaabcfnyaaabfloy8cq">
+        </div>
+
+        <input id="oauth_token" name="oauth_token" type="hidden" value="_u9ogaaaaaabcfnyaaabfloy8cq">
+
+          <fieldset class="sign-in">
+  <legend>log in to twitter</legend>
+  <div class="row user ">
+    <input aria-required="true" autocapitalize="off" autocorrect="off" autofocus="autofocus" class="text" id="username_or_email" name="session[username_or_email]" type="text" placeholder="username or email" value="">
+  </div>
+  <div class="row password ">
+    <input aria-required="true" class="password text"  id="password" name="session[password]" type="password" placeholder="password" value="">
+  </div>
+  <p>
+    <input type="checkbox" name="remember_me" id="remember" value="1">
+    <label for="remember">remember me</label>
+    &middot;
+    <a href="https://twitter.com/account/resend_password" class="alternate-context" target="_blank">forgot password?</a>
+  </p>
+    <input type="hidden" name="ui_metrics" autocomplete="off">
+    <script src="https://twitter.com/i/js_inst?c_name=ui_metrics" async></script>
+</fieldset>
+
+
+        <fieldset class="buttons">
+          <legend>sign in to ku-website using your account?</legend>
+          <input type="submit" value="sign in" class="submit button selected" id="allow">
+
+            <input class="submit button" id="cancel" name="cancel" type="submit" value="cancel">
+
+        </fieldset>
+      </form>
+
+      
+<div class="permissions allow">
+  <p><strong>this application will be able to:</strong></p>
+   <ul class="permissions allow">
+      <li>see tweets from your timeline (including protected tweets) as well as your lists and collections.</li>
+      <li>see your twitter profile information and account settings.</li>
+      <li>see accounts you follow, mute, and block.</li>
+      <li>follow and unfollow accounts for you.</li>
+      <li>update your profile and account settings.</li>
+      <li>post and delete tweets for you, and engage with tweets posted by others (like, un-like, or reply to a tweet, retweet, etc.) for you.</li>
+      <li>create, manage, and delete lists and collections for you.</li>
+      <li>mute, block, and report accounts for you.</li>
+</ul>
+
+
+</div>
+
+
+
+
+      <div>
+  <p><small>learn more about third-party app permissions in the <a href="https://help.twitter.com/managing-your-account/connect-or-revoke-access-to-third-party-apps" target="_blank">help center</a>.</small></p>
+</div>
+
+
+    </div>
+
+    </div>
+
+
+  <div class="footer" role="navigation"><div id="ft">
+    
+        
+  <p class="tip">we recommend reviewing the app’s terms and privacy policy to understand how it will use data from your twitter account. you can revoke access to any app at any time from the <a href="https://twitter.com/settings/applications" target="_blank">apps and sessions</a> section of your twitter account settings.</p>
+  <p><small>by authorizing an app you continue to operate under twitter’s <a href="https://twitter.com/tos" target="_blank">terms of service</a>. in particular, some usage information will be shared back with twitter. for more, see our <a href="https://twitter.com/privacy" target="_blank">privacy policy</a>.</small></p>
+
+
+
+  </div></div>
+
+  </body>
+</html>

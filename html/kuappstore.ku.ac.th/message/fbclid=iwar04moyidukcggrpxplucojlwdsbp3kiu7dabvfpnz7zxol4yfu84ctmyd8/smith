@@ -1,0 +1,61 @@
+<html>
+<head>
+	<title>ku message</title>
+	
+	<link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png?v=1642189015">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png?v=1642189015">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png?v=1642189015">
+    <link rel="manifest" href="img/favicon/site.webmanifest?v=1642189015">
+    <link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg?v=1642189015" color="#5bbad5">
+    <link rel="shortcut icon" href="img/favicon/favicon.ico?v=1642189015">
+    <meta name="msapplication-tilecolor" content="#00aba9">
+    <meta name="msapplication-config" content="img/favicon/browserconfig.xml?v=1642189015">
+    <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="css/index_style.css?v=1642189015">
+  <link rel="stylesheet" type="text/css" href="css/web_fonts.css?v=1642189015">
+  <link rel="stylesheet" type="text/css" href="css/fontawesome-all-5.10.1.css?v=1642189015">
+
+	<link href="https://fonts.googleapis.com/css?family=poppins:600&display=swap" rel="stylesheet">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+	<img class="wave" src="img/wave.png">
+	<div class="container">
+		<div class="img">
+			<img src="img/bg.svg">
+		</div>
+		<div class="login-content">
+			<form method="post">
+            <img src="img/ku_logo_62x62_th.svg">
+            <h2 class="title">ku message</h2>
+     		<div class="input-div one">
+     		   <div class="i">
+     		   		<i class="fas fa-user"></i>
+     		   </div>
+     		   <div class="div">
+     		   		<h5>username</h5>
+     		   		<input type="text" name="username" class="input">
+     		   </div>
+     		</div>
+     		<div class="input-div pass">
+     		   <div class="i">
+     		    	<i class="fas fa-lock"></i>
+     		   </div>
+     		   <div class="div">
+     		    	<h5>password</h5>
+     		    	<input type="password" name="password" class="input">
+                </div>
+            </div>
+            <div class="div">
+                <h5></h5>
+            </div>
+            <input type="submit" name="submit" class="btn" value="login">
+
+            </form>
+        </div>
+    </div>
+  <script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>

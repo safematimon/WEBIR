@@ -1,0 +1,298 @@
+
+<!doctype html public "-//w3c//dtd xhtml 1.0 transitional//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd">
+<html>
+<head>
+	
+	
+    <meta http-equiv='content-type' content='text/html; charset=utf-8' />
+	<meta http-equiv='x-ua-compatible' content='ie=emulateie7' />
+
+    <title></title>
+    <script type='text/javascript' src='script.js'></script>
+
+     <link rel="stylesheet" type="text/css" media="screen" href="css2013.css" /> 
+	<!--<link rel="stylesheet" type="text/css" href="css2013.css?v="/>-->
+    <!--[if ie 6]><link rel='stylesheet' href='style.ie6.css' type='text/css' media='screen' /><![endif]-->
+    <!--[if ie 7]><link rel='stylesheet' href='style.ie7.css' type='text/css' media='screen' /><![endif]-->
+    
+    <style type="text/css">
+<!--
+.style1 {
+	font-size: medium;
+	color: #0000cc;
+}
+-->
+    </style>
+	
+</head>
+
+<body>
+<div id='art-page-background-simple-gradient'></div>
+<div id="page-wrap">
+
+
+ <div class="krob" >
+            
+                 <div id="wrapper">
+                    <div id="header">
+                    </div>
+                    					 
+                    <div id="container">
+                        <div id="side-a">
+                        
+                                
+                              <div class="leftcolumn" >
+                                <div class="lefttop">
+<h4 class="categoryheading3"><div class="art-header-tag-icon"> &nbsp;</div> </h4>
+                                    <div class="lefttop-body">
+                                    
+                                  
+
+<html>
+<head>
+<title>สำหรับ user ที่มี account ของ ม.เกษตร </title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<script language="javascript">
+function chkvalid() {
+   var v1 = document.userenter.form_account.value;
+   var v2 = document.userenter.form_password.value;
+   if (v1.length<=0)
+      {
+      alert("please enter all fields");
+      return false;
+      }
+  else if (v2.length<=0)
+      {
+      alert("please enter all fields");
+      return false;
+      }
+  else
+    {
+    return true;
+    }
+}
+</script>
+<link rel="stylesheet" type="text/css" media="screen" href="css2013.css" />
+<!--[if ie 6]><link rel='stylesheet' href='style.ie6.css' type='text/css' media='screen' /><![endif]-->
+<!--[if ie 7]><link rel='stylesheet' href='style.ie7.css' type='text/css' media='screen' /><![endif]-->
+    
+
+</head>
+<body>
+
+
+
+<form name="userenter" onsubmit="return chkvalid()" method="post"  action="process.php">
+  <table width="208" border=0 align=center>
+  <tr>
+    <td width="81">บัญชีผู้ใช้:</td>
+    <td width="117"><input type="text" name="form_account" size="15" maxlength="30"></td>
+  </tr>
+  <tr>
+    <td>รหัสผ่าน:</td>
+    <td><input type="password" name="form_password" size="15" maxlength="30"></td>
+  </tr>
+    <tr>
+    <td>ครั้งที่</td><td>
+  											<select name="annual_now" >
+                                            		 
+												   
+														   <option value="60" selected >60</option>
+
+                                                    	</td></tr>										</select>
+	
+	<tr><td style="vertical-align:top">
+			<input type="radio" name="radio1" value="1" checked> ผู้เสนอผลงาน													   </td><td style="vertical-align:top">
+ 			<input type="radio" name="radio1" value="2"> ผู้จัดการประชุม    </td></tr>
+			<input type="hidden" name="lang" value="th" />									
+  <tr>
+   		 <td colspan=2 align=center><input name="submit" type="submit" value="login"><input name="reset" type="reset" value="cancel"></td>
+  </tr>	
+																																	  <tr>
+																																	<td colspan=2 align=center><a href=register.php>ยังไม่ได้เป็นสมาชิก register</a><br><a href=forget-password.php>ลืมรหัสผ่าน</a></td>
+																																
+  </tr>	
+																																	
+																														  </table>
+</form>
+   
+
+</body>
+</html>
+                                        <br>
+                                     </div>
+                                </div>
+                              </div>
+							
+                              <div class="leftcolumn">
+                                <div class="lefttop">
+     								                             
+                                   <h4 class="categoryheading3"><div class="art-header-tag-icon"> &nbsp;e-proceedings</div> </h4>
+                                    <div class="lefttop-body">
+										ครั้งที่ 54 
+										<a href="../e-proc/54-1.pdf">เล่ม 1</a>&nbsp;
+										<a href="../e-proc/54-2.pdf">เล่ม 2</a>&nbsp;
+										<a href="../e-proc/54-3.pdf">เล่ม 3</a><br>
+										ครั้งที่ 55 
+										<a href="../images/annual55/e-book1_55.pdf">เล่ม 1</a>&nbsp;
+										<a href="../images/annual55/e-book2_55.pdf">เล่ม 2</a>&nbsp;
+										<a href="../images/annual55/e-book3_55.pdf">เล่ม 3</a><br>									
+										ครั้งที่ 56 <a href="../images/annual56/annual56ebookno1.pdf">เล่ม 1</a>&nbsp;
+										<a href="../images/annual56/annual56ebookno2.pdf">เล่ม 2</a>&nbsp;
+										<a href="../images/annual56/annual56ebookno3.pdf">เล่ม 3</a><br>  
+										
+										ครั้งที่ 57 <a href="../images/annual57/annual57ebookno1.pdf">เล่ม 1</a>&nbsp;
+										<a href="../images/annual57/annual57ebookno2.pdf">เล่ม 2</a>&nbsp;
+										<a href="../images/annual57/annual57ebookno3.pdf">เล่ม 3</a>&nbsp; <br>
+										ครั้งที่ 58 <a href="../58/full-eproceeding-ku58-no1-eisbn.pdf">เล่ม 1</a>&nbsp;
+										<a href="../58/full-eproceeding-ku58-no2-eisbn.pdf">เล่ม 2</a>&nbsp;
+										<a href="../58/full-eproceeding-ku58-no3-eisbn.pdf">เล่ม 3</a>&nbsp; 	
+										<br>
+										ครั้งที่ 59 <a href="../e-proc/59-e-proc-final1.pdf">เล่ม 1</a>&nbsp;
+										<a href="../e-proc/59-e-proc-final2.pdf">เล่ม 2</a>&nbsp;
+										<a href="../e-proc/59-e-proc-final3.pdf">เล่ม 3</a>&nbsp; 	
+										<!--   <b><a href="user.php"></a></b><br /><p>-->
+                                     <!--  <b><a href="58/1.pdf">ข้อแนะนำสำหรับผู้เสนอผลงานทางวิชาการ โสต</a></b><br /><p> -->
+										<!--  <b><a href="59/advice2.pdf">ข้อแนะนำสำหรับผู้เสนอผลงาน</a></b><br /><p> 
+                                     		 <b><a href="59/online-poster.pdf">ข้อแนะนำสำหรับผู้เสนอผลงานภาคโปสเตอร์</a></b><br /><p>								
+                                      <b><a href="59/online-oral-v2.pdf">ข้อแนะนำสำหรับผู้เสนอผลงานภาคบรรยาย</a></b><br /><p>-->
+										
+										
+                                      <!-- <b><a href="58/4.pdf">รายนามและสถานที่ติดต่อประธานสาขา</a></b><br /><p> -->
+                                      <p>
+                                     </div>
+                                </div>
+                              </div>
+							
+                              
+							<div class="leftcolumn">
+                                <div class="lefttop">
+<h4 class="categoryheading3"><div class="art-header-tag-icon"> &nbsp;book of abstracts </div> </h4>
+                                    <div class="lefttop-body">
+                                    ครั้งที่ 59 <a href="../59/abstracts59-1.pdf">เล่ม 1 </a>&nbsp;
+										 <a href="../59/abstracts59-2.pdf">เล่ม 2 </a>&nbsp;
+										 <a href="../59/abstracts59-3.pdf">เล่ม 3</a>&nbsp;
+                                 
+                                        <br>
+                                     </div>
+                                </div>
+                              </div>
+							
+							
+                               <div class="leftcolumn">
+                                <div class="lefttop">
+     								                             
+                                   <h4 class="categoryheading3"><div class="art-header-tag-icon"> &nbsp;สมัครสมาชิก</div> </h4>
+                                    <div class="lefttop-body"><center>
+
+<div align="center">
+									
+										
+	<br /><a href=https://o365ku-my.sharepoint.com/:w:/g/personal/pajeejin_a_live_ku_th/ezuku4xcrt1iphg_kbbb_yeb59hixdieco0fhkanvxn-pq?e=trdekt>ขั้นตอนการสมัครสมาชิก และการใช้งานระบบเพื่อเสนอผลงาน </a>
+<br><br>
+									
+                                       
+
+                                       download e-proceeding sci thai<br />
+    <a href=news60/e-proceedingsscithai.pdf>ภาษาไทย (thai)</a><br />
+    <a href=news60/e-proceedingsscieng.pdf>ภาษาอังกฤษ (english)</a>
+    <br /><br />			
+                                      download e-proceeding soc sci<br />
+    <a href=news60/e-proceedingssocscithai.pdf>ภาษาไทย (thai)</a><br />
+    <a href=news60/e-proceedingssocscieng.pdf>ภาษาอังกฤษ (english)</a>
+    <br /><br />											  
+                                       <a href=http://kucon.lib.ku.ac.th >ฐานข้อมูลการประชุมทางวิชาการ มหาวิทยาลัยเกษตรศาสตร์</a><br />
+
+                                       <li>บุคลากรภายนอกชำระผ่านบัญชีธนาคารทหารไทยชื่อบัญชี ประชุมวิชาการ มก. เลขที่บัญชี 069-2-72067-5</li>
+
+<li>บุคลากรภายใน มก. โอนเงินระหว่างหน่วยงาน โอนเงินผ่านระบบ erp เลือกเจ้าหนี้เป็น 29-b00010010 ส่วนกลาง มก. บางเขน
+                                      <p>
+                                      </center>
+                                     </div>
+                                </div>
+                              </div>                             
+                              
+
+                              
+                              
+                              <div class="leftcolumn">
+                                <div class="lefttop">
+                                    <h4 class="categoryheading3"><div class="art-header-tag-icon"> &nbsp;ติดต่อเจ้าหน้าที่</div> </h4>
+                                    <div class="lefttop-body">
+                                        <div>
+                                              
+                                        <b><a href="http://www3.rdi.ku.ac.th/">สถาบันวิจัยและพัฒนาแห่งมหาวิทยาลัยเกษตรศาสตร์</a></b><br />
+                                       มหาวิทยาลัยเกษตรศาสตร์ 50 ถนนงามวงศ์วาน แขวงลาดยาว เขตจตุจักร กรุงเทพฯ 10900                                        <br />
+                                        email: <a href='mailto:kuannualconf@gmail.com'>kuannualconf@gmail.com</a><br />
+                                        <br/>
+                                        </div>
+                                     </div>
+                                </div>
+                              </div>
+                              
+                        </div> <!-- side a -->
+                       
+                        
+                        <div id="side-b">
+  <div align="right">  <a href="index.php?lang=th"><img src="images/langth.jpg" width="36" height="30" /></a><a href="index.php?lang=en"><img src="images/langeng.jpg" width="36" height="30" /></a> </div>                                  
+                                                    <h2 class='art-postheadericon-wrapper'>
+                                <span class='art-postheader'> </span>
+                            </h2>
+                        
+                            				  
+
+                        
+						  <style type="text/css">
+<!--
+.style3 {color: #ff0000}
+.style4 {color: #339999}
+-->
+</style>
+<!--
+<h1>
+  ยินดีต้อนรับ</h1><h2>
+<strong>มหาวิทยาลัยเกษตรศาสตร์<br />
+ขอเชิญเข้าร่วมการประชุมทางวิชาการ ครั้งที่ 58 <br />
+the 58<sup>th</sup> kasetsart university annual conference <br />
+</strong><br />
+-->
+<h1>
+  ยินดีต้อนรับ</h1>
+<div align="center">  
+
+
+	
+  <!--h3><span class="style4">ขอเชิญส่งผลงานวิจัยเข้าร่วมในการประชุมทางวิชาการ ครั้งที่ 56  </span> </h3-->  
+ 
+  </div>
+<h2 class="art-postheadericon-wrapper">
+                                <span class="art-postheader">ข่าว ประกาศ</span>
+                            </h2>
+<blockquote><p><img src="images/new_icon.gif"><a href="news60/webex-kuconf60-1280x720.jpg">background webex</a>									<br><img src="images/new_icon.gif"><a href="news60/template-posterku60-g.jpg">template poster (.jpg)</a><br>								<img src="images/new_icon.gif"><a href="news60/template-poster.pptx">template poster (.pptx)</a><br>
+<img src="images/new_icon.gif"><a href="news60/example poster.pdf">ตัวอย่างไฟล์โปสเตอร์</a><br>
+<img src="images/new_icon.gif"><a href="news60/example vdo poster presentation.mp4">ตัวอย่างไฟล์การนำเสนอภาคโปสเตอร์</a><br>
+
+<img src="images/new_icon.gif"><a href="news60/template-oral presentation.pptx">ตัวอย่างไฟล์การนำเสนอภาคบรรยาย</a><br></p> 2021-12-23 14:49:30</blockquote><blockquote><p>ขยายเวลารับผลงาน ถึงวันที่ 29 ธันวาคม 64 <br>
+<a href=news60/ku60-a4.pdf><p class=.checkboxtext> ข้อแนะนำการส่งผลงานเข้าร่วมการประชุมทางวิชาการ</p></a>
+<a href=https://o365ku-my.sharepoint.com/:w:/g/personal/pajeejin_a_live_ku_th/ezuku4xcrt1iphg_kbbb_yeb59hixdieco0fhkanvxn-pq?e=trdekt><p>ขั้นตอนการสมัครสมาชิก และการใช้งานระบบเพื่อเสนอผลงาน</p> </a>
+<br>
+<img src=news60/extend-time1.jpg width=100%></p> 2021-12-15 15:52:50</blockquote><blockquote><p><a href=news60/ku60-a4.pdf><p class=.checkboxtext> ข้อแนะนำการส่งผลงานเข้าร่วมการประชุมทางวิชาการ</p></a>
+<a href=https://o365ku-my.sharepoint.com/:w:/g/personal/pajeejin_a_live_ku_th/ezuku4xcrt1iphg_kbbb_yeb59hixdieco0fhkanvxn-pq?e=trdekt><p>ขั้นตอนการสมัครสมาชิก และการใช้งานระบบเพื่อเสนอผลงาน</p> </a>
+<br>
+<img src=news60/poster-conferenceku_60-01.jpg width=100%></p> 2021-11-01 15:52:50</blockquote>		<h2><span class="style4"><!--img src="../59/poster-conferenceku_59-05-01.jpg"--></span></h2>
+ 
+                        </div> <!-- side b -->
+                    </div> <!-- container -->
+                    
+                    <div id="footer">
+                        <div class='art-footer-text'><p>
+                          copyright � 2009 ---. all rights reserved.</p>
+                    </div>
+                </div>   <!-- wrapper -->
+</div><!-- krob -->
+
+</div><!-- page-wrap -->
+
+</body>
+</html>
+

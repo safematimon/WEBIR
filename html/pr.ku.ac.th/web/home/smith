@@ -1,0 +1,916 @@
+<!doctype html>
+<!--[if ie 7]><html lang="th" class="ie ie7"><![endif]-->
+<!--[if ie 8]><html lang="th" class="ie ie8"><![endif]-->
+<!--[if ie 9]><html lang="th" class="ie ie9"><![endif]-->
+<!--[if !ie]><!--><html class="no-js" lang="th"><!--<![endif]-->
+
+<!-- header -->
+<head>
+    <meta charset="utf-8">
+    <title>งานประชาสัมพันธ์ มหาวิทยาลัยเกษตรศาสตร์</title>
+    <meta name="keyword" content="มหาวิทยาลัยเกษตรศาสตร์,งานประชาสัมพันธ์,public relations,kasetsart university,ku,ku gallery,ku channel,ความเคลื่อนไหว ku,ข่าวสารประชาสัมพันธ์,ข่าวสาร,ประชาสัมพันธ์,ม.เกษตร,วิทยาเขตบางเขน,pr ku news,pr ku,news,งานประชาสัมพันธ์ มหาวิทยาลัยเกษตรศาสตร์">
+    <meta name="description" content="งานประชาสัมพันธ์ มหาวิทยาลัยเกษตรศาสตร์">
+<meta property="og:title" content="งานประชาสัมพันธ์ มหาวิทยาลัยเกษตรศาสตร์"/>
+<meta property="og:description" content="งานประชาสัมพันธ์ มหาวิทยาลัยเกษตรศาสตร์"/>
+<meta property="og:image" content="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/2ff-logo.jpeg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta property="og:url" content="https://pr.ku.ac.th/web/home"/>
+<meta name="twitter:card" content="งานประชาสัมพันธ์ มหาวิทยาลัยเกษตรศาสตร์"/>
+<meta name="twitter:url" content="https://pr.ku.ac.th/web/home"/>
+<meta name="twitter:description" content="งานประชาสัมพันธ์ มหาวิทยาลัยเกษตรศาสตร์"/>
+<meta name="twitter:image" content="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/2ff-logo.jpeg"/>
+
+    <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, minimum-scale=1.0, maximum-scale=4.0" />
+    <!--[if ie]><meta http-equiv="x-ua-compatible" content="ie=edge"><![endif]-->
+
+            <link rel="icon" type="image/png" sizes="32x32" href="https://pr.ku.ac.th/web/uploads/config/20201125/bceghmvwyz58.png">
+        <link rel="shortcut" type="image/x-icon" href="https://pr.ku.ac.th/web/uploads/config/20201125/bceghmvwyz58.png">
+        <link rel="image_src" href="https://pr.ku.ac.th/web/uploads/config/20201125/bceghmvwyz58.png">
+    
+    <!--[if ie]>
+        <script src="js/main/html5shiv.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/bootstrap-4.5.3/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/owlcarousel2-2.3.4/owl.carousel.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/owlcarousel2-2.3.4/owl.theme.default.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/fancybox-master/jquery.fancybox.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/select2/select2.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/font.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/theme.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/ku-pr.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/header.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/footer.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/responsive.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/plugin/loading.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/slick/slick.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/slick/slick-theme.css" />
+    
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/banner-slider.css">
+    
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/custom.css" />
+
+    <script type="text/javascript">
+        // declare variable for use in .js file
+        var base_url = 'https://pr.ku.ac.th/web/';
+        var site_url = 'https://pr.ku.ac.th/web/';
+        var theme_default = 'pr-ku';
+        var theme_path = 'https://pr.ku.ac.th/web/public/themes/pr-ku/';
+        var csrf_name = 'epwpw_token';
+        var csrf_value = 'da365636dc85d698044a2f51b6a3255d';
+    </script>
+
+    <script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/owlcarousel2-2.3.4/owl.carousel.min.js"></script>
+
+    
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
+    <!-- <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script> -->
+    <!-- <script src="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js"></script> -->
+
+                        <!-- global site tag (gtag.js) - google analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=g-py00ljv7rx"></script>
+<script>
+  window.datalayer = window.datalayer || [];
+  function gtag(){datalayer.push(arguments);}
+  gtag('js', new date());
+
+  gtag('config', 'g-py00ljv7rx');
+</script>            
+    <!-- go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5552d7771ce9a682"></script>
+</head>
+<body>
+        <!-- navigation -->
+    <header class="main-header">
+    <div class="container">
+      <div class="logo-wrap">
+        <div class="logo">
+          <a href="https://pr.ku.ac.th/web/home">
+            <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/ku_logo_62x62_th.svg" alt="">
+          </a>
+        </div>
+        <div class="logo-name">
+          <a href="https://pr.ku.ac.th/web/home">
+            <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/ku_name_logo_62x62.svg" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="nav-wrapper">
+        <ul>
+          <li class="d-none d-xl-flex">
+            <a href="https://www.ku.ac.th/th" target="_blank"><i class="icons ico-world"></i><span>เว็บไซต์มหาวิทยาลัย</span></a>
+          </li>
+          <li class="home-pr d-none d-xl-flex">
+            <a href="https://pr.ku.ac.th/web/home"><i class="icons ico-home"></i><span>หน้าหลักงานประชาสัมพันธ์</span></a>
+          </li>
+          <li class="d-none d-xl-flex">
+            <div class="dropdown">
+              <a class="btn btn-secondary dropdown-toggle" href="javascript:;" role="button" id="dropdownmenulink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                <span>วิทยาเขต</span>
+              </a>
+              <div class="dropdown-menu" aria-labelledby="dropdownmenulink">
+                <a class="dropdown-item" href="https://www.ku.ac.th" target="_blank">บางเขน</a>
+                <a class="dropdown-item" href="https://kps.ku.ac.th/v8/index.php/th/" target="_blank">วิทยาเขตกําแพงแสน</a>
+                <a class="dropdown-item" href="https://www.csc.ku.ac.th/th/" target="_blank">วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</a>
+                <a class="dropdown-item" href="https://www.src.ku.ac.th/" target="_blank">วิทยาเขตศรีราชา</a>
+                <a class="dropdown-item" href="http://sbc.ku.ac.th/" target="_blank">โครงการจัดตั้งวิทยาเขตสุพรรณบุรี</a>
+              </div>
+            </div>
+          </li>
+          <li class="d-none d-xl-flex">
+            <a href="https://pr.ku.ac.th/web/submit-news"><i class="icons ico-chat"></i><span>ช่องทางการส่งข่าวประชาสัมพันธ์</span></a>
+          </li>
+          <li class="input-search">
+            <form action="https://pr.ku.ac.th/web/search" accept-charset="utf-8" method="get">              <input type="text" name="q" class="form-control">
+              <button type="submit" id="button-search">
+                <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24" height="24">
+                  <path id="ic_mag" d="m23.79 22.77l17.96 16.94c19.52 15.14 20.47 12.8 20.47 10.23c20.47 4.59 15.88 0 10.23 0c4.59 0 0 4.59 0 10.23c0 15.87 4.59 20.47 10.23 20.47c12.8 20.47 15.15 19.52 16.95 17.95l22.78 23.79c22.92 23.92 23.1 24 23.29 24c23.47 24 23.65 23.93 23.79 23.79c24.07 23.51 24.07 23.05 23.79 22.77zm1.43 10.23c1.43 5.38 5.38 1.44 10.23 1.44c15.08 1.44 19.03 5.38 19.03 10.23c19.03 15.08 15.08 19.03 10.23 19.03c5.38 19.03 1.43 15.09 1.43 10.23z" />
+                </svg>
+              </button>
+            </form>          </li>
+          <li class="nav-hamburger">
+            <button class="btn-hamburger">
+              <i class="icons ico-hamburger"></i>
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </header>
+  <div class="body-overlay"></div>
+  <div id="side-header" class="sidemenu-control -regular">
+    <div class="search-bar">
+      <a href="javascript:;" class="btn-close-menu">
+        <svg height="30px" viewbox="0 0 329.26933 329" width="30px" xmlns="http://www.w3.org/2000/svg">
+          <path d="m194.800781 164.769531 128.210938-128.214843c8.34375-8.339844 8.34375-21.824219 0-30.164063-8.339844-8.339844-21.824219-8.339844-30.164063 0l-128.214844 128.214844-128.210937-128.214844c-8.34375-8.339844-21.824219-8.339844-30.164063 0-8.34375 8.339844-8.34375 21.824219 0 30.164063l128.210938 128.214843-128.210938 128.214844c-8.34375 8.339844-8.34375 21.824219 0 30.164063 4.15625 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921875-2.089844 15.082031-6.25l128.210937-128.214844 128.214844 128.214844c4.160156 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921874-2.089844 15.082031-6.25 8.34375-8.339844 8.34375-21.824219 0-30.164063zm0 0" /></svg>
+      </a>
+      <form action="https://pr.ku.ac.th/web/search" accept-charset="utf-8" method="get">        <input type="text" name="q" class="form-control">
+        <button type="submit" class="btn-search">
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24" height="24">
+            <path id="ic_mag" d="m23.79 22.77l17.96 16.94c19.52 15.14 20.47 12.8 20.47 10.23c20.47 4.59 15.88 0 10.23 0c4.59 0 0 4.59 0 10.23c0 15.87 4.59 20.47 10.23 20.47c12.8 20.47 15.15 19.52 16.95 17.95l22.78 23.79c22.92 23.92 23.1 24 23.29 24c23.47 24 23.65 23.93 23.79 23.79c24.07 23.51 24.07 23.05 23.79 22.77zm1.43 10.23c1.43 5.38 5.38 1.44 10.23 1.44c15.08 1.44 19.03 5.38 19.03 10.23c19.03 15.08 15.08 19.03 10.23 19.03c5.38 19.03 1.43 15.09 1.43 10.23z" />
+          </svg>
+        </button>
+      </form>    </div>
+    <div id="accordion">
+      <div class="card d-flex">
+        <div class="card-header">
+          <h5 class="mb-0">
+            <a href="https://www.ku.ac.th/th" target="_blank">เว็บไซต์มหาวิทยาลัย</a>
+          </h5>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <h5 class="mb-0">
+            <a href="https://pr.ku.ac.th/web/home">หน้าหลักประชาสัมพันธ์</a>
+          </h5>
+        </div>
+      </div>
+      <div class="card d-flex">
+        <div class="card-header" id="heading-1">
+          <h5 class="mb-0" data-toggle="collapse" data-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">
+            <a href="javascript:;">วิทยาเขต</a>
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">
+              <i class="icons">
+                <svg height="20px" viewbox="0 0 329.26933 329" width="20px" xmlns="http://www.w3.org/2000/svg">
+                  <path d="m194.800781 164.769531 128.210938-128.214843c8.34375-8.339844 8.34375-21.824219 0-30.164063-8.339844-8.339844-21.824219-8.339844-30.164063 0l-128.214844 128.214844-128.210937-128.214844c-8.34375-8.339844-21.824219-8.339844-30.164063 0-8.34375 8.339844-8.34375 21.824219 0 30.164063l128.210938 128.214843-128.210938 128.214844c-8.34375 8.339844-8.34375 21.824219 0 30.164063 4.15625 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921875-2.089844 15.082031-6.25l128.210937-128.214844 128.214844 128.214844c4.160156 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921874-2.089844 15.082031-6.25 8.34375-8.339844 8.34375-21.824219 0-30.164063zm0 0" /></svg>
+              </i>
+            </button>
+          </h5>
+        </div>
+        <div id="collapse-1" class="collapse" aria-labelledby="heading-1" data-parent="#accordion">
+          <div class="card-body">
+            <ul>
+              <li><a class="dropdown-item" href="https://www.ku.ac.th" target="_blank">บางเขน</a></li>
+              <li><a class="dropdown-item" href="https://kps.ku.ac.th/v8/index.php/th/" target="_blank">วิทยาเขตกําแพงแสน</a></li>
+              <li><a class="dropdown-item" href="https://www.csc.ku.ac.th/th/" target="_blank">วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</a></li>
+              <li><a class="dropdown-item" href="https://www.src.ku.ac.th/" target="_blank">วิทยาเขตศรีราชา</a></li>
+              <li><a class="dropdown-item" href="http://sbc.ku.ac.th/" target="_blank">โครงการจัดตั้งวิทยาเขตสุพรรณบุรี</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="card d-flex">
+        <div class="card-header">
+          <h5 class="mb-0">
+            <a href="https://pr.ku.ac.th/web/submit-news">ช่องทางการส่งข่าวประชาสัมพันธ์</a>
+          </h5>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingone">
+          <h5 class="mb-0" data-toggle="collapse" data-target="#collapseone" aria-expanded="false" aria-controls="collapseone">
+            <a href="javascript:;">คลังสื่อ</a>
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseone" aria-expanded="false" aria-controls="collapseone">
+              <i class="icons">
+                <svg height="20px" viewbox="0 0 329.26933 329" width="20px" xmlns="http://www.w3.org/2000/svg">
+                  <path d="m194.800781 164.769531 128.210938-128.214843c8.34375-8.339844 8.34375-21.824219 0-30.164063-8.339844-8.339844-21.824219-8.339844-30.164063 0l-128.214844 128.214844-128.210937-128.214844c-8.34375-8.339844-21.824219-8.339844-30.164063 0-8.34375 8.339844-8.34375 21.824219 0 30.164063l128.210938 128.214843-128.210938 128.214844c-8.34375 8.339844-8.34375 21.824219 0 30.164063 4.15625 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921875-2.089844 15.082031-6.25l128.210937-128.214844 128.214844 128.214844c4.160156 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921874-2.089844 15.082031-6.25 8.34375-8.339844 8.34375-21.824219 0-30.164063zm0 0" /></svg>
+              </i>
+            </button>
+          </h5>
+        </div>
+        <div id="collapseone" class="collapse" aria-labelledby="headingone" data-parent="#accordion">
+          <div class="card-body">
+            <ul>
+              <li><a href="https://pr.ku.ac.th/web/media">ku media</a></li>
+              <li><a href="https://pr.ku.ac.th/web/gallery">ku gallery</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingtwo">
+          <h5 class="mb-0" data-toggle="collapse" data-target="#collapsetwo" aria-expanded="false" aria-controls="collapsetwo">
+            <a href="javascript:;">ข่าวสาร</a>
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsetwo" aria-expanded="false" aria-controls="collapsetwo">
+              <i class="icons">
+                <svg height="20px" viewbox="0 0 329.26933 329" width="20px" xmlns="http://www.w3.org/2000/svg">
+                  <path d="m194.800781 164.769531 128.210938-128.214843c8.34375-8.339844 8.34375-21.824219 0-30.164063-8.339844-8.339844-21.824219-8.339844-30.164063 0l-128.214844 128.214844-128.210937-128.214844c-8.34375-8.339844-21.824219-8.339844-30.164063 0-8.34375 8.339844-8.34375 21.824219 0 30.164063l128.210938 128.214843-128.210938 128.214844c-8.34375 8.339844-8.34375 21.824219 0 30.164063 4.15625 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921875-2.089844 15.082031-6.25l128.210937-128.214844 128.214844 128.214844c4.160156 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921874-2.089844 15.082031-6.25 8.34375-8.339844 8.34375-21.824219 0-30.164063zm0 0" /></svg>
+              </i>
+            </button>
+          </h5>
+        </div>
+                <div id="collapsetwo" class="collapse" aria-labelledby="headingtwo" data-parent="#accordion">
+          <div class="card-body">
+            <ul>
+                              <li><a href="https://pr.ku.ac.th/web/news/ข่าวนวัตกรรมงานวิจัย">ข่าวนวัตกรรมงานวิจัย</a></li>
+                              <li><a href="https://pr.ku.ac.th/web/news/ข่าวนิสิต">ข่าวนิสิต</a></li>
+                              <li><a href="https://pr.ku.ac.th/web/news/5">ku press</a></li>
+                              <li><a href="https://pr.ku.ac.th/web/news/รอบรั้วนนทรี">รอบรั้วนนทรี</a></li>
+                              <li><a href="https://pr.ku.ac.th/web/news/มก-ในสื่อมวลชน">มก.ในสื่อมวลชน</a></li>
+                          </ul>
+          </div>
+        </div>
+              </div>
+      <div class="card">
+        <div class="card-header">
+          <h5 class="mb-0">
+            <a href="https://pr.ku.ac.th/web/prku-news">pr ku news</a>
+          </h5>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingthree">
+          <h5 class="mb-0" data-toggle="collapse" data-target="#collapsethree" aria-expanded="false" aria-controls="collapsethree">
+            <a href="javascript:;">เกี่ยวกับเรา</a>
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsethree" aria-expanded="false" aria-controls="collapsethree">
+              <i class="icons">
+                <svg height="20px" viewbox="0 0 329.26933 329" width="20px" xmlns="http://www.w3.org/2000/svg">
+                  <path d="m194.800781 164.769531 128.210938-128.214843c8.34375-8.339844 8.34375-21.824219 0-30.164063-8.339844-8.339844-21.824219-8.339844-30.164063 0l-128.214844 128.214844-128.210937-128.214844c-8.34375-8.339844-21.824219-8.339844-30.164063 0-8.34375 8.339844-8.34375 21.824219 0 30.164063l128.210938 128.214843-128.210938 128.214844c-8.34375 8.339844-8.34375 21.824219 0 30.164063 4.15625 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921875-2.089844 15.082031-6.25l128.210937-128.214844 128.214844 128.214844c4.160156 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921874-2.089844 15.082031-6.25 8.34375-8.339844 8.34375-21.824219 0-30.164063zm0 0" /></svg>
+              </i>
+            </button>
+          </h5>
+        </div>
+        <div id="collapsethree" class="collapse" aria-labelledby="headingthree" data-parent="#accordion">
+          <div class="card-body">
+            <ul>
+              <li><a href="https://pr.ku.ac.th/web/about/history">ความเป็นมาของหน่วยงาน</a></li>
+              <li><a href="https://pr.ku.ac.th/web/about/staff">บุคลากรงานประชาสัมพันธ์</a></li>
+              <li><a href="https://pr.ku.ac.th/web/about/service">ภารกิจหน่วยงาน</a></li>
+              <li><a href="https://pr.ku.ac.th/web/about/landmark">สถานที่สำคัญ</a></li>
+              <li><a href="https://pr.ku.ac.th/web/about/history#sc-download">ดาวน์โหลดคู่มือ / อัตลักษณ์</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <h5 class="mb-0">
+            <a href="https://pr.ku.ac.th/web/contactus">ติดต่อเรา</a>
+          </h5>
+        </div>
+      </div>
+    </div>
+    <div class="social-group">
+      <div class="nav-social">
+        <a href="https://www.facebook.com/publicrelations.ku?ref=hl" target="_blank"><i class="icons ico-facebook"></i></a>
+        <a href="https://twitter.com/kasetsart_ku" target="_blank"><i class="icons ico-twitter"></i></a>
+        <a href="https://www.instagram.com/kasetsart_ku" target="_blank"><i class="icons ico-instagram"></i></a>
+        <a href="https://www.youtube.com/channel/uc1lx-ul4ln8jxedtdxep7ga" target="_blank"><i class="icons ico-youtube"></i></a>
+        <a href="mailto:prku@ku.ac.th"><i class="icons ico-envelope"></i></a>
+      </div>
+    </div>
+  </div>
+
+
+    
+    <!-- content -->
+    <div class="page-wrapper">
+    <section class="main-banner">
+        <div class="aw-square-1"></div>
+        <div class="aw-square-2"></div>
+        <div class="banner-wrapper secbanner">
+            <div class="sp-slider">
+                <div class="slider-pc"><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/banner/cover-prku-01.png" title="งานประชาสัมพันธ์ มหาวิทยาลัยเกษตรศาสตร์"/></div>
+                <div class="slider-mobi"><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/banner/cover-prku-01-mobile.png" title="งานประชาสัมพันธ์ มหาวิทยาลัยเกษตรศาสตร์"/></div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="gallery-wrapper">
+                <div class="gallery-slider">
+                    <div class="slider-control owl-carousel owl-theme">
+        <div class="item">
+        <div class="item-inner">
+            <div class="image-box">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/231">
+                    <img src="https://pr.ku.ac.th/web/uploads/gallery/20220112/egikpqtvw134.jpg" alt="บัตรอวยพรปีใหม่พระราชทาน ประจำปี พ.ศ.2565">
+                </a>
+            </div>
+            <div class="text-box b-darkblue">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/231">
+                    <h3 class="hs-3 c-white -med">ku gallery</h3>
+                    <p class="ct-1 c-white -regular">
+                        สมเด็จพระเจ้าน้องนางเธอ เจ้าฟ้าจุฬาภรณวลัยลักษณ์ อัครราชกุมารี กรมพระศรีสวางควัฒน วรขัตติยราชนารี ทรงพระราชทานบัตรอวยพรปีใหม่ ประจำปี พ.ศ.2565                    </p>
+                    <div class="inner-tag">
+                        <span class="ct-note c-white b-darkgreen -light"></span>
+                        <p class="ct-note c-white">12 มกราคม 2565</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+        <div class="item">
+        <div class="item-inner">
+            <div class="image-box">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/229">
+                    <img src="https://pr.ku.ac.th/web/uploads/gallery/20220112/bhjknswyz159.jpg" alt="พิธีลงนามความร่วมมือด้านการศึกษาวิจัยและพัฒนาการทำบ้านนกแอ่นกินรังในเชิงสร้างสรรค์">
+                </a>
+            </div>
+            <div class="text-box b-darkblue">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/229">
+                    <h3 class="hs-3 c-white -med">ku gallery</h3>
+                    <p class="ct-1 c-white -regular">
+                        พิธีลงนามความร่วมมือด้านการศึกษาวิจัยและพัฒนาการทำบ้านนกแอ่นกินรังในเชิงสร้างสรรค์ บนพื้นฐานการใช้ประโยชน์ทรัพยากรทางชีวภาพอย่างยั่งยืนและเป็นมิตรกับชุมชน                    </p>
+                    <div class="inner-tag">
+                        <span class="ct-note c-white b-darkgreen -light"></span>
+                        <p class="ct-note c-white">11 มกราคม 2565</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+        <div class="item">
+        <div class="item-inner">
+            <div class="image-box">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/228">
+                    <img src="https://pr.ku.ac.th/web/uploads/gallery/20220110/dhjlmnptyz19.jpg" alt="พิธีลงนามความร่วมมือทางวิชาการ ระหว่าง มก. กับ อบจ.ชัยภูมิ">
+                </a>
+            </div>
+            <div class="text-box b-darkblue">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/228">
+                    <h3 class="hs-3 c-white -med">ku gallery</h3>
+                    <p class="ct-1 c-white -regular">
+                        พิธีลงนามความร่วมมือทางวิชาการ ระหว่าง มก. กับ อบจ.ชัยภูมิ                    </p>
+                    <div class="inner-tag">
+                        <span class="ct-note c-white b-darkgreen -light"></span>
+                        <p class="ct-note c-white">7 มกราคม 2565</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+        <div class="item">
+        <div class="item-inner">
+            <div class="image-box">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/227">
+                    <img src="https://pr.ku.ac.th/web/uploads/gallery/20211230/adghijkoz058.jpg" alt="พิธีมอบรางวัลเชิดชูเกียรติ ประจำปี 2564">
+                </a>
+            </div>
+            <div class="text-box b-darkblue">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/227">
+                    <h3 class="hs-3 c-white -med">ku gallery</h3>
+                    <p class="ct-1 c-white -regular">
+                        พิธีมอบรางวัลเชิดชูเกียรติ อาจารย์ดีเด่น นักวิจัยดีเด่น และบุคลากรสายสนับสนุนฯ ดีเด่น รางวัลคุณภาพแห่งมหาวิทยาลัยเกษตรศาสตร์ ครั้งที่ 15 และโล่ประกาศเกียรติคุณผู้สนับสนุนศูนย์ฉีดวัคซีน ku สู้ covid-19                    </p>
+                    <div class="inner-tag">
+                        <span class="ct-note c-white b-darkgreen -light"></span>
+                        <p class="ct-note c-white">28 ธันวาคม 2564</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+        <div class="item">
+        <div class="item-inner">
+            <div class="image-box">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/226">
+                    <img src="https://pr.ku.ac.th/web/uploads/gallery/20211230/fgijoptxz679.jpg" alt="แสดงความยินดีแก่ผู้ที่ได้รับการโปรดเกล้าฯ ให้ดำรงตำแหน่งศาสตราจารย์">
+                </a>
+            </div>
+            <div class="text-box b-darkblue">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/226">
+                    <h3 class="hs-3 c-white -med">ku gallery</h3>
+                    <p class="ct-1 c-white -regular">
+                        นายกสภามหาวิทยาลัยเกษตรศาสตร์ มอบช่อดอกไม้แสดงความยินดีแก่ผู้ที่ได้รับการโปรดเกล้าฯ ให้ดำรงตำแหน่งศาสตราจารย์                    </p>
+                    <div class="inner-tag">
+                        <span class="ct-note c-white b-darkgreen -light"></span>
+                        <p class="ct-note c-white">27 ธันวาคม 2564</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+        <div class="item">
+        <div class="item-inner">
+            <div class="image-box">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/224">
+                    <img src="https://pr.ku.ac.th/web/uploads/gallery/20211230/ioqy01234789.jpg" alt="รับมอบเงินเพื่อสนับสนุนทุนการศึกษา">
+                </a>
+            </div>
+            <div class="text-box b-darkblue">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/224">
+                    <h3 class="hs-3 c-white -med">ku gallery</h3>
+                    <p class="ct-1 c-white -regular">
+                        รับมอบเงินเพื่อสนับสนุนทุนการศึกษาสำหรับนิสิตที่เรียนดีแต่มีฐานะยากจน                    </p>
+                    <div class="inner-tag">
+                        <span class="ct-note c-white b-darkgreen -light"></span>
+                        <p class="ct-note c-white">27 ธันวาคม 2564</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+        <div class="item">
+        <div class="item-inner">
+            <div class="image-box">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/223">
+                    <img src="https://pr.ku.ac.th/web/uploads/gallery/20211222/abnoqrtuw789.jpg" alt="นิทรรศการภายใต้โครงการถ่ายทอดนวัตกรรมการพัฒนาชุมชน เพื่อยกระดับเศรษฐกิจและสังคมรายตำบลอย่างยั่งยืน">
+                </a>
+            </div>
+            <div class="text-box b-darkblue">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/223">
+                    <h3 class="hs-3 c-white -med">ku gallery</h3>
+                    <p class="ct-1 c-white -regular">
+                        พิธีเปิดนิทรรศการภายใต้โครงการถ่ายทอดนวัตกรรมการพัฒนาชุมชน เพื่อยกระดับเศรษฐกิจและสังคมรายตำบลอย่างยั่งยืน (โครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ 1 ตำบล 1 มหาวิทยาลัย) ระยะที่ 1 มก.                    </p>
+                    <div class="inner-tag">
+                        <span class="ct-note c-white b-darkgreen -light"></span>
+                        <p class="ct-note c-white">21 ธันวาคม 2564</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+        <div class="item">
+        <div class="item-inner">
+            <div class="image-box">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/222">
+                    <img src="https://pr.ku.ac.th/web/uploads/gallery/20211217/abilrstvwy05.jpg" alt="การประชุมเวทีข้าวไทย ปี 2564 “ข้าวไทย หลังโควิด-19”">
+                </a>
+            </div>
+            <div class="text-box b-darkblue">
+                <a href="https://pr.ku.ac.th/web/gallery/detail/222">
+                    <h3 class="hs-3 c-white -med">ku gallery</h3>
+                    <p class="ct-1 c-white -regular">
+                        การประชุมเวทีข้าวไทย ปี 2564 “ข้าวไทย หลังโควิด-19”                    </p>
+                    <div class="inner-tag">
+                        <span class="ct-note c-white b-darkgreen -light"></span>
+                        <p class="ct-note c-white">17 ธันวาคม 2564</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    </div>                </div>
+                <div class="side-box">
+                    <div class="link-gallery -gallery">
+                        <div class="image">
+                            <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/cover-gallery.jpg" alt="">
+                        </div>
+                        <div class="txt-box">
+                            <div class="txt-wrap">
+                                <p class="ct-1">all album</p>
+                                <a href="https://pr.ku.ac.th/web/gallery" class="-regular">อัลบั้มทั้งหมด ></a>
+                            </div>
+                            <i class="icons ico-folder"></i>
+                        </div>
+                        <a href="https://pr.ku.ac.th/web/gallery"></a>
+                    </div>
+                    <div class="link-gallery -channel">
+                        <div class="image">
+                            <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/cover-gallery-2.jpg" alt="">
+                        </div>
+                        <div class="txt-box">
+                            <i class="icons ico-play"></i>
+                            <div class="txt-wrap">
+                                <p class="ct-1">ku channel</p>
+                                <a href="https://pr.ku.ac.th/web/media" class="-regular">วิดีโอทั้งหมด ></a>
+                            </div>
+                        </div>
+                        <a href="https://pr.ku.ac.th/web/media"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="news">
+    <div class="container">
+        <div class="title-box">
+            <h3 class="hs-2 -bold">ความเคลื่อนไหว ku</h3>
+        </div>
+        <div class="news-wrapper">
+                    <div class="item-news d-md-flex">
+                <a href="https://pr.ku.ac.th/web/news/detail/245">
+                    <div class="img-box">
+                        <img class="img-fluid" src="https://pr.ku.ac.th/web/uploads/news/20220106/egrsvwz13678.jpg" alt="รางวัลผลงานนวัตกรรมและตราสัญลักษณ์ &quot;ทะเลเพื่อชีวิต&quot;">
+                    </div>
+                    <div class="content-box">
+                                                    <div class="inner-label c-white">มก.ในสื่อมวลชน</div>
+                                                <p class="ct-2 -med">รางวัลผลงานนวัตกรรมและตราสัญลักษณ์ &quot;ทะเลเพื่อชีวิต&quot;</p>
+                    </div>
+                </a>
+            </div>
+                    <div class="item-news d-md-flex">
+                <a href="https://pr.ku.ac.th/web/news/detail/243">
+                    <div class="img-box">
+                        <img class="img-fluid" src="https://pr.ku.ac.th/web/uploads/news/20220106/bdfghlmsxyz5.jpg" alt="ปลุกพลังชาว มก.ปั้นนวัตกรรม">
+                    </div>
+                    <div class="content-box">
+                                                    <div class="inner-label c-white">มก.ในสื่อมวลชน</div>
+                                                <p class="ct-2 -med">ปลุกพลังชาว มก.ปั้นนวัตกรรม</p>
+                    </div>
+                </a>
+            </div>
+                    <div class="item-news d-md-flex">
+                <a href="https://pr.ku.ac.th/web/news/detail/244">
+                    <div class="img-box">
+                        <img class="img-fluid" src="https://pr.ku.ac.th/web/uploads/news/20220106/bcilqstvwz03.jpg" alt="มหัศจรรย์อ่าวมาหยา">
+                    </div>
+                    <div class="content-box">
+                                                    <div class="inner-label c-white">มก.ในสื่อมวลชน</div>
+                                                <p class="ct-2 -med">มหัศจรรย์อ่าวมาหยา</p>
+                    </div>
+                </a>
+            </div>
+                    <div class="item-news d-md-flex">
+                <a href="https://pr.ku.ac.th/web/news/detail/242">
+                    <div class="img-box">
+                        <img class="img-fluid" src="https://pr.ku.ac.th/web/uploads/news/20211216/ilmpqsuxy028.jpg" alt="อว.เร่งเครื่องพลิกโฉมอุดมศึกษา">
+                    </div>
+                    <div class="content-box">
+                                                    <div class="inner-label c-white">มก.ในสื่อมวลชน</div>
+                                                <p class="ct-2 -med">อว.เร่งเครื่องพลิกโฉมอุดมศึกษา</p>
+                    </div>
+                </a>
+            </div>
+                    <div class="item-news d-md-flex">
+                <a href="https://pr.ku.ac.th/web/news/detail/240">
+                    <div class="img-box">
+                        <img class="img-fluid" src="https://pr.ku.ac.th/web/uploads/news/20211215/abefioqswz04.jpg" alt="นิสิต มก.แชมป์ blockchain tech startup">
+                    </div>
+                    <div class="content-box">
+                                                    <div class="inner-label c-white">มก.ในสื่อมวลชน</div>
+                                                <p class="ct-2 -med">นิสิต มก.แชมป์ blockchain tech startup</p>
+                    </div>
+                </a>
+            </div>
+                    <div class="item-news d-md-flex">
+                <a href="https://pr.ku.ac.th/web/news/detail/241">
+                    <div class="img-box">
+                        <img class="img-fluid" src="https://pr.ku.ac.th/web/uploads/news/20211215/cdfgijmwz346.jpg" alt="ชีวภัณฑ์กำจักผักตบชวา คว้าแชมป์จากเกาหลี">
+                    </div>
+                    <div class="content-box">
+                                                    <div class="inner-label c-white">มก.ในสื่อมวลชน</div>
+                                                <p class="ct-2 -med">ชีวภัณฑ์กำจักผักตบชวา คว้าแชมป์จากเกาหลี</p>
+                    </div>
+                </a>
+            </div>
+                    <div class="item-news d-md-flex">
+                <a href="https://pr.ku.ac.th/web/news/detail/เตาเผาอุณหภูมิสูงไมโครเวฟบ้านเชิงพาณิชย์ดัดแปลง-คว้ารางวัลรองชนะเลิศ-">
+                    <div class="img-box">
+                        <img class="img-fluid" src="https://pr.ku.ac.th/web/uploads/news/20211126/bcdfktw02345.jpg" alt="เตาเผาอุณหภูมิสูงไมโครเวฟบ้านเชิงพาณิชย์ดัดแปลง คว้ารางวัลรองชนะเลิศ ">
+                    </div>
+                    <div class="content-box">
+                                                    <div class="inner-label c-white">ข่าวนวัตกรรมงานวิจัย</div>
+                                                <p class="ct-2 -med">เตาเผาอุณหภูมิสูงไมโครเวฟบ้านเชิงพาณิชย์ดัดแปลง คว้ารางวัลรองชนะเลิศ </p>
+                    </div>
+                </a>
+            </div>
+                    <div class="item-news d-md-flex">
+                <a href="https://pr.ku.ac.th/web/news/detail/-บดินทร์-เเพงชัยภูมิ-ร้องเพลงกล่อมลูกภาคกลาง-">
+                    <div class="img-box">
+                        <img class="img-fluid" src="https://pr.ku.ac.th/web/uploads/news/20211126/fjkpqvwy1245.jpeg" alt="“บดินทร์ เเพงชัยภูมิ” นิสิต ปี 1 คณะศึกษาศาสตร์ ม.เกษตรฯ คว้ารางวัลชนะเลิศ ร้องเพลงกล่อมลูกภาคกลาง">
+                    </div>
+                    <div class="content-box">
+                                                    <div class="inner-label c-white">ข่าวนิสิต</div>
+                                                <p class="ct-2 -med">“บดินทร์ เเพงชัยภูมิ” นิสิต ปี 1 คณะศึกษาศาสตร์ ม.เกษตรฯ คว้ารางวัลชนะเลิศ ร้องเพลงกล่อมลูกภาคกลาง</p>
+                    </div>
+                </a>
+            </div>
+                    <div class="item-news d-md-flex">
+                <a href="https://pr.ku.ac.th/web/news/detail/183">
+                    <div class="img-box">
+                        <img class="img-fluid" src="https://pr.ku.ac.th/web/uploads/news/20210902/bdeflmrstuv1.jpg" alt="สรุปมติสภามหาวิทยาลัยเกษตรศาสตร์ครั้งที่ 8/2564">
+                    </div>
+                    <div class="content-box">
+                                                    <div class="inner-label c-white">ku press</div>
+                                                <p class="ct-2 -med">สรุปมติสภามหาวิทยาลัยเกษตรศาสตร์ครั้งที่ 8/2564</p>
+                    </div>
+                </a>
+            </div>
+                    <div class="item-news d-md-flex">
+                <a href="https://pr.ku.ac.th/web/news/detail/รางวัลเหรียญทองนวัตกรรมโลก-2020">
+                    <div class="img-box">
+                        <img class="img-fluid" src="https://pr.ku.ac.th/web/uploads/news/20210830/bhlmqu025789.jpg" alt="ผลงาน “avan propo bee”  ผลิตภัณฑ์ส่งเสริมการนอนหลับเพื่อสุขภาพ ของมหาวิทยาลัยเกษตรศาสตร์  วิทยาเขตกำแพงแสน">
+                    </div>
+                    <div class="content-box">
+                                                    <div class="inner-label c-white">ข่าวนวัตกรรมงานวิจัย</div>
+                                                <p class="ct-2 -med">ผลงาน “avan propo bee”  ผลิตภัณฑ์ส่งเสริมการนอนหลับเพื่อสุขภาพ ของมหาวิทยาลัยเกษตรศาสตร์  วิทยาเขตกำแพงแสน</p>
+                    </div>
+                </a>
+            </div>
+                    <div class="item-news d-md-flex">
+                <a href="https://pr.ku.ac.th/web/news/detail/นวัตกรรมเพื่อสิ่งแวดล้อม-">
+                    <div class="img-box">
+                        <img class="img-fluid" src="https://pr.ku.ac.th/web/uploads/news/20210830/aefiwy012349.jpg" alt="เรือเก็บขยะลอยน้ำชนิดไอพ่น ku trash sweeper v3  นวัตกรรมเพื่อสิ่งแวดล้อม ">
+                    </div>
+                    <div class="content-box">
+                                                    <div class="inner-label c-white">ข่าวนวัตกรรมงานวิจัย</div>
+                                                <p class="ct-2 -med">เรือเก็บขยะลอยน้ำชนิดไอพ่น ku trash sweeper v3  นวัตกรรมเพื่อสิ่งแวดล้อม </p>
+                    </div>
+                </a>
+            </div>
+                    <div class="item-news d-md-flex">
+                <a href="https://pr.ku.ac.th/web/news/detail/b-share-smart-box-คว้ารางวัลชนะเลิศ">
+                    <div class="img-box">
+                        <img class="img-fluid" src="https://pr.ku.ac.th/web/uploads/news/20210830/cghikpqsx058.jpg" alt="b-share smart box คว้ารางวัลชนะเลิศ ">
+                    </div>
+                    <div class="content-box">
+                                                    <div class="inner-label c-white">ข่าวนวัตกรรมงานวิจัย</div>
+                                                <p class="ct-2 -med">b-share smart box คว้ารางวัลชนะเลิศ </p>
+                    </div>
+                </a>
+            </div>
+                </div>
+    </div>
+    <div class="button-control">
+        <a href="https://pr.ku.ac.th/web/news" class="btn-black">ทั้งหมด</a>
+    </div>
+</section>
+    <section class="magazine">
+    <div class="container">
+        <div class="head-title">
+            <div class="head-wrap">
+                <h3 class="hs-1 -bold c-lightgreen-2">pr</h3>
+                <p class="hs-2 -bold c-lightgreen-2">ku news</p>
+            </div>
+            <div class="book-name c-white d-none d-xl-block">
+                <p class="hs-4">มหาวิทยาลัยเกษตรศาสตร์ ขึ้นแท่นอันดับที่ 45 top 50 มหาวิทยาลัยสีเขียวโลก  คว้าแชมป์มหาวิทยาลัยสีเขียว อันดับที่ 1 ของประเทศไทยได้สำเร็จ  </p>
+                <span class="ct-3 -med">ฉบับที่ 61 - 10 มกราคม 2565</span>
+            </div>
+        </div>
+        <div class="magazine-wrap">
+            <div class="cover-magazine">
+                <img class="img-fluid" src="https://pr.ku.ac.th/web/uploads/prku_news/20220110/cghklovwz579.jpeg" alt="มหาวิทยาลัยเกษตรศาสตร์ ขึ้นแท่นอันดับที่ 45 top 50 มหาวิทยาลัยสีเขียวโลก  คว้าแชมป์มหาวิทยาลัยสีเขียว อันดับที่ 1 ของประเทศไทยได้สำเร็จ  ">
+            </div>
+            <div class="book-name c-white d-flex d-xl-none">
+                <p class="hs-4">มหาวิทยาลัยเกษตรศาสตร์ ขึ้นแท่นอันดับที่ 45 top 50 มหาวิทยาลัยสีเขียวโลก  คว้าแชมป์มหาวิทยาลัยสีเขียว อันดับที่ 1 ของประเทศไทยได้สำเร็จ  </p>
+                <span class="ct-3 -med">ฉบับที่ 61 - 10 มกราคม 2565</span>
+            </div>
+            <div class="button-group">
+                <a href="https://pr.ku.ac.th/web/uploads/prku_news/file/20220110/cdfgkloqruyz.pdf"  target="_blank" class="btn-category">
+                    <i class="icons ico-gallery"></i>
+                    <p class="ct-2 -med c-white">ดูเนื้อหาภายในฉบับ</p>
+                </a>
+                <a href="https://pr.ku.ac.th/web/prku-news/download?document=wjxeplrj" class="btn-category">
+                    <i class="icons ico-pdf"></i>
+                    <p class="ct-2 -med c-white">ดาวน์โหลดไฟล์ pdf</p>
+                </a>
+                <a href="https://pr.ku.ac.th/web/prku-news" class="btn-category">
+                    <i class="icons ico-plus"></i>
+                    <p class="ct-2 -med c-white">คลัง prku news</p>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+    
+    <section class="mission">
+    <div class="container">
+      <div class="title-box">
+        <h3 class="hs-2 -bold">ภารกิจหน่วยงาน</h3>
+      </div>
+      <div class="mission-wrapper">
+        <div class="item-mission">
+          <a href="javascript:;" class="c-dark">
+            <div class="image">
+              <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/about-01.png" alt="">
+            </div>
+            <div class="inner-wrapper">
+              <h3 class="hs-4 -med">ด้านการผลิตสื่อสารสนเทศ </h3>
+              <p class="ct-3 -med">
+                ให้บริการถ่ายภาพนิ่ง / วีดิโอ, จัดทำคลิปวีดิโอ
+                จัดทำคลิปขึ้นป้าย led, ออกแบบ infographic,
+                ออกแบบบัตรแสดงความยินดี / บัตรเชิญ,
+                ออกแบบสื่อเพื่อการประชาสัมพันธ์
+              </p>
+            </div>
+          </a>
+        </div>
+        <div class="item-mission">
+          <div class="c-dark">
+            <div class="image">
+              <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/about-02.png" alt="">
+            </div>
+            <div class="inner-wrapper">
+              <h3 class="hs-4 -med">ด้านสื่อออนไลน์ </h3>
+              <p class="ct-3 -med">
+                website kasetsart, website prku,
+                facebook, twitter, instragram, youtube,
+                kuchannel, prkunews
+              </p>
+              <div class="nav-social button-control">
+                <a href="https://www.facebook.com/publicrelations.ku?ref=hl" target="_blank"><i class="icons ico-facebook"></i></a>
+                <a href="https://twitter.com/kasetsart_ku" target="_blank"><i class="icons ico-twitter"></i></a>
+                <a href="https://www.instagram.com/kasetsart_ku" target="_blank"><i class="icons ico-instagram"></i></a>
+                <a href="https://www.youtube.com/channel/uc1lx-ul4ln8jxedtdxep7ga" target="_blank"><i class="icons ico-youtube"></i></a>
+                <a href="mailto:prku@ku.ac.th"><i class="icons ico-envelope"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item-mission">
+          <a href="javascript:;" class="c-dark">
+            <div class="image">
+              <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/about-03.png" alt="">
+            </div>
+            <div class="inner-wrapper">
+              <h3 class="hs-4 -med">บริการด้านการข่าวและสื่อมวลชน</h3>
+              <p class="ct-3 -med">
+                ให้คำปรึกษาด้านการเขียนข่าว การเผยแพร่ข่าว และการประสานงานสื่อมวลชน
+              </p>
+            </div>
+          </a>
+        </div>
+        <div class="item-mission">
+          <a href="javascript:;" class="c-dark">
+            <div class="image">
+              <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/about-04.png" alt="">
+            </div>
+            <div class="inner-wrapper">
+              <h3 class="hs-4 -med">ด้านการประชาสัมพันธ์</h3>
+              <p class="ct-3 -med">
+                ให้คำปรึกษาด้านการประชาสัมพันธ์
+                การจัดงานแถลงข่าว การจัดงานเสวนาวิชาการ
+                การจัดกิจกรรมพิเศษ ฯลฯ
+              </p>
+            </div>
+          </a>
+        </div>
+        <div class="item-mission">
+          <a href="javascript:;" class="c-dark">
+            <div class="image">
+              <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/about-05.png" alt="">
+            </div>
+            <div class="inner-wrapper">
+              <h3 class="hs-4 -med">พิธีกร / ผู้ดำเนินรายการ</h3>
+              <p class="ct-3 -med">
+                ให้บริการด้านพิธีกร / ผู้ดำเนินรายการ สนับสนุนภารกิจของมหาวิทยาลัย และส่วนงาน
+              </p>
+            </div>
+          </a>
+        </div>
+        <div class="item-mission">
+          <div class="c-dark">
+            <div class="image">
+              <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/about-06.png" alt="">
+            </div>
+            <div class="inner-wrapper">
+              <h3 class="hs-4 -med">บริการดาวน์โหลด</h3>
+              <p class="ct-3 -med">
+                ku corporate identity
+              </p>
+              <div class="button-control">
+                <a href="https://www.ku.ac.th/th/kulogo/download/2097" class="btn-black" target="_blank">ดาวน์โหลด</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </section>
+</div>
+
+<script>
+function myfunction1() {
+  var x = document.getelementbyid("mybanner");
+  if (window.getcomputedstyle(x).display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+<div class="sp-bg" id="mybanner">
+    <div class="sp-box-gift">
+        <button onclick="myfunction1()"><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/x.png" alt=""></button>
+        <div class="regular">
+                            <div>
+                    <a target="_self" href="javascript:0" title="ส.ค.ส 2565 พระราชทาน">
+                        <img src="https://pr.ku.ac.th/web/uploads/banner/20220114/aefgpqrstv47.jpg" title="ส.ค.ส 2565 พระราชทาน"/>
+                    </a>
+                </div>
+                            <div>
+                    <a target="_self" href="javascript:0" title="&quot;เกษตรศาสตร์&quot; คว้าที่ 1 มหาวิทยาลัยสีเขียวของประเทศไทย">
+                        <img src="https://pr.ku.ac.th/web/uploads/banner/20211221/cdeklrvwz249.jpg" title="&quot;เกษตรศาสตร์&quot; คว้าที่ 1 มหาวิทยาลัยสีเขียวของประเทศไทย"/>
+                    </a>
+                </div>
+                            <div>
+                    <a target="_self" href="javascript:0" title="&quot;เกษตรศาสตร์&quot; คว้าที่ 1 มหาวิทยาลัยสีเขียวของประเทศไทย">
+                        <img src="https://pr.ku.ac.th/web/uploads/banner/20211216/ikmpruwxz257.jpg" title="&quot;เกษตรศาสตร์&quot; คว้าที่ 1 มหาวิทยาลัยสีเขียวของประเทศไทย"/>
+                    </a>
+                </div>
+                            <div>
+                    <a target="_self" href="javascript:0" title="8+1 words for ku 81">
+                        <img src="https://pr.ku.ac.th/web/uploads/banner/20211201/bcgnstxy0268.jpg" title="8+1 words for ku 81"/>
+                    </a>
+                </div>
+                    </div>
+    </div>
+</div>
+
+    
+    <!-- footer -->
+    <footer class="main-footer">
+  <div class="nav-footer">
+    <div class="container">
+      <div class="title-footer">
+        <h3 class="hs-4">ลิงก์ที่เกี่ยวข้องฯ</h3>
+      </div>
+      <div class="nav-wrapper">
+        <div class="nav-group">
+          <a href="https://pr.ku.ac.th/web/submit-news">ช่องทางการส่งข่าวประชาสัมพันธ์</a>
+        </div>
+        <div class="nav-group">
+          <a href="https://pr.ku.ac.th/web/about/landmark">สถานที่สำคัญ</a>
+          <a href="https://www.ku.ac.th/th/phone-number" target="_blank">หมายเลขโทรศัพท์</a>
+          <a href="http://kasetsartjournal.ku.ac.th/" target="_blank">ku journal</a>
+          <a href="https://webmail.ku.ac.th/roundcube/" target="_blank">ku webmail</a>
+        </div>
+        <div class="nav-group">
+          <a href="http://www.gad.ku.ac.th/" target="_blank">กองกลาง</a>
+          <a href="http://www.sa.ku.ac.th/" target="_blank">กองกิจการนิสิต</a>
+          <a href="https://registrar.ku.ac.th/" target="_blank">สำนักบริหารการศึกษา</a>
+          <a href="http://ocs.ku.ac.th/2019/" target="_blank">สำนักบริการคอม</a>
+        </div>
+        <div class="nav-group">
+          <a href="https://www.ku.ac.th/th" target="_blank">บางเขน</a>
+          <a href="https://kps.ku.ac.th/v8/index.php/th/" target="_blank">วิทยาเขตกําแพงแสน</a>
+          <a href="https://www.csc.ku.ac.th/th/" target="_blank"><span class="d-block">วิทยาเขตเฉลิมพระเกียรติ</span>จังหวัดสกลนคร</a>
+          <a href="https://www.src.ku.ac.th/" target="_blank">วิทยาเขตศรีราชา</a>
+          <a href="http://sbc.ku.ac.th/" target="_blank">โครงการจัดตั้งวิทยาเขตสุพรรณบุรี</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="caption-footer">
+    <div class="container">
+      <h3 class="hs-4 -med c-white">เราจะเป็นศูนย์กลางด้านการสื่อสารองค์กร <br class="d-block d-xl-none"> ส่งเสริมภาพลักษณ์ของมหาวิทยาลัยและหน่วยงาน วิทยาเขต ให้ถึงกลุ่มเป้าหมาย </h3>
+    </div>
+  </div>
+  <div class="contact-footer">
+    <div class="container">
+      <div class="license-group">
+        <div class="logo">
+          <img class="img-fluid d-none d-xl-block"src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/footer_logo.svg" alt="">
+          <img class="img-fluid d-flex d-xl-none"src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/footer_logo-2.jpg" alt="">
+        </div>
+        <div class="text-box c-white">
+          <h3 class="ct-2 -med">งานประชาสัมพันธ์ มหาวิทยาลัยเกษตรศาสตร์</h3>
+          <p class="d-none d-lg-block ct-3 -regular">โทร : <a href="tel:029428181" class="c-white">02 942 8181-3</a> | โทรสาร : 02 942 8834-5 | e-mail : <a href="mailto:prku@ku.ac.th" class="c-white">prku@ku.ac.th</a></p>
+          <p class="d-block d-lg-none ct-3 -regular">โทร : <a href="tel:029428181" class="c-white">02 942 8181-3</a> | โทรสาร : 02 942 8834-5 
+            <br class="d-block d-lg-none"> e-mail : <a href="mailto:prku@ku.ac.th" class="c-white">prku@ku.ac.th</a>
+          </p>
+          <span class="ct-2 -med license">สงวนลิขสิทธิ์ © 2020 มหาวิทยาลัยเกษตรศาสตร์ </span>
+        </div>
+      </div>
+      <div class="social-group">
+        <div class="nav-social">
+          <a href="https://www.facebook.com/publicrelations.ku?ref=hl" target="_blank"><i class="icons ico-facebook"></i></a>
+          <a href="https://twitter.com/kasetsart_ku" target="_blank"><i class="icons ico-twitter"></i></a>
+          <a href="https://www.instagram.com/kasetsart_ku" target="_blank"><i class="icons ico-instagram"></i></a>
+          <a href="https://www.youtube.com/channel/uc1lx-ul4ln8jxedtdxep7ga" target="_blank"><i class="icons ico-youtube"></i></a>
+          <a href="mailto:prku@ku.ac.th"><i class="icons ico-envelope"></i></a>
+        </div>
+        <div class="nav-condition">
+          <a class="ct-2 -med" href="https://pr.ku.ac.th/web/feed" target="_blank">rss feed pr ku</a>
+          <a class="ct-2 -med" href="https://pr.ku.ac.th/" target="_blank">เว็บไซต์เดิม</a>
+          <a class="ct-2 -med" href="https://ocs.ku.ac.th/ku_computer_policy/cyber/policy/dataprivacy.pdf" target="_blank">เงื่อนไขการใช้งานเว็บไซต์</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>    <script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/bootstrap-4.5.3/popper.min.js"></script>
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/bootstrap-4.5.3/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/fancybox-master/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/select2/select2.min.js"></script>
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/main.js"></script>
+<script type="text/javascript" src='https://www.google.com/recaptcha/api.js'></script>
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/slick/slick.js"></script>
+
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/pages/banner.js"></script>
+</body>
+</html>

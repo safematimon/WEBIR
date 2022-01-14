@@ -1,0 +1,112 @@
+<!doctype html>
+<html>
+<head>
+<title>kasetsart si racha webmail :: welcome to kasetsart si racha webmail</title>
+<meta name="robots" content="noindex,nofollow" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<link rel="shortcut icon" href="skins/src/images/favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="skins/src/styles.css?s=1370419733" />
+<!--[if ie 9]><link rel="stylesheet" type="text/css" href="skins/src/svggradients.css?s=1368727592" /><![endif]-->
+<!--[if lte ie 8]><link rel="stylesheet" type="text/css" href="skins/src/iehacks.css?s=1368727592" /><![endif]-->
+<!--[if lte ie 7]><link rel="stylesheet" type="text/css" href="skins/src/ie7hacks.css?s=1368727592" /><![endif]-->
+<link rel="stylesheet" type="text/css" href="plugins/jqueryui/themes/larry/jquery-ui-1.9.1.custom.css?s=1368727590">
+<script type="text/javascript" src="skins/src/ui.js?s=1368727592"></script>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<script src="program/js/jquery.min.js?s=1368727590" type="text/javascript"></script>
+<script src="program/js/common.js?s=1368727590" type="text/javascript"></script>
+<script src="program/js/app.js?s=1368727590" type="text/javascript"></script>
+<script src="program/js/jstz.min.js?s=1368727590" type="text/javascript"></script>
+<script type="text/javascript">
+
+var rcmail = new rcube_webmail();
+rcmail.set_env({"task":"login","x_frame_options":"sameorigin","cookie_domain":"","cookie_path":"\/","cookie_secure":"1","skin":"src","refresh_interval":60,"session_lifetime":600,"action":"","comm_path":".\/?_task=login","date_format":"yy-mm-dd","request_token":"2f0f8c76c6e86d42771c781b3d1ff32d"});
+rcmail.add_label({"loading":"loading...","servererror":"server error!","requesttimedout":"request timed out","refreshing":"refreshing..."});
+rcmail.gui_object('loginform', 'form');
+rcmail.gui_object('message', 'message');
+</script>
+
+<script type="text/javascript" src="plugins/jqueryui/js/jquery-ui-1.9.1.custom.min.js?s=1368727590"></script>
+</head>
+<body>
+
+<div id="login-form">
+<div class="box-inner">
+<img src="skins/src/images/roundcube_logo.png" id="logo" border="0" alt="kasetsart si racha webmail">
+
+<form name="form" action="./" method="post">
+<input type="hidden" name="_token" value="2f0f8c76c6e86d42771c781b3d1ff32d">
+<input type="hidden" name="_task" value="login"><input type="hidden" name="_action" value="login"><input type="hidden" name="_timezone" id="rcmlogintz" value="_default_"><input type="hidden" name="_url" id="rcmloginurl" value=""><table><tbody><tr><td class="title"><label for="rcmloginuser">username</label>
+</td>
+<td class="input"><input name="_user" id="rcmloginuser" size="40" autocapitalize="off" autocomplete="off" type="text"></td>
+</tr>
+<tr><td class="title"><label for="rcmloginpwd">password</label>
+</td>
+<td class="input"><input name="_pass" id="rcmloginpwd" placeholder="enter username without entering @src.ku.ac.th" size="40" autocapitalize="off" autocomplete="off" type="password"></td>
+</tr>
+</tbody>
+</table>
+
+
+<p class="formbuttons"><input type="submit" class="button mainaction" value="login" /> <input type="button" class="button mainaction" onclick="window.open('https://accounts.ku.ac.th/')" value="change password" /></p>
+
+</form>
+</div>
+
+<div class="box-bottom">
+	<div id="message"></div>
+	<noscript>
+		<p class="noscriptwarning">warning: this webmail service requires javascript! in order to use it please enable javascript in your browser's settings.</p>
+	</noscript>
+</div>
+</div>
+
+<script type="text/javascript">
+
+// ui startup
+var ui = new rcube_mail_ui();
+$(document).ready(function(){
+	ui.set('errortitle', 'an error occurred!');
+	ui.init();
+});
+
+</script>
+
+
+
+
+
+<div align='center'>
+<img src='spam.png'>
+<br><br>
+<a href='http://it.vit.src.ku.ac.th/content.php?page=news&nid=112' target='_blank'><font color=red>แจ้งเตือนผู้ใช้บริการเมล์วิทยาเขตศรีราชา เรื่อง เมล์ลวงจากผู้ดูแลระบบ</font> <img src='skins/src/images/click.gif' border='0'></a>
+</div><br>
+<div align='center'>
+<a href='https://mail.src.ku.ac.th' target='_blank'>old web mail </a>
+</div><br>
+<div align='center'>
+<a href='http://it.vit.src.ku.ac.th/content.php?page=news&nid=110' target='_blank'>การตั้งค่าเมล์ของวิทยาเขตศรีราชาบน ms outlook และ smart device </a>
+</div>
+<p>
+<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td height="32" colspan="2"> <div align="center"><font color="#000000"><span style='font-size: 16'><font face="ms sans serif">
+<a href='http://it.vit.src.ku.ac.th/content.php?page=news&nid=112' target='_blank'>
+<img src='https://mail.src.ku.ac.th/images/warning.png' border=0></a><br>
+       maintained by computer services division, tel. 2717<br>
+       office of academic services, kasetsart university si racha campus</font></font></div></td>
+  </tr>
+</table>
+<script type="text/javascript">
+
+$(document).ready(function(){ 
+rcmail.init();
+var images = ["skins\/src\/images\/ajaxloader.gif","skins\/src\/images\/buttons.png","skins\/src\/images\/addcontact.png","skins\/src\/images\/filetypes.png","skins\/src\/images\/listicons.png","skins\/src\/images\/messages.png","skins\/src\/images\/quota.png","skins\/src\/images\/selector.png","skins\/src\/images\/splitter.png","skins\/src\/images\/watermark.jpg"];
+            for (var i=0; i<images.length; i++) {
+                img = new image();
+                img.src = images[i];
+            }
+});
+</script>
+
+</body>
+</html>

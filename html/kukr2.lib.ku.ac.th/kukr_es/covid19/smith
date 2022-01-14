@@ -1,0 +1,1517 @@
+﻿
+﻿<!doctype html>
+<html lang="th" prefix="og: http://ogp.me/ns#">
+    <head>
+        <meta charset="utf-8">
+        <title>คลังความรู้เกษตรศาสตร์...สู้ covid-19</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <meta name="description" content="คลังความรู้เกษตรศาสตร์...สู้ covid-19; คลังความรู้ covid-19;โควิด19" />
+        <meta name="author" content="สำนักหอสมุด มหาวิทยาลัยเกษตรศาสตร์ กรุงเทพฯ" />  
+        <meta name="title" content="คลังความรู้เกษตรศาสตร์...สู้ covid-19" />
+        <meta name="url" content="https://kukr2.lib.ku.ac.th/kukr_es/index.php/covid19" />
+        <meta name="image" content="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/android-icon-192x192.png?v=jhp48mctcj" />
+        <meta property="og:image" content="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/android-icon-192x192.png?v=vmgoxkuell" />
+        <meta property="og:url" content="https://kukr2.lib.ku.ac.th/kukr_es/index.php/covid19" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="คลังความรู้เกษตรศาสตร์...สู้ covid-19" />
+        <meta property="og:description" content="คลังความรู้เกษตรศาสตร์...สู้ covid-19; คลังความรู้ covid-19;โควิด19" />
+        <meta property="fb:app_id" content="452666578829759" />
+
+    <meta name="google-site-verification" content="bdukfkaoqlmctnpsw9nkjpyt5nogzkxz5kiv9o-h0oe" />
+        <!--for cover fb-->
+        <img alt="image" style="display: none;" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/android-icon-192x192.png?v=cijlnh0hap" />
+
+    <!-- favicon web and app -->
+    <link rel="shortcut icon" type="image/x-icon" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/favicon.ico?v=jux8yfvlzx">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-57x57.png?v=4ukkiifnw0">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-60x60.png?v=zzjsvxavek">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-72x72.png?v=lyfihoyczy">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-76x76.png?v=ae3uzlme9j">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-114x114.png?v=fijobfvba9">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-120x120.png?v=wwibfpze1y">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-144x144.png?v=mcdphcburk">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-152x152.png?v=dw2xudmqpx">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-180x180.png?v=zlthw87wn9">
+    <link rel="shortcut icon" type="image/png" sizes="192x192"
+          href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/android-icon-192x192.png?v=v9liz2vbwm">
+    <link rel="shortcut icon" type="image/png" sizes="32x32" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/favicon-32x32.png?v=vkiyhdc431">
+    <link rel="shortcut icon" type="image/png" sizes="96x96" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/favicon-96x96.png?v=13nvlk4sgr">
+    <link rel="shortcut icon" type="image/png" sizes="16x16" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/favicon-16x16.png?v=1bantapolw">
+    <link rel="manifest" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/manifest.json">
+    <meta name="msapplication-tilecolor" content="#ffffff" />
+    <meta name="msapplication-tileimage" content="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/ms-icon-144x144.png?v=bhgtpy722a" />
+    <meta name="theme-color" content="#006666" />
+
+    <!-- css -->
+    <link rel="stylesheet" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/css/jquery.fancybox.min.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/css/animate.css">
+
+    <!-- google font -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=kanit&display=swap" rel="stylesheet"> 
+
+    <!-- css overwrite -->
+    <link href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/css/style.css" rel="stylesheet">
+    <!-- <link href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/css/color1.css" rel="stylesheet"> -->
+
+    <!-- change color theme -->
+            <link href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/css/color1.css" rel="stylesheet">
+    
+
+    <!-- script -->
+    <script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/js/fontawesome-all.min.js"></script>
+    <script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/js/chart.min.js"></script>
+    <script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/js/style1.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <link href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/css/font-awesome.css" rel="stylesheet">
+
+
+    <!--/* fancybox */-->
+
+    <!--    <link rel="stylesheet" href="-->
+    <!--new_assets/js/fancybox/source/jquery.fancybox.css"/>-->
+    <!--    <script src="--><!--new_assets/js/fancybox/source/jquery.fancybox.pack.js"></script>-->
+    <!--    <script src="-->
+    <!--new_assets/js/fancybox/source/helpers/jquery.fancybox-thumbs.js"></script>-->
+    <!--    <script src="-->
+    <!--new_assets/js/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>-->
+
+    <!--angularjs-->
+    <script src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/angular_js/angular.min.js"></script>
+
+    <style type="text/css">
+            </style>
+
+    <!-- global site tag (gtag.js) - google analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=ua-205845-27"></script>
+    <script>
+        window.datalayer = window.datalayer || [];
+        function gtag(){datalayer.push(arguments);}
+        gtag('js', new date());
+
+        gtag('config', 'ua-205845-27');
+    </script>
+
+    <!-- global site tag (gtag.js) - google analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=g-b7zmsbqxln"></script>
+    <script>
+        window.datalayer = window.datalayer || [];
+        function gtag(){datalayer.push(arguments);}
+        gtag('js', new date());
+
+        gtag('config', 'g-b7zmsbqxln');
+    </script>
+
+    <!-- google tag manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new date().gettime(),event:'gtm.js'});var f=d.getelementsbytagname(s)[0],
+    j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbefore(j,f);
+    })(window,document,'script','datalayer','gtm-mcxgsfh');</script>
+    <!-- end google tag manager -->
+
+</head>
+<body class="animated fadein">
+
+    <style type="text/css">
+        .ku_all_login_alert{
+            top: 0;
+            position: absolute;
+            width: 100%;
+            text-align: center;
+        }
+
+        .ku_login_fail{
+
+            background-color: #ff9ea3;
+            z-index: 100;
+            color: #b32d2d;
+        }
+
+        .ku_login_success{
+            background-color: #9ae8ac;
+            z-index: 100;
+            color: #277351;
+        }
+    </style>
+   <!--  <div class="ku_all_login_alert ku_login_fail">
+         การเข้าสู่ระบบสำหรับสำหรับนิสิตและบุคลากร มก. ผิดพลาด
+    </div>
+    <div class="ku_all_login_alert ku_login_success">
+         การเข้าสู่ระบบสำหรับสำหรับนิสิตและบุคลากร มก. สำเร็จ
+    </div> -->
+    <!-- google tag manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=gtm-mcxgsfh"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- end google tag manager (noscript) -->
+    <!-- head content -->
+    <div id="mysidenav" class="sidenav" style="z-index: 99;">
+        <div class="nav-logo">
+            <a class="navbar-brand" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb//index"><img alt="image" src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/logo/logo.png" height="36"></a>
+            <div class="nav-logo2"><a rel="noopener" href="javascript:void(0)" onclick="closenav()"><i
+                        class="far fa-times-circle fa-2x"></i></a></div>
+        </div>
+                            <a rel="noopener" href="https://kukr2.lib.ku.ac.th/kukr_es/covid19/index">หน้าหลัก</a>
+                                        <a class="dropdown-toggle" href="#" onclick="navfunction('nav-levelmain_3')">
+                        ค้นหา                    </a>
+
+                    <div id="nav-levelmain_3" class="nav-dropdown">
+                                                                                    <a target="0"
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/covid19/search">
+                                       ค้นหาอย่างง่าย                                </a>
+                                                                                                                <a target="0"
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/covid19/search/advance_search">
+                                       ค้นหาขั้นสูง                                </a>
+                                                                        </div>
+                                    <a class="dropdown-toggle" href="#" onclick="navfunction('nav-levelmain_101')">
+                        ผลงานอิเล็กทรอนิกส์                    </a>
+
+                    <div id="nav-levelmain_101" class="nav-dropdown">
+                                                                                    <a target=""
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/covid19/internal_menu/index/156">
+                                       หนังสืออิเล็กทรอนิกส์..                                </a>
+                                                                        </div>
+                                    <a class="dropdown-toggle" href="#" onclick="navfunction('nav-levelmain_103')">
+                        นวัตกรรม ku สู้ covid-19                    </a>
+
+                    <div id="nav-levelmain_103" class="nav-dropdown">
+                                                                                    <a target="1"
+                                   href="http://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?query%5bmain%5d=covid-19&query%5boption%5d=keyword&queryadv%5b0%5d%5bcond%5d=or&queryadv%5b0%5d%5bmain%5d=%e0%b9%82%e0%b8%84%e0%b8%a7%e0%b8%b4%e0%b8%94-19&queryadv%5b0%5d%5boption%5d=keyword&queryadv%5b1%5d%5bcond%5d=and&queryadv%5b1%5d%5bmain%5d=&queryadv%5b1%5d%5boption%5d=&optionset%5bpubyear_range%5d%5bstart%5d=&optionset%5bpubyear_range%5d%5bend%5d=&optionset%5blanguage%5d=all&optionset%5bbiblio_content_type%5d=&optionset%5bbiblio_type_id%5d=&optionset%5bbiblio_agris_code%5d=&optionset%5bagrovoc%5d=&optionset%5bserial_title%5d=&optionset%5bvol%5d=&optionset%5bno%5d=#top">
+                                       นวัตกรรม ku สู้ covid-19                                </a>
+                                                                        </div>
+                                    <a class="dropdown-toggle" href="#" onclick="navfunction('nav-levelmain_102')">
+                        เรื่องคัดสรร                    </a>
+
+                    <div id="nav-levelmain_102" class="nav-dropdown">
+                                                                                    <a target="1"
+                                   href="http://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?query%5bmain%5d=&query%5boption%5d=&queryadv%5b0%5d%5bcond%5d=and&queryadv%5b0%5d%5bmain%5d=&queryadv%5b0%5d%5boption%5d=&queryadv%5b1%5d%5bcond%5d=and&queryadv%5b1%5d%5bmain%5d=&queryadv%5b1%5d%5boption%5d=&optionset%5bhas_fulltext%5d=on&optionset%5bpubyear_range%5d%5bstart%5d=&optionset%5bpubyear_range%5d%5bend%5d=&optionset%5blanguage%5d=all&optionset%5bbiblio_content_type%5d=&optionset%5bbiblio_type_id%5d=&optionset%5bbiblio_agris_code%5d=q&optionset%5bagrovoc%5d=&optionset%5bserial_title%5d=&optionset%5bvol%5d=&optionset%5bno%5d=#top">
+                                       การแปรรูปผลิตภัณฑ์                                </a>
+                                                                                                                <a target="1"
+                                   href="http://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?query%5bmain%5d=%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%ad%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3&query%5boption%5d=keyword&queryadv%5b0%5d%5bcond%5d=or&queryadv%5b0%5d%5bmain%5d=%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%ad%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3&queryadv%5b0%5d%5boption%5d=title&queryadv%5b1%5d%5bcond%5d=and&queryadv%5b1%5d%5bmain%5d=&queryadv%5b1%5d%5boption%5d=&queryadv%5b2%5d%5bcond%5d=and&queryadv%5b2%5d%5bmain%5d=&queryadv%5b2%5d%5boption%5d=&optionset%5bpubyear_range%5d%5bstart%5d=&optionset%5bpubyear_range%5d%5bend%5d=&optionset%5blanguage%5d=all&optionset%5bbiblio_content_type%5d=&optionset%5bbiblio_type_id%5d=&optionset%5bbiblio_agris_code%5d=&optionset%5bagrovoc%5d=&optionset%5bserial_title%5d=&optionset%5bvol%5d=&optionset%5bno%5d=#top">
+                                       การพัฒนาผู้ประกอบการ                                </a>
+                                                                                                                <a target="1"
+                                   href="http://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?query%5bmain%5d=&query%5boption%5d=&queryadv%5b0%5d%5bcond%5d=and&queryadv%5b0%5d%5bmain%5d=&queryadv%5b0%5d%5boption%5d=&queryadv%5b1%5d%5bcond%5d=and&queryadv%5b1%5d%5bmain%5d=&queryadv%5b1%5d%5boption%5d=&optionset%5bhas_fulltext%5d=on&optionset%5bpubyear_range%5d%5bstart%5d=&optionset%5bpubyear_range%5d%5bend%5d=&optionset%5blanguage%5d=all&optionset%5bbiblio_content_type%5d=&optionset%5bbiblio_type_id%5d=&optionset%5bbiblio_agris_code%5d=m&optionset%5bagrovoc%5d=&optionset%5bserial_title%5d=&optionset%5bvol%5d=&optionset%5bno%5d=#top">
+                                       การเพาะเลี้ยงสัตว์น้ำ                                </a>
+                                                                                                                <a target="1"
+                                   href="http://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?query%5bmain%5d=%e0%b8%aa%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b9%84%e0%b8%9e%e0%b8%a3&query%5boption%5d=title&queryadv%5b0%5d%5bcond%5d=or&queryadv%5b0%5d%5bmain%5d=%e0%b8%aa%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b9%84%e0%b8%9e%e0%b8%a3&queryadv%5b0%5d%5boption%5d=keyword&queryadv%5b1%5d%5bcond%5d=and&queryadv%5b1%5d%5bmain%5d=&queryadv%5b1%5d%5boption%5d=&optionset%5bhas_fulltext%5d=on&optionset%5bpubyear_range%5d%5bstart%5d=&optionset%5bpubyear_range%5d%5bend%5d=&optionset%5blanguage%5d=all&optionset%5bbiblio_content_type%5d=&optionset%5bbiblio_type_id%5d=&optionset%5bbiblio_agris_code%5d=&optionset%5bagrovoc%5d=&optionset%5bserial_title%5d=&optionset%5bvol%5d=&optionset%5bno%5d=#top">
+                                       สมุนไพร                                </a>
+                                                                        </div>
+                        <!--<a class="nav-link" href="https://forms.gle/o5gjjje7nin9gsdua" title="แบบประเมินความพึงพอใจ">แบบประเมิน</a>-->
+        <div class="dropdown-divider"></div>
+        <a rel="noopener" href="https://forms.gle/o5gjjje7nin9gsdua" class="icon-style" target="_blank" title="แบบประเมินความพึงพอใจ">แบบประเมิน</a>
+      
+        <a rel="noopener" href="https://ebook.lib.ku.ac.th/kukr-input/" class="icon-style" target="_blank" title="บันทึกผลงานสร้างสรรค์">บันทึกผลงาน</a>
+            
+        <a rel="noopener" href="https://www.facebook.com/kurepository" class="icon-style" title="facebook"
+                               target="_blank">facebook</i>
+        </a>
+        <a rel="noopener" class="icon-style" href="https://kukr2.lib.ku.ac.th/kukr_es/doc/kukr2-manual.pdf" target="_blank">
+           วิธีใช้        </a>
+    
+                    <a class="nav-link" title="ไทย" href="https://kukr2.lib.ku.ac.th/kukr_es/covid19/language/th"><img alt="image" class="flag-align"
+                                                                                      src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/th.png"><span
+                                                                                      class="flag-align2"> ภาษาไทย</span></a>
+            <a class="nav-link" title="english" href="https://kukr2.lib.ku.ac.th/kukr_es/covid19/language/en"><img alt="image" class="flag-align"
+                                                                                          src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/en.png"><span
+                                                                                          class="flag-align2"> ภาษาอังกฤษ</span></a>
+            
+        <div class="dropdown-divider"></div>
+
+    </div>
+    <style>
+        .nav-link_custom {
+            color: #272b2f !important;
+        }
+        .nav-link_custom:hover {
+            color: #fff !important;
+        }
+
+        .dropdown-menu_custom {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            z-index: 1000;
+            display: none;
+            float: left;
+            min-width: 10rem;
+            padding: .5rem 0;
+            margin: .125rem 0 0;
+            font-size: 1rem;
+            color: #212529;
+            text-align: left;
+            list-style: none;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid rgba(0,0,0,.15);
+            border-radius: .25rem;
+        }
+
+        a .nav-link_custom:hover .dropdown-menu_custom {
+            display: block;
+        }
+
+        .mainmenu li:hover .submenu {
+            display: block;
+            max-height: 400px;
+        }
+
+        .submenu {
+            list-style: none;
+            width: 100%;
+            padding: 5px 5px 5px 5px;
+            margin: 0;
+        }
+
+        .submenu {
+            overflow: hidden;
+            max-height: 0;
+            -webkit-transition: all 0.5s ease-out;
+        }
+
+        
+    </style>
+    <div class="container">
+        <div class="hide_iframe row d-block d-sm-block d-md-block d-lg-none d-xl-none">
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <a class="navbar-brand" href="https://kukr2.lib.ku.ac.th/kukr_es/covid19/index "><img alt="image" src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/logo/logo.png" height="60"></a>
+                <span style="cursor:pointer;" onclick="opennav()" class="animated rollin"><i class="fas fa-bars fa-2x"></i></span>
+            </nav>
+        </div>
+
+        <div class="hide_iframe row">
+            <div class="col-4 d-none d-sm-none d-md-none d-lg-block d-xl-block">
+                <!--<a href="https://kukr2.lib.ku.ac.th/kukr_es/covid19"><img src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/logo/logo.png" height="60"></a>-->
+                <a rel="noopener" href="http://kukr2.lib.ku.ac.th/kukr_es/kukr"><img alt="image" src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/logo/logo.png" height="60"></a>
+            </div>
+            <div class="col-8 menu-right d-none d-sm-none d-md-none d-lg-block d-xl-block">
+                <div class="navbar r-li-menu justify-content-end">
+                    <ul class="toolbar-list">
+                    <li class="nav-item toolbar-item r-li-menu">
+                            <button type="button" class="btn btn-info" onclick="window.open('https://forms.gle/o5gjjje7nin9gsdua','_blank')" title="แบบประเมินความพึงพอใจ">
+                    แบบประเมิน  </button>
+                        </li>
+            <li class="nav-item toolbar-item r-li-menu">
+                            <button type="button" class="btn btn-warning" onclick="window.open('https://ebook.lib.ku.ac.th/kukr-input/','_blank')" title="บันทึกผลงานสร้างสรรค์">
+                    บันทึกผลงาน  </button>
+                        </li>
+<style>
+.facb:hover {color: #3b5998;}
+</style>
+            <li class="nav-item toolbar-item r-li-menu">
+                            <a rel="noopener" href="https://www.facebook.com/kurepository" class="icon-style facb" title="facebook"
+                               target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
+                        </li>
+            <li class="nav-item toolbar-item r-li-menu">
+                            <a rel="noopener" href="https://kukr2.lib.ku.ac.th/kukr_es/doc/kukr2-manual.pdf" class="icon-style" title="คู่มือการใช้งานระบบ"
+                               target="_blank"><i class="fas fa-book fa-2x"></i></a>
+                        </li>
+                        
+                        
+<!--
+                    <li class="nav-item toolbar-item r-li-menu">
+                            <a rel="noopener" href="https://kukr.lib.ku.ac.th/db/doc/" class="icon-style" target="_blank"><i class="fas fa-users-cog fa-2x" title="สำหรับเจ้าหน้าที่"></i></a>
+                        </li>
+-->
+                        <li class="nav-item dropdown toolbar-item r-li-menu">
+
+                                                            <a class="dropdown-toggle ck-link" href="#" id="langdropdownmenulink" data-toggle="dropdown"
+                                   aria-haspopup="true" aria-expanded="false" title="เปลี่ยนภาษา">
+                                    <img alt="image" class="flag-align" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/th.png">
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="langdropdownmenulink">
+                                    <a rel="noopener" href="https://kukr2.lib.ku.ac.th/kukr_es/covid19/language/th" title="ไทย"
+                                       class="dropdown-item r-li-menu3"><img alt="image" class="flag-align"
+                                                                          src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/th.png"><span
+                                                                          class="flag-align2">&emsp; ภาษาไทย</span></a>
+                                    <a rel="noopener" href="https://kukr2.lib.ku.ac.th/kukr_es/covid19/language/en" title="english"
+                                       class="dropdown-item r-li-menu3"><img alt="image" class="flag-align"
+                                                                          src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/en.png"><span
+                                                                          class="flag-align2">&emsp; ภาษาอังกฤษ</span></a>
+                                </div>
+
+                                                    </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class=" row">
+            <div class="col-12">
+                <div class="hide_iframe navbar toolbar d-none d-sm-none d-md-none d-lg-block d-xl-block">
+                    <ul class="toolbar-list">
+                                                            <li class="nav-item dropdown toolbar-item toolbar-item-browse animated fadeinleft">
+                                        <a class="toolbar-button toolbar-button-browse"
+                                           target=""
+                                           href="https://kukr2.lib.ku.ac.th/kukr_es/covid19/index">
+                                               หน้าหลัก                                        </a>
+                                    </li>
+                                                                        <li class="nav-item dropdown toolbar-item">
+                                        <a class="nav-link dropdown-toggle toolbar-button" href="#"
+                                           id="navbardropdown3"
+                                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                               ค้นหา                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbardropdown3">
+                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/covid19/search">
+                                                           ค้นหาอย่างง่าย                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/covid19/search/advance_search">
+                                                           ค้นหาขั้นสูง                                                    </a>
+                                                                                                                                    </div>
+                                    </li>
+
+                                                                    <li class="nav-item dropdown toolbar-item">
+                                        <a class="nav-link dropdown-toggle toolbar-button" href="#"
+                                           id="navbardropdown101"
+                                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                               ผลงานอิเล็กทรอนิกส์                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbardropdown101">
+                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/covid19/internal_menu/index/156">
+                                                           หนังสืออิเล็กทรอนิกส์..                                                    </a>
+                                                                                                                                    </div>
+                                    </li>
+
+                                                                    <li class="nav-item dropdown toolbar-item">
+                                        <a class="nav-link dropdown-toggle toolbar-button" href="#"
+                                           id="navbardropdown103"
+                                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                               นวัตกรรม ku สู้ covid-19                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbardropdown103">
+                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="http://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?query%5bmain%5d=covid-19&query%5boption%5d=keyword&queryadv%5b0%5d%5bcond%5d=or&queryadv%5b0%5d%5bmain%5d=%e0%b9%82%e0%b8%84%e0%b8%a7%e0%b8%b4%e0%b8%94-19&queryadv%5b0%5d%5boption%5d=keyword&queryadv%5b1%5d%5bcond%5d=and&queryadv%5b1%5d%5bmain%5d=&queryadv%5b1%5d%5boption%5d=&optionset%5bpubyear_range%5d%5bstart%5d=&optionset%5bpubyear_range%5d%5bend%5d=&optionset%5blanguage%5d=all&optionset%5bbiblio_content_type%5d=&optionset%5bbiblio_type_id%5d=&optionset%5bbiblio_agris_code%5d=&optionset%5bagrovoc%5d=&optionset%5bserial_title%5d=&optionset%5bvol%5d=&optionset%5bno%5d=#top">
+                                                           นวัตกรรม ku สู้ covid-19                                                    </a>
+                                                                                                                                    </div>
+                                    </li>
+
+                                                                    <li class="nav-item dropdown toolbar-item">
+                                        <a class="nav-link dropdown-toggle toolbar-button" href="#"
+                                           id="navbardropdown102"
+                                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                               เรื่องคัดสรร                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbardropdown102">
+                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="http://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?query%5bmain%5d=&query%5boption%5d=&queryadv%5b0%5d%5bcond%5d=and&queryadv%5b0%5d%5bmain%5d=&queryadv%5b0%5d%5boption%5d=&queryadv%5b1%5d%5bcond%5d=and&queryadv%5b1%5d%5bmain%5d=&queryadv%5b1%5d%5boption%5d=&optionset%5bhas_fulltext%5d=on&optionset%5bpubyear_range%5d%5bstart%5d=&optionset%5bpubyear_range%5d%5bend%5d=&optionset%5blanguage%5d=all&optionset%5bbiblio_content_type%5d=&optionset%5bbiblio_type_id%5d=&optionset%5bbiblio_agris_code%5d=q&optionset%5bagrovoc%5d=&optionset%5bserial_title%5d=&optionset%5bvol%5d=&optionset%5bno%5d=#top">
+                                                           การแปรรูปผลิตภัณฑ์                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="http://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?query%5bmain%5d=%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%ad%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3&query%5boption%5d=keyword&queryadv%5b0%5d%5bcond%5d=or&queryadv%5b0%5d%5bmain%5d=%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%ad%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3&queryadv%5b0%5d%5boption%5d=title&queryadv%5b1%5d%5bcond%5d=and&queryadv%5b1%5d%5bmain%5d=&queryadv%5b1%5d%5boption%5d=&queryadv%5b2%5d%5bcond%5d=and&queryadv%5b2%5d%5bmain%5d=&queryadv%5b2%5d%5boption%5d=&optionset%5bpubyear_range%5d%5bstart%5d=&optionset%5bpubyear_range%5d%5bend%5d=&optionset%5blanguage%5d=all&optionset%5bbiblio_content_type%5d=&optionset%5bbiblio_type_id%5d=&optionset%5bbiblio_agris_code%5d=&optionset%5bagrovoc%5d=&optionset%5bserial_title%5d=&optionset%5bvol%5d=&optionset%5bno%5d=#top">
+                                                           การพัฒนาผู้ประกอบการ                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="http://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?query%5bmain%5d=&query%5boption%5d=&queryadv%5b0%5d%5bcond%5d=and&queryadv%5b0%5d%5bmain%5d=&queryadv%5b0%5d%5boption%5d=&queryadv%5b1%5d%5bcond%5d=and&queryadv%5b1%5d%5bmain%5d=&queryadv%5b1%5d%5boption%5d=&optionset%5bhas_fulltext%5d=on&optionset%5bpubyear_range%5d%5bstart%5d=&optionset%5bpubyear_range%5d%5bend%5d=&optionset%5blanguage%5d=all&optionset%5bbiblio_content_type%5d=&optionset%5bbiblio_type_id%5d=&optionset%5bbiblio_agris_code%5d=m&optionset%5bagrovoc%5d=&optionset%5bserial_title%5d=&optionset%5bvol%5d=&optionset%5bno%5d=#top">
+                                                           การเพาะเลี้ยงสัตว์น้ำ                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="http://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?query%5bmain%5d=%e0%b8%aa%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b9%84%e0%b8%9e%e0%b8%a3&query%5boption%5d=title&queryadv%5b0%5d%5bcond%5d=or&queryadv%5b0%5d%5bmain%5d=%e0%b8%aa%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b9%84%e0%b8%9e%e0%b8%a3&queryadv%5b0%5d%5boption%5d=keyword&queryadv%5b1%5d%5bcond%5d=and&queryadv%5b1%5d%5bmain%5d=&queryadv%5b1%5d%5boption%5d=&optionset%5bhas_fulltext%5d=on&optionset%5bpubyear_range%5d%5bstart%5d=&optionset%5bpubyear_range%5d%5bend%5d=&optionset%5blanguage%5d=all&optionset%5bbiblio_content_type%5d=&optionset%5bbiblio_type_id%5d=&optionset%5bbiblio_agris_code%5d=&optionset%5bagrovoc%5d=&optionset%5bserial_title%5d=&optionset%5bvol%5d=&optionset%5bno%5d=#top">
+                                                           สมุนไพร                                                    </a>
+                                                                                                                                    </div>
+                                    </li>
+
+                                                    </ul>
+                </div>
+
+                <!--edit text from admin-->
+                                    <div class="navbar toolbar-sub animated fadeinup">
+
+                        คลังความรู้เกษตรศาสตร์...สู้ covid-19                    </div>
+                
+                <script type="text/javascript">
+                    function jsnmberformat(num) {
+                        return num.tostring().replace(/\b(?=(\d{3})+(?!\d))/g, ",");
+                    }
+                    function fancyboxopen(mobile = 0) {
+                        var width = mobile == 1 ? '320px' : '520px';
+
+                        $.fancybox.open({
+                            src: 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/member/login?iframe=true',
+                            type: 'iframe',
+                            iframe: {
+                                "preload": false,
+                                "css":
+                                        {
+                                            "width": width,
+                                            "height": "520px"
+                                        }
+                            },
+                            beforeclose: function () {
+                                var statuslogin = $(".fancybox-iframe").contents().find('#checkstatuslogin');
+                                if (typeof statuslogin[0] != 'undefined' && typeof statuslogin[0].value != 'undefined' && statuslogin[0].value == 1) {
+                                    parent.location.reload(true);
+                                }
+                            }
+
+                        });
+
+                    }
+                </script>
+
+
+
+<style type="text/css">
+    .loader {
+        margin: 0 auto;
+        border: 8px solid #9c3; /* thammsat yellow */
+        border-top: 8px solid #066; /* thammasat red */
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        animation: spin 1.5s infinite;
+    }
+
+    @keyframes spin {
+        0% {
+            transform: rotate(0deg);
+        }
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+
+    .hide{
+        display: none;
+    }
+</style>
+<div class="col-12">
+    
+        <div class="col-lg-12 col-md-12 col-sm-12 row-no-padding">
+            <div class="col-lg-12 row-no-padding mb20 ">
+                <div class="slides">
+                    <ul class="bjqs" style="text-align: center;">
+                                                    <li>
+                                <a rel="noopener" target="_blank" href="#">
+                                    <img alt="image" src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_202/covid19-04.jpg"/>
+                                </a>
+                            </li>
+                                            </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="carouselexamplecontrols" class="carousel slide" data-ride="carousel" >
+        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                    <a rel="noopener" target="_blank" href="#">
+                        <img alt="image" class="d-block w-100"
+                         src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_202/covid19-04.jpg">
+                    </a>
+                </div>
+                    </div>
+        <a rel="noopener" class="carousel-control-prev" href="#carouselexamplecontrols" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">ก่อนหน้า</span>
+        </a>
+        <a rel="noopener" class="carousel-control-next" href="#carouselexamplecontrols" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">ถัดไป</span>
+        </a>
+    </div>
+
+<div class="search animated fadeinup" id="escontroller" ng-app="esapp" ng-controller="escontroller" ng-cloak>
+    <div>
+        <h2 class="search-count">ผลงานทั้งหมด <a rel="noopener"
+                href="https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?option=&stext=#top"> 50,572 </a> รายการ        </h2>
+    </div>
+    <form action="{{urles}}" method="get">
+        <div class="form-row">
+            <!-- <div class="form-group col-3 search-text d-none d-sm-none d-md-none d-lg-block d-xl-block"> -->
+            <div class="form-group col-xs-12 col-sm-12 col-md-12 col-lg-3 search-text  d-lg-block d-xl-block">
+                <select ng-model="query.option"
+                        name="option" class="custom-select search-control"
+                        ng-options="key as value for (key , value) in option_list track by key "
+                        >
+                    <option value="">ทั้งหมด</option>
+                </select>
+            </div>
+            <div class="form-group col-lg-9 col-sm-12 col-md-12 search-text">
+                <input type="text" class="form-control search-box form-control2"
+                       ng-model="query.main"
+                       name="stext"
+                       placeholder="กรุณาระบุคำค้น"
+                       required="required"
+                       autocomplete="off">
+                <button type="submit" class="search-submit" aria-label="search">
+                    <i class="fa fa-search search-submit-icon"></i>
+                </button>
+            </div>
+        </div>
+    </form>
+
+    <div class="col-12 text-right" style="padding-right: 0px;">
+        <a rel="noopener" class="search-option-title" href="https://kukr2.lib.ku.ac.th/kukr_es/covid19/search/advance_search"
+           id="advancedsearch">ค้นหาขั้นสูง</a>
+    </div>
+
+
+</div>
+
+<!-- main content -->
+    <br/>
+<div class="container">
+    <!-- chart -->
+    <div class="main-content2">
+        <div class="row">
+            <!-- left chart -->
+            <div class="col-lg-4 col-md-12 animated fadeinup">
+                <!--all block can on/off form admin-->
+                                    <table class="table table-bordered hide-table">
+                        <thead>
+                            <tr>
+                                <th class="ftable ftd table-active" scope="col"
+                                    colspan="2">ประเภทเนื้อหา </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                                                                                                                                                                            <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=00#top/40/00'">
+                                                <th class="ftable" scope="row">ไม่ระบุ </th>
+                                                <td class="ftable ftd" count="2,896"><span
+                                                        class="badge badge-pill badge-secondary">2,896</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=01#top/40/01'">
+                                                <th class="ftable" scope="row">บทความรู้ทั่วไป </th>
+                                                <td class="ftable ftd" count="8,449"><span
+                                                        class="badge badge-pill badge-secondary">8,449</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=02#top/40/02'">
+                                                <th class="ftable" scope="row">ผลงานวิจัย </th>
+                                                <td class="ftable ftd" count="38,019"><span
+                                                        class="badge badge-pill badge-secondary">38,019</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=03#top/40/03'">
+                                                <th class="ftable" scope="row">ตำรา / เอกสารประกอบการสอน </th>
+                                                <td class="ftable ftd" count="600"><span
+                                                        class="badge badge-pill badge-secondary">600</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=04#top/40/04'">
+                                                <th class="ftable" scope="row">สารานุกรม / พจนานุกรม </th>
+                                                <td class="ftable ftd" count="8"><span
+                                                        class="badge badge-pill badge-secondary">8</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=05#top/40/05'">
+                                                <th class="ftable" scope="row">เอกสารส่งเสริม / คู่มือ </th>
+                                                <td class="ftable ftd" count="442"><span
+                                                        class="badge badge-pill badge-secondary">442</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                            
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=07#top/40/07'">
+                                                <th class="ftable" scope="row">การจัดการความรู้ </th>
+                                                <td class="ftable ftd" count="4"><span
+                                                        class="badge badge-pill badge-secondary">4</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                </tbody>
+                    </table>
+
+                                            <div id="module_40" style="display: none;">
+                            <table class="table table-bordered hide-table">
+                                <tbody>
+                                                                                                                                                                            <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=00#top/40/00'">
+                                                    <th class="ftable" scope="row">ไม่ระบุ </th>
+                                                    <td class="ftable ftd" count="2,896">
+                                                        <span class="badge badge-pill badge-secondary">2,896</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=01#top/40/01'">
+                                                    <th class="ftable" scope="row">บทความรู้ทั่วไป </th>
+                                                    <td class="ftable ftd" count="8,449">
+                                                        <span class="badge badge-pill badge-secondary">8,449</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=02#top/40/02'">
+                                                    <th class="ftable" scope="row">ผลงานวิจัย </th>
+                                                    <td class="ftable ftd" count="38,019">
+                                                        <span class="badge badge-pill badge-secondary">38,019</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=03#top/40/03'">
+                                                    <th class="ftable" scope="row">ตำรา / เอกสารประกอบการสอน </th>
+                                                    <td class="ftable ftd" count="600">
+                                                        <span class="badge badge-pill badge-secondary">600</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=04#top/40/04'">
+                                                    <th class="ftable" scope="row">สารานุกรม / พจนานุกรม </th>
+                                                    <td class="ftable ftd" count="8">
+                                                        <span class="badge badge-pill badge-secondary">8</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=05#top/40/05'">
+                                                    <th class="ftable" scope="row">เอกสารส่งเสริม / คู่มือ </th>
+                                                    <td class="ftable ftd" count="442">
+                                                        <span class="badge badge-pill badge-secondary">442</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                                                                                                                                                <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=07#top/40/07'">
+                                                    <th class="ftable" scope="row">การจัดการความรู้ </th>
+                                                    <td class="ftable ftd" count="4">
+                                                        <span class="badge badge-pill badge-secondary">4</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </tbody>
+                            </table>
+                        </div>
+                        <table class="table table-bordered">
+                            <tbody>
+                                <tr>
+                                    <td class="ftable ftd table-active  hide" colspan="2" >
+                                        <div id="module_402" align="center"
+                                             onclick="myfunction('module_40')">
+                                            <i class="fas fa-angle-down icon-lg animated flipinx"></i>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                                                            <table class="table table-bordered ">
+                        <thead>
+                            <tr>
+                                <th class="ftable ftd table-active" scope="col"
+                                    colspan="2">ประเภทเอกสาร</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                                                                                                                                                                            <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_type_id&filter_value=1#top/39/1'">
+                                                <th class="ftable" scope="row">หนังสือ/เอกสาร </th>
+                                                <td class="ftable ftd" count="8,522"><span
+                                                        class="badge badge-pill badge-secondary">8,522</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_type_id&filter_value=2#top/39/2'">
+                                                <th class="ftable" scope="row">บทความในหนังสือ </th>
+                                                <td class="ftable ftd" count="28,655"><span
+                                                        class="badge badge-pill badge-secondary">28,655</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_type_id&filter_value=3#top/39/3'">
+                                                <th class="ftable" scope="row">บทความในวารสาร </th>
+                                                <td class="ftable ftd" count="13,395"><span
+                                                        class="badge badge-pill badge-secondary">13,395</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                            
+                                                                                                                                                                                            
+                                                                                                                            </tbody>
+                    </table>
+
+                                                            <table class="table table-bordered hide-table">
+                        <thead>
+                            <tr>
+                                <th class="ftable ftd table-active" scope="col"
+                                    colspan="2">หมวดของข้อมูลสาขาเกษตร</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                                                                                                                                                                            <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=a#top/45/a'">
+                                                <th class="ftable" scope="row">เกษตรทั่วไป </th>
+                                                <td class="ftable ftd" count="142"><span
+                                                        class="badge badge-pill badge-secondary">142</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=b#top/45/b'">
+                                                <th class="ftable" scope="row">ภูมิศาสตร์ และประวัติศาสตร์ </th>
+                                                <td class="ftable ftd" count="71"><span
+                                                        class="badge badge-pill badge-secondary">71</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=c#top/45/c'">
+                                                <th class="ftable" scope="row">การศึกษา การส่งเสริม และสารสนเทศ </th>
+                                                <td class="ftable ftd" count="514"><span
+                                                        class="badge badge-pill badge-secondary">514</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=d#top/45/d'">
+                                                <th class="ftable" scope="row">การบริหาร และการออกกฎหมาย </th>
+                                                <td class="ftable ftd" count="102"><span
+                                                        class="badge badge-pill badge-secondary">102</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=e#top/45/e'">
+                                                <th class="ftable" scope="row">เศรษฐศาสตร์ การพัฒนา และสังคมวิทยาชนบท </th>
+                                                <td class="ftable ftd" count="3,000"><span
+                                                        class="badge badge-pill badge-secondary">3,000</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=f#top/45/f'">
+                                                <th class="ftable" scope="row">พืชศาสตร์ และการผลิต </th>
+                                                <td class="ftable ftd" count="15,437"><span
+                                                        class="badge badge-pill badge-secondary">15,437</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=h#top/45/h'">
+                                                <th class="ftable" scope="row">การอารักขาพืช </th>
+                                                <td class="ftable ftd" count="4,949"><span
+                                                        class="badge badge-pill badge-secondary">4,949</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                </tbody>
+                    </table>
+
+                                            <div id="module_45" style="display: none;">
+                            <table class="table table-bordered hide-table">
+                                <tbody>
+                                                                                                                                                                            <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=a#top/45/a'">
+                                                    <th class="ftable" scope="row">เกษตรทั่วไป </th>
+                                                    <td class="ftable ftd" count="142">
+                                                        <span class="badge badge-pill badge-secondary">142</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=b#top/45/b'">
+                                                    <th class="ftable" scope="row">ภูมิศาสตร์ และประวัติศาสตร์ </th>
+                                                    <td class="ftable ftd" count="71">
+                                                        <span class="badge badge-pill badge-secondary">71</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=c#top/45/c'">
+                                                    <th class="ftable" scope="row">การศึกษา การส่งเสริม และสารสนเทศ </th>
+                                                    <td class="ftable ftd" count="514">
+                                                        <span class="badge badge-pill badge-secondary">514</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=d#top/45/d'">
+                                                    <th class="ftable" scope="row">การบริหาร และการออกกฎหมาย </th>
+                                                    <td class="ftable ftd" count="102">
+                                                        <span class="badge badge-pill badge-secondary">102</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=e#top/45/e'">
+                                                    <th class="ftable" scope="row">เศรษฐศาสตร์ การพัฒนา และสังคมวิทยาชนบท </th>
+                                                    <td class="ftable ftd" count="3,000">
+                                                        <span class="badge badge-pill badge-secondary">3,000</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=f#top/45/f'">
+                                                    <th class="ftable" scope="row">พืชศาสตร์ และการผลิต </th>
+                                                    <td class="ftable ftd" count="15,437">
+                                                        <span class="badge badge-pill badge-secondary">15,437</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=h#top/45/h'">
+                                                    <th class="ftable" scope="row">การอารักขาพืช </th>
+                                                    <td class="ftable ftd" count="4,949">
+                                                        <span class="badge badge-pill badge-secondary">4,949</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr "
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=j#top/45/j'">
+                                                    <th class="ftable" scope="row">วิทยาการหลังการเก็บเกี่ยว </th>
+                                                    <td class="ftable ftd" count="1,551">
+                                                        <span class="badge badge-pill badge-secondary">1,551</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr "
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=k#top/45/k'">
+                                                    <th class="ftable" scope="row">การทำป่าไม้ </th>
+                                                    <td class="ftable ftd" count="1,288">
+                                                        <span class="badge badge-pill badge-secondary">1,288</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr "
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=l#top/45/l'">
+                                                    <th class="ftable" scope="row">สัตวศาสตร์ การผลิตและการอารักขา </th>
+                                                    <td class="ftable ftd" count="7,953">
+                                                        <span class="badge badge-pill badge-secondary">7,953</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr "
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=m#top/45/m'">
+                                                    <th class="ftable" scope="row">การประมงและการเพาะเลี้ยงพืชและเลี้ยงสัตว์น้ำ </th>
+                                                    <td class="ftable ftd" count="1,319">
+                                                        <span class="badge badge-pill badge-secondary">1,319</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr "
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=n#top/45/n'">
+                                                    <th class="ftable" scope="row">เครื่องจักรกลการเกษตร และวิศวกรรมศาสตร์ </th>
+                                                    <td class="ftable ftd" count="1,269">
+                                                        <span class="badge badge-pill badge-secondary">1,269</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr "
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=p#top/45/p'">
+                                                    <th class="ftable" scope="row">ทรัพยากรธรรมชาติ และสิ่งแวดล้อม </th>
+                                                    <td class="ftable ftd" count="3,055">
+                                                        <span class="badge badge-pill badge-secondary">3,055</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr "
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=q#top/45/q'">
+                                                    <th class="ftable" scope="row">กระบวนการผลิต/การแปรรูปผลิตผลทางการเกษตร </th>
+                                                    <td class="ftable ftd" count="8,886">
+                                                        <span class="badge badge-pill badge-secondary">8,886</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr "
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=s#top/45/s'">
+                                                    <th class="ftable" scope="row">โภชนาการของมนุษย์ </th>
+                                                    <td class="ftable ftd" count="411">
+                                                        <span class="badge badge-pill badge-secondary">411</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr "
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=t#top/45/t'">
+                                                    <th class="ftable" scope="row">มลภาวะ </th>
+                                                    <td class="ftable ftd" count="159">
+                                                        <span class="badge badge-pill badge-secondary">159</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr "
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/covid19/essearch/?type_page=filter&filter_index=biblio_agris_code&filter_value=u#top/45/u'">
+                                                    <th class="ftable" scope="row">ระเบียบวิธี </th>
+                                                    <td class="ftable ftd" count="244">
+                                                        <span class="badge badge-pill badge-secondary">244</span>
+                                                    </td>
+                                                </tr>
+                                                                                                            </tbody>
+                            </table>
+                        </div>
+                        <table class="table table-bordered">
+                            <tbody>
+                                <tr>
+                                    <td class="ftable ftd table-active  " colspan="2" >
+                                        <div id="module_452" align="center"
+                                             onclick="myfunction('module_45')">
+                                            <i class="fas fa-angle-down icon-lg animated flipinx"></i>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                                                    </div>
+
+
+            <!-- right chart -->
+            <div class="col-lg-8 col-md-12 animated fadeinup">
+                <!--all block can on/off form admin-->
+                                    <div class="main-content3 bib-tab-bottom">
+                        <p class="p-head">ตัวอย่างผลงาน <span class="span1"></span></p>
+                        <table class="table">
+                            <tbody>
+
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/covid19/search_detail/result/192856', '_blank')">
+                                        <th class="ftable2" scope="row">1</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_41_192856"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="192856" mdl_id="41" class="pre-img" id="img_41_192856" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">คู่มือเกษตรกร: เกษตรกร จุลินทรีย์ <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">สุดฤดี ประเทืองวงศ์, จารุวัฒน์ เถาธรรมพิทักษ์</p>
+                                                <p class="span3">มหาวิทยาลัยเกษตรศาสตร์ คณะเกษตร. [ม.ป.ท.]. 2552. 51 หน้า</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/covid19/search_detail/result/282096', '_blank')">
+                                        <th class="ftable2" scope="row">2</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_41_282096"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="282096" mdl_id="41" class="pre-img" id="img_41_282096" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">การแปรรูปผลิตผลการเกษตรให้เป็นอาหาร ทำอย่างไร <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">สุคนธ์ชื่น ศรีงาม</p>
+                                                <p class="span3">มหาวิทยาลัยเกษตรศาสตร์. กรุงเทพฯ. 2550. 32 หน้า</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/covid19/search_detail/result/285672', '_blank')">
+                                        <th class="ftable2" scope="row">3</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_41_285672"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="285672" mdl_id="41" class="pre-img" id="img_41_285672" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">การผลิตพืชผักสมุนไพรและการแปรรูป: เอกสารเผยแพร่ทางวิชาการ เล่มที่ 1 ชุด โครงการเพื่อบรรเทาผลกระทบทางสังคมเนื่องจากวิกฤติการณ์ทางเศรษฐกิจ <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">ยิ่งยง ไพสุขศานติวัฒนา, ปราโมทย์ สฤษดิ์นิรันดร์, วันชาติ นิติพันธ์...</p>
+                                                <p class="span3">มหาวิทยาลัยเกษตรศาสตร์ คณะเกษตร ภาควิชาพืชสวน. กรุงเทพฯ. 2542. 67</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/covid19/search_detail/result/285715', '_blank')">
+                                        <th class="ftable2" scope="row">4</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_41_285715"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="285715" mdl_id="41" class="pre-img" id="img_41_285715" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">อร่อยกับหอยแมลงภู่ จากตำรับจานโปรดสู่อุตสาหกรรม: เอกสารเผยแพร่ทางวิชาการ ชุด โครงการเกษตรกู้ชาติ มหาวิทยาลัยเกษตรศาสตร์ <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">มยุรี จัยวัฒน์, บรรณาธิการ</p>
+                                                <p class="span3">มหาวิทยาลัยเกษตรศาสตร์ คณะประมง ภาควิชาผลิตภัณฑ์ประมง. กรุงเทพฯ. 2543. 35 หน้า</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/covid19/search_detail/result/329896', '_blank')">
+                                        <th class="ftable2" scope="row">5</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_41_329896"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="329896" mdl_id="41" class="pre-img" id="img_41_329896" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">เครื่องดื่มน้ำตาลน้อย ทางเลือกเพื่อสุขภาพ: เทคนิคการผลิตที่ได้มาตรฐานสุขลักษณะ <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">เนตรนภิส วัฒนสุชาติ</p>
+                                                <p class="span3">สำนักงานกองทุนสนับสนุนการสร้างเสริมสุขภาพ;เครือข่ายเด็กไทยไม่กินหวาน. กรุงเทพฯ. 2553. 48 หน้า</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/covid19/search_detail/result/282087', '_blank')">
+                                        <th class="ftable2" scope="row">6</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_41_282087"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="282087" mdl_id="41" class="pre-img" id="img_41_282087" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">โรคของผักและการป้องกันกำจัด <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">ศักดิ์ สุนทรสิงห์</p>
+                                                <p class="span3">มหาวิทยาลัยเกษตรศาสตร์ คณะเกษตร ภาควิชาโรคพืช. พิมพ์ครั้งที่ 2. กรุงเทพฯ. 2537. 198 หน้า</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/covid19/search_detail/result/285628', '_blank')">
+                                        <th class="ftable2" scope="row">7</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_41_285628"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="285628" mdl_id="41" class="pre-img" id="img_41_285628" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">ภาชนะบรรจุอาหาร <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">สินีนาถ จริยโชติเลิศ</p>
+                                                <p class="span3">มหาวิทยาลัยเกษตรศาสตร์. กรุงเทพฯ. 2550. 40</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                            </tbody>
+                        </table>
+                    </div>
+                                    <div class="row">
+                                    </div>
+
+            </div>
+
+
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+
+    jquery(document).ready(function($) {
+        $.ajaxqueue = [];
+        var que = $.ajaxqueue;
+
+        $.ajaxsetup({
+            beforesend: function(){
+                if (this.queue) {
+                    que.push(this);
+                }
+                else {
+                    return true;
+                }
+                if (que.length > 1) {
+                    return false;
+                }
+            },
+            complete: function(){
+                que.shift();
+                var newreq = que[0];
+                if (newreq) {
+                    // setup object creation should be automated 
+                    // and include all properties in queued ajax request
+                    // this version is just a demonstration. 
+                    var setup = {
+                        url: newreq.url,
+                        success: newreq.success
+                    };
+                    $.ajax(setup);
+                }
+            }
+        });
+
+        function genimgcover(mdl_id, bibid) {
+            var img_id = '#img_' + mdl_id + '_' + bibid;
+            var loading_id = '#loader_' + mdl_id + '_' + bibid;
+            // $.post('https://kukr2.lib.ku.ac.th/kukr_es/covid19' + '/tools/gencover/' + bibid, function (res) {
+            //     $(loading_id).hide();
+            //     $(img_id).attr('src', res);
+            //     $(img_id).show();
+            // });
+            $.ajax({
+                queue: true,
+                url: 'https://kukr2.lib.ku.ac.th/kukr_es/covid19' + '/tools/gencover/' + bibid,
+                success: function(res) {
+                    $(loading_id).hide();
+                    $(img_id).attr('src', res);
+                    $(img_id).show();
+                }
+            });
+        }
+
+
+   
+        $('.pre-img').each(function (key, value) {
+            var bibid = $(value).attr('bibid');
+            var mdl_id = $(value).attr('mdl_id');
+
+            genimgcover(mdl_id, bibid);
+        });
+    });
+
+</script>
+<script type="text/javascript">
+
+
+    var esapp = angular.module('esapp', []);
+    esapp.value('phpdata', {"baseurl":"https:\/\/kukr2.lib.ku.ac.th\/kukr_es\/covid19\/search\/","baseurlresult":"https:\/\/kukr2.lib.ku.ac.th\/kukr_es\/covid19\/essearch\/","option_list":{"title":"\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07","author":"\u0e0a\u0e37\u0e48\u0e2d\u0e1c\u0e39\u0e49\u0e41\u0e15\u0e48\u0e07","affiliation":"\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e39\u0e48\u0e1c\u0e39\u0e49\u0e41\u0e15\u0e48\u0e07","corp_author_text":"\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e07\u0e32\u0e19","keyword_text":"\u0e04\u0e33\u0e2a\u0e33\u0e04\u0e31\u0e0d","isbn_issn_text":"isbn\/issn","serial_title":"\u0e0a\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e23\u0e2a\u0e32\u0e23"}});
+
+
+    esapp.directive('ngenter', function () {
+        return function (scope, element, attrs) {
+            element.bind("keydown keypress", function (event) {
+                if (event.which === 13) {
+                    scope.$apply(function () {
+                        scope.$eval(attrs.ngenter, {'event': event});
+                    });
+                    event.preventdefault();
+                }
+            });
+        };
+    });
+
+    esapp.controller('escontroller', function ($scope, $http, $filter, phpdata, $timeout) {
+
+        var api_url = phpdata.baseurl;
+        $scope.urles = phpdata.baseurlresult;
+
+        $scope.option_list = phpdata.option_list;
+
+        $scope.loading_data = false;
+
+
+        $scope.query = {
+            'main': '',
+            'option': '',
+        }
+
+
+        var fnc_search = function () {
+            if (typeof $scope.cur_page === 'undefined') {
+                return;
+            }
+
+            $scope.all_bibid_explode = '';
+
+            if ($scope.query.main == '') {
+                alert('กรุณาระบุคำค้น');
+                return;
+            }
+
+            $scope.loading_data = true;
+            $scope.favorite_view = false;
+            $scope.is_favorited = false;
+            location.hash = '#top';
+
+            $scope.resutl_text = $scope.query.main;
+
+
+            $http.post(api_url + 'find/' + $scope.cur_page,
+                    'data=' + encodeuricomponent(angular.tojson($scope.query)),
+                    {headers: {'content-type': 'application/x-www-form-urlencoded;charset=utf-8;'}}
+            ).then(function (res) {
+                $scope.data = res.data;
+                $scope.list_data = $scope.data.result;
+                $scope.all_row = $scope.data.metadata.total;
+                $scope.all_page = $scope.data.metadata.all_page;
+
+                $scope.all_bibid_explode = $scope.data.all_bibid_explode;
+
+
+                $scope.loading_data = false;
+            });
+
+        }
+
+
+        $scope.searchmain = function () {
+            $scope.cur_page = 1;
+
+            fnc_resetfilter();
+            fnc_search();
+            fnc_getfilter();
+
+        }
+
+
+        var fnc_init = function () {
+
+        }
+
+
+        fnc_init();
+
+    });
+
+
+</script>
+
+
+<!-- footer content -->
+<!-- 2020 feedback -->
+<style>
+        .sticky-btns-inner{
+            transform: rotate(90deg);
+            position: relative;
+            right: -42%;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .sticky-button{
+            padding: 12px 30px 10px 30px;
+            font-weight: 500;
+            font-size: 16px;
+            letter-spacing: 1px;
+            color: #ffffff;
+            text-align: center;
+            margin: 0;
+            border-top-right-radius: 0;
+            border-top-left-radius: 0;
+            border-bottom-right-radius: 40px;
+            border-bottom-left-radius: 40px;
+            line-height: inherit;
+            text-decoration: none;
+        }
+        .sticky-buttons{
+            right: 0;
+            transform: rotate(0);
+            bottom: auto;
+            left: auto;
+            width: auto;
+            position: fixed;
+        }
+        .sticky-color-1 {
+            background-color: rgb(15, 76, 129);
+        }
+        .sticky-color-1:hover {
+            background-color: #658dc6;
+            color: #333;
+        }
+        .sticky-color-2 {
+            background-color: #006666;
+        }
+        .sticky-color-2:hover {
+            background-color: #739a42;
+            color: #333;
+        }
+        </style>
+        <div class="sticky-buttons" style="top: 40%;">
+            <div class="sticky-btns-inner">
+                <a class="nav-link sticky-button sticky-color-2" data-fancybox data-options='{"src" : "https://ebook.lib.ku.ac.th/feedback/kukr/", "type" : "iframe", "transitioneffect" : "circular"}' href="javascript:;" style="cursor: pointer; vertical-align: middle;">
+                    ข้อเสนอแนะ                </a>
+            </div>
+        </div>
+
+<!-- 2020 feedback -->
+
+
+<div class="hide_iframe animated fadein">
+    <div class="container">
+        <div class="row footer">
+            <div class="col-lg-8 col-md-12 footer-copy">
+                <p><img src="https://www.danielbridge.co.uk/images/copyright.gif" alt="" height="18" />2015 office of the university library, kasetsart university</p>            </div>
+            <div class="col-lg-4 col-md-12 footer-right">
+                                    <p><a href="https://creativecommons.org/licenses/by-nc-nd/3.0/th/" target="_blank" rel="license"> <img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" alt="creative commons license" /> </a></p>
+<p class="ccc-box">โครงการพัฒนาคลังความรู้ดิจิทัล มหาวิทยาลัยเกษตรศาสตร์<br />is licensed under a creative commons attribution-noncommercial-noderivatives 3.0 thailand license.</p>                            </div>
+        </div>
+    </div>
+</div>
+
+<!-- go to top -->
+<button onclick="topfunction();" id="mybtn" title="go to top"><i class="fas fa-arrow-up fa-2x"></i></button>
+
+<!-- 2020 cookie notice -->
+        <style>
+            .cm-cookie-geo {
+                display: block;
+                position: fixed;
+                bottom: 0;
+		left: 0;
+                z-index: 98;
+            }
+            .cm-cookie-geo2 {
+                margin-bottom: 0rem;
+                padding: .25rem 1.25rem;
+                display:none;
+            }
+            .cm-cookie-geo3 {
+                color:#333333;
+                font-size: 0.9em; 
+                margin-right:15px;
+            }
+        </style>
+        <script>
+            function getcookie(cname) {
+                var name = cname + "=";
+                var decodedcookie = decodeuricomponent(document.cookie);
+                var ca = decodedcookie.split(';');
+                for(var i = 0; i <ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charat(0) == ' ') {
+                    c = c.substring(1);
+                    }
+                    if (c.indexof(name) == 0) {
+                    return c.substring(name.length, c.length);
+                    }
+                }
+                return "";
+            }
+
+            function cmcookie(){
+                var date = new date();
+                date.settime(date.gettime()+(7*24*60*60*1000));
+                document.cookie = "cm-kukr2-cookie-geo=yes; samesite=strict; secure; path=/; expires="+date.togmtstring();
+                document.getelementbyid('cm-cookie').classlist.add('fadeoutdown');
+            }
+        </script>
+        <div class="cm-cookie-geo cm-cookie-geo2 container-fluid alert alert-primary align-middle animated fadeinup" role="alert" id="cm-cookie">
+            <div class="row">
+		<div class="col-12 text-center" style="">
+			<span class="cm-cookie-geo3">เราใช้ cookies ในการให้บริการและปรับปรุงบริการของเรา ตลอดจนเพิ่มประสิทธิภาพให้แก่ประสบการณ์การใช้งานเว็บไซต์ หากคุณใช้งานเว็ปไซต์ของเราต่อ ถือว่าคุณยินยอมให้มีการใช้งาน cookies</span>
+			<button type="button" class="btn btn-primary btn-sm" onclick="cmcookie()">ยอมรับ</button>   
+             	</div>                
+	    </div>
+	</div>
+        <script>
+            cmgeo = getcookie('cm-kukr2-cookie-geo');
+            if((window.location.hostname== 'kukr2.lib.ku.ac.th') && cmgeo == ''){
+                document.getelementbyid("cm-cookie").style.display = "block"; 
+            };
+        </script>
+<!-- 2020 cookie notice -->
+
+
+<!--/* jquery ui */-->
+<link rel="stylesheet"
+      href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/jquery-ui-1.10.3/theme/smoothness/jquery-ui.css"/>
+<script src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/jquery-ui-1.10.3/jquery-ui.min.js"></script>
+
+<!--/* basic jquery slider */-->
+<link rel="stylesheet" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/basic-jquery-slider/bjqs.css"/>
+<script src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/basic-jquery-slider/js/bjqs-1.3.js"></script>
+
+<!--angularjs-->
+<!--<script src="--><!--new_assets/js/angular_js/angular.min.js"></script>-->
+<script src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/angular_js/angular-animate.js"></script>
+<script src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/angular_js/angular-sanitize.js"></script>
+<script src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/angular_js/angular-ui-router.js"></script>
+
+
+<!--highcharts-->
+<script language="javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/lib/js/jquery.cookie.js"></script>
+<script language="javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/lib/js/highcharts3/highcharts.js"></script>
+<script language="javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/lib/js/highcharts3/highcharts-more.js"></script>
+<script language="javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/lib/js/highcharts3/chartfunction.js"></script>
+<script language="javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/lib/js/highcharts3/exporting.js"></script>
+
+<!--jquery ui-->
+<link rel="stylesheet" href="https://kukr2.lib.ku.ac.th/kukr_es/lib/css/jquery-ui.css" media="all">
+
+<script language="javascript" type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/lib/js/jquery-ui.js"></script>
+<!-- script load -->
+<script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb//js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb//js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb//js/jquery.fancybox.js"></script>
+
+<!-- custom script -->
+<script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb//js/style2.js"></script>
+
+<!-- select2 -->
+<link href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/css/select2.min.css" rel="stylesheet" />
+<script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/js/select2.min.js"></script>
+
+
+<script>
+    $(document).ready(function () {
+        $(".fancybox").fancybox();
+    });
+</script>
+
+<!-- full chart -> -->
+<div id="full-wrap">
+    <div id="fullchart" name="fullchart"></div>
+</div>
+<!-- full chart-->
+<!--end tagline -->
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $('.expand').click(function () {
+            $('#fullchart').html('');
+            element = $('#' + $(this).attr('rel'));
+            $.fancybox.open(
+                $('#full-wrap').html(),
+                {
+                    'transitionin': 'fade',
+                    'transitionout': 'elastic',
+                    'showclosebutton': true,
+                    'scrolling': 'no',
+                    aftershow: function () {
+                        $('#full-wrap').html('');
+                        renderbox = 'fullchart';
+                        exporting = true;
+                        show_data_label = true;
+                        eval("cat = new array('" + element.attr('cat') + "');");
+                        eval(element.attr('chart-type') + "('" + element.attr('title') + "', cat,'" + element.attr('data') + "', '');");
+                    },
+                    afterclose: function () {
+                        $('#full-wrap').html('<div id="fullchart"></div>');
+                    }
+                }
+            );
+        });
+    });
+</script>
+
+</body>
+</html>
+
+<!--
+log time
+file : /application/controllers/front/index.php
+controller : index ,
+function : index
+
+<div class="row-fluid well" style="font-size: 12px;">
+การ query
+
+
+        ภาพ slide -    00 นาที 00 วินาที  0.57676900 ms 
+              
+        โมดูลด้านซ้าย :: ประเภทเนื้อหา  -    00 นาที 01 วินาที  0.61067700 ms 
+              
+        โมดูลด้านซ้าย :: ประเภทเอกสาร -    00 นาที 01 วินาที  0.24961800 ms 
+              
+        โมดูลด้านซ้าย :: หมวดของข้อมูลสาขาเกษตร -    00 นาที 00 วินาที  0.82974000 ms 
+              
+        ตัวอย่างผลงาน -    00 นาที 01 วินาที  0.52364200 ms 
+              
+        กราฟ -    00 นาที 00 วินาที  0.52548300 ms 
+              
+        <u>รวมเวลาทั้งหมด</u> -    00 นาที 03 วินาที  0.52550300 ms 
+              
+</div>
+
+<div class="row-fluid well" style="font-size: 12px;">
+การ แสดงผลหน้าเว็บ
+file : application/views/newagkb/index_view.php
+
+
+        โมดูลด้านซ้าย :: ประเภทเนื้อหา  -    00 นาที 00 วินาที  0.16803900 ms 
+              
+        โมดูลด้านซ้าย :: ประเภทเอกสาร -    00 นาที 00 วินาที  0.16806800 ms 
+              
+        โมดูลด้านซ้าย :: หมวดของข้อมูลสาขาเกษตร -    00 นาที 00 วินาที  0.16811300 ms 
+              
+        ตัวอย่างผลงาน -    00 นาที 00 วินาที  0.16813500 ms 
+              
+        <u>รวมเวลาทั้งหมด</u> -    00 นาที 00 วินาที  0.16814200 ms 
+              
+</div>
+query และ แสดงผล 0.0281 วินาที
+
+ -->

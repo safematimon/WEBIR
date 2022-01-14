@@ -1,0 +1,840 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+ 	
+    <title>office of quality development and risk management</title>
+	
+    <!-- bootstrap core css -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- custom css -->
+    <link href="css/modern-business.css" rel="stylesheet">
+
+    <!-- font awesome -->
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+	
+	<!-- carousel css -->
+    <link href="css/carousel.css" rel="stylesheet">
+	
+	<script type="application/x-javascript"> addeventlistener("load", function() { settimeout(hideurlbar, 0); }, false); function hideurlbar(){ window.scrollto(0,1); } </script>
+	
+	<!-- custom theme files -->
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<!--web-fonts-->
+	<link href='//fonts.googleapis.com/css?family=oswald' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=orbitron:500' rel='stylesheet' type='text/css'>
+	<!-- web-fonts -->
+	
+	<script src="js/jquery-3.1.0.js"></script>
+	
+	<!--calender-->
+	<link rel="stylesheet" type="text/css" href="css/calendar.css" />
+	<link rel="stylesheet" type="text/css" href="css/custom_2.css" />
+	<script src="js/modernizr.custom.63321.js"></script>
+	<!-- end calender -->
+
+	<!-- digital clock starts here -->
+	<script type="text/javascript" src="js/moment-with-locales.min.js"></script>
+	<!-- digital clock ends here -->
+	
+    <!-- html5 shim and respond.js ie8 support of html5 elements and media queries -->
+    <!-- warning: respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt ie 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+	<style class="cp-pen-styles">
+/*
+img {
+-webkit-filter: grayscale(100%); 
+filter: grayscale(100%);
+}
+ 
+body {
+-webkit-filter: grayscale(100%);
+filter: grayscale(100%);
+}
+*/	
+	@-webkit-keyframes bugfix {
+	  from {
+		padding: 0;
+	  }
+	  to {
+		padding: 0;
+	  }
+	}
+	/* needed for checkbox hack */
+	h1, p {
+	  color: white;
+	}
+
+	#nav {
+	  position: relative;
+	}
+	#nav ul {
+	  display: none;
+	  width: 100%;
+	  list-style: none;
+	  margin: 0px;
+	  padding: 0px;
+	}
+	#nav ul li a {
+		font-family: 'designil font', 'helvetica', sans-serif;
+		display: block;
+		padding: 0.4em;
+		background: #00a04f ;
+		color: white;
+		text-decoration: none;
+		border-right: 1px solid #ffffff ;
+		background-color: #00a04f ;
+		background-image: -webkit-linear-gradient(#00a04f   , #00a04f  );
+		background-image: -moz-linear-gradient(#00a04f   , #00a04f  );
+		background-image: -o-linear-gradient(#00a04f   , #00a04f  );
+		background-image: linear-gradient(#00a04f   , #00a04f  );
+	}
+	#nav ul li a:hover {
+	  background: #a1ce57  ;
+	}
+	#nav ul li:last-of-type a {
+	  border-right: 0px;
+	}
+	#nav ul li ul li a {
+		padding: 0.2em;
+		padding-left: 0.7em;
+		font-size: 16px;
+		color: #011708;
+		background-image: -webkit-linear-gradient(#ffffff   , #ffffff   );
+		background-image: -moz-linear-gradient(#ffffff   , #ffffff   );
+		background-image: -o-linear-gradient(#ffffff   , #ffffff   );
+		background-image: linear-gradient(#ffffff   , #ffffff   );
+	}
+	#nav ul li ul li a:hover {
+	  background: #a1ce57  ;
+	}
+	#nav ul li ul li ul li a {
+	  padding-left: 3.125em;
+	}
+	#nav input.trigger {
+	  position: absolute;
+	  top: -9999px;
+	  left: -9999px;
+	}
+	#nav input.trigger:checked ~ ul, #nav input.trigger:checked ~ ul li ul {
+	  display: block !important;
+	}
+	@media (min-width: 48em) {
+	  #nav input.trigger:checked ~ ul, #nav input.trigger:checked ~ ul li ul {
+		/* older flexbox */
+		display: -webkit-box;
+		display: -moz-box;
+		display: box;
+		-webkit-box-orient: horizontal;
+		-moz-box-orient: horizontal;
+		box-orient: horizontal;
+		/* newer flexbox */
+		display: flex;
+		flex-direction: row;
+	  }
+	}
+	#nav label {
+	  position: relative;
+	  display: block;
+	  min-height: 2em;
+	  padding: .45em;
+	  font-size: 1.1em;
+	  margin: 0;
+	  cursor: pointer;
+	  background: #419116;
+	  line-height: 2em;
+	  color: #ffffff;
+	}
+	#nav label:after {
+	  position: absolute;
+	  right: 1em;
+	  top: .2em;
+	  content: "\2261";
+	  font-size: 1.8em;
+	  color: white;
+	}
+	@media (min-width: 48em) {
+	  #nav ul {
+		/* older flexbox */
+		display: -ms-flexbox;
+		flex-direction: -ms-row;
+		display: -webkit-box;
+		display: -moz-box;
+		display: box;
+		-webkit-box-orient: horizontal;
+		-moz-box-orient: horizontal;
+		box-orient: horizontal;
+		/* newer flexbox */
+		display: flex;
+		flex-direction: row;
+	  }
+	  #nav ul li {
+		position: relative;
+		text-align: center;
+		/* older flexbox */
+		-ms-flex: 1;
+		-webkit-box-flex: 1;
+		-moz-box-flex: 1;
+		box-flex: 1;
+		/* newer flexbox */
+		flex: 1;
+	  }
+	  #nav ul li ul {
+		display: none !important;
+		position: absolute;
+		top: 2.3em;
+		left: 0;
+		display: block;
+		width: 12em;
+		z-index: 200;
+	  }
+	  #nav ul li ul li {
+		text-align: left;
+	  }
+	  #nav ul li ul li ul {
+		z-index: 300;
+		top: 0px;
+		left: 12.4em;
+	  }
+	  #nav ul li ul li ul li a {
+		padding-left: 30px !important;
+	  }
+	  #nav ul li:hover > ul {
+		display: block !important;
+	  }
+	  #nav label {
+		display: none;
+	  }
+	}
+	</style>
+	<link rel="stylesheet" href="css/adminlte.min.css">
+<style type="text/css">
+<!--
+.style5 {color: #ff0000}
+.style8 {color: #000000}
+.style23 {color: #996600}
+-->
+</style></head>
+<body>
+    <!-- page content -->
+    <div class="container">
+	<p><img src="images/headerqdrm2020.jpg"></p>
+	  <!-- static navbar -->
+      <nav role="navigation" class="navbar navbar-static-top menu-top" id="nav">
+        <input class="trigger" type="checkbox" id="mainnavbutton">
+			<label for="mainnavbutton" onclick>menu</label>
+              <ul>
+                <li><a target="_blank" href="http://www.qa.ku.ac.th/">หน้าแรก</a></li>
+                <li><a href="http://qa.ku.ac.th/webqaku/kubatko/aboutus.html">เกี่ยวกับสำนักฯ</a>
+                   <ul>
+                     <li><a target="_blank"  href="http://qa.ku.ac.th/webqaku/kubatko/aboutus.html"><span class="fa fa-caret-right"></span> ประวัติ</a></li>
+                      <li><a target="_blank" href="http://qa.ku.ac.th/webqaku/kubatko/aboutus.html"><span class="fa fa-caret-right"></span> วิสัยทัศน์/พันธกิจ</a></li>
+                      <li><a target="_blank" href="http://qa.ku.ac.th/webqaku/kubatko/aboutus.html"><span class="fa fa-caret-right"></span> วัตถุประสงค์</a></li>
+                      <li><a target="_blank" href="html/staffqaku2563.html"><span class="fa fa-caret-right"></span> โครงสร้างองค์กร</a></li>
+                      <li><a target="_blank" href="pdf/ก้าวสู่ทศวรรษที่ 2.pdf"><span class="fa fa-caret-right"></span> ก้าวสู่ทศวรรษที่ 2 สำนักงานประกันคุณภาพ</a></li>
+					  <li><a target="_blank" href="pdf/qadecades2013.pdf"><span class="fa fa-caret-right"></span> 1 ทศวรรษ สำนักงานประกันคุณภาพ</a></li>
+                      <li><a target="_blank" href="http://qa.ku.ac.th/webqaku/kubatko/command2558-2559.html"><span class="fa fa-caret-right"></span> คำสั่งแต่งตั้งคณะกรรมการ สำนักงานประกันคุณภาพ</a></li>
+					  <li><a target="_blank" href="http://qa.ku.ac.th/webqaku/kubatko/assessorqa.html"><span class="fa fa-caret-right"></span> คำสั่งแต่งตั้งคณะกรรมการ ประเมินคุณภาพฯ</a></li>
+					  <li><a target="_blank" href="http://qa.ku.ac.th/webqaku/kubatko/tamneap.html"><span class="fa fa-caret-right"></span> ทําเนียบผู้ประเมินฯ</a></li>
+                      <li><a target="_blank" href="https://sites.google.com/a/ku.th/thaneiyb-phi-leiyng-edpex-mk/"><span class="fa fa-caret-right"></span> ทําเนียบพี่เลี้ยง edpex มก.</a></li><br>
+                  </ul>
+                </li>
+                <li><a target="_blank" href="#">คู่มือ/e-book</a>
+					<ul>
+                      <li><a target="_blank" href="e-book/e-book_in.html"><span class="fa fa-caret-right"></span> คู่มือภายใน มก.</a></li>
+                      <li><a target="_blank" href="e-book/e-book_out1.html"><span class="fa fa-caret-right"></span> คู่มือ สกอ.</a></li>
+                      <li><a target="_blank" href="e-book/e-book_out2.html"><span class="fa fa-caret-right"></span> คู่มือ สมศ.</a></li>
+
+                  </ul>
+				</li>
+                <li><a target="_blank" href="#">รายงาน <span class="text-danger">new!</a>
+					<ul>
+                      <li><a target="_blank" href="html/bookqa_report.html"><span class="fa fa-caret-right"></span> รายงานประกันคุณภาพภายในระดับอุดมศึกษา (iqa ku)</a></li>
+					  <li><a target="_blank" href="http://www.qa.ku.ac.th/menul/bookqa_reportoutside1.html"><span class="fa fa-caret-right"></span> รายงานประกันคุณภาพภายนอกระดับอุดมศึกษา (eqa ku)</a></li>
+					  <li><a target="_blank" href="http://gg.gg/mhioq"><span class="fa fa-caret-right"></span> รายงานการประเมินคุณภาพภายในระดับหลักสูตร <span class="text-danger">new!</span></a></li>
+                      <li><a target="_blank" href="html/databasesarkufaculty.html"><span class="fa fa-caret-right"></span> รายงานการประเมินคุณภาพภายในระดับคณะ</a></li>
+					  <li><a target="_blank" href="html/databasesarkusupport.html"><span class="fa fa-caret-right"></span> รายงานการประเมินคุณภาพภายในระดับสถาบัน สำนัก</a></li>
+                      <li><a target="_blank" href="html/databasesarku_campusreport.html"><span class="fa fa-caret-right"></span> รายงานการประเมินคุณภาพภายในระดับวิทยาเขต</a></li>
+					  <li><a target="_blank" href="http://www.qa.ku.ac.th/webqaku/kubatko/e-sarqaku.html"><span class="fa fa-caret-right"></span> รายงานการประเมินคุณภาพของสำนักประกันคุณภาพ</a></li>
+					  <li><a target="_blank" href="html/bookqaaward.html"><span class="fa fa-caret-right"></span> รายงานผลรางวัลคุณภาพ มก.</a></li>
+                  </ul>
+				</li>
+                <li><a target="_blank" href="#">ฐานข้อมูล</span></a>
+					<ul>
+                      <li><a target="_blank" href="#"><span class="fa fa-caret-right"></span> ฐานข้อมูลผู้ประเมิน</a></li>
+                      <li><a target="_blank" href="http://www.qais.ku.ac.th/qaaudit"><span class="fa fa-caret-right"></span> ฐานข้อมูล qais audit</a></li>
+
+
+					  <li><a target="_blank" href="http://qais.ku.ac.th/qainput/login.aspx"><span class="fa fa-caret-right"></span> ฐานข้อมูล qais</a></li>
+					  <li><a target="_blank" href="http://www.cheqa.ku.ac.th/"><span class="fa fa-caret-right"></span> ฐานข้อมูล che qa ku</a></li>
+					  <li><a target="_blank" href="http://www.cheqa.mua.go.th/"><span class="fa fa-caret-right"></span> ฐานข้อมูล che qa online</a></li>
+					  <li><a target="_blank" href="https://tqf.cpe.ku.ac.th/"><span class="fa fa-caret-right"></span> ฐานข้อมูล มคอ. ออนไลน์</a></li>
+					  <li><a target="_blank" href="http://qa.ku.ac.th/webqaku/kubatko/scival_download.html"><span class="fa fa-caret-right"></span> ฐานข้อมูล scival</a></li>
+					  <li><a target="_blank" href="http://science.thomsonreuters.com/cgi-bin/jrnlst/jloptions.cgi?pc=master"><span class="fa fa-caret-right"></span> ฐานข้อมูล isi</a></li>
+					  <li><a target="_blank" href="http://www.scopus.com/home.url"><span class="fa fa-caret-right"></span> ฐานข้อมูล scopus</a></li>
+					  <li><a target="_blank" href="http://www.kmutt.ac.th/jif/public_html/"><span class="fa fa-caret-right"></span> ฐานข้อมูล tci</a></li>
+                    </ul>
+				</li>
+                <li><a href="#">คำถาม-คำตอบ</a>
+					<ul>
+					  <li><a target="_blank" href="#"><span class="fa fa-caret-right"></span> webboard</a></li>
+                      <li><a target="_blank" href="http://qa.ku.ac.th/download/qa%20km13052016.pdf"><span class="fa fa-caret-right"></span> qa ระดับหลักสูตร</a></li>
+					  <li><a target="_blank" href="#"><span class="fa fa-caret-right"></span> qa ระดับคณะ</a></li>
+					  <li><a target="_blank" href="#"><span class="fa fa-caret-right"></span> qa ระดับสถาบัน</a></li>
+					  <li><a target="_blank" href="#"><span class="fa fa-caret-right"></span> q&a qa สัญจร</a></li>
+                    </ul>
+				</li>
+              </ul>
+              </ul> 
+            </nav>
+	
+	<div class="row">
+	  <div class="col-md-12">
+		<div id="mycarousel" class="carousel slide">
+        <div class="carousel-inner">
+        <article class="item active">
+         <img src="images/slide0.jpg"> 
+            </article> 
+          <article class="item">
+        <img src="images/slide1.jpg">  
+              </article> 
+          <article class="item">
+           <img src="images/slide2.jpg">  
+           <div class="carousel-caption">
+           <h5>ประกาศ/มาตรการ มก.</h5>
+				<p><a target="_blank" href="https://www.ku.ac.th/th/news1/view/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%b2%e0%b8%a8-%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%81%e0%b8%b2%e0%b8%a3-%e0%b8%a1%e0%b8%81-%e0%b9%82%e0%b8%84%e0%b8%a7%e0%b8%b4%e0%b8%94%e0%b8%a3%e0%b8%b0%e0%b8%a5%e0%b8%ad%e0%b8%81%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88" target="_blank" class="btn btn-info btn-sm" target="_blank" class="btn btn-info btn-sm">read more</a></p>
+                 </div>  
+                </article>
+         <article class="item">
+          <img src="images/slide3.jpg">  
+           <div class="carousel-caption">
+           <h5>work&learn from home</h5>
+				<p><a target="_blank" href="https://www.ku.ac.th/th/news1/view/%e0%b9%81%e0%b8%ab%e0%b8%a5%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%a7%e0%b8%a1%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b9%80%e0%b8%97%e0%b8%84%e0%b9%82%e0%b8%99%e0%b9%82%e0%b8%a5%e0%b8%a2%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b8%88%e0%b8%b4%e0%b8%97%e0%b8%b1%e0%b8%a5-ku-work-amp-amp-learn-from-home" target="_blank" class="btn btn-info btn-sm" target="_blank" class="btn btn-info btn-sm">read more</a></p>
+                 </div>  
+                </article>
+         <article class="item">
+          <img src="images/slide4.jpg">  
+           <div class="carousel-caption">
+           <h5>upmranking</h5>
+				<p><a target="_blank" href="pdf/upm fact file - kasetsart university - 2020 21 august.pdf" target="_blank" class="btn btn-info btn-sm" target="_blank" class="btn btn-info btn-sm">read more</a></p>
+                 </div>  
+                </article>
+         <article class="item">
+         <img src="images/slide5.jpg">  
+           <div class="carousel-caption">
+           <h5>แนวทางการจัดอันดับranking</h5>
+				<p><a target="_blank" href="pdf/การดำเนินการthe impact ranking และ qs star.pdf" target="_blank" class="btn btn-info btn-sm" target="_blank" class="btn btn-info btn-sm">read more</a></p>
+                 </div>  
+                </article>
+         <article class="item">
+          <img src="images/slide6.jpg"> 
+               <div class="carousel-caption">
+               <h5>aun-qa roadmap...</h5>
+				<p><a target="_blank" href="#" target="_blank" class="btn btn-info btn-sm" target="_blank" class="btn btn-info btn-sm">read more</a></p>		  
+          </div>
+                </article>
+        <article class="item">
+         <img src="images/slide7.jpg"> 
+               <div class="carousel-caption">
+               <h5>แนวทางการขับเคลื่อนedpex..</h5>
+				<p><a target="_blank" href="pdf/roadmap2020edit1.pdf" target="_blank" class="btn btn-info btn-sm" target="_blank" class="btn btn-info btn-sm">read more</a></p>	
+          </div>
+          </article>
+                <article class="item"> 
+                     <img src="images/slide8.jpg">
+                  <div class="carousel-caption">
+				<h5>ku-edpex roadmap</h5>
+				<p><a target="_blank" href="#" target="_blank" class="btn btn-info btn-sm" target="_blank" class="btn btn-info btn-sm">read more</a></p>		  
+			  </div>
+              </article>
+                 <article class="item">
+               <img src="images/slide9.jpg">
+               <div class="carousel-caption">
+				<h5>info edpex</h5>
+				<p><a target="_blank" href="pdf/infographicedpex2019.pdf" target="_blank" class="btn btn-info btn-sm" target="_blank" class="btn btn-info btn-sm">read more</a></p>
+			  </div> 
+               </article>
+               <article class="item">
+               <img src="images/slide10.jpg">
+               <div class="carousel-caption">
+				<h5>newadec2020</h5>
+				<p><a target="_blank" href="http://qa.ku.ac.th/web2016/newsqa/newsdec2020.pdf" target="_blank" class="btn btn-info btn-sm" target="_blank" class="btn btn-info btn-sm">read more</a></p>
+                 </div> 
+               </article>
+               <article class="item">
+               <img src="images/slide11.jpg">
+               <div class="carousel-caption">
+				<h5>kuranking</h5>
+				<p><a target="_blank" href="https://ku.ac.th/ranking/kuranking6u.pdf" target="_blank" class="btn btn-info btn-sm" target="_blank" class="btn btn-info btn-sm">read more</a></p>
+			  </div> 
+               
+
+          
+
+               
+                <!--div class="carousel-inner">
+			<article class="item">         
+              <img src="images/slide3.jpg">
+			   <!--div class="carousel-caption">
+				<h5>...</h5>
+                <!--
+				<p><a target="_blank" href=https://goo.gl/kyw6y5>read more</a></p>
+                 </div>
+			</article> 
+			<article class="item">
+			  <img src="images/slide4.jpg">
+              <!--div class="carousel-caption">
+				<h5>ลงทะเบียนออนไลน์..</h4>
+				<p><a target="_blank" href="#" target="_blank" class="btn btn-info btn-sm">read more</a></p>
+			  </div>
+			  <div class="carousel-caption">
+				<h5>กำหนดการอบรม..</h5>
+                <!-
+				<p><a target="_blank" href="pdf/กำหนดการอบรมทบทวนการประเมินปี 2560.pdf" target="_blank" class="btn btn-info btn-sm">read more</a></p>
+                </div-->
+	
+		  </div>
+		  <!-- indicators -->
+		  <ol class="carousel-indicators">
+            <li data-target="#mycarousel" data-slide-to="0"></li>
+			<li data-target="#mycarousel" data-slide-to="1"></li>
+			<li data-target="#mycarousel" data-slide-to="2"></li>
+			<li data-target="#mycarousel" data-slide-to="3"></li>
+			<li data-target="#mycarousel" data-slide-to="4"></li>
+			<li data-target="#mycarousel" data-slide-to="5"></li>
+            <li data-target="#mycarousel" data-slide-to="6"></li>
+            <li data-target="#mycarousel" data-slide-to="7"></li>
+            <li data-target="#mycarousel" data-slide-to="8"></li>
+            <li data-target="#mycarousel" data-slide-to="9"></li>
+            <li data-target="#mycarousel" data-slide-to="10"></li>
+            <li data-target="#mycarousel" data-slide-to="11"></li>
+			
+		  </ol>
+		  <!-- controls -->
+		  <div class="carousel-controls">
+		    <a class="carousel-control left" href="#mycarousel" data-slide="prev">
+			<span class="fa fa-angle-double-left"></span>
+			  </a>
+			  <a class="carousel-control right" href="#mycarousel" data-slide="next">
+				<span class="fa fa-angle-double-right"></span>
+		    </a>
+		  </div>
+		</div>
+        <div>&nbsp;</div>
+	    </div>
+	</div>
+	
+	<!-- marketing icons section -->
+	<div class="row">
+		<div class="col-lg-12">
+			<h3 class="page-header"></h3>
+	  </div>
+  <div class="col-md-9">
+			<div class="panel with-nav-tabs panel-warning" >
+				<div class="panel-heading" style="background-color: #cc9933; font-family: 'designil font', 'helvetica', sans-serif; font-size: 0.85em;">
+					<ul class="nav nav-tabs">
+						<li class="active"><a target="_blank" href="#tab1info" data-toggle="tab"><i class="fa fa-graduation-cap" aria-hidden="true"></i> ข่าวประชาสัมพันธ์</a></li>
+						<li><a target="_blank" href="#tab2info" data-toggle="tab"><i class="fa fa-download" aria-hidden="true"></i> เอกสารดาวน์โหลด</a></li>
+                    	<li><a target="_blank" href="html/qanews2563.html" ><span class="fa fa-caret-right"></span> จดหมายข่าว qa</a></li>
+						<li><a target="_blank" href="newspaper/newspaper2563/qanewspaper2563.html" ><span class="fa fa-caret-right"></span> ข่าว นสพ.</a></li>
+						<li><a target="_blank" href="#tab5info" data-toggle="tab"><i class="fa fa-line-chart" aria-hidden="true"></i> การจัดอันดับมหาวิทยาลัย</a></li>
+					</ul>
+				</div>
+			<div class="panel-body">
+				<div class="tab-content">
+					<div class="tab-pane fade in active" id="tab1info">
+						<div>
+                        <em class="fa fa-angle-right" aria-hidden="true"></em><span class="style8"><a href="pdf/aun2020 v4.pdf" target="_blank"><span class="style8">aun-qa guide to aun-qa assessment at program level version 4.0</a>  (09/10/2563)</span> <span class="text-danger"></span><br>
+                        <em class="fa fa-angle-right" aria-hidden="true"></em><span class="style8"><a href="http://gg.gg/mhioq" target="_blank"><span class="style8">รายงานผลการประเมินคุณภาพการศึกษาภายใน ระดับหลักสูตร ประจำปีการศึกษา 2562</a>  (02/10/2563)</span> <span class="text-danger"></span><br>
+                        <em class="fa fa-angle-right" aria-hidden="true"></em><span class="style8"><a href="pdf/คู่มือโครงการรางวัลคุณภาพครั้งที่14(17-9-63).doc" target="_blank"><span class="style8">ขอเชิญส่งผลงานเข้าร่วมโครงการรางวัลคุณภาพ ครั้งที่ 14 ประจำปี 2563 </a>  (21/09/2563)</span> <span class="text-danger"></span><br>
+                        <em class="fa fa-angle-right" aria-hidden="true"></em><span class="style8"><a href="images/การเปลี่ยนชื่อ qa เป็น qdrm.jpg" target="_blank"><span class="style8">ประกาศสภา มก. เรื่อง การเปลี่ยนชื่อ"สำนักงานประกันคุณภาพ" เป็น "สำนักงานพัฒนาคุณภาพและบริหารความเสี่ยง" และปรับโครงสร้างหน่วยงานภายใน</a>  (18/09/2563)</span> <span class="text-danger"></span><br> 
+                        <em class="fa fa-angle-right" aria-hidden="true"></em><span class="style8"><a href="pdf/กำหนดอัตรค่าตอบแทนคณะกรรมการประเมินฯ ระดับหลักสูตร 120663.pdf" target="_blank"><span class="style8">ประกาศ เรื่อง กำหนดอัตราค่าตอบแทนคณะกรรมการประะเมินคุณภาพการศึกษาภายใน ระดับหลักสูตร</a>  (12/06/2563)</span><br> 
+                         <em class="fa fa-angle-right" aria-hidden="true"></em><span class="style8"><a href="pdf/ตัวบ่งชี้มก ผ่านมติสภา250563.pdf" target="_blank"><span class="style8">ตัวบ่งชี้ผลการดำเนินงานมหาวิทยาลัยมหาวิทยาลัยเกษตรศาสตร์ ตามเกณฑ์มาตรฐานการอุดมศึกษา 5 ด้าน จำนวน 43 ตัวบ่งชี้</a> (28/05/2563)</span><br> 
+                                              
+                          <em class="fa fa-angle-right" aria-hidden="true"></em><br>
+                          </p>
+						  <p class="text-right"><a target="_blank" href="html/prqa2563.html"><b>read more</b></p></a>
+					  </div>
+			      </div>
+					<div class="tab-pane fade" id="tab2info">
+                     <div><i class="fa fa-angle-right" aria-hidden="true"></i> <span class="style8"><a target="_blank" href="pdf/aun2020 v4.pdf"> <span class="style8">
+aun-qa guide to aun-qa assessment at program level version 4.0</span><span class="style11 style5"> </span>02/10/2563</a></div> 
+                     <div><i class="fa fa-angle-right" aria-hidden="true"></i> <span class="style8"><a target="_blank" href="http://gg.gg/mhioq"> <span class="style8">รายงานผลการประเมินคุณภาพการศึกษาภายใน ระดับหลักสูตร ประจำปีการศึกษา 2562</span><span class="style11 style5"> </span>02/10/2563</a></div> 
+                    <div><i class="fa fa-angle-right" aria-hidden="true"></i> <span class="style8"><a target="_blank" href="pdf/แบบฟอร์มรางวัลคุณภาพ.doc"> <span class="style8">แบบฟอร์มส่งผลงานเข้าร่วมโครงการรางวัลคุณภาพ มหาวิทยาลัยเกษตรศาสตร์ ครั้งที่ 14 ประจำปี 2563</span><span class="style11 style5"> </span>21/09/2563</a></div> 
+                    <div><i class="fa fa-angle-right" aria-hidden="true"></i> <span class="style8"><a target="_blank" href="http://gg.gg/j2ie0"> <span class="style8">เอกสารประกอบการประเมินคุณภาพการศึกษาภายใน ระดับหลักสูตร ปีการศึกษา 2562 สำหรับเลขานุการ </span>19/05/2563</a></div> 
+                    <div><i class="fa fa-angle-right" aria-hidden="true"></i> <span class="style8"><a target="_blank" href="http://gg.gg/i9rpn"> <span class="style8">แบบฟอร์มรายงานผลการดำเนินงานหลักสูตร (มคอ.7) ปีการศึกษา 2562 (แก้ไข)</span>15/04/2563</a></div> 
+                    <div><i class="fa fa-angle-right" aria-hidden="true"></i> <span class="style8"><a target="_blank" href="pdf/แนวทางการแต่งตั้งกรรมการประเมินฯระดับหลักสูตรปีการศึกษา2562.rar"><span class="style8">แบบฟอร์มแต่งตั้งคณะกรรมการประเมินคุณภาพการศึกษาภายใน ระดับหลักสูตร ปีการศึกษา 2562</span>11/02/2563</a></div> 
+                    <div><i class="fa fa-angle-right" aria-hidden="true"></i> <span class="style8"><a target="_blank" href="pdf/แบบฟอร์มผลงานโครงการรางวัลคุณภาพ 13.pdf"><span class="style8">แบบฟอร์มสรุปผลงานรางวัลคุณภาพ มก. ครั้งที่ 13 ประจำปี 2562  </span>20/12/2562</a></div> &lt;<a href="pdf/แบบฟอร์มผลงานโครงการรางวัลคุณภาพ 13.docx" target="_blank"><แบบฟอร์มสรุปส่งผลงานเ></span><br> 
+                    <div><i class="fa fa-angle-right" aria-hidden="true"></i> <span class="style8"><a target="_blank" href="pdf/แนวทางและแบบฟอร์มedpex2561ระดับคณะ.rar"><span class="style8">แบบฟอร์มรายงานการพัฒนาคุณภาพการศึกษาด้วยเกณฑ์ edpex ปีการศึกษา 2561 ระดับคณะ </span>12/07/2562</a></div> 
+                  <div><i class="fa fa-angle-right" aria-hidden="true"></i> <span class="style8"><a target="_blank" href="https://bit.ly/2hh1kle"><span class="style8">แบบฟอร์มและเอกสารสำหรับใช้ในการทำหน้าที่เลขานุการประเมินคุณภาพการศึกษาภายใน ระดับหลักสูตร ปีการศึกษา 2561 </span>12/06/2562</a></div> 
+                   <div><i class="fa fa-angle-right" aria-hidden="true"></i> <span class="style8"><a target="_blank" href="excel/แบบฟอร์มแต่งตั้งกรรมการฯระดับหลักสูตรปีการศึกษา2561.xlsx"><span class="style8">แบบฟอร์มเสนอชื่อคณะกรรมการประเมินคุณภาพการศึกษาภายใน ระดับหลักสูตร ปีการศึกษา 2561 </span>27/03/2562</a></div> 
+                    <div><i class="fa fa-angle-right" aria-hidden="true"></i> <span class="style8"><a target="_blank" href="word/แบบฟอร์มรายงานมคอ7ปีการศึกษา2561แก้ไข290362.docx"><span class="style8">แบบฟอร์มการรายงานผลการดำเนินการหลักสูตร (มคอ.7) ปีการศึกษา 2561 </span>ปรับแก้ไข 29/03/2562</a></div> 
+                    <div><i class="fa fa-angle-right" aria-hidden="true"></i> <span class="style8"><a target="_blank" href="excel/แบบฟอร์มสำรวจข้อมูลการประเมินหลักสูตร62.xlsx"><span class="style8">แบบฟอร์มการสำรวจข้อมูลการบริหารจัดการหลักสูตร ปีการศึกษา 2561 </span> 21/01/2562</a></div>           
+		  <div class="text-right"><a target="_blank" href="http://www.qa.ku.ac.th/webqaku/kubatko/qa_download.html"><b>read more</b></a></div>
+					</div>
+                    <div class="tab-pane fade" id="tab3info"><br><br><br>
+                     <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="newsqa/newsjune2018.pdf">เดือนมิถุนายน 2561<span class="style5"></span></a></div>
+                    <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="newsqa/newsmay2018.pdf">เดือนพฤษภาคม 2561</a></div>
+					<div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="newsqa/newsapril2018.pdf">เดือนเมษายน 2561</a></div>
+					<div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="newsqa/newsmar2018.pdf">เดือนมีนาคม 2561</a></div>
+                    <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="newsqa/newsfeb2018.pdf">เดือนกุมภาพันธ์ 2561</a></div>
+                    <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="newsqa/newsjan2018.pdf">เดือนมกราคม 2561</a></div>
+						<div class="text-right"><a target="_blank" href="html/qanews2560.html"><b>read more</b></a></div>
+					</div>
+					<div class="tab-pane fade" id="tab4info"><br>
+                      <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="newspaper/newspaper2561/qanewspaper2561.html">ปี 2561 <span class="style5"></span></a></div>
+                      <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="newspaper/newspaper2560/qanewspaper2560.html">ปี 2560</a></div>
+					  <div> <i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="newspaper/newspaper2559/qanewspaper2559.html" target="_blank">ปี 2559</a></div>
+					  <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="http://www.qa.ku.ac.th/webqaku/kubatko/qanewspaper2558new.html">ปี 2558</a></div>
+						<div class="text-right"><a target="_blank" href="#"><b>read more</b></a></div>
+					</div>
+					<div class="tab-pane fade" id="tab5info">
+						<div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="http://greenmetric.ui.ac.id">ui green</a></div>
+						<div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="http://www.4icu.org/th">4 icu</a></div>
+						<div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="http://www.webometrics.info/en/asia/thailand?sort=asc&order=presence%20rank%2a">webometrics</a></div>
+						<div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="https://www.topuniversities.com/qs-world-university-rankings">qs ranking</a></div>
+                        <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="#">upm</a></div>
+					</div>							
+				</div>
+			</div>
+		</div>
+		<div class="panel with-nav-tabs panel-warning" >
+			<div class="panel-heading" style="background-color: #cc9933;font-family: 'designil font', 'helvetica', sans-serif; font-size: 0.85em;">
+				<ul class="nav nav-tabs">
+					<li class="active"><a target="_blank" href="#tab6info" data-toggle="tab"><i class="fa fa-graduation-cap" aria-hidden="true"></i> โครงการ/กิจกรรม</a></li>
+					<li><a target="_blank" href="#tab7info" data-toggle="tab"><i class="fa fa-television" aria-hidden="true"></i> vdo clip_qa</a></li>
+					<li><a target="_blank" href="#tab8info" data-toggle="tab"><i class="fa fa-graduation-cap" aria-hidden="true"></i> การประกันคุณภาพกิจกรรมนิสิต</a></li>
+					<li> <a target="_blank" href="#tab9info" data-toggle="tab"><i class="fa fa-graduation-cap" aria-hidden="true"></i> ประกาศรับสมัครงาน</a></li>
+			  </ul>
+			</div>
+		<div class="panel-body">
+			<div class="tab-content">
+			  <div class="tab-pane fade in active" id="tab6info">
+              <div class="style8">
+              <i class="fa fa-angle-right" aria-hidden="true"></i><a target="_blank" class="style8"><a href="projectqa2563/251263/activity251263.html">พิธีมอบโล่เชิดชูเกียรติและประกาศเกียรติคุณโครงการรางวัลคุณภาพ ครั้งที่ 14 ประจำปี 2563</span><span class="text-red"> new!</span><br>
+              <span class="text-warning style23">วันที่ 25 ธันวาคม 2563 เวลา 08.30 -10.30 น. ณ ห้องประชุมสุธรรม อารีกุล ชั้น 1 อาคารสารนิเทศ 50 ปี มก.</span><br> 
+              <i class="fa fa-angle-right" aria-hidden="true"></i><a target="_blank" class="style8"><a href="projectqa2563/071263/activity071263.html">โครงการรางวัลคุณภาพ ครั้งที่ 14 ประจำปี 2563</span><span class="text-red"> </span><br>
+              <span class="text-warning style23">วันที่ 7 ธันวาคม 2563 เวลา 08.20 -13.30 น. ณ ห้องประชุมสุธรรม อารีกุล ชั้น 1 อาคารสารนิเทศ 50 ปี มก.</span><br> 
+              <i class="fa fa-angle-right" aria-hidden="true"></i><a target="_blank" class="style8"><a href="projectqa2563/251163/activity251163.html">โครงการรับประเมินคุณภาพการศึกษาภายใน ปีการศึกษา 2562 มหาวิทยาลัยเกษตรศาสตร์</span><span class="text-red"> </span><br>
+              <span class="text-warning style23">ระหว่างวันที่ 25 - 27 พฤศจิกายน 2563 เวลา 08.30 -16.30 น. ณ ห้องประชุม ชั้น 2 อาคารสารนิเทศ 50 ปี มก.</span><br> 
+              <i class="fa fa-angle-right" aria-hidden="true"></i><a target="_blank" class="style8"><a href="projectqa2563/080763/activity080763.html">โครงการอบรมเชิงปฏิบัติการ เรื่อง แนวทางการประกันคุณภาพการศึกษาภายใน ระดับหลักสูตร โดยใช้เกณพ์ aun-qa </span><span class="text-red"></span><br>
+              <span class="text-warning style23">ระหว่างวันที่ 8-9 กรกฎาคม 2563 เวลา 08.30 -16.30 น. ณ ห้องประชุมสุธรรม อารีกุล ชั้น 1 อาคารสารนิเทศ 50 ปี มก.</span><br> 
+              
+              <br>
+     
+             </span></div>
+              <div>
+				<i class="fa fa-angle-right" aria-hidden="true"></i></p>
+                <p><span class="text-warning style7"></div>     
+              <!--div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="http://qa.ku.ac.th/download/0799meetingsarku2558.pdf">ประชุมติดตามการเขียนรายงานผลการดำเนินงานประกันคุณภาพการศึกษาภายใน มหาวิทยาลัยเกษตรศาสตร์ ปีการศึกษา 2558 <br><span class="text-warning">
+วันพุธที่ 17 สิงหาคม 2559 เวลา 13.00 -16.30 น.ณ ห้องประชุมกำพล อดุลวิทย์ ชั้น 2 อาคารสารนิเทศ 50 ปี มก.</span></a></div-->
+					<div class="text-right"><a target="_blank" href="html/photoanddocument2563.html"><strong>read more</strong></a></div>
+					<div id="mycarousel2" class="carousel slide">
+							<div>
+								<a class="btn btn-info btn-xs" href="#mycarousel2" data-slide="prev">
+									<i class="fa fa-angle-double-left"></i>								</a>
+								<a class="btn btn-info btn-xs" href="#mycarousel2" data-slide="next">
+									<i class="fa fa-angle-double-right"></i>								</a>							</div>
+							<!-- carousel items -->
+							<div class="carousel-inner">
+								<div class="item active" id="1">
+									<div class="row">
+    								<!-- 1 -->
+										<div class="col-md-4"><a target="_blank" href="http://www.edpex.org/p/download-edpex.html"><img src="images/slide_down1.jpg" class="img-responsive"></a>
+											<div>edpex</div>
+										</div>
+                                    <!-- 2 -->
+										<div class="col-md-4"><a target="_blank" href="pdf/คู่มือedpexคณะ2560.pdf"><img src="images/slide_down2.jpg" class="img-responsive"></a>
+											<div>edpex ระดับคณะ</span></div>
+									  </div>
+                                    	<!-- 3 -->
+										<div class="col-md-4"><a target="_blank" href="pdf/booksupport2560.pdf"><img src="images/slide_down3.jpg" class="img-responsive"></a></a>
+										  <div>edpex ระดับส่วนงานสนับสนุน</div>
+										</div>
+									</div>
+								</div>
+								<div class="item" id="2">
+									<div class="row">
+                                       <!-- 4 -->
+										<div class="col-md-4"><a target="_blank" href="pdf/edpexcriteria58-61.pdf"><img src="images/slide_down4.jpg" class="img-responsive"></a>
+											<div>edpexcriteria58-61</div>
+										</div>
+                                     <!-- 5 -->
+										<div class="col-md-4"><a target="_blank" href="pdf/activity4.pdf"><img src="images/slide_down5.jpg" class="img-responsive"></a>
+											<div>โบรชัวร์ edpex</div>
+										</div>
+                                    	<!-- 6 -->
+										<div class="col-md-4"><a target="_blank" href="pdf/isced-fields-of-education-training-2013.pdf"><img src="images/slide_down6.jpg" class="img-responsive"></a>
+											<div>isced</div>
+										</div>
+                                  </div>
+								</div>
+								<div class="item" id="3">
+									<div class="row">
+                                     <!-- 7 -->
+                                        <div class="col-md-4"><a target="_blank" href="pdf/หนังสือคู่มือการประกันคุณภาพ20-09-60.pdf"><img src="images/slide_down7.jpg" class="img-responsive"></a>
+											<div>คู่มือ สกอ. </span></div>
+									  </div>
+                                        <!-- 8 -->
+                                        <div class="col-md-4"><a target="_blank" href="pdf/book2558.zip"><img src="images/slide_down8.jpg" class="img-responsive"></a>
+											<div>คู่มือqaku.</div>
+										</div>
+                                         <!-- 9 -->
+                                        <div class="col-md-4"><a target="_blank" href="http://www.cheqa.mua.go.th/"><img src="images/slide_down9.jpg" class="img-responsive"></a>
+											<div>che qa</div>
+										</div>
+                               	  </div>
+								</div>
+								<div class="item" id="4">
+									<div class="row">
+                                       <!-- 10 -->
+										<div class="col-md-4"><a target="_blank" href="http://qais.ku.ac.th/qainput/login.aspx"><img src="images/slide_down10.jpg" class="img-responsive"></a>
+											<div>qais</div>
+										</div>
+                                     <!-- 11 -->
+										<div class="col-md-4"><a target="_blank" href="pdf/bookaward/qa12award2562.pdf"><img src="images/slide_down11.jpg" class="img-responsive"></a>
+										  <div>เล่มผลงานรางวัลคุณภาพ ครั้งที่ 12</div>
+										</div>
+                               	    <!-- 12 -->
+										<div class="col-md-4"><a target="_blank" href="pdf/reportku2561.pdf"><img src="images/slide_down12.png" class="img-responsive"></a>
+											<div>รายงานประเมินคุณภาพฯ ปีการศึกษา 2561<span class="style5"> new!</div>
+										</div>
+									</div>
+								</div>
+					  </div>
+				   </div>
+                        <!--/mycarousel-->
+			  </div>
+<div class="tab-pane fade" id="tab7info">
+					<div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="http://live.ku.ac.th/?cat=7">ระบบถ่ายทอดสด nontrilive / category archives: ประกันคุณภาพ </a></div>
+					<div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="https://sites.google.com/a/ku.th/vdo-qaku-training/">vdo qaku activities</a></div>
+					<div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="https://www.youtube.com/watch?v=dm0bapz4wp8&feature=youtu.be">vdo การใช้งานระบบ qais</a></div>
+					<div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="https://www.youtube.com/playlist?list=pllt1ezhrz04be4lxpxy9b2fd6pjujm9ug">vdo การใช้งานระบบ che qa online 3d</a></div>
+				</div>
+				<div class="tab-pane fade" id="tab8info">
+					<div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="http://www.qa.ku.ac.th/webqaku/kubatko/nisitactivity.html">คู่มือประกันคุณภาพ  กิจกรรมนิสิต</a></div>
+					<div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="http://www.qa.ku.ac.th/webqaku/kubatko/nisitactivity2.html">โครงการ/กิจกรรม</a></div>
+					<div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="http://www.qa.ku.ac.th/webqaku/kubatko/nisitactivity3.html">ผลงานนิสิต ด้านการประกันคุณภาพ</a></div>
+					<div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="http://www.qa.ku.ac.th/webqaku/kubatko/nisitactivity4.html">รายงานผลการตรวจประกันคุณภาพ</a></div>
+					<div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="http://www.qa.ku.ac.th/webqaku/kubatko/nisitactivity5.html">ดาวน์โหลดแบบฟอร์มต่างๆ</a></div>
+				</div>
+				
+				<div class="tab-pane fade" id="tab9info">
+                  <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="pdf/qajob2_26062563.pdf"><span class="style8">ประกาศผลการสอบคัดเลือกเป็นพนักงานมหาวิทยาลัยเงินรายได้ ตำแหน่งนักวิชาการศึกษา 1 ตำแหน่ง และนักวิชาการโสตทัศนศึกษา 1 ตำแหน่ง </a></span><span class="text-danger"><span class="style5"> new!<span class="style25"><span class="style8">(26/06/2563)</span></a></div>
+                 <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="pdf/qajob2interview230663.pdf"><span class="style8">ประกาศผลผู้ผ่านการสอบข้อเขียนและ
+ผู้มีสิทธิ์สอบสัมภาษณ์เข้ารับการคัดเลือกเป็นพนักงานมหาวิทยาลัยเงินรายได้ ตำแหน่งนักวิชาการศึกษา 1 ตำแหน่ง <br>
+และนักวิชาการโสตทัศนศึกษา 1 ตำแหน่ง </a></span><span class="style25"><span class="style8">(23/06/2563)</span></a></div>
+                <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="pdf/qacandidates2.2563.pdf"><span class="style8">ประกาศรายชื่อผู้มีสิทธิ์เข้ารับการสอบคัดเลือกเป็นพนักงานมหาวิทยาลัยเงินรายได้ ตำแหน่งนักวิชาการศึกษา 1 ตำแหน่ง และนักวิชาการโสตทัศนศึกษา 1 ตำแหน่ง</a><span class="style25"><span class="style8">(18/06/2563)</span></a></div>
+                <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="pdf/jobqa2-2563.pdf"><span class="style8">ประกาศรับสมัครบุคคลเพื่อสอบคัดเลือกเป็นพนักงานมหาวิทยาลัยเงินรายได้ ตำแหน่งนักวิชาการโสตทัศนศึกษา 1 ตำแหน่ง และนักวิชาการศึกษา 1 ตำแหน่ง</a><span class="style25"><span class="style8">(20/05/2563)</span></a></div>
+                <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="pdf/qajob4_2563.pdf"><span class="style8">ประกาศผลการสอบคัดเลือกเป็นพนักงานมหาวิทยาลัยเงินรายได้ ตำแหน่งนักวิชาการศึกษา 2 ตำแหน่ง และเจ้าหน้าที่บริหารงานทั่วไป 1 ตำแหน่ง </a></span><span class="text-danger"><span class="style5"><span class="style25"><span class="style8">(10/03/2563)</span></a></div>
+                <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="pdf/qajob3_2563.pdf"><span class="style8">ประกาศผลผู้ผ่านการสอบข้อเขียนและ
+ผู้มีสิทธิ์สอบสัมภาษณ์เข้ารับการคัดเลือกเป็นพนักงานมหาวิทยาลัยเงินรายได้ ตำแหน่งนักวิชาการศึกษา 2 ตำแหน่ง และเจ้าหน้าที่บริหารงานทั่วไป 1 ตำแหน่ง  <span class="style25"><span class="style8">(26/02/2563)</span></a></div>  
+                <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="pdf/qajob2_2563.pdf"><span class="style8">ประกาศรายชื่อผู้มีสิทธิ์เข้ารับการสอบคัดเลือกเป็นพนักงานมหาวิทยาลัยเงินรายได้ ตำแหน่งนักวิชาการศึกษา 2 ตำแหน่ง และเจ้าหน้าที่บริหารงานทั่วไป 1 ตำแหน่ง <span class="style25"><span class="style8">(17/02/2563)</span></a></div>  
+                <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="pdf/qajobhr170263.pdf"><span class="style8">ประกาศผลผู้ผ่านการสอบข้อเขียนและ
+ผู้มีสิทธิ์สอบสัมภาษณ์เข้ารับการคัดเลือกเป็นพนักงานมหาวิทยาลัยเงินงบประมาณ ตำแหน่งนักวิชาการศึกษา 1 ตำแหน่ง <br>(ส่วนกลางสำนักงานอธิการบดี)</a></span><span class="text-danger"><span class="style5"><span class="style25"><span class="style8">(17/02/2563)</span></a></div>  
+                  <div><i class="fa fa-angle-right" aria-hidden="true"></i> <a target="_blank" href="pdf/qajob 1_2563.pdf"><span class="style8">ประกาศรับสมัครบุคคลเพื่อสอบคัดเลือกป็นพนักงานมหาวิทยาลัยเงินรายได้ ตำแหน่งนักวิชาการศึกษา 2 ตำแหน่ง และเจ้าหน้าที่บริหารงานทั่วไป 1 ตำแหน่ง</a></span><span class="text-danger"><span class="style5"> <span class="style25"><span class="style8">(13/01/2563)</span></a></div>
+                
+				<div class="text-right"><a target="_blank" href="http://qa.ku.ac.th/web2016/html/qa_job.html"><b>read more</b></a></div>
+			  </div>
+               </div>
+                </div>
+                 </div>
+                  </div>
+		<div class="col-md-3">
+			<div class="list-group">
+			<a class="btn btn-block btn-social btn-twitter submenu" style="font-family: 'designil font', 'helvetica', sans-serif; font-size: 0.85em;" href="http://www.planning.ku.ac.th/planning/downloads/qa_authen/"> <em class="fa fa-bar-chart"></em> ข้อมูลสถิติ ปีการศึกษา 2562 </a> 
+		  <a class="btn btn-block btn-social btn-twitter submenu" style="font-family: 'designil font', 'helvetica', sans-serif; font-size: 0.85em;" href="pdf/edpexkupolicy.pdf"> <em class="fa fa-bullhorn"></em> นโยบาย edpex มก. </a> 
+		  <a class="btn btn-block btn-social btn-twitter submenu" style="font-family: 'designil font', 'helvetica', sans-serif; font-size: 0.85em;" href="html/edu.html"> <em class="fa fa-mortar-board"></em> พ.ร.บ. ประกาศ และมาตรฐานการศึกษา </a> 
+		  <a class="btn btn-block btn-social btn-twitter submenu" style="font-family: 'designil font', 'helvetica', sans-serif; font-size: 0.85em;" href="http://www.mua.go.th/users/tqf-hed/"> <em class="fa fa-edit"></em> กรอบมาตรฐานคุณวุฒิ (tqf) </a> <a class="btn btn-block btn-social btn-twitter submenu" style="font-family: 'designil font', 'helvetica', sans-serif; font-size: 0.85em;" href="http://www.data3.mua.go.th/datas/"> <em class="fa fa-map"></em> คลังข้อมูลอุดมศึกษา </a>
+		  <a class="btn btn-block btn-social btn-twitter submenu" style="font-family: 'designil font', 'helvetica', sans-serif; font-size: 0.85em;" href="http://www.cheqa.mua.go.th/"> <em class="fa fa-server"></em> ระบบฐานข้อมูลประกันคุณภาพ (che) </a> <a class="btn btn-block btn-social btn-twitter submenu" style="font-family: 'designil font', 'helvetica', sans-serif; font-size: 0.85em;" href="http://www.qa.ku.ac.th/webqaku/kubatko/linkuniversitykr28052015.html"> <em class="fa fa-leanpub"></em>งานประกันคุณภาพสถาบันอุดมศึกษาต่างๆ </a> <a class="btn btn-block btn-social btn-twitter submenu" style="font-family: 'designil font', 'helvetica', sans-serif; font-size: 0.85em;" href="http://qa.ku.ac.th/webqaku/kubatko/qa_internal.html"> <em class="fa fa-language"></em> qa ต่างประเทศ </a> <a class="btn btn-block btn-social btn-twitter submenu" style="font-family: 'designil font', 'helvetica', sans-serif; font-size: 0.85em;"> <em class="fa fa-link"></em> web link </a> <a class="btn btn-block btn-social btn-twitter submenu" style="font-family: 'designil font', 'helvetica', sans-serif; font-size:0.85em;" href="https://www.facebook.com/359177991268827/"> <em class="fa fa-facebook"></em> facebook qaku </a>
+			  <div>
+					<section >
+						<div class="custom-calendar-wrap">
+							<div id="custom-inner" class="custom-inner">
+								<div class="custom-header clearfix">
+									<nav>
+										<span id="custom-prev" class="custom-prev"></span>
+<span id="custom-next" class="custom-next"></span></nav>
+										<h2 id="custom-month" class="custom-month"></h2>
+										<h3 id="custom-year" class="custom-year"></h3>
+								</div>
+								<div id="calendar" class="fc-calendar-container"></div>
+							</div>
+						</div>
+					</section>
+						<!-- clock starts -->
+						<div id="datetime"></div>
+					</div>
+					<div class="box box-solid">
+						<div class="with-border style19">
+						  <div class="with-border style19">
+						  <h4 class="box-title">จำนวนผู้เข้าชมเว็บไซต์</h4>
+						</div>
+						</div>
+						<!-- /.box-header -->
+						<div class="box-body text-center">
+						<script src="https://www.w3counter.com/tracker.js?id=110345"></script>
+						 <a href='https://acadooghostwriter.com/'>https://acadooghostwriter.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=f9230451d09c0cd9412cb86e9d75c73360be80c5'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/279173/t/0"></script>	
+<!--
+							<script type="text/javascript">
+							var sc_project=11334922; 
+							var sc_invisible=0; 
+							var sc_security="bd79d875"; 
+							var scjshost = (("https:" == document.location.protocol) ?
+							"https://secure." : "http://www.");
+							document.write("<sc"+"ript type='text/javascript' src='" +
+							scjshost+
+							"statcounter.com/counter/counter.js'></"+"script>");
+							</script>
+							<noscript><div class="statcounter"><a title="free hit
+							counter" href="http://statcounter.com/" target="_blank"><img
+							class="statcounter"
+							src="//c.statcounter.com/11334922/0/bd79d875/0/" alt="free
+							hit counter"></a></div></noscript>
+<!-- -->
+						</div>
+					</div>
+				   </div>
+	  </div>
+            </div>
+		
+        </div>
+
+<!-- footer -->
+		<footer>
+			<div class="container">
+				<hr />
+				<div class="text-center center-block">
+				<strong> สำนักงานพัฒนาคุณภาพและบริหารความเสี่ยง มหาวิทยาลัยเกษตรศาสตร์ ชั้น 9 อาคารสารนิเทศ 50 ปี โทรศัพท์ 0 2942 8299 ต่อ 4920-24 email : <a target="_blank" href="mailto:qa@ku.ac.th">qa@ku.ac.th</a></strong><br>office of quality development and risk management kasetsart university<br />
+				<a target="_blank" href="https://www.facebook.com/office-of-quality-assurance-kasetsart-unversity-158017037598689/"><i class="fa fa-facebook-square fa-3x social"></i></a>
+				<a target="_blank" href="#"><i class="fa fa-twitter-square fa-3x social"></i></a>
+				<a target="_blank" href="#"><i class="fa fa-google-plus-square fa-3x social"></i></a>
+				<a target="_blank" href="mailto:qa@ku.ac.th"><i class="fa fa-envelope-square fa-3x social"></i></a>
+			</div>
+	    </footer>
+		
+    </div>
+    <!-- /.container -->
+
+
+    <!-- bootstrap core javascript -->
+    <script src="js/bootstrap.min.js"></script>
+	
+    <!-- script to activate the carousel -->
+    <script>
+	$('ul.nav li.dropdown').hover(function() {
+	  $(this).find('.dropdown-menu').stop(true, true).delay(100).fadein(300);
+	}, function() {
+	  $(this).find('.dropdown-menu').stop(true, true).delay(100).fadeout(300);
+	});
+	
+	
+    $('.carousel').carousel({
+        interval: 7000 //changes the speed
+    })
+    </script>
+	
+	<!-- calender -->
+	<script type="text/javascript" src="js/jquery.calendario.js"></script>
+	<script type="text/javascript" src="js/data.js"></script>
+	<script type="text/javascript">	
+		$(function() {
+			
+			var transendeventnames = {
+				'webkittransition' : 'webkittransitionend',
+				'moztransition' : 'transitionend',
+			'otransition' : 'otransitionend',
+						'mstransition' : 'mstransitionend',
+						'transition' : 'transitionend'
+					},
+					transendeventname = transendeventnames[ modernizr.prefixed( 'transition' ) ],
+					$wrapper = $( '#custom-inner' ),
+					$calendar = $( '#calendar' ),
+					cal = $calendar.calendario( {
+						ondayclick : function( $el, $contentel, dateproperties ) {
+
+							if( $contentel.length > 0 ) {
+								showevents( $contentel, dateproperties );
+							}
+
+						},
+						caldata : codropsevents,
+						displayweekabbr : true
+					} ),
+					$month = $( '#custom-month' ).html( cal.getmonthname() ),
+					$year = $( '#custom-year' ).html( cal.getyear() );
+
+				$( '#custom-next' ).on( 'click', function() {
+					cal.gotonextmonth( updatemonthyear );
+				} );
+				$( '#custom-prev' ).on( 'click', function() {
+					cal.gotopreviousmonth( updatemonthyear );
+				} );
+
+				function updatemonthyear() {				
+					$month.html( cal.getmonthname() );
+					$year.html( cal.getyear() );
+				}
+
+				// just an example..
+				function showevents( $contentel, dateproperties ) {
+
+					hideevents();
+					
+					var $events = $( '<div id="custom-content-reveal" class="custom-content-reveal"><h4>events for ' + dateproperties.monthname + ' ' + dateproperties.day + ', ' + dateproperties.year + '</h4></div>' ),
+						$close = $( '<span class="custom-content-close"></span>' ).on( 'click', hideevents );
+
+					$events.append( $contentel.html() , $close ).insertafter( $wrapper );
+					
+					settimeout( function() {
+						$events.css( 'top', '0%' );
+					}, 25 );
+
+				}
+				function hideevents() {
+
+					var $events = $( '#custom-content-reveal' );
+					if( $events.length > 0 ) {
+						
+						$events.css( 'top', '100%' );
+						modernizr.csstransitions ? $events.on( transendeventname, function() { $( this ).remove(); } ) : $events.remove();
+
+					}
+
+				}
+			
+			});
+	</script>
+	<!-- clock -->
+
+	<script type="text/javascript">  
+	$(function(){  
+		moment.locale('th');  
+	});  
+	
+	var datetime = null,
+        date = null;
+
+	var update = function () {
+		date = moment(new date())
+		datetime.html(date.format('dddd, do mmmm yyyy, เวลา h:mm:ss a'));
+	};
+
+	$(document).ready(function(){
+		datetime = $('#datetime')
+		update();
+		setinterval(update, 1000);
+	});
+	</script> 
+</body>
+</html>

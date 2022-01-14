@@ -1,0 +1,18 @@
+<html>
+<head>
+<!-- <meta http-equiv="refresh" content="0;url=https://www.csc.ku.ac.th/th"> -->
+    <link id="theme-style" rel="stylesheet" href="./css/bootstrap.min.css">
+</head>
+    <body>
+        <div class="container">
+            <div class="row text-center">
+           <center> <a href="https://misreg.csc.ku.ac.th/admission/"><img src="./65-1.jpg" class="img img-responsive"></a>
+           </center> </div>
+            <hr />
+            <div class="row" style="text-align:center;">
+            <input type="button" onclick="window.location='https://www.csc.ku.ac.th/th'" class="btn btn-primary" value="เข้าสู่เว็บไซต์มหาวิทยาลัย"> 
+            <input type="button" onclick="window.location='https://misreg.csc.ku.ac.th/admission/'" class="btn btn-danger" value="สมัครเข้าศึกษา"> 
+            </div>
+        </div>
+    </body>
+</html>

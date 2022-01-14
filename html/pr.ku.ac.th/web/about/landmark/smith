@@ -1,0 +1,764 @@
+<!doctype html>
+<!--[if ie 7]><html lang="th" class="ie ie7"><![endif]-->
+<!--[if ie 8]><html lang="th" class="ie ie8"><![endif]-->
+<!--[if ie 9]><html lang="th" class="ie ie9"><![endif]-->
+<!--[if !ie]><!--><html class="no-js" lang="th"><!--<![endif]-->
+
+<!-- header -->
+<head>
+    <meta charset="utf-8">
+    <title>landmark</title>
+    <meta name="keyword" content="landmark,สถานที่สำคัญ ku,อนุสาวรีย์สามบูรพาจารย์,สามเสือเกษตร,พระพิรุณทรงนาค,หอประชุมใหญ่ main auditorium,อาคารจักรพันธ์เพ็ญสิริ,ศาลาหกเหลี่ยม,นนทรีทรงปลูก,หออนุสรณ์ 60 ปี มก.,แคปซูลเวลา,หอจดหมายเหตุ,สระสุวรรณชาด">
+    <meta name="description" content="landmark">
+<meta property="og:title" content="landmark"/>
+<meta property="og:description" content="landmark"/>
+<meta property="og:image" content="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/2ff-logo.jpeg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta property="og:url" content="https://pr.ku.ac.th/web/about/landmark"/>
+<meta name="twitter:card" content="landmark"/>
+<meta name="twitter:url" content="https://pr.ku.ac.th/web/about/landmark"/>
+<meta name="twitter:description" content="landmark"/>
+<meta name="twitter:image" content="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/2ff-logo.jpeg"/>
+
+    <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, minimum-scale=1.0, maximum-scale=4.0" />
+    <!--[if ie]><meta http-equiv="x-ua-compatible" content="ie=edge"><![endif]-->
+
+            <link rel="icon" type="image/png" sizes="32x32" href="https://pr.ku.ac.th/web/uploads/config/20201125/bceghmvwyz58.png">
+        <link rel="shortcut" type="image/x-icon" href="https://pr.ku.ac.th/web/uploads/config/20201125/bceghmvwyz58.png">
+        <link rel="image_src" href="https://pr.ku.ac.th/web/uploads/config/20201125/bceghmvwyz58.png">
+    
+    <!--[if ie]>
+        <script src="js/main/html5shiv.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/bootstrap-4.5.3/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/owlcarousel2-2.3.4/owl.carousel.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/owlcarousel2-2.3.4/owl.theme.default.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/fancybox-master/jquery.fancybox.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/select2/select2.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/font.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/theme.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/ku-pr.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/header.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/footer.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/responsive.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/plugin/loading.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/slick/slick.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/slick/slick-theme.css" />
+    
+        
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/custom.css" />
+
+    <script type="text/javascript">
+        // declare variable for use in .js file
+        var base_url = 'https://pr.ku.ac.th/web/';
+        var site_url = 'https://pr.ku.ac.th/web/';
+        var theme_default = 'pr-ku';
+        var theme_path = 'https://pr.ku.ac.th/web/public/themes/pr-ku/';
+        var csrf_name = 'epwpw_token';
+        var csrf_value = 'eb6d9532419663a545de312758669302';
+    </script>
+
+    <script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/owlcarousel2-2.3.4/owl.carousel.min.js"></script>
+
+    
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
+    <!-- <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script> -->
+    <!-- <script src="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js"></script> -->
+
+                        <!-- global site tag (gtag.js) - google analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=g-py00ljv7rx"></script>
+<script>
+  window.datalayer = window.datalayer || [];
+  function gtag(){datalayer.push(arguments);}
+  gtag('js', new date());
+
+  gtag('config', 'g-py00ljv7rx');
+</script>            
+    <!-- go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5552d7771ce9a682"></script>
+</head>
+<body>
+        <!-- navigation -->
+    <header class="main-header">
+    <div class="container">
+      <div class="logo-wrap">
+        <div class="logo">
+          <a href="https://pr.ku.ac.th/web/home">
+            <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/ku_logo_62x62_th.svg" alt="">
+          </a>
+        </div>
+        <div class="logo-name">
+          <a href="https://pr.ku.ac.th/web/home">
+            <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/ku_name_logo_62x62.svg" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="nav-wrapper">
+        <ul>
+          <li class="d-none d-xl-flex">
+            <a href="https://www.ku.ac.th/th" target="_blank"><i class="icons ico-world"></i><span>เว็บไซต์มหาวิทยาลัย</span></a>
+          </li>
+          <li class="home-pr d-none d-xl-flex">
+            <a href="https://pr.ku.ac.th/web/home"><i class="icons ico-home"></i><span>หน้าหลักงานประชาสัมพันธ์</span></a>
+          </li>
+          <li class="d-none d-xl-flex">
+            <div class="dropdown">
+              <a class="btn btn-secondary dropdown-toggle" href="javascript:;" role="button" id="dropdownmenulink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                <span>วิทยาเขต</span>
+              </a>
+              <div class="dropdown-menu" aria-labelledby="dropdownmenulink">
+                <a class="dropdown-item" href="https://www.ku.ac.th" target="_blank">บางเขน</a>
+                <a class="dropdown-item" href="https://kps.ku.ac.th/v8/index.php/th/" target="_blank">วิทยาเขตกําแพงแสน</a>
+                <a class="dropdown-item" href="https://www.csc.ku.ac.th/th/" target="_blank">วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</a>
+                <a class="dropdown-item" href="https://www.src.ku.ac.th/" target="_blank">วิทยาเขตศรีราชา</a>
+                <a class="dropdown-item" href="http://sbc.ku.ac.th/" target="_blank">โครงการจัดตั้งวิทยาเขตสุพรรณบุรี</a>
+              </div>
+            </div>
+          </li>
+          <li class="d-none d-xl-flex">
+            <a href="https://pr.ku.ac.th/web/submit-news"><i class="icons ico-chat"></i><span>ช่องทางการส่งข่าวประชาสัมพันธ์</span></a>
+          </li>
+          <li class="input-search">
+            <form action="https://pr.ku.ac.th/web/search" accept-charset="utf-8" method="get">              <input type="text" name="q" class="form-control">
+              <button type="submit" id="button-search">
+                <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24" height="24">
+                  <path id="ic_mag" d="m23.79 22.77l17.96 16.94c19.52 15.14 20.47 12.8 20.47 10.23c20.47 4.59 15.88 0 10.23 0c4.59 0 0 4.59 0 10.23c0 15.87 4.59 20.47 10.23 20.47c12.8 20.47 15.15 19.52 16.95 17.95l22.78 23.79c22.92 23.92 23.1 24 23.29 24c23.47 24 23.65 23.93 23.79 23.79c24.07 23.51 24.07 23.05 23.79 22.77zm1.43 10.23c1.43 5.38 5.38 1.44 10.23 1.44c15.08 1.44 19.03 5.38 19.03 10.23c19.03 15.08 15.08 19.03 10.23 19.03c5.38 19.03 1.43 15.09 1.43 10.23z" />
+                </svg>
+              </button>
+            </form>          </li>
+          <li class="nav-hamburger">
+            <button class="btn-hamburger">
+              <i class="icons ico-hamburger"></i>
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </header>
+  <div class="body-overlay"></div>
+  <div id="side-header" class="sidemenu-control -regular">
+    <div class="search-bar">
+      <a href="javascript:;" class="btn-close-menu">
+        <svg height="30px" viewbox="0 0 329.26933 329" width="30px" xmlns="http://www.w3.org/2000/svg">
+          <path d="m194.800781 164.769531 128.210938-128.214843c8.34375-8.339844 8.34375-21.824219 0-30.164063-8.339844-8.339844-21.824219-8.339844-30.164063 0l-128.214844 128.214844-128.210937-128.214844c-8.34375-8.339844-21.824219-8.339844-30.164063 0-8.34375 8.339844-8.34375 21.824219 0 30.164063l128.210938 128.214843-128.210938 128.214844c-8.34375 8.339844-8.34375 21.824219 0 30.164063 4.15625 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921875-2.089844 15.082031-6.25l128.210937-128.214844 128.214844 128.214844c4.160156 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921874-2.089844 15.082031-6.25 8.34375-8.339844 8.34375-21.824219 0-30.164063zm0 0" /></svg>
+      </a>
+      <form action="https://pr.ku.ac.th/web/search" accept-charset="utf-8" method="get">        <input type="text" name="q" class="form-control">
+        <button type="submit" class="btn-search">
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24" height="24">
+            <path id="ic_mag" d="m23.79 22.77l17.96 16.94c19.52 15.14 20.47 12.8 20.47 10.23c20.47 4.59 15.88 0 10.23 0c4.59 0 0 4.59 0 10.23c0 15.87 4.59 20.47 10.23 20.47c12.8 20.47 15.15 19.52 16.95 17.95l22.78 23.79c22.92 23.92 23.1 24 23.29 24c23.47 24 23.65 23.93 23.79 23.79c24.07 23.51 24.07 23.05 23.79 22.77zm1.43 10.23c1.43 5.38 5.38 1.44 10.23 1.44c15.08 1.44 19.03 5.38 19.03 10.23c19.03 15.08 15.08 19.03 10.23 19.03c5.38 19.03 1.43 15.09 1.43 10.23z" />
+          </svg>
+        </button>
+      </form>    </div>
+    <div id="accordion">
+      <div class="card d-flex">
+        <div class="card-header">
+          <h5 class="mb-0">
+            <a href="https://www.ku.ac.th/th" target="_blank">เว็บไซต์มหาวิทยาลัย</a>
+          </h5>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <h5 class="mb-0">
+            <a href="https://pr.ku.ac.th/web/home">หน้าหลักประชาสัมพันธ์</a>
+          </h5>
+        </div>
+      </div>
+      <div class="card d-flex">
+        <div class="card-header" id="heading-1">
+          <h5 class="mb-0" data-toggle="collapse" data-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">
+            <a href="javascript:;">วิทยาเขต</a>
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">
+              <i class="icons">
+                <svg height="20px" viewbox="0 0 329.26933 329" width="20px" xmlns="http://www.w3.org/2000/svg">
+                  <path d="m194.800781 164.769531 128.210938-128.214843c8.34375-8.339844 8.34375-21.824219 0-30.164063-8.339844-8.339844-21.824219-8.339844-30.164063 0l-128.214844 128.214844-128.210937-128.214844c-8.34375-8.339844-21.824219-8.339844-30.164063 0-8.34375 8.339844-8.34375 21.824219 0 30.164063l128.210938 128.214843-128.210938 128.214844c-8.34375 8.339844-8.34375 21.824219 0 30.164063 4.15625 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921875-2.089844 15.082031-6.25l128.210937-128.214844 128.214844 128.214844c4.160156 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921874-2.089844 15.082031-6.25 8.34375-8.339844 8.34375-21.824219 0-30.164063zm0 0" /></svg>
+              </i>
+            </button>
+          </h5>
+        </div>
+        <div id="collapse-1" class="collapse" aria-labelledby="heading-1" data-parent="#accordion">
+          <div class="card-body">
+            <ul>
+              <li><a class="dropdown-item" href="https://www.ku.ac.th" target="_blank">บางเขน</a></li>
+              <li><a class="dropdown-item" href="https://kps.ku.ac.th/v8/index.php/th/" target="_blank">วิทยาเขตกําแพงแสน</a></li>
+              <li><a class="dropdown-item" href="https://www.csc.ku.ac.th/th/" target="_blank">วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</a></li>
+              <li><a class="dropdown-item" href="https://www.src.ku.ac.th/" target="_blank">วิทยาเขตศรีราชา</a></li>
+              <li><a class="dropdown-item" href="http://sbc.ku.ac.th/" target="_blank">โครงการจัดตั้งวิทยาเขตสุพรรณบุรี</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="card d-flex">
+        <div class="card-header">
+          <h5 class="mb-0">
+            <a href="https://pr.ku.ac.th/web/submit-news">ช่องทางการส่งข่าวประชาสัมพันธ์</a>
+          </h5>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingone">
+          <h5 class="mb-0" data-toggle="collapse" data-target="#collapseone" aria-expanded="false" aria-controls="collapseone">
+            <a href="javascript:;">คลังสื่อ</a>
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseone" aria-expanded="false" aria-controls="collapseone">
+              <i class="icons">
+                <svg height="20px" viewbox="0 0 329.26933 329" width="20px" xmlns="http://www.w3.org/2000/svg">
+                  <path d="m194.800781 164.769531 128.210938-128.214843c8.34375-8.339844 8.34375-21.824219 0-30.164063-8.339844-8.339844-21.824219-8.339844-30.164063 0l-128.214844 128.214844-128.210937-128.214844c-8.34375-8.339844-21.824219-8.339844-30.164063 0-8.34375 8.339844-8.34375 21.824219 0 30.164063l128.210938 128.214843-128.210938 128.214844c-8.34375 8.339844-8.34375 21.824219 0 30.164063 4.15625 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921875-2.089844 15.082031-6.25l128.210937-128.214844 128.214844 128.214844c4.160156 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921874-2.089844 15.082031-6.25 8.34375-8.339844 8.34375-21.824219 0-30.164063zm0 0" /></svg>
+              </i>
+            </button>
+          </h5>
+        </div>
+        <div id="collapseone" class="collapse" aria-labelledby="headingone" data-parent="#accordion">
+          <div class="card-body">
+            <ul>
+              <li><a href="https://pr.ku.ac.th/web/media">ku media</a></li>
+              <li><a href="https://pr.ku.ac.th/web/gallery">ku gallery</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingtwo">
+          <h5 class="mb-0" data-toggle="collapse" data-target="#collapsetwo" aria-expanded="false" aria-controls="collapsetwo">
+            <a href="javascript:;">ข่าวสาร</a>
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsetwo" aria-expanded="false" aria-controls="collapsetwo">
+              <i class="icons">
+                <svg height="20px" viewbox="0 0 329.26933 329" width="20px" xmlns="http://www.w3.org/2000/svg">
+                  <path d="m194.800781 164.769531 128.210938-128.214843c8.34375-8.339844 8.34375-21.824219 0-30.164063-8.339844-8.339844-21.824219-8.339844-30.164063 0l-128.214844 128.214844-128.210937-128.214844c-8.34375-8.339844-21.824219-8.339844-30.164063 0-8.34375 8.339844-8.34375 21.824219 0 30.164063l128.210938 128.214843-128.210938 128.214844c-8.34375 8.339844-8.34375 21.824219 0 30.164063 4.15625 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921875-2.089844 15.082031-6.25l128.210937-128.214844 128.214844 128.214844c4.160156 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921874-2.089844 15.082031-6.25 8.34375-8.339844 8.34375-21.824219 0-30.164063zm0 0" /></svg>
+              </i>
+            </button>
+          </h5>
+        </div>
+                <div id="collapsetwo" class="collapse" aria-labelledby="headingtwo" data-parent="#accordion">
+          <div class="card-body">
+            <ul>
+                              <li><a href="https://pr.ku.ac.th/web/news/ข่าวนวัตกรรมงานวิจัย">ข่าวนวัตกรรมงานวิจัย</a></li>
+                              <li><a href="https://pr.ku.ac.th/web/news/ข่าวนิสิต">ข่าวนิสิต</a></li>
+                              <li><a href="https://pr.ku.ac.th/web/news/5">ku press</a></li>
+                              <li><a href="https://pr.ku.ac.th/web/news/รอบรั้วนนทรี">รอบรั้วนนทรี</a></li>
+                              <li><a href="https://pr.ku.ac.th/web/news/มก-ในสื่อมวลชน">มก.ในสื่อมวลชน</a></li>
+                          </ul>
+          </div>
+        </div>
+              </div>
+      <div class="card">
+        <div class="card-header">
+          <h5 class="mb-0">
+            <a href="https://pr.ku.ac.th/web/prku-news">pr ku news</a>
+          </h5>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingthree">
+          <h5 class="mb-0" data-toggle="collapse" data-target="#collapsethree" aria-expanded="false" aria-controls="collapsethree">
+            <a href="javascript:;">เกี่ยวกับเรา</a>
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsethree" aria-expanded="false" aria-controls="collapsethree">
+              <i class="icons">
+                <svg height="20px" viewbox="0 0 329.26933 329" width="20px" xmlns="http://www.w3.org/2000/svg">
+                  <path d="m194.800781 164.769531 128.210938-128.214843c8.34375-8.339844 8.34375-21.824219 0-30.164063-8.339844-8.339844-21.824219-8.339844-30.164063 0l-128.214844 128.214844-128.210937-128.214844c-8.34375-8.339844-21.824219-8.339844-30.164063 0-8.34375 8.339844-8.34375 21.824219 0 30.164063l128.210938 128.214843-128.210938 128.214844c-8.34375 8.339844-8.34375 21.824219 0 30.164063 4.15625 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921875-2.089844 15.082031-6.25l128.210937-128.214844 128.214844 128.214844c4.160156 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921874-2.089844 15.082031-6.25 8.34375-8.339844 8.34375-21.824219 0-30.164063zm0 0" /></svg>
+              </i>
+            </button>
+          </h5>
+        </div>
+        <div id="collapsethree" class="collapse" aria-labelledby="headingthree" data-parent="#accordion">
+          <div class="card-body">
+            <ul>
+              <li><a href="https://pr.ku.ac.th/web/about/history">ความเป็นมาของหน่วยงาน</a></li>
+              <li><a href="https://pr.ku.ac.th/web/about/staff">บุคลากรงานประชาสัมพันธ์</a></li>
+              <li><a href="https://pr.ku.ac.th/web/about/service">ภารกิจหน่วยงาน</a></li>
+              <li><a href="https://pr.ku.ac.th/web/about/landmark">สถานที่สำคัญ</a></li>
+              <li><a href="https://pr.ku.ac.th/web/about/history#sc-download">ดาวน์โหลดคู่มือ / อัตลักษณ์</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <h5 class="mb-0">
+            <a href="https://pr.ku.ac.th/web/contactus">ติดต่อเรา</a>
+          </h5>
+        </div>
+      </div>
+    </div>
+    <div class="social-group">
+      <div class="nav-social">
+        <a href="https://www.facebook.com/publicrelations.ku?ref=hl" target="_blank"><i class="icons ico-facebook"></i></a>
+        <a href="https://twitter.com/kasetsart_ku" target="_blank"><i class="icons ico-twitter"></i></a>
+        <a href="https://www.instagram.com/kasetsart_ku" target="_blank"><i class="icons ico-instagram"></i></a>
+        <a href="https://www.youtube.com/channel/uc1lx-ul4ln8jxedtdxep7ga" target="_blank"><i class="icons ico-youtube"></i></a>
+        <a href="mailto:prku@ku.ac.th"><i class="icons ico-envelope"></i></a>
+      </div>
+    </div>
+  </div>
+
+
+    
+    <!-- content -->
+    <div class="page-inner-wrapper">
+  <nav aria-label="breadcrumb" class="breadcrumb-wrapper">
+    <div class="container">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#"> <i class="icons ico-home"></i></a></li>
+        <li class="breadcrumb-item"><a href="#">เกี่ยวกับเรา</a></li>
+        <li class="breadcrumb-item"><span>สถานที่สำคัญ</span></li>
+      </ol>
+    </div>
+  </nav>
+  <div class="select2-wrapper timeline-history d-flex d-md-none">
+    <div class="container">
+      <select class="select2-default" name="state">
+        <option value="1">อนุสาวรีย์สามบูรพาจารย์</option>
+        <option value="2">พระพิรุณทรงนาค</option>
+        <option value="3">หอประชุมใหญ่</option>
+        <option value="4">อาคารจักรพันธ์เพ็ญศิริ</option>
+        <option value="5">ศาลาหกเหลี่ยม</option>
+        <option value="6">นนทรีทรงปลูก</option>
+        <option value="7">หออนุสรณ์ 60 ปี มก.</option>
+        <option value="8">แคปซูลเวลา</option>
+        <option value="9">สระสุวรรณชาด</option>
+      </select>
+    </div>
+  </div>
+  <div class="timeline-control">
+    <div class="timeline">
+      <div class="timeline-wrapper">
+        <div class="timeline-slider">
+          <div class="timeline-slide">
+            <div class="timeline-slide__content">
+              <div class="inner-timeline">
+                <div class="top-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <h3 class="ht-1 -med c-white">
+                        อนุสาวรีย์ <br>
+                        สามบูรพาจารย์
+                      </h3>
+                      <p class="txt-1 c-white -light">หลวงสุวรรณวาจกกสิกิจ หลวงอิงคศรีกสิการ และพระช่วงเกษตรศิลปการ</p>
+                      <ul class="thumbs-history">
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-01-1.jpg" alt=""></li>
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-01-2.jpg" alt=""></li>
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-01-3.jpg" alt=""></li>
+                      </ul>
+                    </div>
+                    <div class="img-box">
+                      <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/lg-timeline-01.jpg" alt="">
+                    </div>
+                  </div>
+                </div>
+                <div class="bottom-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <h3 class="hs-3 c-darkgreen -med">“สามเสือเกษตร”</h3>
+                      <p class="hs-4 c-dark -light">
+                        <b>เป็นฉายาที่เจ้าพระยาธรรมศักดิ์มนตรีใช้เรียกแทนบุคคลทั้งสาม</b>
+                        ด้วยท่านเหล่านี้ล้วนมีคุโณปการต่อวงการเกษตรและต่อมหาวิทยาลัยเกษตรศาสตร์ เป็นผู้วางรากฐานการเกษตรและการศึกษาด้านเกษตรศาสตร์ของประเทศไทย
+                      </p>
+                      <p class="hs-4 -med c-darkgreen">
+                        “ถือได้ว่าทั้งสามท่านได้ร่วมกันทำงานอย่างหนัก ผลที่มีต่อประเทศชาตินั้นจึงไม่สามารถแบ่งแยกจากกันได้”
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="timeline-slide">
+            <div class="timeline-slide__content">
+              <div class="inner-timeline">
+                <div class="top-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <h3 class="ht-1 -med c-white">
+                        พระพิรุณทรงนาค
+                      </h3>
+                      <p class="txt-1 c-white -light">“เทพเจ้าแห่งฝนและน้ำทั้งหลาย"</p>
+                      <!-- <ul class="thumbs-history">
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-01-1.jpg" alt=""></li>
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-01-2.jpg" alt=""></li>
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-01-3.jpg" alt=""></li>
+                      </ul> -->
+                    </div>
+                    <div class="img-box">
+                      <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/lg-timeline-02.jpg" alt="">
+                    </div>
+                  </div>
+                </div>
+                <div class="bottom-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <h3 class="hs-3 c-darkgreen -med">“สัญลักษณ์ประจำมหาวิทยาลัยเกษตรศาสตร์”</h3>
+                      <p class="hs-4 c-dark -light">
+                        ตั้งอยู่ ณ บริเวณหน้าอาคารสุวรรณ วาจกกสิกิจ พระพิรุณองค์ปัจจุบันได้รับการปรับปรุงฐานที่ตั้งให้สูงขึ้นจากเดิมประมาณ 1.35 เมตร พร้อมกับยกระดับบ่อน้ำพุกลางให้สูงขึ้นอีก 1 เมตร เพื่อให้มีความสง่างามและโดดเด่นยิ่งขึ้น โดยใช้งบประมาณเงินรายได้ส่วนกลาง และได้ทำพิธีสักการะองค์พระพิรุณไปเมื่อวันที่ 16 กรกฏาคม พ.ศ.2547
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="timeline-slide">
+            <div class="timeline-slide__content">
+              <div class="inner-timeline">
+                <div class="top-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <h3 class="ht-1 -med c-white">
+                        หอประชุมใหญ่
+                      </h3>
+                      <p class="txt-1 c-white -light">มหาวิทยาลัยเกษตรศาสตร์</p>
+                      <ul class="thumbs-history">
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-03-1.jpg" alt=""></li>
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-03-2.jpg" alt=""></li>
+                      </ul>
+                    </div>
+                    <div class="img-box">
+                      <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/lg-timeline-03.jpg" alt="">
+                    </div>
+                  </div>
+                </div>
+                <div class="bottom-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <h3 class="hs-3 c-darkgreen -med">“หอประชุมใหญ่ main auditorium”</h3>
+                      <p class="hs-4 c-dark -regular">
+                        หอประชุมมหาวิทยาลัยเกษตรศาสตร์ ตั้งอยู่ในบริเวณพื้นที่มุมถนนพหลโยธินตัดกับถนนงามวงศ์วาน ทำพิธีวางศิลาฤกษ์เมื่อวันที่ 18 เมษายน พ.ศ. 2497 โดยมีจอมพล ป. พิบูลสงคราม นายกรัฐมนตรีในขณะนั้นเป็นประธาน หอประชุมสร้างแล้วเสร็จในปี พ.ศ. 2500 และเปิดใช้เพื่อเป็นสถานที่จัดพิธีพระราชทานปริญญาบัตร งานวันเกษตร อบรมสัมมนาต่างๆ เรื่อยมา ในปัจจุบัน เรียกชื่ออาคารว่า “หอประชุมใหญ่” นั้น มาจากการเรียกขานของนิสิตในสมัยก่อน ในสมัยของรักษาการแทนอธิการบดีมหาวิทยาลัยเกษตรศาสตร์ ดร.จงรัก วัชรินทร์รัตน์ จึงดำริให้จัดทำป้ายชื่ออาคารว่า หอประชุมใหญ่ main auditorium ติดตั้งเมื่อวันที่ 31 มกราคม พ.ศ. 2561
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="timeline-slide">
+            <div class="timeline-slide__content">
+              <div class="inner-timeline">
+                <div class="top-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <h3 class="ht-1 -med c-white">
+                        อาคารจักรพันธ์เพ็ญศิริ
+                      </h3>
+                      <p class="txt-1 c-white -light">พระเจ้าวรวงศ์เธอ พระองค์เจ้าจักรพันธ์เพ็ญศิริ</p>
+                      <ul class="thumbs-history">
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-04-1.jpg" alt=""></li>
+                      </ul>
+                    </div>
+                    <div class="img-box">
+                      <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/lg-timeline-04.jpg" alt="">
+                    </div>
+                  </div>
+                </div>
+                <div class="bottom-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <h3 class="hs-3 c-darkgreen -med">“พระนามอธิการบดีมหาวิทยาลัยเกษตรศาสตร์”</h3>
+                      <p class="hs-4 c-dark -regular">
+                        สร้างขึ้นเมื่อ พ.ศ. 2528 โดย พระบาทสมเด็จพระปรมินทรมหาภูมิพลอดุลยเดช เสด็จทรงเปิดอาคาร เมื่อวันที่ 23 กรกฎาคม พ.ศ. 2529 โดยชื่ออาคารมีที่มาจากพระนาม ของพระเจ้าวรวงศ์เธอ พระองค์เจ้าจักรพันธ์เพ็ญศิริ อดีตอธิการบดี คนที่ 6 ของมหาวิทยาลัยเกษตรศาสตร์ สามารถจุได้ประมาณ 3,000 ที่นั่ง เดิมเป็นอาคารอเนกประสงค์ สำหรับใช้ในการแข่งขันกีฬา ปัจจุบันเป็นอาคารสำหรับงานพิธีพระราชทานปริญญาบัตรโครงการส่งเสริมความสามารถพิเศษภาคฤูุร้อน โครงการก้าวแรกสู่บัณฑิตยุคใหม่ โครงการเลือกแนวทางวางอนาคต ฯลฯ รวมทั้งยังเป็นสถานที่จำหน่ายและรับสมัครการสอบวัดความรู้เพื่อเข้าศึกษาในสถาบันอุดมศึกษาอีกด้วย
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="timeline-slide">
+            <div class="timeline-slide__content">
+              <div class="inner-timeline">
+                <div class="top-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <h3 class="ht-1 -med c-white">
+                        ศาลาหกเหลี่ยม
+                      </h3>
+                      <p class="txt-1 c-white -light">รูปทรงและชื่อเลียนแบบเรือนไม้หลังเดิม</p>
+                      <ul class="thumbs-history">
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-05-1.jpg" alt=""></li>
+                      </ul>
+                    </div>
+                    <div class="img-box">
+                      <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/lg-timeline-05.jpg" alt="">
+                    </div>
+                  </div>
+                </div>
+                <div class="bottom-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <p class="hs-4 c-dark -light">
+                        รูปทรงและชื่อของอาคารหลังนี้เลียนแบบเรือนไม้หลังเดิม ซึ่งเคยตั้งอยู่ในพื้นที่เดียวกันนี้ ศาลาหกเหลี่ยมหลังเดิมจัดสร้างขึ้นโดยแผนกทดลองและเพาะเลี้ยง กรมประมง เมื่อประมาณปี พ.ศ.2490 เพื่อเป็นสถานที่อำนวยความสะดวก สำหรับประชาชนที่มาติดต่อขอซื้อพันธุ์ปลา ต่อมากลายเป็นที่พำนักพักผ่อนของชาว มก.ในยุคที่รถยนต์โดยสารสาธารณะยังมีบริการด้านถนนพหลโยธินเป็นหลักและถูกใช้เป็นที่จอดรถจักรยานในเวลาต่อมา อาคารศาลาหกเหลี่ยมหลังใหม่เปิดใช้งานอย่างเป็นทางการเมื่อ วันที่ 2 กุมภาพันธ์ 2542 สร้างขึ้นเพื่อแสดงเหตุการณ์สำคัญในประวัติของชาวเกษตร อันเนื่องด้วยพระมหากรุณาธิคุณในพระบาทสมเด็จพระบรมชนกาธิเบศรมหาภูมิพลอดุลยเดชมหาราชบรมนาถบพิตร และเพื่อเป็นสถานที่จัดนิทรรศการเผยแพร่ความรู้ด้านการเกษตรและวิทยาการด้านต่าง ๆ
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="timeline-slide">
+            <div class="timeline-slide__content">
+              <div class="inner-timeline">
+                <div class="top-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <h3 class="ht-1 -med c-white">
+                        นนทรีทรงปลูก
+                      </h3>
+                      <p class="txt-1 c-white -light">ต้นนนทรี ต้นไม้ของเกษตร</p>
+                      <ul class="thumbs-history">
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-06-1.jpg" alt=""></li>
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-06-2.jpg" alt=""></li>
+                      </ul>
+                    </div>
+                    <div class="img-box">
+                      <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/lg-timeline-06.jpg" alt="">
+                    </div>
+                  </div>
+                </div>
+                <div class="bottom-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <p class="hs-4 c-dark -light">
+                        พระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร เสด็จพระราชดำเนินมาทรงปลูกต้นนนทรีจำนวน 9 ต้น ณ บริเวณด้านหน้าอาคารหอประชุม มก. และพระราชทานต้นนนทรีเป็นต้นไม้ประจำมหาวิทยาลัยเกษตรศาสตร์และทรงดนตรีที่มหาวิทยาลัยเกษตรศาสตร์เป็นครั้งแรก เมื่อวันศุกร์ที่ 29 พฤศจิกายน พ.ศ. 2506 หลังจากนั้นได้มีพระมหากรุณาธิคุณ เสด็จฯ มาทอดพระเนตรเยี่ยมต้นนนทรีที่ทรงปลูก บริเวณหน้าอาคารหอประชุม มก. ได้สร้างความเป็นสง่าราศี เป็นขวัญกำลังใจ เป็นจิตวิญญาณและให้ความร่มเย็น แก่เหล่าลูกนนทรีมาโดยตลอด ปัจจุบันนนทรีทั้ง 9 ต้นเจริญเติบโตเป็นไม้ใหญ่ เต็มวัย มีขนาดเส้นผ่าศูนย์กลางเฉลี่ย 53 เซนติเมตร มีความสูงเฉลี่ย 15 เมตร มีพื้นที่เรือนยอดปกคลุม 123 ตารางเมตรต่อต้น หรือพื้นที่เรือนยอดรวม 1,108 ตารางเมตร มหาวิทยาลัยได้เฝ้าดูแลต้นนนทรีทั้ง 9 ต้น เพื่อให้ดำรงความเป็นเกียรติประวัติแก่มหาวิทยาลัยเกษตรศาสตร์สืบไป
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="timeline-slide">
+            <div class="timeline-slide__content">
+              <div class="inner-timeline">
+                <div class="top-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <h3 class="ht-1 -med c-white">
+                        หออนุสรณ์ 60 ปี มก.
+                      </h3>
+                      <p class="txt-1 c-white -light">60 ปีของการการพัฒนามหาวิทยาลัยเกษตรศาสตร์</p>
+                      <ul class="thumbs-history">
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-07-1.jpg" alt=""></li>
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-07-2.jpg" alt=""></li>
+                      </ul>
+                    </div>
+                    <div class="img-box">
+                      <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/lg-timeline-07.jpg" alt="">
+                    </div>
+                  </div>
+                </div>
+                <div class="bottom-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <p class="hs-4 c-dark -regular">
+                        เป็นสิ่งก่อสร้างถาวรซึ่งแสดงถึงความหมายที่สำคัญของการพัฒนามหาวิทยาลัยเกษตรศาสตร์เป็นจุดรวมทางสายตา เน้นให้เห็นถึงความสง่างามสมเกียรติภูมิของมหาวิทยาลัยโดยมีลักษณะเด่นคือ หออนุสรณ์ 60 ปี นี้ มีลักษณะเด่นคือ ส่วนฐาน ฐานทั้งหมดเปรียบเสมือนแผ่นดินอันเป็นต้นกำเนิดของพืชพรรณ ธัญญาหารของประเทศไทย ฐานสามเหลี่ยมใหญ่ หมายถึง สามบูรพาจารย์ผู้ก่อตั้งมหาวิทยาลัยเกษตรศาสตร์ ฐานสามเหลี่ยมย่อย 3 รูป แทนคณาจารย์และบุคลากรที่ร่วมสร้างมหาวิทยาลัยจากอดีต ปัจจุบันไปจนถึงอนาคต ฐานของตัวหอรูปหกเหลี่ยม หมายถึง การครบรอบ 60 ปี ของมหาวิทยาลัยเกษตรศาสตร์ ส่วนหอ เปรียบเสมือนต้นข้าวอันเป็นตัวแทนของพืชพรรณธัญญาหารของประเทศไทย ซึ่งเติบโตขึ้นมาจากแผ่นดิน แล้วแตกยอดออกเป็นชั้นๆ แต่ละชั้นนำไปสู่ความเจริญก้าวหน้ายิ่งขึ้นสู่จุดสูงสุด ที่ใช้ยอดสีทองแทนความหมาย ส่วนยอด บรรจุแก้วเจียระไนรูปหกเหลี่ยมสะท้อนแสง ลวดลายฉลุ เป็นโลหะสีทองฉลุลายพืชพรรณบ่อน้ำและปลา อันเป็นต้นกำเนิดของมหาวิทยาลัยเกษตรศาสตร์ ลายดอกบัวให้ความหมายของการเรียนรู้และพัฒนาตนเองในการศึกษา
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="timeline-slide">
+            <div class="timeline-slide__content">
+              <div class="inner-timeline">
+                <div class="top-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <h3 class="ht-1 -med c-white">
+                        แคปซูลเวลา
+                      </h3>
+                      <p class="txt-1 c-white -light">time capsule</p>
+                      <ul class="thumbs-history">
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-08-1.jpg" alt=""></li>
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-08-2.jpg" alt=""></li>
+                      </ul>
+                    </div>
+                    <div class="img-box">
+                      <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/lg-timeline-08.jpg" alt="">
+                    </div>
+                  </div>
+                </div>
+                <div class="bottom-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <p class="hs-4 c-dark -light">
+                        สมเด็จพระเจ้าน้องนางเธอ เจ้าฟ้าจุฬาภรณวลัยลักษณ์ อัครราชกุมารี กรมพระศรีสวางควัฒน วรขัตติยราชนารี ทรงพระกรุณาโปรดเกล้าฯให้ศาสตราจารย์ ดร.วิจิตร ศรีสอ้าน เป็นผู้แทนพระองค์ไปประกอบพิธีวางศิลาฤกษ์อาคารเฉลิมพระเกียรติ 4 รอบพระชันษาจุฬาภรณ์ และบรรจุแคปซูลเวลา เมื่อวันที่ 27 เมษายน พ.ศ. 2549 ณ บริเวณ ลานหน้าหออนุสรณ์ 60 ปี มหาวิทยาลัยเกษตรศาสตร์ บางเขน แคปซูลเวลา เป็นถังทรงกระบอก ทำด้วยสเตนเลสสตีล ขนาดเส้นผ่าศูนย์กลาง 3 ฟุต สูง 4 ฟุต จำนวน 2 ชุด จัดทำขึ้นโดยมีวัตถุประสงค์คือ 1. เพื่อดำเนินการเนื่องในโอกาสที่มหาวิทยาลัยเกษตรศาสตร์ ก้าวเข้าสู่ทศวรรษที่ 7 และครบรอบ 63 ปี แห่งการสถาปนามหาวิทยาลัยเกษตรศาสตร์ 2. เพื่อเก็บรักษาข้อมูลที่ได้คัดสรรสิ่งที่มีคุณค่าสำคัญในอดีต ปัจจุบัน ตลอดจนแผนงานและแนวคิดในอนาคตของมหาวิทยาลัยเกษตรศาสตร์ ซึ่งทุกฝ่ายได้มีส่วนร่วม 3. เพื่อให้อนุชนรุ่นต่อไปได้ภาคภูมิใจในผลงานของมหาวิทยาลัยเกษตรศาสตร์ในอดีต
+                      </p>
+                      <p class="hs-4 -med c-dark">
+                        ดูรายละเอียดเพิ่มเติมที่
+                        <span class="c-lightgreen -regular">
+                          <u>
+                            <a class="c-lightgreen" href="https://archives.lib.ku.ac.th/" target="_blank">หอจดหมายเหตุ</a>
+                          </u>
+                        </span>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="timeline-slide">
+            <div class="timeline-slide__content">
+              <div class="inner-timeline">
+                <div class="top-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <h3 class="ht-1 -med c-white">
+                        สระสุวรรณชาด
+                      </h3>
+                      <p class="txt-1 c-white -light">สระว่ายน้ำชื่อพระราชทาน</p>
+                      <ul class="thumbs-history">
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-09-1.jpg" alt=""></li>
+                        <li><img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/sm-timeline-09-2.jpg" alt=""></li>
+                      </ul>
+                    </div>
+                    <div class="img-box">
+                      <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/about/lg-timeline-09.jpg" alt="">
+                    </div>
+                  </div>
+                </div>
+                <div class="bottom-content">
+                  <div class="container">
+                    <div class="content-box">
+                      <p class="hs-4 c-dark -regular">
+                        คณะสัตวแพทยศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ ได้รับพระมหากรุณาธิคุณโปรดเกล้าโปรดกระหม่อมจากพระบาทสมเด็จพระเจ้าอยู่หัว พระราชทานสระว่ายน้ำสำหรับการรักษาแบบธาราบำบัด ให้สุนัขที่ป่วยด้วยโรคข้อกระดูก และโรคระบบประสาท จำนวน 2 สระ โดยพระราชทานเงินรายได้จากการจำหน่วยเสื้อคุณทองแดง สุนัขทรงเลี้ยง พร้อมทั้งพระราชทานชื่อสระว่ายน้ำว่า "สระสุวรรณชาด" ตามชื่อของคุณทองแดง โดยเริ่มทำการก่อสร้างเมื่อวันที่ 24 มกราคม พ.ศ. 2548 ในการสร้างสระนี้ ได้รับพระมหากรุณาธิคุณพระราชทานคำแนะนำในการออกแบบตามหลักวิชาการและได้ใช้สระว่ายน้ำของสุนัขทรงเลี้ยงมาเป็นต้นแบบ ซึ่งได้ก่อสร้างแล้วเสร็จเมื่อปลายเดือนเมษายน พ.ศ. 2548 ในวันที่ 6 พฤษภาคม พ.ศ. 2548 พระบาทสมเด็จพระเจ้าอยู่หัว เสด็จพระราชดำเนินเป็นการส่วนพระองค์พร้อมด้วยสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี ทรงเปิดสระสุวรรณชาด ณ คณะ สัตวแพทยศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ และได้ทรงพาคุณทองแดงสุนัขทรงเลี้ยงมาร่วมในพิธีเปิดสระด้วย
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="timeline-nav">
+        <div class="timeline-nav__item">
+          <span class="nav-bullet">01</span>
+          <p class="ct-1 -regular">อนุสาวรีย์สามบูรพาจารย์</p>
+        </div>
+        <div class="timeline-nav__item">
+          <span class="nav-bullet">02</span>
+          <p class="ct-1 -regular">พระพิรุณทรงนาค</p>
+        </div>
+        <div class="timeline-nav__item">
+          <span class="nav-bullet">03</span>
+          <p class="ct-1 -regular">หอประชุมใหญ่</p>
+        </div>
+        <div class="timeline-nav__item">
+          <span class="nav-bullet">04</span>
+          <p class="ct-1 -regular">อาคารจักรพันธ์เพ็ญศิริ</p>
+        </div>
+        <div class="timeline-nav__item">
+          <span class="nav-bullet">05</span>
+          <p class="ct-1 -regular">ศาลาหกเหลี่ยม</p>
+        </div>
+        <div class="timeline-nav__item">
+          <span class="nav-bullet">06</span>
+          <p class="ct-1 -regular">นนทรีทรงปลูก</p>
+        </div>
+        <div class="timeline-nav__item">
+          <span class="nav-bullet">07</span>
+          <p class="ct-1 -regular">หออนุสรณ์ 60 ปี มก.</p>
+        </div>
+        <div class="timeline-nav__item">
+          <span class="nav-bullet">08</span>
+          <p class="ct-1 -regular">
+            แคปซูลเวลา <br>
+            time capsule
+          </p>
+        </div>
+        <div class="timeline-nav__item">
+          <span class="nav-bullet">09</span>
+          <p class="ct-1 -regular">
+            สระสุวรรณชาด
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+    <!-- footer -->
+    <footer class="main-footer">
+  <div class="nav-footer">
+    <div class="container">
+      <div class="title-footer">
+        <h3 class="hs-4">ลิงก์ที่เกี่ยวข้องฯ</h3>
+      </div>
+      <div class="nav-wrapper">
+        <div class="nav-group">
+          <a href="https://pr.ku.ac.th/web/submit-news">ช่องทางการส่งข่าวประชาสัมพันธ์</a>
+        </div>
+        <div class="nav-group">
+          <a href="https://pr.ku.ac.th/web/about/landmark">สถานที่สำคัญ</a>
+          <a href="https://www.ku.ac.th/th/phone-number" target="_blank">หมายเลขโทรศัพท์</a>
+          <a href="http://kasetsartjournal.ku.ac.th/" target="_blank">ku journal</a>
+          <a href="https://webmail.ku.ac.th/roundcube/" target="_blank">ku webmail</a>
+        </div>
+        <div class="nav-group">
+          <a href="http://www.gad.ku.ac.th/" target="_blank">กองกลาง</a>
+          <a href="http://www.sa.ku.ac.th/" target="_blank">กองกิจการนิสิต</a>
+          <a href="https://registrar.ku.ac.th/" target="_blank">สำนักบริหารการศึกษา</a>
+          <a href="http://ocs.ku.ac.th/2019/" target="_blank">สำนักบริการคอม</a>
+        </div>
+        <div class="nav-group">
+          <a href="https://www.ku.ac.th/th" target="_blank">บางเขน</a>
+          <a href="https://kps.ku.ac.th/v8/index.php/th/" target="_blank">วิทยาเขตกําแพงแสน</a>
+          <a href="https://www.csc.ku.ac.th/th/" target="_blank"><span class="d-block">วิทยาเขตเฉลิมพระเกียรติ</span>จังหวัดสกลนคร</a>
+          <a href="https://www.src.ku.ac.th/" target="_blank">วิทยาเขตศรีราชา</a>
+          <a href="http://sbc.ku.ac.th/" target="_blank">โครงการจัดตั้งวิทยาเขตสุพรรณบุรี</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="caption-footer">
+    <div class="container">
+      <h3 class="hs-4 -med c-white">เราจะเป็นศูนย์กลางด้านการสื่อสารองค์กร <br class="d-block d-xl-none"> ส่งเสริมภาพลักษณ์ของมหาวิทยาลัยและหน่วยงาน วิทยาเขต ให้ถึงกลุ่มเป้าหมาย </h3>
+    </div>
+  </div>
+  <div class="contact-footer">
+    <div class="container">
+      <div class="license-group">
+        <div class="logo">
+          <img class="img-fluid d-none d-xl-block"src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/footer_logo.svg" alt="">
+          <img class="img-fluid d-flex d-xl-none"src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/footer_logo-2.jpg" alt="">
+        </div>
+        <div class="text-box c-white">
+          <h3 class="ct-2 -med">งานประชาสัมพันธ์ มหาวิทยาลัยเกษตรศาสตร์</h3>
+          <p class="d-none d-lg-block ct-3 -regular">โทร : <a href="tel:029428181" class="c-white">02 942 8181-3</a> | โทรสาร : 02 942 8834-5 | e-mail : <a href="mailto:prku@ku.ac.th" class="c-white">prku@ku.ac.th</a></p>
+          <p class="d-block d-lg-none ct-3 -regular">โทร : <a href="tel:029428181" class="c-white">02 942 8181-3</a> | โทรสาร : 02 942 8834-5 
+            <br class="d-block d-lg-none"> e-mail : <a href="mailto:prku@ku.ac.th" class="c-white">prku@ku.ac.th</a>
+          </p>
+          <span class="ct-2 -med license">สงวนลิขสิทธิ์ © 2020 มหาวิทยาลัยเกษตรศาสตร์ </span>
+        </div>
+      </div>
+      <div class="social-group">
+        <div class="nav-social">
+          <a href="https://www.facebook.com/publicrelations.ku?ref=hl" target="_blank"><i class="icons ico-facebook"></i></a>
+          <a href="https://twitter.com/kasetsart_ku" target="_blank"><i class="icons ico-twitter"></i></a>
+          <a href="https://www.instagram.com/kasetsart_ku" target="_blank"><i class="icons ico-instagram"></i></a>
+          <a href="https://www.youtube.com/channel/uc1lx-ul4ln8jxedtdxep7ga" target="_blank"><i class="icons ico-youtube"></i></a>
+          <a href="mailto:prku@ku.ac.th"><i class="icons ico-envelope"></i></a>
+        </div>
+        <div class="nav-condition">
+          <a class="ct-2 -med" href="https://pr.ku.ac.th/web/feed" target="_blank">rss feed pr ku</a>
+          <a class="ct-2 -med" href="https://pr.ku.ac.th/" target="_blank">เว็บไซต์เดิม</a>
+          <a class="ct-2 -med" href="https://ocs.ku.ac.th/ku_computer_policy/cyber/policy/dataprivacy.pdf" target="_blank">เงื่อนไขการใช้งานเว็บไซต์</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>    <script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/bootstrap-4.5.3/popper.min.js"></script>
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/bootstrap-4.5.3/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/fancybox-master/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/select2/select2.min.js"></script>
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/main.js"></script>
+<script type="text/javascript" src='https://www.google.com/recaptcha/api.js'></script>
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/slick/slick.js"></script>
+
+</body>
+</html>

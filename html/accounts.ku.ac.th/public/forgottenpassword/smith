@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+    <title>self service password reset</title><meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    <meta name="robots" content="noindex,nofollow"/>
+    <meta id="application-info" name="application-name" content="sspr password self service"
+          
+          data-sspr-instance="eb38c6b8fc1d1d20"
+          data-jsp-name="forgottenpassword-search.jsp"
+          data-url-context=""
+          data-pwmformid="h4siaaaaaaaaaagaagx_ufdnlkddtteqn_7xqnxlrqqr6fazxj5kcw_4vab-znfoodaz__nhnaqw3fbv4ahnohw5ek-opf4yt4db2zwgs94kbqxjbkelql-v2zczhgj1a388zny8gmpzlxthdjwhqdh0hihogd6mqqhtwj5uwbwwbrg7-2k5ederdhftzhh0bzowrpkheb7rdnfywrsnblxbad9-x7ilnkznvdgaaaaa"
+          data-clientetag="98de7a5693b010ce5e594647c6c2aec0448f7772">
+    <meta name="viewport" content="width=device-width, initial-scale = 1.0, user-scalable=no"/>
+    <meta http-equiv="x-ua-compatible" content="ie=10; ie=9; ie=8; ie=7" />
+    <link rel="icon" type="image/png" href="/public/resources/nonce-a3e3d0e016fb1099c0ee6d962f4b9178/favicon.png"/>
+    <link rel="stylesheet" type="text/css" href="/public/resources/nonce-a3e3d0e016fb1099c0ee6d962f4b9178/pwm-icons.css"/>
+    <link href="/public/resources/nonce-a3e3d0e016fb1099c0ee6d962f4b9178/style.css" rel="stylesheet" type="text/css" media="screen"/>
+    <link href="/public/resources/nonce-a3e3d0e016fb1099c0ee6d962f4b9178/themes/custom/style.css" rel="stylesheet" type="text/css" media="screen"/>
+    <link media="only screen and (max-width: 600px)" href="/public/resources/nonce-a3e3d0e016fb1099c0ee6d962f4b9178/mobilestyle.css" type="text/css" rel="stylesheet"/><link media="only screen and (max-width: 600px)" href="/public/resources/nonce-a3e3d0e016fb1099c0ee6d962f4b9178/themes/custom/mobilestyle.css" type="text/css" rel="stylesheet"/><link href="/public/resources/nonce-a3e3d0e016fb1099c0ee6d962f4b9178/webjars/dijit/themes/nihilo/nihilo.css" rel="stylesheet" type="text/css"/>
+    <link href="/public/resources/nonce-a3e3d0e016fb1099c0ee6d962f4b9178/webjars/dgrid/css/dgrid.css" rel="stylesheet" type="text/css"/>
+    <script type="text/javascript" nonce="roa6aywpz/gorxsjpcs0r4363qoqlyw6">
+            var pwm_global = pwm_global || {}; pwm_global['startupfunctions'] = [];
+        
+    </script><noscript></noscript></head>
+<body class="nihilo">
+<div id="wrapper">
+    <div id="header">
+    <div id="header-company-logo">
+    </div>
+    <div id="header-balance-div">
+        <br/></div>
+    <div id="header-right-logo">
+    </div>
+    <div id="header-center">
+        <div id="header-center-left">
+            <div id="header-page">forgotten password</div>
+            <div id="header-title">password self service</div>
+        </div>
+
+        <div id="header-center-right">
+            <div id="header-menu-wrapper">
+                <div id="header-menu">
+                    <div id="header-username-group">
+                        </div>
+                </div>
+
+                </div>
+        </div>
+    </div>
+</div>
+<div id="centerbody">
+        <h1 id="page-content-title">forgotten password</h1>
+        <p>if you have forgotten your password, follow the prompts to reset your password.</p>
+        <form action="/public/forgottenpassword" method="post" enctype="application/x-www-form-urlencoded" autocomplete="off"
+              name="searchform" class="pwm-form" id="searchform">
+            <div id="message_wrapper">
+<span style="display:none" id="message" class="message">&nbsp;</span>
+<div id="capslockwarning" style="display:none;">caps lock is on</div>
+</div>
+<div style="display: none" id="contextselectorwrapper">
+    <h2 class="loginfieldlabel"><label for="context">location</label></h2>
+    <div class="formfieldwrapper">
+        <select name="context" id="context" class="selectfield" title="location">
+            </select>
+    </div>
+</div>
+<br/>
+            <div class="formfieldwrapper" id="formfieldwrapper-cn">
+    <label for="cn">
+        <div class="formfieldlabel">
+            username<span style="font-style: italic; font-size: smaller" id="label_required_cn">*&nbsp;</span>
+            </div>
+    </label>
+    <input id="cn" type="text" class="inputfield"
+           name="cn" value=""
+     required="required"autofocus="autofocus"  maxlength="255">
+    <script type="text/javascript" nonce="roa6aywpz/gorxsjpcs0r4363qoqlyw6">
+            pwm_global['startupfunctions'].push(function(){
+                pwm_main.showtooltip({
+                    id: "label_required_cn",
+                    text: 'username is required',
+                    position: ['above']
+                });
+            });
+        
+    </script><noscript></noscript></div>
+<div class="buttonbar">
+                <input type="hidden" name="processaction" value="search"/>
+                <button type="submit" class="btn" name="search" id="submitbtn">
+                    <span class="btn-icon pwm-icon pwm-icon-search"></span>search</button>
+                <button type="submit" name="button" class="btn" id="button-cancelbutton" form="form-cancelbutton">
+                        <span class="btn-icon pwm-icon pwm-icon-times"></span>cancel</button>
+                <input type="hidden" name="pwmformid" value="h4siaaaaaaaaaagaagx_ufdnlkddtteqn_7xqnxlrqqr6fazxj5kdbwgetjgqgj8onu6lzsk1gfk-pllpng3bgk4y-5sxtvjoobgtknk1o1_kl_bmxdlbwe0l33-49jstk3rboive2b4h-yikdpkq4vi1yupq9cesvacgooqgyuiqqny8uldf5a6pnbzemlgg0sne8njjqamo_bypv42tra5ramjnfkbwvcgl9caaaaa"/>
+                <input type="hidden" name="skipcaptcha" value=""/>
+            </div>
+        </form>
+    </div>
+    <div class="push"></div>
+</div>
+<form id="form-cancelbutton" action="/public/forgottenpassword" method="post">
+    <input type="hidden" name="processaction" value="reset"/>
+    <input type="hidden" name="pwmformid" value="h4siaaaaaaaaaagaagx_ufdnlkddtteqn_7xqnxlrqqr6fazxj5kdr8q8k09jo3xfswfgelaxyhnkhdoguxloygu78et3n9faxl29er7cyfuw2_kjdn98fr_qpjd3zjoidgnraxtm-2fz_trkfv71clozslf4aityemd4iput2ormrbhp3wqq8rcsxv1wyg5txdh9mssla36xv46joiduzwxouv_z60xk1vn7c6aaaaa"/>
+</form>
+<div id="footer">
+        <span class="infotext">&nbsp;</span>
+        <div id="footer-content">
+            <span class="footer-segment">
+                <span id="idle_wrapper">
+                <span id="idle_status">
+                idle timeout:&nbsp;15 minutes</span>
+                </span>
+                </span>
+                <span class="footer-segment">
+                    <span id="localeselectionmenu">
+                        <img src="/public/resources/nonce-a3e3d0e016fb1099c0ee6d962f4b9178/webjars/famfamfam-flags/dist/png/us.png"
+                             alt="us"/>
+                        <span class="localedisplayname">english</span>
+                    </span>
+                </span>
+            </div>
+    </div>
+<script type="text/javascript" nonce="roa6aywpz/gorxsjpcs0r4363qoqlyw6">
+        pwm_global['startupfunctions'].push(function() {
+            
+        });
+        var dojoconfig = { has: { "csp-restrictions":false }, async:true }
+    
+</script><noscript></noscript><script nonce="roa6aywpz/gorxsjpcs0r4363qoqlyw6" dojo-sync-loader="false" type="text/javascript" src="/public/resources/nonce-a3e3d0e016fb1099c0ee6d962f4b9178/webjars/dojo/dojo.js"></script><noscript></noscript>
+<script type="text/javascript" nonce="roa6aywpz/gorxsjpcs0r4363qoqlyw6" src="/public/resources/nonce-a3e3d0e016fb1099c0ee6d962f4b9178/js/main.js"></script><noscript></noscript></body>
+</html>
+

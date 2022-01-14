@@ -1,0 +1,1255 @@
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="th-th" lang="th-th" dir="ltr">
+<head>
+<!-- needed for slideshow -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<link rel="stylesheet" href="/templates/foodworld/slideshow/responsiveslides.css" type="text/css" />	
+<script type="text/javascript" src="/templates/foodworld/slideshow/responsiveslides.js"></script>
+<script type="text/javascript" src="/templates/foodworld/modules/responsive-menu.js"></script>
+  <base href="http://ss.sa.ku.ac.th/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="super user" />
+  <meta name="description" content="งานหอพัก" />
+  <meta name="generator" content="joomla! - open source content management" />
+  <title>งานหอพัก</title>
+  <link href="http://ss.sa.ku.ac.th/index.php" rel="canonical" />
+  <link href="/templates/foodworld/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://ss.sa.ku.ac.th/index.php/component/search/?id=5&amp;itemid=101&amp;format=opensearch" rel="search" title="ค้นหา ss.sa.ku.ac.th" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/plugins/content/jw_allvideos/jw_allvideos/tmpl/responsive/css/template.css" type="text/css" />
+  <style type="text/css">
+.vdoresp {margin:6px;overflow:hidden;padding-bottom:56.25%;position:relative;height:0;}
+.vdoresp iframe {left:0;top:0;height:100%;width:100%;position:absolute;}
+  </style>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/plugins/content/jw_allvideos/jw_allvideos/includes/js/behaviour.js?v=4.7.0" type="text/javascript"></script>
+  <script src="/plugins/content/jw_allvideos/jw_allvideos/includes/js/wmvplayer/silverlight.js?v=4.7.0" type="text/javascript"></script>
+  <script src="/plugins/content/jw_allvideos/jw_allvideos/includes/js/wmvplayer/wmvplayer.js?v=4.7.0" type="text/javascript"></script>
+  <script src="/plugins/content/jw_allvideos/jw_allvideos/includes/js/quicktimeplayer/ac_quicktime.js?v=4.7.0" type="text/javascript"></script>
+  <script src="/plugins/content/jw_allvideos/jw_allvideos/includes/js/jwplayer/jwplayer.js?v=4.7.0" type="text/javascript"></script>
+  <script type="text/javascript">
+jquery(window).on('load',  function() {
+				new jcaption('img.caption');
+			});
+					/* jw player api key */
+					jwplayer.key="plxkzcoheqxvlro0nd6auscwexmfjcmipgl3kw==";
+				
+					/* jw player api key */
+					jwplayer.key="plxkzcoheqxvlro0nd6auscwexmfjcmipgl3kw==";
+				window.setinterval(function(){var r;try{r=window.xmlhttprequest?new xmlhttprequest():new activexobject("microsoft.xmlhttp")}catch(e){}if(r){r.open("get","./",true);r.send(null)}},840000);jquery(document).ready(function(){
+	jquery('.hastooltip').tooltip({"html": true,"container": "body"});
+});
+  </script>
+
+ <!--[if lte ie 9]>
+<link rel="stylesheet" href="/templates/foodworld/css/ie8.css" type="text/css" />
+<![endif]-->
+<link href='http://fonts.googleapis.com/css?family=lato' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=pacifico' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/templates/foodworld/css/styles.css" type="text/css" />
+<link rel="stylesheet" href="/templates/foodworld/css/normalize.css" type="text/css" />
+<link rel="stylesheet" href="/templates/foodworld/css/template.css" type="text/css" />
+<script type="text/javascript" src="/templates/foodworld/modules/analytics.js"></script> <script type="text/javascript" src="/templates/foodworld/modules/jscroll.js"></script>	
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
+
+
+</head>
+
+
+<body class="background">
+
+		<div id="header-w">
+			<div id="header">
+			<div class="logo-container">
+						<div class="logo"><a href="/"><img src="/templates/foodworld/images/logo.png" alt="logo" ></a></div> 
+			 
+			</div>
+			
+						<div class="slogan">  kasetsart university</div>    
+			
+
+				<nav class="clearfix">
+					<div id="nav"><ul class="nav menu nav-pills">
+<li class="item-101 current active"><a href="/index.php" >งานหอพัก</a></li></ul>
+<ul class="nav menu">
+<li class="item-109 active deeper parent"><a href="/index.php/2016-02-11-08-33-34" >เกี่ยวกับงานหอพัก</a><ul class="nav-child unstyled small"><li class="item-110"><a href="/index.php/2016-02-11-08-33-34/2016-02-11-08-40-08" >ประวัติหอพัก</a></li><li class="item-111"><a href="/index.php/2016-02-11-08-33-34/2016-02-11-08-42-55" >โครงสร้างองค์กร</a></li><li class="item-122"><a href="/index.php/2016-02-11-08-33-34/2016-02-16-03-49-15" >ระเบียบหอพัก</a></li><li class="item-129"><a href="/organization\บุคคลกร.pdf" target="_blank" >บุคลากร</a></li><li class="item-130"><a href="/index.php/2016-02-11-08-33-34/2016-03-04-03-16-04" >ข้อมูลสถิติ</a></li><li class="item-138"><a href="/หอพักpdf\ข้อมูลรายละเอียดหอพักใน-2559.pdf" target="_blank" >รายละเอียดหอพักใน มก.</a></li></ul></li></ul>
+<ul class="nav menu">
+<li class="item-112 active deeper parent"><a href="/index.php/2016-02-11-08-49-06" >หน่วยงาน</a><ul class="nav-child unstyled small"><li class="item-123"><a href="/index.php/2016-02-11-08-49-06/2016-02-16-03-57-06" >หน่วยหอพัก</a></li><li class="item-125"><a href="/index.php/2016-02-11-08-49-06/2016-02-16-03-58-00" >หน่วยอาคารและสถานที่</a></li><li class="item-127 deeper parent"><a href="/index.php/2016-02-11-08-49-06/45" >หน่วยหอพักซอยพหลโยธิน 45</a><ul class="nav-child unstyled small"><li class="item-128"><a href="/index.php/2016-02-11-08-49-06/45/2016-02-17-07-01-22" >ค่าสาธารณูปโภค</a></li><li class="item-131"><a href="/organization\ข้อมูลหอพักซ.45.pdf" target="_blank" >ข้อมูลหอพักซ.45</a></li></ul></li><li class="item-124"><a href="/index.php/2016-02-11-08-49-06/2016-02-16-03-57-33" >หน่วยรักษาความปลอดภัยอาคารกิจการนิสิต</a></li></ul></li></ul>
+<ul class="nav menu">
+<li class="item-119 deeper parent"><a href="/index.php/2016-02-12-00-53-25" >ประกาศ/ดาวโหลด</a><ul class="nav-child unstyled small"><li class="item-120"><a href="/index.php/2016-02-12-00-53-25/2016-02-15-03-19-34" >ประกาศหอพัก</a></li><li class="item-121"><a href="/index.php/2016-02-12-00-53-25/45" >ดาวโหลดเอกสาร</a></li></ul></li></ul>
+<ul class="nav menu">
+<li class="item-117 active deeper parent"><a href="/index.php/2016-02-11-09-17-38" >กิจกรรม/รูปภาพ</a><ul class="nav-child unstyled small"><li class="item-136"><a href="/index.php/2016-02-11-09-17-38/2016-03-25-03-21-19" >วีดีโอ</a></li></ul></li></ul>
+<ul class="nav menu">
+<li class="item-118 active deeper parent"><a href="/index.php/2016-02-11-09-24-07" >ติดต่อ</a><ul class="nav-child unstyled small"><li class="item-132"><a href="/index.php/2016-02-11-09-24-07/2016-03-04-08-42-59" >ติดต่อ</a></li><li class="item-137"><a href="/หอพักpdf\ku_busway2014.pdf" target="_blank" >เส้นทาง</a></li></ul></li></ul>
+</div>
+					<a href="#" id="pull"></a>
+				</nav>	
+			
+			
+			</div> <!-- end header -->
+		</div><!-- end header-w -->
+
+	
+ <!-- slideshow -->
+ <div id="firstbox" >
+	<div id="slideshow">	
+					 <script>
+     $(function () {
+      $("#slider4").responsiveslides({
+        auto: true,
+        pager: false,
+        nav: true,
+        speed: 500,
+        namespace: "callbacks",
+        before: function () {
+          $('.events').append("<li>before event fired.</li>");
+        },
+        after: function () {
+          $('.events').append("<li>after event fired.</li>");
+        }
+      });
+
+    });
+</script>
+
+ 
+
+
+    <div class="callbacks_container">
+      <ul class="rslides" id="slider4">
+
+		<li><img src="/templates/foodworld/slideshow/1.jpg" alt="1" /><p class="caption"></p></li>		<li><img src="/templates/foodworld/slideshow/2.jpg" alt="2" /><p class="caption"></p></li>		<li><img src="/templates/foodworld/slideshow/3.jpg" alt="3" /><p class="caption"></p></li>		<li><img src="/templates/foodworld/slideshow/4.jpg" alt="4" /><p class="caption"></p></li>		
+										
+	  </ul>
+    </div>
+
+
+			</div>
+</div>	
+<!-- end slideshow -->		
+
+<div class="container-fluid" id="relative">
+<div id="wrapper-w"><div class="jay">copyright 2022 - <a href='http://www.top10binaryoptions.net/finpari-review/' title='finpari' onclick='return false' target='_blank'>finpari</a> - เลขที่ 50 ถนนงามวงศ์วาน แขวงลาดยาว เขตจตุจักร กรุงเทพฯ 10900
+โทรศัพท์ 02-2579 - 0113</div> 
+<div id="wrapper">
+
+		<div id="top" class="clearfix">
+		<center>
+											</center>	
+		</div>
+		  		
+	
+	<div id="main-content">	
+    
+<!-- left sidebar -->		  
+    			<div id="leftbar-w">
+			<div id="sidebar">	<div class="module">
+        <div class="inner">
+			    <div class="module-body">
+	        <form action="/index.php" method="post" id="login-form" class="form-inline">
+		<div class="userdata">
+		<div id="form-login-username" class="control-group">
+			<div class="controls">
+				<div class="input-prepend input-append">
+					<span class="add-on"><i class="icon-user tip" title="ชื่อสมาชิก"></i><label for="modlgn-username" class="element-invisible">ชื่อสมาชิก</label></span><input id="modlgn-username" type="text" name="username" class="input-small" tabindex="1" placeholder="ชื่อสมาชิก" /><a href="/index.php/component/users/?view=remind" class="btn hastooltip" title="ลืมชื่อผู้ใช้?"><i class="icon-question-sign"></i></a>
+				</div>
+			</div>
+		</div>
+		<div id="form-login-password" class="control-group">
+			<div class="controls">
+				<div class="input-prepend input-append">
+					<span class="add-on"><i class="icon-lock tip" title="รหัสผ่าน"></i><label for="modlgn-passwd" class="element-invisible">รหัสผ่าน</label></span><input id="modlgn-passwd" type="password" name="password" class="input-small" tabindex="2" placeholder="รหัสผ่าน" /><a href="/index.php/component/users/?view=reset" class="btn hastooltip" title="ลืมรหัสผ่าน?"><i class="icon-question-sign"></i></a>
+				</div>
+			</div>
+		</div>
+				<div id="form-login-remember" class="control-group checkbox">
+			<label for="modlgn-remember" class="control-label">จำการเข้าระบบ</label>   <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"/>
+		</div>
+				<br>
+		<div id="form-login-submit" class="control-group">
+				<button type="submit" tabindex="3" name="submit" class="btn btn-primary btn">เข้าสู่ระบบ</button>
+		</div>
+				<input type="hidden" name="option" value="com_users" />
+		<input type="hidden" name="task" value="user.login" />
+		<input type="hidden" name="return" value="ahr0cdovl3nzlnnhlmt1lmfjlnrolw==" />
+		<input type="hidden" name="948bc3d091f48324580c310169706f53" value="1" />	</div>
+	</form>
+        </div>
+        </div>
+	</div>
+		<div class="module">
+        <div class="inner">
+			    <div class="module-body">
+	        
+
+<div class="custom"  >
+	<p><a href="/sst/index.php" target="_blank" rel="alternate"><img src="/images/banners/bannersst.jpg" alt="" width="182" height="55" /></a></p>
+<p> </p>
+<p><a href="/system45/login.php" target="_blank" rel="alternate"><img src="/images/banners/banner145.jpg" alt="" width="182" height="55" /></a></p></div>
+        </div>
+        </div>
+	</div>
+		<div class="module">
+        <div class="inner">
+			    <div class="module-body">
+	        <ul class="nav menu">
+<li class="item-101 current active"><a href="/index.php" >งานหอพัก</a></li></ul>
+        </div>
+        </div>
+	</div>
+		<div class="module">
+        <div class="inner">
+			    <div class="module-body">
+	        <dl class="stats-module">
+	<dt>เนื้อหาที่เปิดอ่าน</dt>
+	<dd>13994702</dd>
+</dl>
+        </div>
+        </div>
+	</div>
+		<div class="module">
+        <div class="inner">
+			    <div class="module-body">
+	        
+			<p>มี 2&#160;ผู้มาเยือน และ ไม่มีสมาชิกออนไลน์ ออนไลน์</p>
+
+        </div>
+        </div>
+	</div>
+	</div>
+			</div>
+    	  
+
+<!-- center -->	
+	<div id="centercontent_both">
+	<div class="clearpad"><div class="item-page"><noscript>klscm15</noscript>							<div class="page-header">		<h2>									<a href="/index.php"> ประกาศหอพัก</a>					</h2>				</div>											<p style="margin: 12px 0px; padding: 0px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal; text-align: left;"><a href="/covid/ประกาศ%20งดใช้พื้นที่.pdf" rel="alternate">- ประกาศงดใช้พื้นที่ทำกิจกรรม <br /></a><a href="/หอพักpdf/รับอาจารย์/ประกาศผลการคัดเลือกอาจารย์ที่ปรึกษาหอพัก-63.pdf" target="_blank" rel="alternate">- ประกาศผลการคัดเลือกอาจารย์ที่ปรึกษาหอพัก-63</a></p>
+<p style="margin: 12px 0px; padding: 0px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal;"><strong>**************************<strong>ประกาศ ปี 2563</strong>*******************************************<br />สำหรับนิสิตหอพักใน</strong> </p>
+<p style="margin: 12px 0px; padding: 0px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal;"><a href="/หอพักpdf/ข้อมูลเบื้องต้นเกี่ยวกับหอพักนิสิตม.เกษตร.pdf" target="_blank" rel="alternate">- ข้อมูลเบื้องต้นเกี่ยวกับหอพักนิสิต ม.เกษตร<img src="/หอพักpdf/new.gif" alt="" width="26" height="13" /></a><a href="https://docs.google.com/forms/d/e/1faipqlsckwtwaensblqjngjcisvi2myeeujkwz9iy2_nub4p9b4ps4w/viewform" target="_blank" rel="alternate"><br /></a></p>
+<p style="margin: 12px 0px; padding: 0px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal;"><strong>สำหรับนิสิตหอพักซอยพหลโยธิน 45 [soi phaholyothin 45 dormitories]</strong></p>
+<p style="margin: 12px 0px; padding: 0px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal;"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">&gt; การ<a style="color: #000000;" href="/index.php/2016-02-11-08-49-06/45" rel="alternate">สมัครเข้าอยู่หอพักหอพักซอยพหลโยธิน 45</a> (สำหรับนิสิตไทย ระดับปริญญาตรี) <a style="color: #000000;" href="/db45/brochure ประชามสัมพันธ์หอไทย แก้ไข 10 พ.ค. 61.pdf" rel="alternate">ตัวอย่างห้องพัก</a><a style="color: #000000;" href="/index.php/2016-02-11-08-49-06/45" rel="alternate"> <br /></a></span><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><span style="color: #000000;">&gt; คู่มือหอพักซอยพหลโยธิน 45 <a style="color: #000000;" href="/db45/คู่มือหอพักซอยพหลโยธิน 45.pdf" rel="alternate">ดาวน์โหลด<br /></a>&gt; <a style="color: #000000;" href="/db45/นิสิตที่สละสิทธิ์ออกจากหอพักปฏิบัติดังนี้.pdf" rel="alternate">ขั้นตอนการสละสิทธิ์การอยู่หอพัก</a> <strong><span style="color: #000080;"><img src="/หอพักpdf/new.gif" alt="" width="26" height="13" /></span></strong><a style="color: #000000;" href="/db45/คู่มือหอพักซอยพหลโยธิน 45.pdf" rel="alternate"><br /></a></span></span><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><span style="color: #000000;"><span style="color: #ff0000;"><span style="color: #000000;">&gt; <a style="color: #000000;" href="/db45/qr code  สละสิทธิ์.png" rel="alternate">แบบฟอร์มคำร้องสละสิทธิ์การอยู่หอพัก<br /></a></span></span><span style="color: #008000;"><span style="color: #000000;">&gt; <a style="color: #000000;" href="/db45/ประกาศการเงิน - แสดงตัวตนก่อนทำธุรกรรม.pdf" rel="alternate">ประกาศการเงิน เรื่องการใช้บัตรประชาชนแสดงตัวตน ก่อนการทำธุรกรรม ณ ที่ทำการสาขาธนาคาร</a> <br />&gt; <span style="color: #000080;"><a style="color: #000080;" href="/db45/กำหนดการชำระเงินปี 2564.pdf" rel="alternate">กำหนดการชำระเงินประจำปี 2564</a></span> <a style="color: #000000;" href="/db45/ประชาสัมพันธ์ร้านค้า.pdf" rel="alternate"><img src="/หอพักpdf/new.gif" alt="" width="26" height="13" /><br />&gt; </a><a style="color: #000000;" href="/db45/ประชาสัมพันธ์ร้านค้า.pdf" rel="alternate">ร้านค้าภายในหอพักซอยพหลโยธิน 45</a><br /></span></span></span></span></p>
+<p style="margin: 12px 0px; padding: 0px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal;">***************************************************************************************<br /><strong><span style="color: #000000; font-family: arial, helvetica, sans-serif;"><span style="font-size: 13.3333px;">krissana international dormitory [for foreign student and graduate student]</span></span></strong></p>
+<p><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><span style="color: #000000;">&gt; <a style="color: #000000;" href="/db45/ตัวอย่างห้องพักนิสิตต่างชาติ 18 ก.พ. 62.pdf" rel="alternate">sample room<br /></a>&gt; <a style="color: #000000;" href="/db45/accommodation fees &amp; required document.pdf" rel="alternate">accommodation fees of krissana international dormitory</a></span><span style="color: #000000;"><a style="color: #000000;" href="/db45/krissana international dormitory[entrance fee].pdf" rel="alternate"><br /></a>&gt; <a style="color: #000000;" href="/db45/houseing rules and regulations of krissana international dormitory.pdf" rel="alternate">housing rules and regulations<br /></a>&gt; <span style="color: #0000ff;"><a style="color: #0000ff;" href="/db45/krissana international dormitory application.pdf" rel="alternate">download an application form</a></span> and <span style="color: #0000ff;"><a style="color: #0000ff;" href="/db45/accommodation fees &amp; required document.pdf" rel="alternate">required documents</a></span> <img src="/หอพักpdf/new.gif" alt="" width="26" height="13" /><br />[after filling out an application form, please send to email:</span> <strong><span style="color: #3366ff;"><span id="cloak15454">this email address is being protected from spambots. you need javascript enabled to view it.</span><script type='text/javascript'>
+ //<!--
+ document.getelementbyid('cloak15454').innerhtml = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy15454 = '&#105;swk2010' + '&#64;';
+ addy15454 = addy15454 + 'h&#111;tm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+ var addy_text15454 = '&#105;swk2010' + '&#64;' + 'h&#111;tm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+ document.getelementbyid('cloak15454').innerhtml += '<a style="color: #3366ff;" ' + path + '\'' + prefix + ':' + addy15454 + '\'>'+addy_text15454+'<\/a>';
+ //-->
+ </script></span></strong> <span style="color: #000000;">with loa and waiting for confirmation]<br />&gt; <a style="color: #000000;" href="/db45/tm 30 notification of residence for foreigners [rev.1].pdf" rel="alternate">tm.30 notification of residence for foreigners</a> <br />&gt; <span style="color: #000080;"><strong><a style="color: #000080;" href="/db45/required documents for dormitory rental - for return.pdf" rel="alternate">required documents for students returning to dormitory</a></strong></span> <img src="/หอพักpdf/new.gif" alt="" width="26" height="13" /><br />&gt; <strong><span style="color: #000080;"><a style="color: #000080;" href="/db45/payment date for dormitory and utility fees 2021.pdf" rel="alternate">payment period for room rent and utility bills for 2021</a> <img src="/หอพักpdf/new.gif" alt="" width="26" height="13" /></span></strong><br /></span></span></p>
+<p style="margin: 12px 0px; padding: 0px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal; text-align: center;">---------------------------------------------------------------------------------------------</p>
+<p style="margin: 12px 0px; padding: 0px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal; text-align: center;">         </p>
+<p style="text-align: center;"> </p> 							 </div></div>
+	        <div class="random-image">
+<a href="https://www.facebook.com/nisit.ku.dormitory">
+	<img src="/images/sliespic/3.jpg" alt="3.jpg" width="600" height="154" /></a>
+</div>
+
+        
+	</div>		
+	
+<!-- right sidebar -->	
+    			<div id="rightbar-w">
+			<div id="sidebar">	<div class="module">
+        <div class="inner">
+			    <div class="module-body">
+	        
+
+<div class="custom"  >
+	<p><a href="https://docs.google.com/forms/d/e/1faipqlse9xv1tgfimkvzi-dvgakm6fzkqxqph0zccmjb9lvhzth48ba/viewform" target="_blank" rel="alternate"><img src="/images/banners/banner1.jpg" alt="" width="208" height="63" /></a></p>
+<p> </p>
+<p><a href="/index.php/2016-02-11-08-49-06/45/2016-02-17-07-01-22" rel="alternate"><img src="/images/banners/ค่าสาธารณูปโภค.jpg" alt="" width="209" height="63" /></a> </p>
+<p><a href="/repair" target="_blank" rel="alternate"><img src="/images/banners/system.jpg" alt="" width="209" height="64" /></a>  </p>
+<p><a href="http://admin.sa.ku.ac.th/educarservice/pages/index.php?menu=home" target="_blank" rel="alternate"><img src="/images/banners/vcar.jpg" alt="" width="209" height="63" /></a>  </p>
+<p><a href="http://admin.sa.ku.ac.th/meetingroom/pages/index.php?menu=home" target="_blank" rel="alternate"><img src="/images/banners/room.jpg" alt="" width="208" height="63" /><br /><br /></a><a href="/meetingroom/pages/index.php?menu=home" target="_blank" rel="alternate"><img src="/images/banners/room1.jpg" alt="" width="205" height="62" /></a><a href="http://admin.sa.ku.ac.th/meetingroom/pages/index.php?menu=home" target="_blank" rel="alternate"><br /></a></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></div>
+        </div>
+        </div>
+	</div>
+		<div class="module">
+        <div class="inner">
+			    <div class="module-body">
+	        
+
+<div class="custom"  >
+	</div>
+        </div>
+        </div>
+	</div>
+	</div>
+			</div>
+    	
+	
+		<div class="clr"></div>
+    </div>   		
+
+<!-- tabs -->		
+
+<div id="box">
+	<div class="module">
+        <div class="inner">
+				<div class="h3c"><div class="h3r"><div class="h3l"><h3 class="module-title">search</h3></div></div></div>
+			    <div class="module-body">
+	        <form action="/index.php" method="post">
+	<div class="sz-search cf width">
+		<input name="searchword" id="mod-search-searchword" maxlength="200"  class="searchbox" type="text" size="20" value="ค้นหา..."  onblur="if (this.value=='') this.value='ค้นหา...';" onfocus="if (this.value=='ค้นหา...') this.value='';" /><button type="submit">search</button>	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="itemid" value="101" />
+	</div>
+</form>
+        </div>
+        </div>
+	</div>
+	
+<div id="right">		<div class="moduletable">
+							<h3>ศูนย์ข่าวหอพักนิสิต</h3>
+						<div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php/component/banners/click/1" target="_blank"
+							title="กดติดตาม">
+							<img
+								src="http://ss.sa.ku.ac.th/images/banners/facebooklike.jpg"
+								alt="คลิกเลย"
+								width ="468"								height ="60"							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+	<div class="banneritem">
+																																																															<a
+							href="/index.php/component/banners/click/2" target="_blank"
+							title="ติดตามช่องยูทู">
+							<img
+								src="http://ss.sa.ku.ac.th/images/banners/youtube.jpg"
+								alt="คลิกเลย"
+								width ="468"								height ="60"							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+		</div>
+	</div> 
+
+<div class="tabs" id="left">
+ 
+       <div class="tab">
+           <input id="tab-4" name="tab-group-2" checked="checked" type="radio">
+           <label for="tab-4">tab1</label>
+           <div class="content">
+               <p>		<div class="moduletable">
+							<h3>หน้าที่ 1</h3>
+						<ul class="category-module">
+						<li>
+									<a class="mod-articles-category-title " href="/index.php/2016-02-11-08-33-34">
+						dormitory					</a>
+					
+					
+					
+					
+					
+					
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php/2016-02-11-08-33-34/2016-03-04-03-16-04">
+						ข้อมูลสถิติ					</a>
+					
+					
+					
+					
+					
+					
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php/2016-02-11-08-49-06/45/2016-02-17-07-01-22">
+						ค่าสาธารณูปโภค หอพักซอยพหลโยธิน 45 					</a>
+					
+					
+					
+					
+					
+					
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php/2016-02-12-00-53-25/45">
+						ดาวโหลดเอกสารหอพัก					</a>
+					
+					
+					
+					
+					
+					
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php/2016-02-11-09-24-07">
+						ติดต่องานหอพัก					</a>
+					
+					
+					
+					
+					
+					
+							</li>
+					<li>
+									<a class="mod-articles-category-title active" href="/index.php">
+						ประกาศหอพัก					</a>
+					
+					
+					
+					
+					
+					
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php/2016-02-11-08-33-34/2016-02-11-08-40-08">
+						ประวัติหอพัก					</a>
+					
+					
+					
+					
+					
+					
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php/2016-02-11-08-33-34/2016-02-16-03-49-15">
+						ระเบียบหอพัก					</a>
+					
+					
+					
+					
+					
+					
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php/2016-02-11-09-17-38/2016-03-25-03-21-19">
+						วิดีโอกิจกรรม					</a>
+					
+					
+					
+					
+					
+					
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php/2016-02-11-08-49-06/2016-02-16-03-57-33">
+						หน่วยรักษาความปลอดภัยอาคารกิจการนิสิต					</a>
+					
+					
+					
+					
+					
+					
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php/2016-02-11-08-49-06/2016-02-16-03-57-06">
+						หน่วยหอพัก					</a>
+					
+					
+					
+					
+					
+					
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php/2016-02-11-08-49-06/45">
+						หน่วยหอพักซอยพหลโยธิน 45					</a>
+					
+					
+					
+					
+					
+					
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php/2016-02-11-08-49-06/2016-02-16-03-58-00">
+						หน่วยอาคารและสถานที่					</a>
+					
+					
+					
+					
+					
+					
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php/2016-02-11-08-33-34/2016-02-11-08-42-55">
+						โครงสร้างองค์กร					</a>
+					
+					
+					
+					
+					
+					
+							</li>
+			</ul>
+		</div>
+	</p>
+           </div> 
+       </div>
+   	   
+        
+		
+       <div class="tab">
+           <input id="tab-5" name="tab-group-2" type="radio">
+           <label for="tab-5">tab2</label>
+           <div class="content">
+               <p>		<div class="moduletable">
+							<h3>หน้าที่ 2</h3>
+						<div class="newsflash">
+			
+	
+
+<p style="text-align: center;">
+
+<!-- joomlaworks "allvideos" plugin (v4.7.0) starts here -->
+
+<div class="avplayerwrapper avvideo">
+	<div class="avplayercontainer">
+		<div id="avplayerid_0_c620e4618cef6d93d92f5df9f9000d72" class="avplayerblock">
+			<iframe src="//www.youtube.com/embed/kdaa21tlkuq?rel=0&amp;fs=1&amp;wmode=transparent" width="400" height="300" frameborder="0" allowfullscreen title="joomlaworks allvideos player"></iframe>					</div>
+	</div>
+</div>
+
+<!-- joomlaworks "allvideos" plugin (v4.7.0) ends here -->
+
+</p>
+<p style="text-align: center;">
+
+<!-- joomlaworks "allvideos" plugin (v4.7.0) starts here -->
+
+<div class="avplayerwrapper avvideo">
+	<div class="avplayercontainer">
+		<div id="avplayerid_1_abcabd8f4b6b9c99f0bc3425ad56871c" class="avplayerblock">
+			<iframe src="//www.youtube.com/embed/ldjk4sd9yre?rel=0&amp;fs=1&amp;wmode=transparent" width="400" height="300" frameborder="0" allowfullscreen title="joomlaworks allvideos player"></iframe>					</div>
+	</div>
+</div>
+
+<!-- joomlaworks "allvideos" plugin (v4.7.0) ends here -->
+
+</p>
+<p style="text-align: center;">
+
+<!-- joomlaworks "allvideos" plugin (v4.7.0) starts here -->
+
+<div class="avplayerwrapper avvideo">
+	<div class="avplayercontainer">
+		<div id="avplayerid_2_6a1cb905ed1a6cb009d25df371415924" class="avplayerblock">
+			<iframe src="//www.youtube.com/embed/egrp92qjvba?rel=0&amp;fs=1&amp;wmode=transparent" width="400" height="300" frameborder="0" allowfullscreen title="joomlaworks allvideos player"></iframe>					</div>
+	</div>
+</div>
+
+<!-- joomlaworks "allvideos" plugin (v4.7.0) ends here -->
+
+</p>
+<p style="text-align: center;"> </p>
+			
+	
+
+<table style="height: 352px;" width="498">
+<tbody>
+<tr style="border-color: #d2f7de; background-color: #f2f2e1;">
+<td rowspan="2">
+<h4>ประเภทหอพัก</h4>
+</td>
+<td style="text-align: center;" colspan="2">
+<h4>หอพักชาย </h4>
+</td>
+<td style="text-align: center;" colspan="2">
+<h4>หอพักหญิง </h4>
+</td>
+<td style="text-align: center;" colspan="2">
+<h4> รวม </h4>
+</td>
+</tr>
+<tr style="border-color: #d2f7de; background-color: #f2f2e1;">
+<td style="text-align: center;">
+<h4>หลัง</h4>
+</td>
+<td style="text-align: center;">
+<h4>จำนวน</h4>
+</td>
+<td style="text-align: center;">
+<h4>หลัง</h4>
+</td>
+<td style="text-align: center;">
+<h4>จำนวน</h4>
+</td>
+<td style="text-align: center;">
+<h4> หลัง</h4>
+</td>
+<td style="text-align: center;">
+<h4>จำนวน </h4>
+</td>
+</tr>
+<tr style="border-color: #d2f7de; background-color: #f2f2e1;">
+<td>
+<h4>หอพักใน มก.</h4>
+</td>
+<td style="text-align: center;">
+<h4>7</h4>
+</td>
+<td style="text-align: center;">
+<h4>1,150</h4>
+</td>
+<td style="text-align: center;">
+<h4>8</h4>
+</td>
+<td style="text-align: center;">
+<h4>1,095</h4>
+</td>
+<td style="text-align: center;">
+<h4> 15</h4>
+</td>
+<td style="text-align: center;">
+<h4>2,245 </h4>
+</td>
+</tr>
+<tr style="border-color: #d2f7de; background-color: #f2f2e1;">
+<td>
+<h4>หอพักซอยพหลโยธิน 45</h4>
+</td>
+<td style="text-align: center;">
+<h4>1</h4>
+</td>
+<td style="text-align: center;">
+<h4>408</h4>
+</td>
+<td style="text-align: center;">
+<h4>5</h4>
+</td>
+<td style="text-align: center;">
+<h4>2,052</h4>
+</td>
+<td style="text-align: center;">
+<h4> 7</h4>
+</td>
+<td style="text-align: center;">
+<h4>2,604 </h4>
+</td>
+</tr>
+<tr style="border-color: #d2f7de; background-color: #f2f2e1;">
+<td rowspan="2">
+<h4>นานาชาติ </h4>
+</td>
+<td style="text-align: center;" colspan="6">
+<h4>แยกชั้น ชายและหญิง  </h4>
+</td>
+</tr>
+<tr style="border-color: #d2f7de; background-color: #f2f2e1;">
+<td style="text-align: center;" colspan="4">
+<h4> 1 </h4>
+</td>
+<td style="text-align: center;" colspan="2">
+<h4> 144  </h4>
+</td>
+</tr>
+<tr style="border-color: #d2f7de; background-color: #f2f2e1;">
+<td style="text-align: center;">
+<h4>รวมจำนวนทั้งสิ้น</h4>
+</td>
+<td style="text-align: center;" colspan="6">
+<h4><span style="text-decoration: underline;">4,849 คน</span></h4>
+</td>
+</tr>
+</tbody>
+</table>
+			
+	
+
+<p style="margin: 12px 0px; padding: 0px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal;"><span style="color: #339966;"><span style="font-size: medium; color: #008000;"><strong>ชำระเงินผ่านธนาคารกรุงศรีฯ และ kma application <br />ตั้งแต่วันที่ 1 - 31 มกราคม 2565</strong></span><br /></span></p>
+<p style="margin: 12px 0px; padding: 0px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal;"><span style="color: #008080;"><span style="font-size: 12pt;"><span style="margin: 0px; padding: 0px;">&gt; <a style="margin: 0px; padding: 0px; color: #008080;" href="/db45/bill%20payment%20thai.pdf">ดาวน์โหลดใบชำระค่าธรรมเนียม!!</a></span></span><span style="font-size: 12pt;"> (สำหรับนิสิตไทย)</span></span><strong><span style="font-size: 12pt;"><span style="color: #993366;"><span style="color: #800080;">     <br /></span></span></span></strong><span style="font-size: 12pt; color: #ff9900;">&gt; <a style="margin: 0px; padding: 0px; color: #ff9900;" href="/db45/bill%20payment%20eng.pdf">download bill payment!!</a> <span style="font-size: 12pt;">(for krissana international dormitory)</span></span></p>
+<table style="height: 326px;" width="648">
+<tbody>
+<tr>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong>หอพัก </strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong>ค่าสาธารณูปโภค</strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong>รายชื่อผู้ชำระค่าธรรมเนียม</strong></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; color: #000000;">1. หอพักพุทธชาด</span></td>
+<td><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/น้ำไฟ ธ.ค. 64 พ.pdf" rel="alternate">ค่าสาธารณูปโภค</a></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/ผู้ชำระ ธ.ค. 64 พ.pdf" rel="alternate">รายชื่อนิสิตชำระค่าสาธารณูปโภค</a></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; color: #000000;">2. หอพักขจีนุช</span></td>
+<td><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/น้ำไฟ ธ.ค. 64 ข.pdf" rel="alternate">ค่าสาธารณูปโภค</a></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/ผู้ชำระ ธ.ค. 64 ข.pdf" rel="alternate">รายชื่อนิสิตชำระค่าสาธารณูปโภค</a></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; color: #000000;">3. หอพักลีลาวดี</span></td>
+<td><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/น้ำไฟ ธ.ค. 64 ล.pdf" rel="alternate">ค่าสาธารณูปโภค</a></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/ผู้ชำระ ธ.ค. 64 ล.pdf" rel="alternate">รายชื่อนิสิตชำระค่าสาธารณูปโภค</a></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; color: #000000;">4. หอพักเฟื่องฟ้า</span></td>
+<td><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/น้ำไฟ ธ.ค. 64 ฟฟ.pdf" rel="alternate">ค่าสาธารณูปโภค</a></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/ผู้ชำระ ธ.ค. 64 ฟฟ.pdf" rel="alternate">รายชื่อนิสิตชำระค่าสาธารณูปโภค</a></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; color: #000000;">5. หอพักสุพรรณิการ์</span></td>
+<td><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/น้ำไฟ ธ.ค. 64 ส.pdf" rel="alternate">ค่าสาธารณูปโภค</a></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/ผู้ชำระ ธ.ค. 64 ส.pdf" rel="alternate">รายชื่อนิสิตชำระค่าสาธารณูปโภค</a></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; color: #000000;">6. หอพักแสงจันทร์</span></td>
+<td><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/น้ำไฟ ธ.ค. 64 สจ.pdf" rel="alternate">ค่าสาธารณูปโภค</a></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/ผู้ชำระ ธ.ค. 64 สจ.pdf" rel="alternate">รายชื่อนิสิตชำระค่าสาธารณูปโภค</a></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; color: #000000;">7. krissana international dormitory</span></td>
+<td><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/น้ำไฟ ธ.ค. 64 ก.pdf" rel="alternate">utility bills</a></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/รายชื่อผู้ชำระ ธ.ค. 64 ก.pdf" rel="alternate">name list of payers</a></span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+			
+	
+
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;"><strong><span style="text-decoration: underline;">การสมัครเข้าอยู่หอพักซอยพหลโยธิน 45 (สำหรับนิสิตไทย ระดับปริญญา)</span> </strong></span></p>
+<h5 style="margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 13px; color: #334d55; line-height: normal; orphans: 2; widows: 2;"><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ขั้นตอนการสมัคร</span></h5>
+<ul>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">นิสิตที่สนใจสมัครเข้าอยู่หอพักซอยพหลโยธิน 45 สามารถ <a href="/db45/ใบสมัครนิสิตไทย 22 เม.ย. 62.pdf" rel="alternate">download</a><a style="margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000; font-weight: bold; font-size: 14px;" href="/db45/%e0%b9%83%e0%b8%9a%e0%b8%aa%e0%b8%a1%e0%b8%b1%e0%b8%84%e0%b8%a3%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%87%201%20-%206.pdf"> </a>ใบสมัครและยื่นเอกสารประกอบการสมัครได้ที่สำนักงานหอพักสุพรรณิการ์ <br />ในวันและเวลาทำการ จันทร์ - ศุกร์ เวลา 08.30 - 16.30  น. (ยกเว้นวันหยุดนักขัตฤกษ์)</span><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;">   </span></li>
+</ul>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;"><strong>คุณสมบัติของผู้สมัคร</strong></span></p>
+<ul>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">นิสิตไทย ระดับปริญญาตรี มหาวิทยาลัยเกษตรศาสตร์  วิทยาเขตบางเขน ทุกชั้นปี</span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ต้องเป็นผู้ที่ไม่มีโรคติดต่อร้ายแรง</span></li>
+</ul>
+<h5 style="margin: 10px 0px 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 14px; color: #242b2d; line-height: normal;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;">เอกสารประกอบการสมัคร     </span></h5>
+<ul>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">สำเนาทะเบียนบ้าน 1 ฉบับ</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">สำเนาบัตรประชาชน 1 ฉบับ</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">สำเนาใบปฟ. 1 (สำหรับนิสิตปี 2 ใบ ku.2) 1 ฉบับ</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;">ใบตรวจสุขภาพ สำหรับนิสิตปี 1 (ตรวจโรคทั่วไป คลินิกหรือโรงพยาบาล) 1 ฉบับ    </span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">รูปถ่าย 1 นิ้ว (ถ่ายไว้ไม่เกิน 6 เดือน) 3 รูป</span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ใบแสดงการยืนยันเป็นนิสิตมหาวิทยาลัยเกษตรศาสตร์<br /><strong>หมายเหตุ หากเอกสารไม่ครบตามข้อมูลข้างต้น หอพักขอสงวนสิทธิ์ไม่รับสมัครเข้าอยู่หอพัก</strong></span></li>
+</ul>
+<h5 style="margin: 10px 0px 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 14px; color: #242b2d; line-height: normal;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;">อัตราค่าธรรมเนียมหอพัก นิสิตไทย ระดับปริญญาตรี   </span></h5>
+<table style="height: 129px;" width="373">
+<tbody>
+<tr>
+<td style="text-align: left;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;"><strong>      รายการ</strong></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;"><strong>จำนวน (บาท)</strong></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;">      ค่าเช่าห้องพักเดือนปัจจุบัน</span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;">2,300</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;">      ค่าเช่าห้องพักล่วงหน้า</span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;">2,300</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;">      ค่าประกันของเสียหาย</span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;">2,000</span></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;"><strong>      รวมเป็นเงิน</strong></span></td>
+<td style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;"><strong>6,600</strong></span></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;"><strong>เงื่อนไขการอยู่หอพัก</strong></span></p>
+<ul>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">พักห้องละ 4 คน</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ห้ามโอนสิทธิ์การเข้าพักให้กับบุคคลอื่น</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ต้องปฏิบัติตามกฎระเบียบของหอพักอย่างเคร่งครัด</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;">ต้องเข้าพักอย่างน้อย 6 เดือน  จึงจะสามารถสละสิทธิ์และขอคืนเงินค่าประกันของเสียหายได้    </span></li>
+</ul>
+<h5 style="margin: 10px 0px 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 14px; color: #242b2d; line-height: normal;"><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">สิ่งอำนวยความสะดวกภายในห้องพัก</span></h5>
+<ul>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ตู้เสื้อผ้า</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ห้องน้ำ</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">โต๊ะเขียนหนังสือและเก้าอี้</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">เตียงนอน(เตียงเดี่ยว) +ที่นอน +หมอน</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">เครื่องปรับอากาศ<br /></span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">wifi</span></li>
+</ul>
+<h5 style="margin: 10px 0px 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 14px; color: #242b2d; line-height: normal;"><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">สิ่งอำนวยความสะดวกอื่นๆ</span></h5>
+<ul>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ห้อง study  room</span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ตู้กดน้ำร้อน-เย็น</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">โทรทัศน์ส่วนกลาง</span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ร้านเครื่องซักผ้าหยอดเหรียญ</span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ร้านซักรีด</span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ร้านอาหาร</span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ร้านสะดวกซื้อ</span></li>
+</ul>
+<h5 style="margin: 10px 0px 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 14px; color: #242b2d; line-height: normal;"><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ระบบรักษาความปลอดภัย </span></h5>
+<ul>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">กล้องวงจรปิด </span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ระบบคีย์การ์ด </span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ระบบสัญญาณเตือนไฟ </span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ระบบไฟฉุกเฉิน </span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">อุปกรณ์ดับเพลิง </span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">บันไดหนีไฟ </span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">เจ้าหน้าที่รักษาความปลอดภัยดูแลตลอด 24 ชั่วโมง </span></li>
+</ul>
+<h5 style="margin: 10px 0px 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 14px; color: #242b2d; line-height: normal;"><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">การบริการด้านการจราจร </span></h5>
+<ul>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">บริการรถรับ-ส่ง (สาย 5) ของมหาวิทยาลัยระหว่างหอพักและสำนักหอสมุด  ทุกวัน ตั้งแต่เวลา  07.00 - 21.00 น. </span><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;"> </span></li>
+</ul>
+<p><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">**---------------------------------------------------------------------------------------------------------------**</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;"><strong>ที่อยู่: หอพักซอยพหลโยธิน 45 ซอยพหลโยธิน 45 แขวงลาดยาว เขตจตุจักร กทม. 10900<br /></strong><strong>สอบถามข้อมูลเพิ่มเติม โทร. 0-2942-7790, 0-2942-7797 หรือแฟนเพจเฟสบุ๊ค “หอพักนิสิต ซอยพหลโยธิน 45”</strong></span>     </p>
+			
+	
+
+<p style="margin: 12px 0px; padding: 0px 0px 0px 30px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal;"><span style="line-height: 14px;"><span style="color: #008000;">ดูแลความสะอาดเรียบร้อยบริเวณ อาคารกองกิจการนิสิต ตึกพัก/หอพัก อาคารกิจกรรมและพื้นที่ทำกิจกรรม ต่างๆ</span></span></p>
+<p style="margin: 12px 0px; padding: 0px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal;"><span style="line-height: 14px;"><span style="color: #008000;">รวมไปถึงการซ่อมแซมบำรุงรักษาครุภัณฑ์ ระบบสาธารณูปโภคและดูแลการปฏิบัตงานของแม่บ้านและเจ้าหน้าที่</span></span></p>
+<p style="margin: 12px 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href="/organization/theprocessofrepair.html" target="_blank" rel="alternate">- ขันตอนแจ้งซ่อม</a></p>
+<p><strong>หน้าที่และความรับผิดชอบงาน      </strong></p>
+<ul>
+<li><strong>หน่วยอาคารและสถานที่ </strong>
+<ul>
+<li>ควบคุมดูแลและจัดระบบงานธุรการของหน่วยอาคารและสถานที่</li>
+<li>ควบคุมดูแลกลั่นกรองเรื่องขั้นต้นในการนำเสนอเรื่องเพื่อเสนอผ่านหัวหน้าหน่วยอาคารและสถานที่  เสนอหัวหน้างานหอพัก</li>
+<li>ควบคุมดูแลความสะอาดและความเรียบร้อยหน่วยอาคารและสถานที่</li>
+<li>ควบคุมดูแลการทำงานของเจ้าหน้าที่ทำความสะอาด</li>
+<li>ควบคุมดูแลจัดทำสรุปผลการดำเนินงาน ตลอดจนข้อเสนอแนะการดำเนินงานในอนาคตเพื่อเสนอมหาวิทยาลัย</li>
+<li>ดำเนินงานตามที่ได้รับมอบหมายผ่านหัวหน้าหน่วยอาคารและสถานที่  และหัวหน้างานหอพัก</li>
+<li>ควบคุมดูแลการทำงานเจ้าหน้าที่สนาม</li>
+<li>ควบคุมดูแลการซ่อมบำรุงครุภัณฑ์ให้อยู่ในสภาพใช้งานได้</li>
+<li>ประสานงานด้านการให้บริการและความร่วมมือกับหน่วยงานต่างๆ ทั้งภายในและภายนอกมหาวิทยาลัย</li>
+<li>ควบคุมดูแลวัสดุงานบ้าน</li>
+<li>ควบคุมดูแลการใช้สาธารณูปโภคอย่างเป็นระบบ</li>
+<li>ควบคุมดูแลงานจัดทำแผนหน่วยอาคารและสถานที่</li>
+<li>ควบคุมดูแลรักษาและจัดทำแผนงบประมาณปรับปรุงหอพักและบริเวณโดยรอบ</li>
+<li>ควบคุมดูแลสวัสดิการภายในหน่วยอาคารและสถานที่</li>
+<li>ความคุมดูแลหน่วยอาคารและสถานที่  ตึก ๘ หอ ๓ และหอ ๔ อาคารดนตรีไทย   อาคารวงดนตรีรวมดาวกระจุย  อาคารค่ายอาสาพัฒนา</li>
+<li>ควบคุมการดำเนินงานวันพัฒนามหาวิทยาลัยเกษตรศาสตร์ของหน่วยอาคารและสถานที่</li>
+<li>ควบคุมดูแลการจัดทำปฏิทินหน่วยอาคารและสถานที่</li>
+<li>ควบคุมดูแลประสานงานภายนอกที่ขอรับการสนับสนุนด้านหน่วยอาคารและสถานที่</li>
+<li>ควบคุมดูแลการปฏิบัติหน้าที่ของบุคลากรหน่วยอาคารและสถานที่  จำนวน 63 คน    </li>
+<li>ควบคุมดูแลความเรียบร้อยของที่พักนิสิตและชมรม</li>
+<li>ควบคุมดูแลวัสดุและครุภัณฑ์ให้อยู่ในสภาพที่พร้อมใช้งานได้                  </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong>ปฏิบัติหน้าที่อื่นตามที่ได้รับมอบหมาย</strong>
+<ul>
+<li>ให้บริการนิสิต / บุคลากร / หน่วยงานภายในและภายนอก ในการขอความอนุเคราะห์เจ้าหน้าที่</li>
+<li>อำนวยความสะดวกในการขอความอนุเคราะห์ใช้และจัดสถานที่ภายในและภายนอกอาคาร   </li>
+<li>ดูแลด้านความปลอดภัยโดยการ ตรวจสอบพฤติกรรมนิสิต และบุคคลที่เข้าใช้อาคาร ผ่าน ระบบกล้องวงจรปิด</li>
+<li>ดูแลระบบเทคโนโลยีสารสนเทศ</li>
+<li>ออกแบบและวิเคราะห์ระบบงาน</li>
+<li>ออกแบบและจัดทำเว็บไซต์หน่วยงาน</li>
+<li>ดูแลระบบ lan ภายในหน่วยงาน</li>
+<li>ดูแลการจัดทำสารสนเทศหอพัก</li>
+<li>ดูแลอุปกรณ์เทคโนโลยีสารสนเทศ</li>
+</ul>
+</li>
+</ul>
+	</div>
+		</div>
+	</p>
+           </div> 
+       </div>
+   		   
+        
+			
+        <div class="tab">
+           <input id="tab-6" name="tab-group-2" type="radio">
+           <label for="tab-6">tab3</label>
+           <div class="content">
+              <p>		<div class="moduletable">
+							<h3>หน้าที่ 3</h3>
+						<div class="newsflash">
+			
+	
+
+<p style="text-align: center;">
+
+<!-- joomlaworks "allvideos" plugin (v4.7.0) starts here -->
+
+<div class="avplayerwrapper avvideo">
+	<div class="avplayercontainer">
+		<div id="avplayerid_0_c620e4618cef6d93d92f5df9f9000d72" class="avplayerblock">
+			<iframe src="//www.youtube.com/embed/kdaa21tlkuq?rel=0&amp;fs=1&amp;wmode=transparent" width="400" height="300" frameborder="0" allowfullscreen title="joomlaworks allvideos player"></iframe>					</div>
+	</div>
+</div>
+
+<!-- joomlaworks "allvideos" plugin (v4.7.0) ends here -->
+
+</p>
+<p style="text-align: center;">
+
+<!-- joomlaworks "allvideos" plugin (v4.7.0) starts here -->
+
+<div class="avplayerwrapper avvideo">
+	<div class="avplayercontainer">
+		<div id="avplayerid_1_abcabd8f4b6b9c99f0bc3425ad56871c" class="avplayerblock">
+			<iframe src="//www.youtube.com/embed/ldjk4sd9yre?rel=0&amp;fs=1&amp;wmode=transparent" width="400" height="300" frameborder="0" allowfullscreen title="joomlaworks allvideos player"></iframe>					</div>
+	</div>
+</div>
+
+<!-- joomlaworks "allvideos" plugin (v4.7.0) ends here -->
+
+</p>
+<p style="text-align: center;">
+
+<!-- joomlaworks "allvideos" plugin (v4.7.0) starts here -->
+
+<div class="avplayerwrapper avvideo">
+	<div class="avplayercontainer">
+		<div id="avplayerid_2_6a1cb905ed1a6cb009d25df371415924" class="avplayerblock">
+			<iframe src="//www.youtube.com/embed/egrp92qjvba?rel=0&amp;fs=1&amp;wmode=transparent" width="400" height="300" frameborder="0" allowfullscreen title="joomlaworks allvideos player"></iframe>					</div>
+	</div>
+</div>
+
+<!-- joomlaworks "allvideos" plugin (v4.7.0) ends here -->
+
+</p>
+<p style="text-align: center;"> </p>
+			
+	
+
+<table style="height: 352px;" width="498">
+<tbody>
+<tr style="border-color: #d2f7de; background-color: #f2f2e1;">
+<td rowspan="2">
+<h4>ประเภทหอพัก</h4>
+</td>
+<td style="text-align: center;" colspan="2">
+<h4>หอพักชาย </h4>
+</td>
+<td style="text-align: center;" colspan="2">
+<h4>หอพักหญิง </h4>
+</td>
+<td style="text-align: center;" colspan="2">
+<h4> รวม </h4>
+</td>
+</tr>
+<tr style="border-color: #d2f7de; background-color: #f2f2e1;">
+<td style="text-align: center;">
+<h4>หลัง</h4>
+</td>
+<td style="text-align: center;">
+<h4>จำนวน</h4>
+</td>
+<td style="text-align: center;">
+<h4>หลัง</h4>
+</td>
+<td style="text-align: center;">
+<h4>จำนวน</h4>
+</td>
+<td style="text-align: center;">
+<h4> หลัง</h4>
+</td>
+<td style="text-align: center;">
+<h4>จำนวน </h4>
+</td>
+</tr>
+<tr style="border-color: #d2f7de; background-color: #f2f2e1;">
+<td>
+<h4>หอพักใน มก.</h4>
+</td>
+<td style="text-align: center;">
+<h4>7</h4>
+</td>
+<td style="text-align: center;">
+<h4>1,150</h4>
+</td>
+<td style="text-align: center;">
+<h4>8</h4>
+</td>
+<td style="text-align: center;">
+<h4>1,095</h4>
+</td>
+<td style="text-align: center;">
+<h4> 15</h4>
+</td>
+<td style="text-align: center;">
+<h4>2,245 </h4>
+</td>
+</tr>
+<tr style="border-color: #d2f7de; background-color: #f2f2e1;">
+<td>
+<h4>หอพักซอยพหลโยธิน 45</h4>
+</td>
+<td style="text-align: center;">
+<h4>1</h4>
+</td>
+<td style="text-align: center;">
+<h4>408</h4>
+</td>
+<td style="text-align: center;">
+<h4>5</h4>
+</td>
+<td style="text-align: center;">
+<h4>2,052</h4>
+</td>
+<td style="text-align: center;">
+<h4> 7</h4>
+</td>
+<td style="text-align: center;">
+<h4>2,604 </h4>
+</td>
+</tr>
+<tr style="border-color: #d2f7de; background-color: #f2f2e1;">
+<td rowspan="2">
+<h4>นานาชาติ </h4>
+</td>
+<td style="text-align: center;" colspan="6">
+<h4>แยกชั้น ชายและหญิง  </h4>
+</td>
+</tr>
+<tr style="border-color: #d2f7de; background-color: #f2f2e1;">
+<td style="text-align: center;" colspan="4">
+<h4> 1 </h4>
+</td>
+<td style="text-align: center;" colspan="2">
+<h4> 144  </h4>
+</td>
+</tr>
+<tr style="border-color: #d2f7de; background-color: #f2f2e1;">
+<td style="text-align: center;">
+<h4>รวมจำนวนทั้งสิ้น</h4>
+</td>
+<td style="text-align: center;" colspan="6">
+<h4><span style="text-decoration: underline;">4,849 คน</span></h4>
+</td>
+</tr>
+</tbody>
+</table>
+			
+	
+
+<p style="margin: 12px 0px; padding: 0px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal;"><span style="color: #339966;"><span style="font-size: medium; color: #008000;"><strong>ชำระเงินผ่านธนาคารกรุงศรีฯ และ kma application <br />ตั้งแต่วันที่ 1 - 31 มกราคม 2565</strong></span><br /></span></p>
+<p style="margin: 12px 0px; padding: 0px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal;"><span style="color: #008080;"><span style="font-size: 12pt;"><span style="margin: 0px; padding: 0px;">&gt; <a style="margin: 0px; padding: 0px; color: #008080;" href="/db45/bill%20payment%20thai.pdf">ดาวน์โหลดใบชำระค่าธรรมเนียม!!</a></span></span><span style="font-size: 12pt;"> (สำหรับนิสิตไทย)</span></span><strong><span style="font-size: 12pt;"><span style="color: #993366;"><span style="color: #800080;">     <br /></span></span></span></strong><span style="font-size: 12pt; color: #ff9900;">&gt; <a style="margin: 0px; padding: 0px; color: #ff9900;" href="/db45/bill%20payment%20eng.pdf">download bill payment!!</a> <span style="font-size: 12pt;">(for krissana international dormitory)</span></span></p>
+<table style="height: 326px;" width="648">
+<tbody>
+<tr>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong>หอพัก </strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong>ค่าสาธารณูปโภค</strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong>รายชื่อผู้ชำระค่าธรรมเนียม</strong></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; color: #000000;">1. หอพักพุทธชาด</span></td>
+<td><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/น้ำไฟ ธ.ค. 64 พ.pdf" rel="alternate">ค่าสาธารณูปโภค</a></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/ผู้ชำระ ธ.ค. 64 พ.pdf" rel="alternate">รายชื่อนิสิตชำระค่าสาธารณูปโภค</a></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; color: #000000;">2. หอพักขจีนุช</span></td>
+<td><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/น้ำไฟ ธ.ค. 64 ข.pdf" rel="alternate">ค่าสาธารณูปโภค</a></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/ผู้ชำระ ธ.ค. 64 ข.pdf" rel="alternate">รายชื่อนิสิตชำระค่าสาธารณูปโภค</a></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; color: #000000;">3. หอพักลีลาวดี</span></td>
+<td><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/น้ำไฟ ธ.ค. 64 ล.pdf" rel="alternate">ค่าสาธารณูปโภค</a></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/ผู้ชำระ ธ.ค. 64 ล.pdf" rel="alternate">รายชื่อนิสิตชำระค่าสาธารณูปโภค</a></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; color: #000000;">4. หอพักเฟื่องฟ้า</span></td>
+<td><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/น้ำไฟ ธ.ค. 64 ฟฟ.pdf" rel="alternate">ค่าสาธารณูปโภค</a></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/ผู้ชำระ ธ.ค. 64 ฟฟ.pdf" rel="alternate">รายชื่อนิสิตชำระค่าสาธารณูปโภค</a></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; color: #000000;">5. หอพักสุพรรณิการ์</span></td>
+<td><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/น้ำไฟ ธ.ค. 64 ส.pdf" rel="alternate">ค่าสาธารณูปโภค</a></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/ผู้ชำระ ธ.ค. 64 ส.pdf" rel="alternate">รายชื่อนิสิตชำระค่าสาธารณูปโภค</a></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; color: #000000;">6. หอพักแสงจันทร์</span></td>
+<td><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/น้ำไฟ ธ.ค. 64 สจ.pdf" rel="alternate">ค่าสาธารณูปโภค</a></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/ผู้ชำระ ธ.ค. 64 สจ.pdf" rel="alternate">รายชื่อนิสิตชำระค่าสาธารณูปโภค</a></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; color: #000000;">7. krissana international dormitory</span></td>
+<td><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/น้ำไฟ ธ.ค. 64 ก.pdf" rel="alternate">utility bills</a></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; color: #000000;"><a style="color: #000000;" href="/db45/รายชื่อผู้ชำระ ธ.ค. 64 ก.pdf" rel="alternate">name list of payers</a></span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+			
+	
+
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;"><strong><span style="text-decoration: underline;">การสมัครเข้าอยู่หอพักซอยพหลโยธิน 45 (สำหรับนิสิตไทย ระดับปริญญา)</span> </strong></span></p>
+<h5 style="margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 13px; color: #334d55; line-height: normal; orphans: 2; widows: 2;"><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ขั้นตอนการสมัคร</span></h5>
+<ul>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">นิสิตที่สนใจสมัครเข้าอยู่หอพักซอยพหลโยธิน 45 สามารถ <a href="/db45/ใบสมัครนิสิตไทย 22 เม.ย. 62.pdf" rel="alternate">download</a><a style="margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000; font-weight: bold; font-size: 14px;" href="/db45/%e0%b9%83%e0%b8%9a%e0%b8%aa%e0%b8%a1%e0%b8%b1%e0%b8%84%e0%b8%a3%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%87%201%20-%206.pdf"> </a>ใบสมัครและยื่นเอกสารประกอบการสมัครได้ที่สำนักงานหอพักสุพรรณิการ์ <br />ในวันและเวลาทำการ จันทร์ - ศุกร์ เวลา 08.30 - 16.30  น. (ยกเว้นวันหยุดนักขัตฤกษ์)</span><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;">   </span></li>
+</ul>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;"><strong>คุณสมบัติของผู้สมัคร</strong></span></p>
+<ul>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">นิสิตไทย ระดับปริญญาตรี มหาวิทยาลัยเกษตรศาสตร์  วิทยาเขตบางเขน ทุกชั้นปี</span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ต้องเป็นผู้ที่ไม่มีโรคติดต่อร้ายแรง</span></li>
+</ul>
+<h5 style="margin: 10px 0px 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 14px; color: #242b2d; line-height: normal;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;">เอกสารประกอบการสมัคร     </span></h5>
+<ul>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">สำเนาทะเบียนบ้าน 1 ฉบับ</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">สำเนาบัตรประชาชน 1 ฉบับ</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">สำเนาใบปฟ. 1 (สำหรับนิสิตปี 2 ใบ ku.2) 1 ฉบับ</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;">ใบตรวจสุขภาพ สำหรับนิสิตปี 1 (ตรวจโรคทั่วไป คลินิกหรือโรงพยาบาล) 1 ฉบับ    </span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">รูปถ่าย 1 นิ้ว (ถ่ายไว้ไม่เกิน 6 เดือน) 3 รูป</span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ใบแสดงการยืนยันเป็นนิสิตมหาวิทยาลัยเกษตรศาสตร์<br /><strong>หมายเหตุ หากเอกสารไม่ครบตามข้อมูลข้างต้น หอพักขอสงวนสิทธิ์ไม่รับสมัครเข้าอยู่หอพัก</strong></span></li>
+</ul>
+<h5 style="margin: 10px 0px 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 14px; color: #242b2d; line-height: normal;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;">อัตราค่าธรรมเนียมหอพัก นิสิตไทย ระดับปริญญาตรี   </span></h5>
+<table style="height: 129px;" width="373">
+<tbody>
+<tr>
+<td style="text-align: left;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;"><strong>      รายการ</strong></span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;"><strong>จำนวน (บาท)</strong></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;">      ค่าเช่าห้องพักเดือนปัจจุบัน</span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;">2,300</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;">      ค่าเช่าห้องพักล่วงหน้า</span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;">2,300</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;">      ค่าประกันของเสียหาย</span></td>
+<td style="text-align: left;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;">2,000</span></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;"><strong>      รวมเป็นเงิน</strong></span></td>
+<td style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;"><strong>6,600</strong></span></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;"><strong>เงื่อนไขการอยู่หอพัก</strong></span></p>
+<ul>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">พักห้องละ 4 คน</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ห้ามโอนสิทธิ์การเข้าพักให้กับบุคคลอื่น</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ต้องปฏิบัติตามกฎระเบียบของหอพักอย่างเคร่งครัด</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;">ต้องเข้าพักอย่างน้อย 6 เดือน  จึงจะสามารถสละสิทธิ์และขอคืนเงินค่าประกันของเสียหายได้    </span></li>
+</ul>
+<h5 style="margin: 10px 0px 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 14px; color: #242b2d; line-height: normal;"><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">สิ่งอำนวยความสะดวกภายในห้องพัก</span></h5>
+<ul>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ตู้เสื้อผ้า</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ห้องน้ำ</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">โต๊ะเขียนหนังสือและเก้าอี้</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">เตียงนอน(เตียงเดี่ยว) +ที่นอน +หมอน</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">เครื่องปรับอากาศ<br /></span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">wifi</span></li>
+</ul>
+<h5 style="margin: 10px 0px 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 14px; color: #242b2d; line-height: normal;"><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">สิ่งอำนวยความสะดวกอื่นๆ</span></h5>
+<ul>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ห้อง study  room</span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ตู้กดน้ำร้อน-เย็น</span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">โทรทัศน์ส่วนกลาง</span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ร้านเครื่องซักผ้าหยอดเหรียญ</span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ร้านซักรีด</span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ร้านอาหาร</span></li>
+<li><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 10pt;">ร้านสะดวกซื้อ</span></li>
+</ul>
+<h5 style="margin: 10px 0px 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 14px; color: #242b2d; line-height: normal;"><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ระบบรักษาความปลอดภัย </span></h5>
+<ul>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">กล้องวงจรปิด </span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ระบบคีย์การ์ด </span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ระบบสัญญาณเตือนไฟ </span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">ระบบไฟฉุกเฉิน </span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">อุปกรณ์ดับเพลิง </span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">บันไดหนีไฟ </span></li>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">เจ้าหน้าที่รักษาความปลอดภัยดูแลตลอด 24 ชั่วโมง </span></li>
+</ul>
+<h5 style="margin: 10px 0px 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 14px; color: #242b2d; line-height: normal;"><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">การบริการด้านการจราจร </span></h5>
+<ul>
+<li><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">บริการรถรับ-ส่ง (สาย 5) ของมหาวิทยาลัยระหว่างหอพักและสำนักหอสมุด  ทุกวัน ตั้งแต่เวลา  07.00 - 21.00 น. </span><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;"> </span></li>
+</ul>
+<p><span style="color: #000000; font-size: 10pt; font-family: arial, helvetica, sans-serif;">**---------------------------------------------------------------------------------------------------------------**</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;"><strong>ที่อยู่: หอพักซอยพหลโยธิน 45 ซอยพหลโยธิน 45 แขวงลาดยาว เขตจตุจักร กทม. 10900<br /></strong><strong>สอบถามข้อมูลเพิ่มเติม โทร. 0-2942-7790, 0-2942-7797 หรือแฟนเพจเฟสบุ๊ค “หอพักนิสิต ซอยพหลโยธิน 45”</strong></span>     </p>
+			
+	
+
+<p style="margin: 12px 0px; padding: 0px 0px 0px 30px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal;"><span style="line-height: 14px;"><span style="color: #008000;">ดูแลความสะอาดเรียบร้อยบริเวณ อาคารกองกิจการนิสิต ตึกพัก/หอพัก อาคารกิจกรรมและพื้นที่ทำกิจกรรม ต่างๆ</span></span></p>
+<p style="margin: 12px 0px; padding: 0px; color: #242b2d; font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: normal;"><span style="line-height: 14px;"><span style="color: #008000;">รวมไปถึงการซ่อมแซมบำรุงรักษาครุภัณฑ์ ระบบสาธารณูปโภคและดูแลการปฏิบัตงานของแม่บ้านและเจ้าหน้าที่</span></span></p>
+<p style="margin: 12px 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href="/organization/theprocessofrepair.html" target="_blank" rel="alternate">- ขันตอนแจ้งซ่อม</a></p>
+<p><strong>หน้าที่และความรับผิดชอบงาน      </strong></p>
+<ul>
+<li><strong>หน่วยอาคารและสถานที่ </strong>
+<ul>
+<li>ควบคุมดูแลและจัดระบบงานธุรการของหน่วยอาคารและสถานที่</li>
+<li>ควบคุมดูแลกลั่นกรองเรื่องขั้นต้นในการนำเสนอเรื่องเพื่อเสนอผ่านหัวหน้าหน่วยอาคารและสถานที่  เสนอหัวหน้างานหอพัก</li>
+<li>ควบคุมดูแลความสะอาดและความเรียบร้อยหน่วยอาคารและสถานที่</li>
+<li>ควบคุมดูแลการทำงานของเจ้าหน้าที่ทำความสะอาด</li>
+<li>ควบคุมดูแลจัดทำสรุปผลการดำเนินงาน ตลอดจนข้อเสนอแนะการดำเนินงานในอนาคตเพื่อเสนอมหาวิทยาลัย</li>
+<li>ดำเนินงานตามที่ได้รับมอบหมายผ่านหัวหน้าหน่วยอาคารและสถานที่  และหัวหน้างานหอพัก</li>
+<li>ควบคุมดูแลการทำงานเจ้าหน้าที่สนาม</li>
+<li>ควบคุมดูแลการซ่อมบำรุงครุภัณฑ์ให้อยู่ในสภาพใช้งานได้</li>
+<li>ประสานงานด้านการให้บริการและความร่วมมือกับหน่วยงานต่างๆ ทั้งภายในและภายนอกมหาวิทยาลัย</li>
+<li>ควบคุมดูแลวัสดุงานบ้าน</li>
+<li>ควบคุมดูแลการใช้สาธารณูปโภคอย่างเป็นระบบ</li>
+<li>ควบคุมดูแลงานจัดทำแผนหน่วยอาคารและสถานที่</li>
+<li>ควบคุมดูแลรักษาและจัดทำแผนงบประมาณปรับปรุงหอพักและบริเวณโดยรอบ</li>
+<li>ควบคุมดูแลสวัสดิการภายในหน่วยอาคารและสถานที่</li>
+<li>ความคุมดูแลหน่วยอาคารและสถานที่  ตึก ๘ หอ ๓ และหอ ๔ อาคารดนตรีไทย   อาคารวงดนตรีรวมดาวกระจุย  อาคารค่ายอาสาพัฒนา</li>
+<li>ควบคุมการดำเนินงานวันพัฒนามหาวิทยาลัยเกษตรศาสตร์ของหน่วยอาคารและสถานที่</li>
+<li>ควบคุมดูแลการจัดทำปฏิทินหน่วยอาคารและสถานที่</li>
+<li>ควบคุมดูแลประสานงานภายนอกที่ขอรับการสนับสนุนด้านหน่วยอาคารและสถานที่</li>
+<li>ควบคุมดูแลการปฏิบัติหน้าที่ของบุคลากรหน่วยอาคารและสถานที่  จำนวน 63 คน    </li>
+<li>ควบคุมดูแลความเรียบร้อยของที่พักนิสิตและชมรม</li>
+<li>ควบคุมดูแลวัสดุและครุภัณฑ์ให้อยู่ในสภาพที่พร้อมใช้งานได้                  </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong>ปฏิบัติหน้าที่อื่นตามที่ได้รับมอบหมาย</strong>
+<ul>
+<li>ให้บริการนิสิต / บุคลากร / หน่วยงานภายในและภายนอก ในการขอความอนุเคราะห์เจ้าหน้าที่</li>
+<li>อำนวยความสะดวกในการขอความอนุเคราะห์ใช้และจัดสถานที่ภายในและภายนอกอาคาร   </li>
+<li>ดูแลด้านความปลอดภัยโดยการ ตรวจสอบพฤติกรรมนิสิต และบุคคลที่เข้าใช้อาคาร ผ่าน ระบบกล้องวงจรปิด</li>
+<li>ดูแลระบบเทคโนโลยีสารสนเทศ</li>
+<li>ออกแบบและวิเคราะห์ระบบงาน</li>
+<li>ออกแบบและจัดทำเว็บไซต์หน่วยงาน</li>
+<li>ดูแลระบบ lan ภายในหน่วยงาน</li>
+<li>ดูแลการจัดทำสารสนเทศหอพัก</li>
+<li>ดูแลอุปกรณ์เทคโนโลยีสารสนเทศ</li>
+</ul>
+</li>
+</ul>
+	</div>
+		</div>
+	</p>
+           </div> 
+       </div>
+ 	   
+   </div>
+   
+<div id="left" style="width:100%"> 
+
+<a href="https://www.facebook.com/nisit.ku.dormitory"><img src="/templates/foodworld/images/facebook.png" width="32" height="32" alt="f" ></a>
+<a href="https://www.youtube.com/channel/ucvnit0tigex5yai1i1k384g"><img src="/templates/foodworld/images/twitter.png" alt="t" ></a>
+<a href="https://plus.google.com/111528578033347428385/posts"><img src="/templates/foodworld/images/gplus.png" alt="g" ></a>
+
+
+
+
+</div>
+</div> 
+	
+   
+<!-- end tabs -->	
+</div><!-- wrapper end -->
+	<!-- start bottomwide -->
+<div id="bottomwide">
+		<div id="bottom" class="clearfix">
+			<div class="user1"></div>
+			<div class="user2"></div>
+			<div class="user2"></div>
+		</div>
+			<div class="tgwide" ><div id="tg"></div></div>	
+			<div style="display:none;" class="nav_up" id="nav_up"></div>			
+</div>
+<!-- end bottomwide -->
+	</div><!--/.relative -->
+	</div><!--/.fluid-container -->
+	
+	
+</body>
+</html>

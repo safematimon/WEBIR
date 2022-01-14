@@ -1,0 +1,844 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- the above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>ฐานข้อมูลเกียรติภูมิมหาวิทยาลัยเกษตรศาสตร์</title>
+    <link rel="shortcut icon" href="" >
+    <link rel="shortcut icon" type="image/jpg" href="" />
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+     <!--     google fonts-->
+    <link href='https://fonts.googleapis.com/css?family=open+sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!--fontawesom-->
+    <link rel="stylesheet" href="https://archives.lib.ku.ac.th/nisit/asset/css/font-awesome.min.css"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.6.3/css/all.css' integrity='sha384-uhrtzli+pbxthcwp1t77bi1l4ztiqrqd80kn4z8ntsryma2fd33n5dq8lwue00s/' crossorigin='anonymous'>
+
+    <!--animated css-->
+    <link rel="stylesheet" type="text/css" href="https://archives.lib.ku.ac.th/nisit/asset/css/animate.min.css">
+
+    <!-- bootstrap -->
+    <link href="https://archives.lib.ku.ac.th/nisit/asset/css/bootstrap.min.css" rel="stylesheet">
+    <!--bootstrap carousel-->
+    <link type="text/css" rel="stylesheet" href="https://archives.lib.ku.ac.th/nisit/asset/css/carousel.css" />
+
+
+    <!--main stylesheet-->
+    <link href="https://archives.lib.ku.ac.th/nisit/asset/css/style.css" rel="stylesheet">
+    <!--responsive framework-->
+    <link href="https://archives.lib.ku.ac.th/nisit/asset/css/responsive.css" rel="stylesheet">
+
+    <!-- html5 shim and respond.js for ie8 support of html5 elements and media queries -->
+    <!-- warning: respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt ie 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=roboto">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=montserrat">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+
+    <script src="https://archives.lib.ku.ac.th/nisit/backend/libs/jquery/jquery.min.js"></script>
+
+    <!-- <script src="https://code.jquery.com/jquery-3.5.1.js"></script> -->
+    <script src="https://cdn.datatables.net/1.10.21/js/jquery.datatables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.21/js/datatables.bootstrap.min.js"></script>
+    <script src="https://cdn.datatables.net/fixedheader/3.1.7/js/datatables.fixedheader.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.4/js/datatables.responsive.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.4/js/responsive.bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">    
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.21/css/datatables.bootstrap.min.css">    
+    <link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.1.7/css/fixedheader.bootstrap.min.css">    
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.4/css/responsive.bootstrap.min.css">  
+
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-jjsmvgyd0p3pxb1rribzuayoiiy6orq6vrjieaff/njgzixfdsf4x0xim+b07jrm" crossorigin="anonymous"></script>
+
+
+    <link rel="stylesheet" href="https://archives.lib.ku.ac.th/nisit/asset/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://archives.lib.ku.ac.th/nisit/asset/css/owl.theme.default.min.css">
+    <link type="text/css" rel="stylesheet" href="https://archives.lib.ku.ac.th/nisit/asset/css/layout-timeline.css"/>
+
+    <link rel="stylesheet" type="text/css" href="https://archives.lib.ku.ac.th/nisit/backend/libs/select2/select2.min.css">
+    <script src="https://archives.lib.ku.ac.th/nisit/backend/libs/select2/select2.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('.select-single').select2();
+        });
+    </script>
+
+
+        <!-- global site tag (gtag.js) - google analytics -->
+        <!-- https://analytics.google.com/analytics/web/ -->
+        <!-- สมัครด้วย kunisit2020@gmail.com | kkkk2222 -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=ua-177606044-1"></script>
+        <script>
+          window.datalayer = window.datalayer || [];
+          function gtag(){datalayer.push(arguments);}
+          gtag('js', new date());
+
+          gtag('config', 'ua-177606044-1');
+        </script>
+
+
+</head>
+
+
+
+<!--start hedaer section-->
+
+ <div id="sc" class="w3-bar w3-grad w3-card w3-left-align" style="background-color:#0e6e6c;">
+    <a  class="w3-bar-item w3-right w3-padding-large  w3-large " href="javascript:void(0);" onclick="myfunction()" title="toggle navigation menu" ><i id="scc" class="fa fa-bars"></i></a>
+    <a href="http://archives.lib.ku.ac.th/"><img class="logo_ku" src="https://archives.lib.ku.ac.th/nisit/asset/img/logo4.jpg"></a>
+  </div>
+
+  <!-- navbar on small screens -->
+  
+ <div id="navdemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-large">
+ <a href="http://archives.lib.ku.ac.th/" class="w3-bar-item w3-button  w3-padding-large w3-hover-white">หน้าหลัก</a>
+   <div class="w3-dropdown-hover w3-hover-white">
+    <button class="w3-button" title="notifications">รู้จักเรา <i class="fa fa-caret-down"></i></button>     
+    <div class="w3-dropdown-content w3-card-4 w3-bar-block">
+      <a href="http://archives.lib.ku.ac.th/hor_jotmai.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอจดหมายเหตุ มก.</a>
+      <a href="http://archives.lib.ku.ac.th/hor_prawat.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอประวัติมหาวิทยาลัยเกษตรศาสตร์</a>
+      <a href="http://archives.lib.ku.ac.th/conference.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอประชุมมหาวิทยาลัยเกษตรศาสตร์</a>
+      <a href="http://archives.lib.ku.ac.th/hor_nisit2.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอพักนิสิต (หอ2)</a>
+      <a href="http://archives.lib.ku.ac.th/department.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> โครงสร้างหน่วยงาน</a>
+      <a href="http://archives.lib.ku.ac.th/personnel.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> บุคลากร</a>
+	 </div>
+  </div>
+	<div class="w3-dropdown-hover w3-hover-white">
+    <button class="w3-button" title="notifications">เกี่ยวกับ มก. <i class="fa fa-caret-down"></i></button>     
+    <div class="w3-dropdown-content w3-card-4 w3-bar-block">
+      <a href="http://archives.lib.ku.ac.th/his_page1.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ประวัติมหาวิทยาลัยเกษตรศาสตร์</a>
+      <a href="http://archives.lib.ku.ac.th/president.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> นายกสภามหาวิทยาลัยเกษตรศาสตร์</a>
+	  <a href="http://archives.lib.ku.ac.th/chancellor.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> อธิการบดีมหาวิทยาลัยเกษตรศาสตร์</a>
+	  <a href="http://archives.lib.ku.ac.th/symbol.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ลัญลักษณ์/เหตุการณ์สำคัญ/สถานที่สำคัญ</a>
+	  <a href="http://archives.lib.ku.ac.th/oral.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> oral history</a>
+	 </div>
+  </div>
+  <div class="w3-dropdown-hover w3-hover-white">
+    <button class="w3-button" title="notifications">ระบบสารสนเทศ <i class="fa fa-caret-down"></i></button>     
+    <div class="w3-dropdown-content w3-card-4 w3-bar-block">
+	  <a href="https://kukr.lib.ku.ac.th/db/index.php?/archives" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลจดหมายเหตุ</a>
+      <a href="http://archives.lib.ku.ac.th/db-his-objects.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลวัตถุหอประวัติ</a>
+      <!-- <a href="http://archives.lib.ku.ac.th/nisit/" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลนิสิตมหาวิทยาลัยเกษตรศาสตร์</a> -->
+      <a href="http://archives.lib.ku.ac.th/nisit/" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลนิสิตมหาวิทยาลัยเกษตรศาสตร์</a>
+	  <a href="http://archives.lib.ku.ac.th/db-honor.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลเกียรติยศบุคลากร</a>
+	  <a href="http://archives.lib.ku.ac.th/db-timeline.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> กาลานุกรมออนไลน์</a>
+	 </div>
+  </div>
+   <div class="w3-dropdown-hover w3-hover-white">
+    <button class="w3-button" title="notifications">กิจกรรม <i class="fa fa-caret-down"></i></button>     
+    <div class="w3-dropdown-content w3-card-4 w3-bar-block">
+      <a href="http://archives.lib.ku.ac.th/db-exhibition.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> นิทรรศการออนไลน์</a>
+      <a href="http://archives.lib.ku.ac.th/julsan.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> จุลสารจดหมายเหตุ</a>
+	  <a href="http://archives.lib.ku.ac.th/activities.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ภาพกิจกรรม</a> 
+ 
+    </div>
+  </div>
+    <a href="http://archives.lib.ku.ac.th/contact.php" class="w3-bar-item w3-button  w3-padding-large w3-hover-white">ข้อเสนอแนะ</a> 
+    <div class="w3-bar-item w3-button  w3-padding-large w3-hover-white">
+                        <form action="search.php">
+                                                 
+                        <input class="" type="text" name="search" placeholder="search" value="">
+                        <button class="" type="submit"><i class="fa fa-search"></i></button>
+                        </form>
+                    </div>
+     <div class="w3-bar-item w3-button  w3-padding-large w3-hover-white">
+                              <a href="?lang=th"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/th.jpg">&nbsp;</a>
+                                <a>|</a>
+                                <a href="?lang=en"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/en.jpg">&nbsp;</a>
+                                
+                            
+                        </div>
+
+  </div>
+
+
+
+  <section id="header">
+        <div class="header-area">
+            <div class="top_header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 zero_mp">
+                            <div class="address">
+                                <div class="social_icon text-right">
+                              
+
+                                </div>
+
+                            </div>
+                        </div>
+                    
+                        <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5 zero_mp">
+                            <div class="phone">
+                                <div class="social_icon text-right">
+    
+                                </div>
+                            </div>
+                        </div>
+                
+                        <div class="col-md-4 col-md-4 col-sm-4 col-xs-4 zero_mp">
+                        <form action="search.php">
+                                                  <input class="search" type="text" name="search" placeholder="search" value="" style="display: none;">
+                          
+                        <br>
+                        <br>
+                        <!-- <button class="searchsubmit searchwhite" type="submit"><i class="fa fa-search"></i></button> -->
+                         <div class="social_icon text-right" >
+                               <a href="?lang=th"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/th.jpg">&nbsp;</a>
+                                <a>|</a>
+                                <a href="?lang=en"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/en.jpg">&nbsp;</a>
+                            </div>
+                        </form>
+
+                            
+                        </div>
+
+
+                 
+                    </div>
+             
+                </div>
+       
+            </div>
+     
+            <div class="header_menu text-center" data-spy="affix" data-offset-top="50" id="nav">
+                <div class="container">
+                    <nav class="navbar navbar-default zero_mp ">
+                 
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                                data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                <span class="sr-only">toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand custom_navbar-brand" href="http://archives.lib.ku.ac.th/"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/logo45.jpg " alt=""></a>
+                        </div>
+              
+                    <div class="collapse navbar-collapse zero_mp" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav navbar-right main_menu">
+                                
+                                 <li ><a href="http://archives.lib.ku.ac.th/">หน้าหลัก</a></li>
+                                <li class="dropdown"><a>รู้จักเรา</a>
+                                   <div class="dropdown-content">
+                                    <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/hor_jotmai.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอจดหมายเหตุ มก.</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/hor_prawat.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอประวัติมหาวิทยาลัยเกษตรศาสตร์</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/conference.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอประชุมมหาวิทยาลัยเกษตรศาสตร์</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/hor_nisit2.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอพักนิสิต (หอ2)</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/department.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> โครงสร้างหน่วยงาน</a></p>
+                                   <p><a href="http://archives.lib.ku.ac.th/personnel.php" style="color:#333;font-size:13px;text-align: left;"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> บุคลากร</a></p>
+                                   </div>
+                                </li>
+                                <li class="dropdown"><a>เกี่ยวกับ มก.</a>
+                                <div class="dropdown-content">
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/his_page1.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg">  ประวัติมหาวิทยาลัยเกษตรศาสตร์</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/president.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg">  นายกสภามหาวิทยาลัยเกษตรศาสตร์</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/chancellor.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg">  อธิการบดีมหาวิทยาลัยเกษตรศาสตร์</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/symbol.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg">  ลัญลักษณ์/เหตุการณ์สำคัญ/สถานที่สำคัญ</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/oral.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> oral history</a></p>
+                                   </div>
+                              </li>
+                                <li class="dropdown"><a>ระบบสารสนเทศ</a>
+                                <div class="dropdown-content">
+                                <p><a style="color:#333;font-size:13px;text-align: left;" href="https://kukr.lib.ku.ac.th/db/index.php?/archives"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลจดหมายเหตุ</a></p>
+                                  <!--  <p><a style="color:#333;font-size:13px;text-align: left;" href="his_ob.php">ฐานข้อมูลวัตถุหอประวัติ</a></p> -->
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/db-his-objects.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลวัตถุหอประวัติ</a></p>
+                                   <!-- <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/nisit/"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลนิสิตมหาวิทยาลัยเกษตรศาสตร์</a></p> -->
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/nisit/"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลนิสิตมหาวิทยาลัยเกษตรศาสตร์</a></p>
+                                  <!--  <p><a style="color:#333;font-size:13px;text-align: left;" href="kietyot.php">ฐานข้อมูลเกียรติยศบุคลากร</a></p> -->
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/db-honor.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลเกียรติยศบุคลากร</a></p>
+                                  <!--  <p><a style="color:#333;font-size:13px;text-align: left;" href="kalanukun.php">กาลานุกรมออนไลน์</a></p> -->
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/db-timeline.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> กาลานุกรมออนไลน์</a></p>
+                                    <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/nisit/graduate"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลพิธีพระราชทานปริญญาบัตร </a>
+                                   </p>
+                                </div>
+                             </li>
+                                <li class="dropdown"><a>กิจกรรม</a>
+                                <div class="dropdown-content">
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/db-exhibition.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> นิทรรศการออนไลน์</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/julsan.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> จุลสารจดหมายเหตุ</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/activities.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ภาพกิจกรรม</a></p>
+                                   </div>
+                            </li>
+                                <li class="dropdown"><a href="http://archives.lib.ku.ac.th/contact.php">ข้อเสนอแนะ</a></li>
+
+                            </ul>
+
+                        </div>
+                        
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+<style type="text/css">
+
+  thead {
+    display:none;
+  }
+
+</style>
+    
+    <script src="https://archives.lib.ku.ac.th/nisit/asset/frontend/js/owl.carousel.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://archives.lib.ku.ac.th/nisit/asset/css/carousel.css" />
+    <link rel="stylesheet" href="https://archives.lib.ku.ac.th/nisit/asset/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://archives.lib.ku.ac.th/nisit/asset/css/owl.theme.default.min.css">
+    <link type="text/css" rel="stylesheet" href="https://archives.lib.ku.ac.th/nisit/asset/css/layout-timeline.css"/>
+
+<body>
+
+<div class="col-md-12" style="">
+  <div id="spinner_frame"
+    style="display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    z-index: 100;
+    "><p align="center">
+      <img src="https://archives.lib.ku.ac.th/nisit/asset/img/preloader_big.gif">
+    </p></div>
+</div>
+
+<div class="bg-yellowgreen">
+  <div class="container py-5">
+    <div class="row">  
+        <div  class="col-md-12" class="">    
+          <h1 class="ttnew">พิธีพระราชทานปริญญาบัตรมหาวิทยาลัยเกษตรศาสตร์</h1>
+          <div class="row">
+            <div class="col-lg-6"></div>  
+            <div class="col-lg-6">
+                <form>
+                    <div class="form-group row mb-0">
+                      <label for="colformlabelsm" class="col-sm-2 col-form-label f-w-300 text-black" style="text-align:right;">ค้นหา :</label>
+
+                      <div class="col-sm-7">
+                        <input type="search" class="form-control input-sm form2 txtsearch " placeholder="กรอกคำค้นหา" aria-controls="example" id="keywords" >
+                      </div>
+
+                    <input type="text" class="form-control input-sm form2 mylike " placeholder="book_name" aria-controls="example" id="book_name" name="book_name" style="display: none;" >
+
+
+                      <div class="col-sm-3">
+                        <a href="" class="btnsearch"><p class="we2 text-center">ค้นหา</p></a>
+                      </div>
+                    </div>
+                </form>
+            </div>    
+          </div>    
+        </div>
+      </div>
+  </div>
+</div>
+
+<div class="bg-white">
+    <div class="container py-5">
+        <h4 class="text-center f-w-500 text-black mb-4">ภาพรวมงานพิธีพระราชทานปริญญาบัตรมหาวิทยาลัยเกษตรศาสตร์</h4>
+
+<center>
+        <div class="owl-carousel owl-theme overallgradceremony" style="width: 60%;">
+
+      
+          <div> <img src="local/public/images_grad/exam/sampleeachgradyear01.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/exam/sampleeachgradyear02.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2524/2524-1.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2524/2524-2.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2524/2524-3.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2524/2524-4.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2528/2528-1.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2528/2528-2.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2528/2528-3.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2528/2528-4.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2528/2528-5.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2528/2528-6.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2528/2528-7.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2528/2528-8.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2529/2529-1.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2529/2529-2.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2529/2529-3.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2529/2529-4.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2529/2529-5.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2529/2529-6.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2529/2529-7.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2529/2529-8.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2533/2533-1.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2533/2533-2.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2533/2533-3.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2533/2533-4.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2533/2533-5.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2533/2533-6.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2533/2533-7.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2534/2534-1.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2534/2534-10.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2534/2534-2.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2534/2534-3.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2534/2534-4.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2534/2534-5.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2534/2534-6.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2534/2534-7.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2534/2534-8.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2534/2534-9.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2535/2535-1.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2535/2535-2.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2535/2535-3.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2535/2535-4.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2535/2535-5.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2535/2535-6.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2535/2535-7.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2535/2535-8.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2536/2536-1.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2536/2536-2.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2536/2536-3.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2536/2536-4.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2536/2536-5.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2536/2536-6.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2537/2537-1.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2537/2537-10.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2537/2537-2.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2537/2537-3.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2537/2537-4.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2537/2537-5.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2537/2537-6.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2537/2537-7.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2537/2537-8.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2537/2537-9.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2538/2538-1.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2538/2538-10.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2538/2538-2.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2538/2538-3.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2538/2538-4.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2538/2538-5.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2538/2538-6.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2538/2538-7.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2538/2538-8.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2538/2538-9.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2539/2539-1.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2539/2539-10.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2539/2539-2.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2539/2539-3.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2539/2539-4.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2539/2539-5.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2539/2539-6.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2539/2539-7.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2539/2539-8.jpg" style="height: 450px !important;"> </div>
+
+      
+          <div> <img src="local/public/images_grad/2539/2539-9.jpg" style="height: 450px !important;"> </div>
+
+              </div>
+
+        </center>
+    </div>
+
+    <div class="container">
+         <table id="data-table" class="table table-bordered table-striped data-tablesearch responsive example nowrap" width="100%">
+         </table>
+    </div>
+
+ 
+</div>    
+
+<!--start of footer-->
+ <style type="text/css">
+   .a:focus, a:hover{
+      color: red !important;
+    }
+ </style>
+    <section id="footer">
+        <div class="container">
+            <div class="col-md-12">
+      
+            <div class="row text-center">
+
+            
+
+            
+                <div class="col-md-4">
+                    <div class="copyright">
+                        <p style="color:#fccc00;">ลิงค์ที่เกี่ยวข้อง</p>
+                                                <p><a href="https://www.ku.ac.th" target="_blank" style="color:white;margin-top: 0%;" >มหาวิทยาลัยเกษตรศาสตร์</a></p>
+                                                <p><a href="http://www.lib.ku.ac.th" target="_blank" style="color:white;margin-top: 0%;" >สำนักหอสมุด มก.</a></p>
+                                                <p><a href="https://www.nat.go.th/" target="_blank" style="color:white;margin-top: 0%;" >สำนักหอจดหมายเหตุแห่งชาติ</a></p>
+                                                <p><a href="https://www.botlc.or.th/" target="_blank" style="color:white;margin-top: 0%;" >ศูนย์การเรียนรู้ธนาคารแห่งประเทศไทย</a></p>
+                                                <p><a href="https://www.thaibankmuseum.or.th/" target="_blank" style="color:white;margin-top: 0%;" >พิพิธภัณฑ์ธนาคารไทย</a></p>
+                                                <p><a href="http://archives.library.tu.ac.th/" target="_blank" style="color:white;margin-top: 0%;" >หอจดหมายเหตุ มหาวิทยาลัยธรรมศาสตร์ </a></p>
+                                            </div>
+                </div>
+
+
+                              <div class="col-md-4">
+                    <div class="copyright">
+                        <br> 
+                                               <p>
+                          <a href="https://www.kingprajadhipokmuseum.com/" target="_blank" style="color:white;margin-top: 0%;"  >พิพิธภัณฑ์พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว</a>
+                        </p>
+
+                                                <p>
+                          <a href="https://www.bia.or.th" target="_blank" style="color:white;margin-top: 0%;"  >หอจดหมายเหตุ พุทธทาส อินทปัญโญ</a>
+                        </p>
+
+                                                <p>
+                          <a href="https://www.museumsiam.org" target="_blank" style="color:white;margin-top: 0%;"  >มิวเซียมสยาม พิพิธภัณฑ์การเรียนรู้ </a>
+                        </p>
+
+                                                <p>
+                          <a href="http://www.admincourt.go.th/admincourt/site/10letter.html" target="_blank" style="color:white;margin-top: 0%;"  >ห้องสมุด พิพิธภัณฑ์และจดหมายเหตุศาลปกครอง</a>
+                        </p>
+
+                                                <p>
+                          <a href="http://www.admincourt.go.th/admincourt/site/10letter.html" target="_blank" style="color:white;margin-top: 0%;"  >ห้องสมุด พิพิธภัณฑ์และจดหมายเหตุศาลปกครอง</a>
+                        </p>
+
+                        
+                    </div>
+                </div>
+
+
+                <div class="col-md-2">
+                  <div class="copyright"></div>
+                </div>
+
+                <div class="col-md-4">
+                <div class="copyright">
+                    <p style="color:#fccc00;">หอจดหมายเหตุมหาวิทยาลัยเกษตรศาสตร์</p>
+
+
+              
+                        <p>
+                          
+                          อาคารเทพรัตน์วิทยาโชติ สำนักหอสมุด ชั้น 4 เลขที่ 50 <br />
+ถนนงามวงศ์วาน แขวงลาดยาว เขตจตุจักร กรุงเทพฯ 10900 <br />
+โทร. 0 2942 8616 ต่อ 426-430 <br />
+อีเมล archives@ku.ac.th
+                        </p>
+
+
+              
+
+                    </div>
+                </div>  
+            </div><br> 
+        </div>
+            <!--end of row-->
+        </div>
+        <!--end of container-->
+    </section>
+    <!--end of footer-->
+    <!--start of footer-->
+
+    <section id="footer2">
+        <div class="container">
+            <div class="row text-center">
+            
+                <p >copyright © 2019 archives of kasetsart university</p>
+            </div>
+        </div>
+        <!--end of row-->
+
+        <!--end of container-->
+    </section>
+
+
+
+
+<script>
+
+var otable;
+$(function() {
+    otable = $('#data-table').datatable({
+        processing: true,
+        serverside: true,
+        // ordering: false,
+        searching: false,
+        blengthchange: false,
+        info:     true,
+        idisplaylength: 10,
+          ajax: {
+          url: 'https://archives.lib.ku.ac.th/nisit/graduate/datatable',
+          type: "post",
+          data: function ( d ) {
+            d._token = "skk9kvyp5dzuqfjr5ywptvgm1u4fv75zyxs1094g";
+            d.where={};
+            $('.mywhere').each(function() {
+              if( $.trim($(this).val()) && $.trim($(this).val()) != '0' ){
+                d.where[$(this).attr('name')] = $.trim($(this).val());
+              }
+            });
+
+            d.like={};
+            $('.mylike').each(function() {
+                if( $.trim($(this).val()) && $.trim($(this).val()) != '0' ){
+                  d.like[$(this).attr('name')] = $.trim($(this).val());
+                }
+           
+            });
+      
+            d.custom={};
+            $('.mycustom').each(function() {
+              if( $.trim($(this).val()) && $.trim($(this).val()) != '0' ){
+                d.custom[$(this).attr('name')] = $.trim($(this).val());
+              }
+            });
+            odata = d;
+          },
+        },
+
+        order: [ 0 , "desc" ],
+        columndefs : [ 
+              {
+              "targets": [0],
+              "orderable": false,
+              }
+          ],
+        columns: [
+           {data: 'name', classname: 'text-left'},
+            
+           
+        ],
+        rowcallback: function(nrow, adata, dataindex){
+         
+        },
+        statesave: true,
+    });
+    
+    // $('.mywhere,.mylike,.mycustom').on('change', function(e){
+    //     // alert("xxx");
+    //     otable.draw();
+    // });
+
+    $('.btnsearch').on('click', function(e){
+
+      e.preventdefault();
+
+      var txtsearch = $(".txtsearch").val();
+
+      if(txtsearch==""){
+        $(".txtsearch").focus();
+        return false;
+      }
+
+      $('#book_name').val(txtsearch);
+      $('#spinner_frame').show();
+
+      otable.draw();
+
+      settimeout(function(){
+        $("#spinner_frame").hide();
+      }, 2500);
+
+    });
+
+
+
+});
+
+            $('.overallgradceremony').owlcarousel({
+                loop:true,
+                margin:10,
+                dots:true,
+                loop:true,
+                autoplay:true,
+                responsiveclass:true,
+                responsive:{
+                    0:{
+                        items:1,
+                        nav:false
+                    },
+                    600:{
+                        items:1,
+                        nav:false
+                    },
+                    1200:{
+                        items:1,
+                        nav:true,
+                    }
+                }
+            })
+
+</script>

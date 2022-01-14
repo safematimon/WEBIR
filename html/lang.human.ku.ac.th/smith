@@ -1,0 +1,460 @@
+﻿<!doctype html>
+
+<html lang="en-us">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="//gmpg.org/xfn/11" />
+<link rel="pingback" href="http://lang.human.ku.ac.th/xmlrpc.php" />
+
+<title>ku-lang ศูนย์ภาษา มหาวิทยาลัยเกษตรศาสตร์</title>
+<!-- seo optimised using built in premium theme features from thinkupthemes - http://www.thinkupthemes.com/ -->
+<meta name="description" content="ศูนย์ภาษา มหาวิทยาลัยเกษตรศาสตร์ (ku language centre) คือ สถาบันภาษาที่บริการวิชาการภาษาแก่บุคคลทั่วไป นิสิต นักเรียน บุคลากร ทั้งภาครัฐหรือภาคเอกชน 16 ภาษา"/>
+<meta name="keywords" content="ศูนย์ภาษา,คณะมนุษยศาสตร์, มหาวิทยาลัยเกษตรศาสตร์, ศูนย์ภาษา คณะมนุษยศาสตร์ มหาวิทยาลัยเกษตรศาสตร์, ku language centre, สถาบันสอนภาษา, ศูนย์บริการวิชาการภาษา, สถาบันบริการวิชาการภาษา, สถาบันภาษา, เรียนภาษา,
+ku-lang,the official page of kasetsart university language centre, สอนภาษา, แปลภาษา
+เรียนภาษาอังกฤษ, เรียนภาษาจีน, เรียนภาษาเกาหลี, เรียนภาษาเยอรมัน, เรียนภาษาอังกฤษเริ่มต้น,
+เรียนภาษาอังกฤษตั้งแต่เริ่มต้นจนพูดอ่านเขียนได้, เรียนภาษาเริ่มต้น, เรียนภาษาอังกฤษตั้งแต่เริ่มต้นจนพูดอ่านเขียนได้,
+ เรียนภาษาอิตาเลียน, เรียนภาษาโปรตุเกส, เรียนภาษาพม่า, เรียนภาษาเขมร, เรียนภาษาญี่ปุ่น, เรียนภาษารัสเซีย, เรียนภาษาเวียดนาม, ภาษาไทยเพื่อชาวต่างชาติ, thaiforforeigners, thai, bahasa, เรียนภาษาอินโดนีเซีย, เรียนภาษาสเปน , portuguese, burmese, indonesia, khmer, vietnamese, spanish, japanese, italian, german, french, chinese, arabic, english, ศูนย์ภาษาคณะมนุษยศาสตร์มหาวิทยาลัยเกษตรศาสตร์"/>
+<meta name="robots" content="noodp"/>
+<!-- thinkupthemes seo -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="ku-lang ศูนย์ภาษา มก. &raquo; feed" href="http://lang.human.ku.ac.th/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ku-lang ศูนย์ภาษา มก. &raquo; comments feed" href="http://lang.human.ku.ac.th/index.php/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ku-lang ศูนย์ภาษา มก. &raquo; home renden comments feed" href="http://lang.human.ku.ac.th/index.php/home-renden/feed/" />
+		<script type="text/javascript">
+			window._wpemojisettings = {"baseurl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgurl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgext":".svg","source":{"concatemoji":"http:\/\/lang.human.ku.ac.th\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.6"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=string.fromcharcode;if(!k||!k.filltext)return!1;switch(k.clearrect(0,0,j.width,j.height),k.textbaseline="top",k.font="600 32px arial",a){case"flag":return k.filltext(f(55356,56826,55356,56819),0,0),b=j.todataurl(),k.clearrect(0,0,j.width,j.height),k.filltext(f(55356,56826,8203,55356,56819),0,0),c=j.todataurl(),b!==c&&(k.clearrect(0,0,j.width,j.height),k.filltext(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.todataurl(),k.clearrect(0,0,j.width,j.height),k.filltext(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.todataurl(),b!==c);case"emoji4":return k.filltext(f(55358,56794,8205,9794,65039),0,0),d=j.todataurl(),k.clearrect(0,0,j.width,j.height),k.filltext(f(55358,56794,8203,9794,65039),0,0),e=j.todataurl(),d!==e}return!1}function e(a){var c=b.createelement("script");c.src=a,c.defer=c.type="text/javascript",b.getelementsbytagname("head")[0].appendchild(c)}var f,g,h,i,j=b.createelement("canvas"),k=j.getcontext&&j.getcontext("2d");for(i=array("flag","emoji4"),c.supports={everything:!0,everythingexceptflag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingexceptflag=c.supports.everythingexceptflag&&c.supports[i[h]]);c.supports.everythingexceptflag=c.supports.everythingexceptflag&&!c.supports.flag,c.domready=!1,c.readycallback=function(){c.domready=!0},c.supports.everything||(g=function(){c.readycallback()},b.addeventlistener?(b.addeventlistener("domcontentloaded",g,!1),a.addeventlistener("load",g,!1)):(a.attachevent("onload",g),b.attachevent("onreadystatechange",function(){"complete"===b.readystate&&c.readycallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojisettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='siteorigin-panels-front-css'  href='http://lang.human.ku.ac.th/wp-content/plugins/thinkup-panels/css/front.css?ver=2.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='thinkup-panels-front-css'  href='http://lang.human.ku.ac.th/wp-content/plugins/thinkup-panels/thinkup-customization/css/thinkup-front.css?ver=2.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://lang.human.ku.ac.th/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='post_grid_style-css'  href='http://lang.human.ku.ac.th/wp-content/plugins/post-grid/assets/frontend/css/style-new.css?ver=4.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.carousel-css'  href='http://lang.human.ku.ac.th/wp-content/plugins/post-grid/assets/frontend/css/owl.carousel.css?ver=4.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://lang.human.ku.ac.th/wp-content/plugins/post-grid/assets/frontend/css/font-awesome.min.css?ver=4.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='style-woocommerce-css'  href='http://lang.human.ku.ac.th/wp-content/plugins/post-grid/assets/frontend/css/style-woocommerce.css?ver=4.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='style.skins-css'  href='http://lang.human.ku.ac.th/wp-content/plugins/post-grid/assets/global/css/style.skins.css?ver=4.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='style.layout-css'  href='http://lang.human.ku.ac.th/wp-content/plugins/post-grid/assets/global/css/style.layout.css?ver=4.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='thinkup-google-fonts-css'  href='//fonts.googleapis.com/css?family=open+sans%3a300%2c400%2c600%2c700&#038;subset=latin%2clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyphoto-css'  href='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/extentions/prettyphoto/css/prettyphoto.css?ver=3.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='thinkup-bootstrap-css'  href='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/extentions/bootstrap/css/bootstrap.min.css?ver=2.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://lang.human.ku.ac.th/wp-includes/css/dashicons.min.css?ver=4.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='thinkup-shortcodes-css'  href='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/styles/style-shortcodes.css?ver=1.5.11' type='text/css' media='all' />
+<link rel='stylesheet' id='thinkup-style-css'  href='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/style.css?ver=1.5.11' type='text/css' media='all' />
+<link rel='stylesheet' id='thinkup-portfolio-css'  href='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/styles/style-portfolio.css?ver=1.5.11' type='text/css' media='all' />
+<link rel='stylesheet' id='slb_core-css'  href='http://lang.human.ku.ac.th/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://lang.human.ku.ac.th/wp-content/plugins/tablepress/css/default.min.css?ver=1.8' type='text/css' media='all' />
+<style id='tablepress-default-inline-css' type='text/css'>
+.tablepress thead th,.tablepress tfoot th{text-align:center}.tablepress .hilite{background-color:#f58b15}.tablepress-id-1 .column-1{width:45%}.tablepress-id-1 .column-2{width:10%}.tablepress-id-1 .column-3{width:15%;text-align:center}.tablepress-id-1 .column-4{width:15%;text-align:center}.tablepress-id-1 .column-5{width:15%;text-align:center}.tablepress-id-2 .column-1{width:45%}.tablepress-id-2 .column-2{width:10%}.tablepress-id-2 .column-3{width:15%;text-align:center}.tablepress-id-2 .column-4{width:15%;text-align:center}.tablepress-id-2 .column-5{width:15%;text-align:center}.tablepress-id-3 .column-1{width:45%}.tablepress-id-3 .column-2{width:10%}.tablepress-id-3 .column-3{width:15%;text-align:center}.tablepress-id-3 .column-4{width:15%;text-align:center}.tablepress-id-3 .column-5{width:15%;text-align:center}.tablepress-id-4 .column-1{width:45%}.tablepress-id-4 .column-2{width:10%}.tablepress-id-4 .column-3{width:15%;text-align:center}.tablepress-id-4 .column-4{width:15%;text-align:center}.tablepress-id-4 .column-5{width:15%;text-align:center}.tablepress-id-5 .column-1{width:45%}.tablepress-id-5 .column-2{width:10%}.tablepress-id-5 .column-3{width:15%;text-align:center}.tablepress-id-5 .column-4{width:15%;text-align:center}.tablepress-id-5 .column-5{width:15%;text-align:center}.tablepress-id-6 .column-1{width:45%}.tablepress-id-6 .column-2{width:10%}.tablepress-id-6 .column-3{width:15%;text-align:center}.tablepress-id-6 .column-4{width:15%;text-align:center}.tablepress-id-6 .column-5{width:15%;text-align:center}.tablepress-id-7 .column-1{width:45%}.tablepress-id-7 .column-2{width:10%}.tablepress-id-7 .column-3{width:15%;text-align:center}.tablepress-id-7 .column-4{width:15%;text-align:center}.tablepress-id-7 .column-5{width:15%;text-align:center}.tablepress-id-8 .column-1{width:45%}.tablepress-id-8 .column-2{width:10%}.tablepress-id-8 .column-3{width:15%;text-align:center}.tablepress-id-8 .column-4{width:15%;text-align:center}.tablepress-id-8 .column-5{width:15%;text-align:center}.tablepress-id-9 .column-1{width:45%}.tablepress-id-9 .column-2{width:10%}.tablepress-id-9 .column-3{width:15%;text-align:center}.tablepress-id-9 .column-4{width:15%;text-align:center}.tablepress-id-9 .column-5{width:15%;text-align:center}.tablepress-id-10 .column-1{width:45%}.tablepress-id-10 .column-2{width:10%}.tablepress-id-10 .column-3{width:15%;text-align:center}.tablepress-id-10 .column-4{width:15%;text-align:center}.tablepress-id-10 .column-5{width:15%;text-align:center}.tablepress-id-11 .column-1{width:45%}.tablepress-id-11 .column-2{width:10%}.tablepress-id-11 .column-3{width:15%;text-align:center}.tablepress-id-11 .column-4{width:15%;text-align:center}.tablepress-id-11 .column-5{width:15%;text-align:center}.tablepress-id-12 .column-1{width:45%}.tablepress-id-12 .column-2{width:10%}.tablepress-id-12 .column-3{width:15%;text-align:center}.tablepress-id-12 .column-4{width:15%;text-align:center}.tablepress-id-12 .column-5{width:15%;text-align:center}.tablepress-id-13 .column-1{width:45%}.tablepress-id-13 .column-2{width:10%}.tablepress-id-13 .column-3{width:15%;text-align:center}.tablepress-id-13 .column-4{width:15%;text-align:center}.tablepress-id-13 .column-5{width:15%;text-align:center}.tablepress-id-14 .column-1{width:45%}.tablepress-id-14 .column-2{width:10%}.tablepress-id-14 .column-3{width:15%;text-align:center}.tablepress-id-14 .column-4{width:15%;text-align:center}.tablepress-id-14 .column-5{width:15%;text-align:center}.tablepress-id-15 .column-1{width:45%}.tablepress-id-15 .column-2{width:10%}.tablepress-id-15 .column-3{width:15%;text-align:center}.tablepress-id-15 .column-4{width:15%;text-align:center}.tablepress-id-15 .column-5{width:15%;text-align:center}
+</style>
+<link rel='stylesheet' id='thinkup-responsive-css'  href='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/styles/style-responsive.css?ver=1.5.11' type='text/css' media='all' />
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var post_grid_ajax = {"post_grid_ajaxurl":"http:\/\/lang.human.ku.ac.th\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/plugins/post-grid/assets/frontend/js/scripts.js?ver=4.8.6'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/plugins/post-grid/assets/frontend/js/masonry.pkgd.min.js?ver=4.8.6'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/plugins/post-grid/assets/frontend/js/owl.carousel.min.js?ver=4.8.6'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/plugins/post-grid/assets/frontend/js/imagesloaded.pkgd.js?ver=4.8.6'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/scripts/plugins/sticky/jquery.sticky.js?ver=true'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/scripts/plugins/videobg/jquery.videobg.js?ver=0.2'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var pitweetscroll = {"ajaxrequests":"http:\/\/lang.human.ku.ac.th\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/widgets/twitterfeed/js/jquery.tweetscroll.js?ver=4.8.6'></script>
+<link rel='https://api.w.org/' href='http://lang.human.ku.ac.th/index.php/wp-json/' />
+<link rel="edituri" type="application/rsd+xml" title="rsd" href="http://lang.human.ku.ac.th/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://lang.human.ku.ac.th/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="wordpress 4.8.6" />
+<link rel="canonical" href="http://lang.human.ku.ac.th/" />
+<link rel='shortlink' href='http://lang.human.ku.ac.th/' />
+<link rel="alternate" type="application/json+oembed" href="http://lang.human.ku.ac.th/index.php/wp-json/oembed/1.0/embed?url=http%3a%2f%2flang.human.ku.ac.th%2f" />
+<link rel="alternate" type="text/xml+oembed" href="http://lang.human.ku.ac.th/index.php/wp-json/oembed/1.0/embed?url=http%3a%2f%2flang.human.ku.ac.th%2f&#038;format=xml" />
+<style>#pg-317-0.panel-grid {background: #fafafa;text-align: center !important;padding-top: 20px !important;}#pg-317-0 .panel-grid-cell {}</style><style>#pg-317-1.panel-grid {text-align: center !important;padding-top: 20px !important;}#pg-317-1 .panel-grid-cell {}</style><style>#pg-317-2.panel-grid {background: #fafafa;text-align: center !important;padding-top: 20px !important;}#pg-317-2 .panel-grid-cell {}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://158.108.215.134/kulang/wp-content/uploads/2017/04/6613.jpg"); background-position: left top; background-size: cover; background-repeat: no-repeat; background-attachment: fixed; }
+</style>
+<style type="text/css" media="all" id="siteorigin-panels-grids-wp_head">/* layout 317 */ #pl-317 .panel-grid-cell .so-panel { margin-bottom:px } #pl-317 .panel-grid-cell .so-panel:last-child { margin-bottom:0px } </style>
+<style type="text/css">
+#rslides1_s0 {
+	width:427px;
+	height:240px;
+	position: relative;
+}
+
+/* hide new grid blog layouts - in development */
+.blog-style2 .blog-grid.column-1 .blog-thumb img {
+width: 100%;
+}
+
+/* hide woocommercec cart menu */
+.thinkup-demosite #woo-cart-menu {
+display: none;
+}
+
+/* disable checkout */
+.thinkup-demosite .woocommerce #payment #place_order {
+   pointer-events: none;
+   cursor: default;
+}
+</style>
+
+<style type="text/css">
+#slider .rslides, #slider .rslides li { height: 350px; max-height: 350px; }
+#slider .rslides img { height: 100%; max-height: 350px; }
+</style>
+</head>
+
+<body class="home page-template page-template-template-parallax page-template-template-parallax-php page page-id-317 custom-background siteorigin-panels siteorigin-panels-home layout-responsive layout-wide slider-full header-style1 header-sticky scrollup-on testimonial-style1 group-blog">
+<div id="body-core" class="hfeed site">
+
+	<header>
+	<div id="site-header">
+
+			
+		<div id="pre-header">
+		<div class="wrap-safari">
+		<div id="pre-header-core" class="main-navigation">
+  
+						<div id="pre-header-links-inner" class="header-links"><ul id="menu-2_primary_header_blank" class="menu"><li id="menu-item-11506" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11506"><a href="http://lang.human.ku.ac.th/index.php/aboutus/">เกี่ยวกับเรา</a></li>
+<li id="menu-item-11605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11605"><a href="#">ติดต่อเรา</a>
+<ul  class="sub-menu">
+	<li id="menu-item-11392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11392"><a href="http://lang.human.ku.ac.th/index.php/staff/">บุคลากรศูนย์ภาษา</a></li>
+	<li id="menu-item-11391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11391"><a href="http://lang.human.ku.ac.th/index.php/map/">แผนที่</a></li>
+</ul>
+</li>
+<li id="menu-item-11600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11600"><a href="http://lang.human.ku.ac.th/?page_id=11598">กล่องความคิดเห็น</a></li>
+<li id="menu-item-11914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11914"><a href="http://lang.human.ku.ac.th/index.php/faq/">faqs</a></li>
+</ul></div>			
+			<div id="pre-header-social"><ul><li class="social message">follow us</li><li class="social facebook"><a href="https://www.facebook.com/kulanguagecentre/" data-tip="bottom" data-original-title="facebook" target="_blank"><i class="fa fa-facebook"></i></a></li><li class="social twitter"><a href="https://twitter.com/?lang=en" data-tip="bottom" data-original-title="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li><li class="social google-plus"><a href="https://plus.google.com/u/1/111940110917600199619" data-tip="bottom" data-original-title="google+" target="_blank"><i class="fa fa-google-plus"></i></a></li><li class="social instagram"><a href="https://www.instagram.com/kulang_news/" data-tip="bottom" data-original-title="instagram" target="_blank"><i class="fa fa-instagram"></i></a></li><li class="social envelope"><a href="mailto:jade.k@ku.th" data-tip="bottom" data-original-title="email" target="_blank"><i class="fa fa-envelope"></i></a></li></ul></div>
+		</div>
+		</div>
+		</div>
+		<!-- #pre-header -->
+
+				<div id="header">
+		<div id="header-core">
+
+			<div id="logo">
+			<a rel="home" href="http://lang.human.ku.ac.th/"><img src="http://lang.human.ku.ac.th/wp-content/uploads/2019/01/logo_kulang-4.png" alt="logo"></a>			</div>
+
+			<div id="header-links" class="main-navigation">
+			<div id="header-links-inner" class="header-links">
+
+				<ul id="menu-1_pre_header_kulang" class="menu"><li id="menu-item-11142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-317 current_page_item"><a href="http://lang.human.ku.ac.th/"><span>หน้าแรก</span></a></li>
+<li id="menu-item-11161" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://lang.human.ku.ac.th/index.php/category/download/"><span>ดาวน์โหลด</span></a></li>
+<li id="menu-item-11146" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>วิธีการสมัคร/ชำระเงิน</span></a>
+<ul  class="sub-menu">
+	<li id="menu-item-11214" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://lang.human.ku.ac.th/index.php/application/">วิธีการสมัคร/ชำระเงิน</a></li>
+	<li id="menu-item-11398" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://lang.human.ku.ac.th/index.php/application-2/">ขั้นตอนการชำระเงิน</a></li>
+</ul>
+</li>
+<li id="menu-item-11373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>ตารางเรียน/ห้องเรียน</span></a>
+<ul  class="sub-menu">
+	<li id="menu-item-11372" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://lang.human.ku.ac.th/index.php/category/schedule/">ตารางวันเรียน</a></li>
+	<li id="menu-item-11371" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://lang.human.ku.ac.th/index.php/category/classroom/">ตารางห้องเรียน</a></li>
+</ul>
+</li>
+<li id="menu-item-11404" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://lang.human.ku.ac.th/index.php/category/activities/"><span>กิจกรรม</span></a></li>
+<li id="menu-item-15691" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://lang.human.ku.ac.th/index.php/interpreter/"><span>ประกาศจัดซื้อจัดจ้าง</span></a></li>
+</ul>				
+				<div id="header-search"><a><div class="fa fa-search"></div></a>	<form method="get" class="searchform" action="http://lang.human.ku.ac.th/" role="search">
+		<input type="text" class="search" name="s" value="" placeholder="search" />
+		<input type="submit" class="searchsubmit" name="submit" value="search" />
+	</form></div>			</div>
+			</div>
+			<!-- #header-links .main-navigation -->
+
+			<div id="header-nav"><a class="btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a></div>
+		</div>
+		</div>
+		<!-- #header -->
+
+		<div id="header-responsive"><div id="header-responsive-inner" class="responsive-links nav-collapse collapse"><ul id="menu-1_pre_header_kulang-1" class=""><li id="res-menu-item-11142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-317 current_page_item"><a href="http://lang.human.ku.ac.th/"><span>หน้าแรก</span></a></li>
+<li id="res-menu-item-11161" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://lang.human.ku.ac.th/index.php/category/download/"><span>ดาวน์โหลด</span></a></li>
+<li id="res-menu-item-11146" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>วิธีการสมัคร/ชำระเงิน</span></a>
+<ul  class="sub-menu">
+	<li id="res-menu-item-11214" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://lang.human.ku.ac.th/index.php/application/">&#45; วิธีการสมัคร/ชำระเงิน</a></li>
+	<li id="res-menu-item-11398" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://lang.human.ku.ac.th/index.php/application-2/">&#45; ขั้นตอนการชำระเงิน</a></li>
+</ul>
+</li>
+<li id="res-menu-item-11373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>ตารางเรียน/ห้องเรียน</span></a>
+<ul  class="sub-menu">
+	<li id="res-menu-item-11372" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://lang.human.ku.ac.th/index.php/category/schedule/">&#45; ตารางวันเรียน</a></li>
+	<li id="res-menu-item-11371" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://lang.human.ku.ac.th/index.php/category/classroom/">&#45; ตารางห้องเรียน</a></li>
+</ul>
+</li>
+<li id="res-menu-item-11404" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://lang.human.ku.ac.th/index.php/category/activities/"><span>กิจกรรม</span></a></li>
+<li id="res-menu-item-15691" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://lang.human.ku.ac.th/index.php/interpreter/"><span>ประกาศจัดซื้อจัดจ้าง</span></a></li>
+</ul></div></div>
+				<div id="header-sticky">
+		<div id="header-sticky-core">
+
+			<div id="logo-sticky">
+			<a rel="home" href="http://lang.human.ku.ac.th/"><img src="http://lang.human.ku.ac.th/wp-content/uploads/2019/01/logo_kulang-4.png" alt="logo"></a>			</div>
+
+			<div id="header-sticky-links" class="main-navigation">
+			<div id="header-sticky-links-inner" class="header-links">
+
+				<ul id="menu-1_pre_header_kulang-2" class="menu"><li id="menu-item-11142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-317 current_page_item"><a href="http://lang.human.ku.ac.th/"><span>หน้าแรก</span></a></li>
+<li id="menu-item-11161" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://lang.human.ku.ac.th/index.php/category/download/"><span>ดาวน์โหลด</span></a></li>
+<li id="menu-item-11146" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>วิธีการสมัคร/ชำระเงิน</span></a>
+<ul  class="sub-menu">
+	<li id="menu-item-11214" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://lang.human.ku.ac.th/index.php/application/">วิธีการสมัคร/ชำระเงิน</a></li>
+	<li id="menu-item-11398" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://lang.human.ku.ac.th/index.php/application-2/">ขั้นตอนการชำระเงิน</a></li>
+</ul>
+</li>
+<li id="menu-item-11373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>ตารางเรียน/ห้องเรียน</span></a>
+<ul  class="sub-menu">
+	<li id="menu-item-11372" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://lang.human.ku.ac.th/index.php/category/schedule/">ตารางวันเรียน</a></li>
+	<li id="menu-item-11371" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://lang.human.ku.ac.th/index.php/category/classroom/">ตารางห้องเรียน</a></li>
+</ul>
+</li>
+<li id="menu-item-11404" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://lang.human.ku.ac.th/index.php/category/activities/"><span>กิจกรรม</span></a></li>
+<li id="menu-item-15691" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://lang.human.ku.ac.th/index.php/interpreter/"><span>ประกาศจัดซื้อจัดจ้าง</span></a></li>
+</ul>				
+				<div id="header-search"><a><div class="fa fa-search"></div></a>	<form method="get" class="searchform" action="http://lang.human.ku.ac.th/" role="search">
+		<input type="text" class="search" name="s" value="" placeholder="search" />
+		<input type="submit" class="searchsubmit" name="submit" value="search" />
+	</form></div>			</div>
+			</div><div class="clearboth"></div>
+			<!-- #header-sticky-links .main-navigation -->
+
+		</div>
+		</div>
+		<!-- #header-sticky -->
+	
+		<div id="slider" class="style1"><div id="slider-core"><div class="rslides-container" data-speed="6000"><div class="rslides-inner"><ul class="slides"><li><img src="http://lang.human.ku.ac.th/wp-content/themes/renden_pro/images/transparent.png" style="background: url(http://lang.human.ku.ac.th/wp-content/uploads/2021/10/แบนเนอร์ออนไลน์8เวป-copy.jpg) no-repeat center; background-size: cover;" alt="slider image" /><div class="rslides-content"><div class="wrap-safari"><div class="rslides-content-inner"><div class="featured"></div></div></div></div></li><li><img src="http://lang.human.ku.ac.th/wp-content/themes/renden_pro/images/transparent.png" style="background: url(http://lang.human.ku.ac.th/wp-content/uploads/2018/11/16-l.jpg) no-repeat center; background-size: cover;" alt="slider image" /><div class="rslides-content"><div class="wrap-safari"><div class="rslides-content-inner"><div class="featured"></div></div></div></div></li><li><img src="http://lang.human.ku.ac.th/wp-content/themes/renden_pro/images/transparent.png" style="background: url(http://lang.human.ku.ac.th/wp-content/uploads/2019/02/banner-drop-new-recovered.jpg) no-repeat center; background-size: cover;" alt="slider image" /><div class="rslides-content"><div class="wrap-safari"><div class="rslides-content-inner"><div class="featured"></div></div></div></div></li></ul></div></div></div></div>
+		
+		
+		
+		
+	</div>
+
+
+	</header>
+	<!-- header -->
+
+		
+	<div id="content">
+	<div id="content-core">
+
+		<div id="main">
+		<div id="main-core">
+			
+				
+		<article id="post-317" class="post-317 page type-page status-publish hentry">
+
+		<div class="panel-grid" id="pg-317-0" ><div class="panel-grid-core"><div class="panel-grid-cell" id="pgc-317-0-0" ><div class="panel-widget-style" ><h3 style="font-style: normal;"><span>courses</span></h3></div><div class="panel-widget-style" style="background:#f2f2f2;" ><style type="text/css">#post-grid-11065 .element_0{display: block;font-size: 21px;line-height: normal;padding: 5px 10px;text-align: left;}#post-grid-11065 .element_1{display: block;font-size: 12px;padding: 5px 10px;text-align: left;}#post-grid-11065 .element_3{display: block;font-size: 12px;font-weight: bold;padding: 0 10px;text-align: left;}#post-grid-11065 .element_0:hover{}#post-grid-11065 .element_1:hover{}#post-grid-11065 .element_3:hover{}#post-grid-11065 .item{
+			background:#fafafa;
+	
+			}</style><style type="text/css">/*write your css code here*/</style><style type="text/css">#post-grid-11065 {
+			padding:10px;
+			background: #fafafa url() repeat scroll 0 0;
+		}#post-grid-11065 .item .layer-media{height:auto;overflow: hidden;
+		}#post-grid-11065 .item{
+		margin:10px;height:auto;}
+	@media only screen and (min-width: 1024px ) {
+	#post-grid-11065 .item{width:170px}
+	
+	}
+	
+	@media only screen and ( min-width: 768px ) and ( max-width: 1023px ) {
+	#post-grid-11065 .item{width:170px}
+	}
+	
+	@media only screen and ( min-width: 320px ) and ( max-width: 767px ) {
+	#post-grid-11065 .item{width:83%}
+	}</style><div id="post-grid-11065" class="post-grid grid"><div class="grid-nav-top"></div><div class="grid-items " id=""><div  class="item mix skin even flat courses "><div class="layer-media"><a href="http://lang.human.ku.ac.th/index.php/2020/02/17/20373/"><img alt="" src="http://lang.human.ku.ac.th/wp-content/uploads/2020/02/telecommuting-illustration_23-2148485455-300x300.jpg" /></a></div><div class="layer-content"><div class="element element_0 title"  >*ปิดรับสมัครแล้ว* ออนไลน์รุ่นที่ 8</div><div class="element element_1 excerpt"  >ออนไลน์รุ่น 8 ปิดรับสมัครแล้ว ติดตามออนไลน์รุ่น 9 ได้เร็วๆนี้ ศูนย์ภาษา มก. เปิดอบรมโครงการอบรมพัฒนาภาษาสำหรับนิสิตและบุคคลทั่วไป o n l i n e รุ่นที่ 8 เปิดรับสมัคร ตั้งแต่ 11 พฤศจิกายน</div><a target="" class="element element_3 read_more"  href="http://lang.human.ku.ac.th/index.php/2020/02/17/20373/">read more.</a></div></div></div><div class="grid-nav-bottom"><div class="pagination lite"><div class="paginate"></div ></div ></div><script>
+		jquery(document).ready(function($)
+		{
+			$("#post-grid-11065 .layer-media .gallery").owlcarousel({
+				
+				items : 1,
+
+				navtext : ["",""],
+				autoplay: true,
+				loop: true,
+				autoheight : true,	
+				nav : false,	
+				dots : false,					
+											
+								
+				});
+		
+		});</script></div><script>jquery(window).load(function(){jquery("#post-grid-11065 .grid-items").masonry({isfitwidth: true}); });</script></div></div></div></div><div class="panel-grid" id="pg-317-1" ><div class="panel-grid-core"><div class="panel-grid-cell" id="pgc-317-1-0" ><div class="panel-widget-style" ><div class="sc-featured sc-carousel"><div class="entry-header"><img src="http://lang.human.ku.ac.th/wp-content/uploads/2014/07/alpha-1.png" /></div></div></div><div class="panel-widget-style" style="background:#f2f2f2;" ><style type="text/css">#post-grid-11026 .element_0{display: block;font-size: 21px;line-height: normal;padding: 5px 10px;text-align: left;}#post-grid-11026 .element_1{display: block;font-size: 12px;padding: 5px 10px;text-align: left;}#post-grid-11026 .element_3{display: block;font-size: 12px;font-weight: bold;padding: 0 10px;text-align: left;}#post-grid-11026 .element_0:hover{}#post-grid-11026 .element_1:hover{}#post-grid-11026 .element_3:hover{}#post-grid-11026 .item{
+			background:#ffffff;
+	
+			}</style><style type="text/css">/*write your css code here*/</style><style type="text/css">#post-grid-11026 {
+			padding:10px;
+			background: #ffffff url() repeat scroll 0 0;
+		}#post-grid-11026 .item .layer-media{height:180px;overflow: hidden;
+		}#post-grid-11026 .item{
+		margin:10px;height:auto;}
+	@media only screen and (min-width: 1024px ) {
+	#post-grid-11026 .item{width:240px}
+	
+	}
+	
+	@media only screen and ( min-width: 768px ) and ( max-width: 1023px ) {
+	#post-grid-11026 .item{width:240px}
+	}
+	
+	@media only screen and ( min-width: 320px ) and ( max-width: 767px ) {
+	#post-grid-11026 .item{width:80%}
+	}</style><div id="post-grid-11026" class="post-grid grid"><div class="grid-nav-top"></div><div class="grid-items " id=""><div  class="item mix skin even flat download "><div class="layer-media"><a href="http://lang.human.ku.ac.th/index.php/2020/02/14/20341/"><img alt="" src="http://lang.human.ku.ac.th/wp-content/uploads/2020/02/illustration-university-graduates_53876-28468-380x285.jpg" /></a></div><div class="layer-content"><div class="element element_0 title"  >โครงการอบรมภาษาอังกฤษ (english preparation for graduate studies) รุ่นที่ 9</div><div class="element element_1 excerpt"  >ปิดรับสมัครแล้ว! รอติดตามรุ่นถัดไป</div><a target="" class="element element_3 read_more"  href="http://lang.human.ku.ac.th/index.php/2020/02/14/20341/">read more.</a></div></div><div  class="item mix skin odd flat download "><div class="layer-media"><a href="http://lang.human.ku.ac.th/index.php/2017/04/20/11180/"><img alt="" src="http://lang.human.ku.ac.th/wp-content/uploads/2017/03/gb-380x285.png" /></a></div><div class="layer-content"><div class="element element_0 title"  >ใบสมัครภาษาอังกฤษ</div><div class="element element_1 excerpt"  >ดาวน์โหลดแผ่นพับ + ใบสมัครภาษาอังกฤษ</div><a target="" class="element element_3 read_more"  href="http://lang.human.ku.ac.th/index.php/2017/04/20/11180/">read more.</a></div></div><div  class="item mix skin even flat download "><div class="layer-media"><a href="http://lang.human.ku.ac.th/index.php/2017/04/20/11177/"><img alt="" src="http://lang.human.ku.ac.th/wp-content/uploads/2017/03/sp_ru_it_pt-380x285.png" /></a></div><div class="layer-content"><div class="element element_0 title"  >ใบสมัครภาษายุโรป (ฝรั่งเศส เยอรมัน สเปน รัสเซีย อิตาเลียน โปรตุเกส)</div><div class="element element_1 excerpt"  >ดาวน์โหลดแผ่นพับ + ใบสมัครภาษาสเปน รัสเซีย อิตาเลียน โปรตุเกส</div><a target="" class="element element_3 read_more"  href="http://lang.human.ku.ac.th/index.php/2017/04/20/11177/">read more.</a></div></div></div><div class="grid-nav-bottom"><div class="pagination lite"></div ></div><script>
+		jquery(document).ready(function($)
+		{
+			$("#post-grid-11026 .layer-media .gallery").owlcarousel({
+				
+				items : 1,
+
+				navtext : ["",""],
+				autoplay: true,
+				loop: true,
+				autoheight : true,	
+				nav : false,	
+				dots : false,					
+											
+								
+				});
+		
+		});</script></div></div><div class="panel-widget-style" ><a href="http://lang.human.ku.ac.th/index.php/category/download/" id="thinkupshortcodesthinkup_builder_buttontheme" class="button style1 themebutton small standard">view all<i class="fa fa-eye"></i></a></div></div></div></div><div class="panel-grid" id="pg-317-2" ><div class="panel-grid-core"><div class="panel-grid-cell" id="pgc-317-2-0" ><div class="panel-widget-style" ><div class="sc-featured sc-carousel"><div class="entry-header"><img src="http://lang.human.ku.ac.th/wp-content/uploads/2014/07/alpha-2.png" /></div></div></div><div class="panel-widget-style" ><style type="text/css">#post-grid-11038 .element_0{display: block;font-size: 21px;line-height: normal;padding: 5px 10px;text-align: left;}#post-grid-11038 .element_1{display: block;font-size: 12px;padding: 5px 10px;text-align: left;}#post-grid-11038 .element_3{display: block;font-size: 12px;font-weight: bold;padding: 0 10px;text-align: left;}#post-grid-11038 .element_0:hover{}#post-grid-11038 .element_1:hover{}#post-grid-11038 .element_3:hover{}#post-grid-11038 .item{
+			background:#fafafa;
+	
+			}</style><style type="text/css">/*write your css code here*/</style><style type="text/css">#post-grid-11038 {
+			padding:10px;
+			background: #fafafa url() repeat scroll 0 0;
+		}#post-grid-11038 .item .layer-media{height:180px;overflow: hidden;
+		}#post-grid-11038 .item{
+		margin:10px;height:auto;}
+	@media only screen and (min-width: 1024px ) {
+	#post-grid-11038 .item{width:240px}
+	
+	}
+	
+	@media only screen and ( min-width: 768px ) and ( max-width: 1023px ) {
+	#post-grid-11038 .item{width:240px}
+	}
+	
+	@media only screen and ( min-width: 320px ) and ( max-width: 767px ) {
+	#post-grid-11038 .item{width:80%}
+	}</style><div id="post-grid-11038" class="post-grid grid"><div class="grid-nav-top"></div><div class="grid-items " id=""><div  class="item mix skin even flat activities "><div class="layer-media"><a href="http://lang.human.ku.ac.th/index.php/2021/07/13/23853/"><img src="http://lang.human.ku.ac.th/wp-content/uploads/2021/07/s__32620546.jpg" /></a></div><div class="layer-content"><div class="element element_0 title"  >ประกาศรายชื่อผู้ผ่านการอบรมโครงการอบรมภาษาอังกฤษ english preparation for graduate studies รุ่นที่ 9</div><div class="element element_1 excerpt"  ></div><a target="" class="element element_3 read_more"  href="http://lang.human.ku.ac.th/index.php/2021/07/13/23853/">read more.</a></div></div><div  class="item mix skin odd flat activities "><div class="layer-media"><a href="http://lang.human.ku.ac.th/index.php/2021/04/26/23569/"><img src="http://lang.human.ku.ac.th/wp-content/uploads/2021/04/173955626_1713831005478973_7328528322205659059_n.jpg" /></a></div><div class="layer-content"><div class="element element_0 title"  >ประกาศเรื่องการให้บริการของศูนย์ภาษา</div><div class="element element_1 excerpt"  ></div><a target="" class="element element_3 read_more"  href="http://lang.human.ku.ac.th/index.php/2021/04/26/23569/">read more.</a></div></div><div  class="item mix skin even flat activities "><div class="layer-media"><a href="http://lang.human.ku.ac.th/index.php/2021/04/26/23566/"><img src="http://lang.human.ku.ac.th/wp-content/uploads/2021/04/174213834_1713707015491372_5811498710410484647_n.jpg" /></a></div><div class="layer-content"><div class="element element_0 title"  >ประกาศเรื่องการเรียนหลักสูตรรุ่น 79</div><div class="element element_1 excerpt"  >ประกาศเรื่องการเรียนหลักสูตรรุ่น 79</div><a target="" class="element element_3 read_more"  href="http://lang.human.ku.ac.th/index.php/2021/04/26/23566/">read more.</a></div></div></div><div class="grid-nav-bottom"><div class="pagination lite"></div ></div><script>
+		jquery(document).ready(function($)
+		{
+			$("#post-grid-11038 .layer-media .gallery").owlcarousel({
+				
+				items : 1,
+
+				navtext : ["",""],
+				autoplay: true,
+				loop: true,
+				autoheight : true,	
+				nav : false,	
+				dots : false,					
+											
+								
+				});
+		
+		});</script></div></div><div class="panel-widget-style" ><a href="http://158.108.215.134/kulang/index.php/category/activities/" id="thinkupshortcodesthinkup_builder_buttontheme1" class="button style1 themebutton small standard">view all<i class="fa fa-eye"></i></a></div><div class="panel-widget-style" ></div></div></div></div>		
+		</article>
+			
+
+		</div><!-- #main-core -->
+		</div><!-- #main -->
+			</div>
+	</div><!-- #content -->
+
+	
+	<footer>
+		<div id="footer"><div id="footer-core" class="option3"><div id="footer-col1" class="widget-area"><aside class="widget widget_text"><h3 class="footer-widget-title"><span>about ku-lang</span></h3>			<div class="textwidget">มุ่งมั่นให้บริการวิชาการแก่สังคม โดยจะพัฒนาทรัพยากรมนุษย์
+ให้มีความสามารถในการใช้ภาษาได้อย่างมีประสิทธิภาพ ในการศึกษาและงาน อาชีพและสามารถแข่งขันได้ทั้งในระดับชาติและนานาชาติ</div>
+		</aside></div><div id="footer-col2" class="widget-area"><aside class="widget thinkup_widget_recentposts"><h3 class="footer-widget-title"><span>latest news</span></h3><div class="recent-posts"><div class="main"><a class="title" href="http://lang.human.ku.ac.th/index.php/2022/01/14/24183/">codexpcgames ~ download full model free pc video games</a><a href="http://lang.human.ku.ac.th/index.php/2022/01/14/24183/" class="date">jan 14, 2022</a></div></div><div class="recent-posts"><div class="main"><a class="title" href="http://lang.human.ku.ac.th/index.php/2022/01/12/24182/">where is sports activities betting legal? projections for all 50 states</a><a href="http://lang.human.ku.ac.th/index.php/2022/01/12/24182/" class="date">jan 12, 2022</a></div></div></aside></div><div id="footer-col3" class="widget-area"><aside class="widget widget_text"><h3 class="footer-widget-title"><span>address</span></h3>			<div class="textwidget">ศูนย์ภาษา คณะมนุษยศาสตร์<br> 
+kasetsart university language centre (ku-lang)<br>
+ชั้น 1 อาคารจุฬาภรณ์พิศาลศิลป์ (มนุษยศาสตร์ 4)<br> 
+คณะมนุษยศาสตร มหาวิทยาลัยเกษตรศาสตร์<br>
+โทรศัพท์ 02 - 5790113 ต่อ 2022-2024 และ 02 - 9428888 - 9<br>
+ โทรสาร 02 - 9428887 </div>
+		</aside></div></div></div><!-- #footer -->		
+		<div id="sub-footer">
+
+		
+		<div id="sub-footer-core">
+		
+			<div class="copyright">
+			kasetsart university language centre (ku-lang) copyright © 2017 all rights reserved.			</div>
+			<!-- .copyright -->
+
+												<!-- #footer-menu -->
+
+			
+		</div>
+		</div>
+	</footer><!-- footer -->
+
+</div><!-- #body-core -->
+
+<script type="text/javascript">
+/* demo slider */
+jquery(window).load(function(){
+jquery('a[href^="http://www.thinkupthemes.com"]').attr( 'target', '_blank' );
+jquery('a[href^="http://www.wordpress.org"]').attr( 'target', '_blank' );
+
+jquery('a[href="#"]').attr( 'onclick', 'return false;' );
+
+jquery('#wpcf7-f9604-w1-o1').click(function(){
+alert('contact form is disabled');
+return false;
+});
+});
+</script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var ajax_var = {"url":"http:\/\/lang.human.ku.ac.th\/wp-admin\/admin-ajax.php","nonce":"4fa5319056"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/extentions/post-like/post-like.js?ver=1.0'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/extentions/prettyphoto/js/jquery.prettyphoto.js?ver=3.1.6'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/scripts/modernizr.js?ver=2.6.2'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/scripts/plugins/waypoints/waypoints.min.js?ver=2.0.3'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/scripts/plugins/waypoints/waypoints-sticky.min.js?ver=2.0.3'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/scripts/plugins/scrollup/jquery.scrollup.min.js?ver=2.4.1'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/extentions/bootstrap/js/bootstrap.js?ver=2.3.2'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/scripts/main-frontend.js?ver=1.5.11'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/scripts/plugins/responsiveslides/responsiveslides.min.js?ver=1.54'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/scripts/plugins/responsiveslides/responsiveslides-call.js?ver=1.5.11'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-includes/js/comment-reply.min.js?ver=4.8.6'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/scripts/plugins/caroufredsel/jquery.caroufredsel-6.2.1.js?ver=4.8.6'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-content/themes/renden_pro/lib/scripts/plugins/knob/jquery.knob.js?ver=1.2.8'></script>
+<script type='text/javascript' src='http://lang.human.ku.ac.th/wp-includes/js/wp-embed.min.js?ver=4.8.6'></script>
+<script type="text/javascript" id="slb_context">/* <![cdata[ */if ( !!window.jquery ) {(function($){$(document).ready(function(){if ( !!window.slb ) { {$.extend(slb, {"context":["public","user_guest"]});} }})})(jquery);}/* ]]> */</script>
+
+</body>
+</html>

@@ -1,0 +1,637 @@
+
+
+
+
+
+
+
+
+<!doctype html>
+<!--[if lte ie 9]><html class="ie ie9 lte9" lang="th"><![endif]-->
+<!--[if !ie]><!--><html lang="th"><!--<![endif]-->
+<head dir="ltr">
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+  
+      <title>
+       คณิตศาสตร์วิศวกรรม ii | engineering mathematics ii | thai mooc:lms
+      </title>
+  
+
+      <script type="text/javascript">
+        /* immediately break out of an iframe if coming from the marketing website */
+        (function(window) {
+          if (window.location !== window.top.location) {
+            window.top.location = window.location;
+          }
+        })(this);
+      </script>
+
+  
+
+  <script type="text/javascript" src="/static/js/i18n/th/djangojs.0ecce5587ff9.js"></script>
+  <script type="text/javascript" src="/static/js/ie11_find_array.bd1c6dc7a133.js"></script>
+
+  <link rel="icon" type="image/x-icon" href="/static/images/favicon.03ffbbf95a0d.ico" />
+
+  
+  
+
+    <link href="/static/css/lms-style-vendor.68e48093f5dd.css" rel="stylesheet" type="text/css" />
+
+
+
+    
+  
+
+    <link href="/static/css/lms-main-v1.css" rel="stylesheet" type="text/css" />
+
+
+
+
+    
+    <script type="text/javascript" src="/static/js/lms-main_vendor.a04b73033169.js" charset="utf-8"></script>
+
+
+    
+    <script type="text/javascript" src="/static/js/lms-application.7bec85e7ca02.js" charset="utf-8"></script>
+
+
+
+  
+    
+    
+    <script type="text/javascript" src="/static/bundles/commons.a9f02f27eddfc7fe9ab1.b601d075b3dc.js" ></script>
+
+
+
+  <script>
+    window.baseurl = "/static/";
+    (function (require) {
+      require.config({
+          baseurl: window.baseurl
+      });
+    }).call(this, require || requirejs.require);
+  </script>
+  <script type="text/javascript" src="/static/lms/js/require-config.38226099c6ad.js"></script>
+  
+    <script type="text/javascript">
+        (function (require) {
+          require.config({
+              paths: {
+                'js/courseware/courseware_factory': 'js/courseware/courseware_factory.1504fc10caef',
+'draggabilly': 'js/vendor/draggabilly.26caba6f7187',
+'js/courseware/toggle_element_visibility': 'js/courseware/toggle_element_visibility.d5f10bc65ed0',
+'hls': 'common/js/vendor/hls.8f15a0109b05',
+'js/courseware/link_clicked_events': 'js/courseware/link_clicked_events',
+'moment': 'common/js/vendor/moment-with-locales.084396f4103c',
+'moment-timezone': 'common/js/vendor/moment-timezone-with-data.60142e6c4416',
+'js/student_account/logistration_factory': 'js/student_account/logistration_factory.80f9f366e2ae',
+'js/groups/views/cohorts_dashboard_factory': 'js/groups/views/cohorts_dashboard_factory.7f46663f97b4',
+'js/dateutil_factory': 'js/dateutil_factory.841c29e02056',
+'course_bookmarks/js/views/bookmark_button': 'course_bookmarks/js/views/bookmark_button.d4cfaf3361fa',
+'js/courseware/accordion_events': 'js/courseware/accordion_events.6064c7809de5',
+'js/views/message_banner': 'js/views/message_banner.bc5a1361d5f5',
+'js/groups/discussions_management/discussions_dashboard_factory': 'js/discussions_management/views/discussions_dashboard_factory.2e10d9097343',
+'js/courseware/course_info_events': 'js/courseware/course_info_events.2fc35b57627f'
+            }
+          });
+        }).call(this, require || requirejs.require);
+    </script>
+  
+
+  
+  <meta property="og:title" content="คณิตศาสตร์วิศวกรรม ii | engineering mathematics ii" />
+  <meta property="og:description" content="" />
+
+  
+
+  
+
+
+  
+
+
+<script type="application/json" id="user-metadata">
+    {"username": "", "enrollment_mode": null, "upgrade_link": null, "user_id": null, "course_start": null, "upgrade_deadline": null, "course_key_fields": {"org": "ku", "run": "2018", "course": "ku001"}, "partition_groups": null, "has_non_audit_enrollments": null, "pacing_type": null, "upgrade_price": null, "course_id": "course-v1:ku+ku001+2018", "has_staff_access": null, "forum_roles": null, "enrollment_time": null, "schedule_start": null, "course_end": null}
+</script>
+
+  
+
+  
+
+
+  
+
+
+<!-- dummy segment -->
+<script type="text/javascript">
+  var analytics = {
+    track: function() { return; },
+    tracklink: function() { return; },
+    pageview: function() { return; },
+    page: function() { return; }
+  };
+</script>
+<!-- end dummy segment -->
+
+
+  <meta name="path_prefix" content="">
+  
+  
+
+  <meta name="openedx-release-line" content="ironwood" />
+
+<!-- global site tag (gtag.js) - google analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=ua-161207562-1"></script>
+<script>
+  window.datalayer = window.datalayer || [];
+  function gtag(){datalayer.push(arguments);}
+  gtag('js', new date());
+
+  gtag('config', 'ua-161207562-1');
+</script>
+
+
+
+
+</head>
+
+<body class="ltr  lang_th">
+
+
+<div id="page-prompt"></div>
+  <div class="window-wrap" dir="ltr">
+    <a class="nav-skip sr-only sr-only-focusable" href="#main">ข้ามไปที่เนื้อหาหลัก</a>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="global-header slim">
+    <div class="main-header">
+        
+
+
+
+
+
+<h1 class="header-logo">
+  <a href="/dashboard">
+    
+    <img  class="logo" src="/static/images/logo.4ff3a16ed00a.png" alt="thai mooc:lms home page"/>
+    
+  </a>
+    <div class="course-header">
+      <span class="provider">ku:</span>
+      <span class="course-number">ku001</span>
+      
+      <span class="course-name">คณิตศาสตร์วิศวกรรม ii | engineering mathematics ii</span>
+    </div>
+</h1>
+
+        <div class="hamburger-menu" role="button" aria-label=options menu aria-expanded="false" aria-controls="mobile-menu" tabindex="0">
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="line"></span>
+        </div>
+            
+
+
+
+
+
+
+
+
+<nav class="nav-links" aria-label=supplemental links>
+  <div class="main">
+      <div class="mobile-nav-item hidden-mobile nav-item">
+        <a href="/courses">explore courses</a>
+      </div>
+  </div>
+  <div class="secondary">
+    <div>
+            <div class="mobile-nav-item hidden-mobile nav-item">
+              <!-- <a class="register-btn btn" href="/register?next=%2fcourses%2fcourse-v1%3aku%2bku001%2b2018%2fabout">ลงทะเบียน</a> -->
+              <a class="register-btn btn" href="/auth/login/common-oauth2-backend/">ลงทะเบียน</a>
+            </div>
+          <div class="mobile-nav-item hidden-mobile nav-item">
+            <!-- <a class="sign-in-btn btn" href="/login?next=%2fcourses%2fcourse-v1%3aku%2bku001%2b2018%2fabout">เข้าสู่ระบบ</a> -->
+            <a class="sign-in-btn btn" href="/auth/login/common-oauth2-backend/">เข้าสู่ระบบ</a>
+          </div>
+    </div>
+  </div>
+</nav>
+
+    </div>
+    <div class="mobile-menu hidden" aria-label=more options role="menu" id="mobile-menu"></div>
+</header>
+
+<!--[if lte ie 9]>
+<div class="ie-banner" aria-hidden="true"><strong>warning:</strong> your browser is not fully supported. we strongly recommend using <a href="https://www.google.com/chrome" rel="noopener" target="_blank">chrome</a> or <a href="http://www.mozilla.org/firefox" rel="noopener" target="_blank">firefox</a>.</div>
+<![endif]-->
+
+
+
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    <div class="marketing-hero"></div>
+
+    <div class="content-wrapper main-container" id="content" dir="ltr">
+      
+
+
+
+
+
+
+
+
+
+
+<section class="course-info">
+
+  
+  <header class="course-profile">
+    <div class="intro-inner-wrapper">
+      <div class="table">
+      <section class="intro">
+        <div class="heading-group">
+          <h1>
+            คณิตศาสตร์วิศวกรรม ii | engineering mathematics ii
+          </h1>
+          <br />
+          <span>ku</span>
+        </div>
+
+        <div class="main-cta">
+          
+          <a href="#" class="register">
+            enroll in ku001
+          </a>
+          <div id="register_error"></div>
+        </div>
+
+      </section>
+      <a href="#video-modal" class="media" rel="leanmodal">
+        <div class="hero">
+          <img src="/asset-v1:ku+ku001+2018+type@asset+block@math.jpg" alt="" />
+          <div class="play-intro"></div>
+        </div>
+      </a>
+    </div>
+      </div>
+  </header>
+  
+
+  <div class="container">
+
+    
+    <div class="details">
+
+      <div class="inner-wrapper">
+        <h3 style="color: #008080;">รายวิชานี้ได้ปรับเป็นการเรียนรู้ด้วยตนเองตามอัธยาศัย (self-paced learning)</h3>
+
+<h1 style="text-align: center;"><img src="https://sandbox.thaimooc.org/asset-v1:ku-mooc+ku001+2018_t1+type@asset+block@mathb.jpg" alt="" width="790" height="200" /></h1>
+<h2 style="text-align: center;"><strong>จำนวนชั่วโมงเรียนทั้งหมด :&nbsp;45 ชั่วโมงเรียนรู้ (15 ชั่วโมง 45 นาทีสื่อวีดิทัศน์)</strong></h2>
+<h2><img src="https://sandbox.thaimooc.org/asset-v1:ku-mooc+ku001+2018_t1+type@asset+block@icon-math-1.jpg" alt="" width="500" height="60" /></h2>
+	<p style="padding-left: 30px;">เวกเตอร์ในปริภูมิสามมิติ พื้นผิวกำลังสองในสามมิติ อนุพันธ์ย่อย ปริพันธ์หลายชั้น และแคลคูลัสของฟังก์ชันเวกเตอร์</p>
+	<p><strong><img src="https://sandbox.thaimooc.org/asset-v1:ku-mooc+ku001+2018_t1+type@asset+block@icon-math-2.jpg" alt="" width="500" height="60" /></strong></p>
+	<p style="padding-left: 30px;">lo1 : อธิบายความรู้เรื่องเวกเตอร์ในปริภูมิสามมิติ พื้นผิวกำลังสองในสามมิติ อนุพันธ์ย่อย ปริพันธ์หลายชั้น แคลคูลัสของฟังก์ชันเวกเตอร์ ได้<br />lo2 : วิเคราะห์และแก้โจทย์ปัญหาเรื่องเวกเตอร์ในปริภูมิสามมิติ พื้นผิวกำลังสองในสามมิติ อนุพันธ์ย่อย ปริพันธ์หลายชั้น แคลคูลัสของฟังก์ชันเวกเตอร์ ได้<br />lo3 : นำความรู้เรื่องเวกเตอร์ในปริภูมิสามมิติ พื้นผิวกำลังสองในสามมิติ อนุพันธ์ย่อย ปริพันธ์หลายชั้น แคลคูลัสของฟังก์ชันเวกเตอร์ ไปประยุกต์ใช้กับโจทย์ปัญหาในสาขาอื่น ได้</p>
+<h2><img src="https://sandbox.thaimooc.org/asset-v1:ku-mooc+ku001+2018_t1+type@asset+block@icon-math-3.jpg" alt="" width="500" height="60" /></h2>
+<p style="padding-left: 30px;">คณิตศาสตร์วิศวกรรม i</p>
+<h2><strong><img src="htts://sandbox.thaimooc.org/asset-v1:ku-mooc+ku003+2018_t1+type@asset+block@icon-chemy-04.jpg" alt="" /></strong><img src="https://sandbox.thaimooc.org/asset-v1:ku-mooc+ku001+2018_t1+type@asset+block@icon-math-4.jpg" alt="" width="500" height="60" /></h2>
+<table style="width: 847px;">
+<tbody>
+<tr>
+<td style="width: 164px;"><img src="/assets/courseware/v1/6e7fb966da6e8f85b89be0de3f31e338/asset-v1:ku+ku001+2018+type@asset+block/instructor1_ku001.png" alt="" width="150" height="150" /></td>
+<td style="width: 685px;">
+<h3><strong>รองศาสตราจารย์ นงนุช สุขวารี</strong></h3>
+<p>ภาควิชาคณิตศาสตร์ คณะวิทยาศาสตร์ &nbsp;มหาวิทยาลัยเกษตรศาสตร์<br /><strong>e-mail :&nbsp;</strong>fscinos@ku.ac.th , sukvaree.nn@gmail.com</p>
+</td>
+</tr>
+<tr>
+<td style="width: 164px;"><img src="/assets/courseware/v1/0eafcd37dae4f23e6c600dc5835e66a9/asset-v1:ku+ku001+2018+type@asset+block/instructor2_ku001.png" alt="" width="150" height="150" /></td>
+<td style="width: 685px;">
+<h3><strong>ผู้ช่วยศาสราจารย์ พัชรี หิรัญมาศสุวรรณ</strong></h3>
+<p>ภาควิชาคณิตศาสตร์ คณะวิทยาศาสตร์ &nbsp;มหาวิทยาลัยเกษตรศาสตร์<br /><strong>e-mail :&nbsp;</strong>fscipal@ku.ac.th</p>
+</td>
+</tr>
+<tr>
+<td style="width: 164px;"><img src="/assets/courseware/v1/4bd83c2be01e7817a2fc49acf8729205/asset-v1:ku+ku001+2018+type@asset+block/instructor3_ku001.png" alt="" width="150" height="150" /></td>
+<td style="width: 685px;">
+<h3><strong>ผู้ช่วยศาสราจารย์&nbsp;</strong><strong>พิมพ์ชนา ศิริจารุอนันต์</strong></h3>
+<p>ภาควิชาคณิตศาสตร์ คณะวิทยาศาสตร์&nbsp;มหาวิทยาลัยเกษตรศาสตร์<br /><strong>e-mail :&nbsp;</strong>fscispns@ku.ac.th</p>
+<h3>&nbsp;</h3>
+</td>
+</tr>
+<tr>
+<td style="width: 164px;"><img src="/assets/courseware/v1/9c20975f679e8ccd7635f7275f98e706/asset-v1:ku+ku001+2018+type@asset+block/instructor4_ku001.png" alt="" width="150" height="150" /></td>
+<td style="width: 685px;">
+<h3><strong>ผู้ช่วยศาสราจารย์&nbsp;</strong><strong>กันย์ สุ่นยี่ขัน</strong></h3>
+<p>ภาควิชาคณิตศาสตร์ คณะวิทยาศาสตร์&nbsp;มหาวิทยาลัยเกษตรศาสตร์<br /><strong>e-mail :&nbsp;</strong>fscigsy@ku.ac.th</p>
+</td>
+</tr>
+<tr>
+<td style="width: 164px;">&nbsp;<img src="/assets/courseware/v1/ebcc4079e1e579418d5248c3a5e1c348/asset-v1:ku+ku001+2018+type@asset+block/instructor5_ku001.png" alt="" width="150" height="150" /></td>
+<td style="width: 685px;">
+<h3><strong>อาจารย์ สุรีรัตน์ อารีรักษ์สกุล ก้องโลก</strong></h3>
+<p>สาขาวิชาศึกษาศาสตร์ &nbsp;มหาวิทยาลัยสุโขทัยธรรมาธิราช<br /><strong>e-mail :&nbsp;</strong>sakonglok@hotmail.com</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2><strong><img src="https://sandbox.thaimooc.org/asset-v1:ku-mooc+ku001+2018_t1+type@asset+block@icon-math-11.jpg" alt="" width="500" height="60" /></strong></h2>
+<p style="padding-left: 30px;">&bull; ก่อนเรียนแต่ละบทผู้เรียนต้องทำแบบทดสอบก่อนเรียน เพื่อให้ทราบพื้นฐานของตนเองและได้ทราบเนื้อหาที่จะเรียน<br />&bull; ผู้เรียนควรเข้าศึกษาเนื้อหาบทเรียนจากระบบ mooc ให้ครบทุกเนื้อหา เพื่อให้เกิดประโยชน์สูงสุดกับตนเอง<br />&bull; ผู้เรียนควรแบ่งเวลาสำหรับการศึกษาค้นคว้าด้วยตนเอง และทบทวนเนื้อหาอย่างน้อยบทละ 2 &ndash; 3 ชั่วโมง<br />&bull; ผู้เรียนควรเข้าเรียนรู้บทเรียนจากระบบ mooc ร่วมกับช่องทางอื่น โดยมีการนำความรู้ในแต่ละเรื่องไปฝึกฝนแก้โจทย์ปัญหาในรูปแบบต่าง ๆ<strong><br /></strong></p>
+<h3><strong><img src="https://sandbox.thaimooc.org/asset-v1:ku-mooc+ku001+2018_t1+type@asset+block@icon-math-5.jpg" alt="" width="500" height="60" /></strong></h3>
+<p style="padding-left: 30px;">ปริญญาตรี /&nbsp;เป็นส่วนหนึ่งในหลักสูตร วิศวกรรมศาสตรบัณฑิต/คณิตศาสตร์วิศวกรรม ii รหัสวิชา 01417168</p>
+<h2><img src="https://sandbox.thaimooc.org/asset-v1:ku-mooc+ku001+2018_t1+type@asset+block@icon-math-6.jpg" alt="" width="500" height="60" /></h2>
+<p style="padding-left: 30px;">เรียนด้วยตนเอง</p>
+<h2><strong><img src="https://sandbox.thaimooc.org/asset-v1:ku-mooc+ku001+2018_t1+type@asset+block@icon-math-7.jpg" alt="" width="500" height="60" /></strong></h2>
+<p style="padding-left: 30px;">กลาง</p>
+<h2><strong><img src="https://sandbox.thaimooc.org/asset-v1:ku-mooc+ku001+2018_t1+type@asset+block@icon-math-8.jpg" alt="" width="500" height="60" /></strong></h2>
+<p style="padding-left: 30px;">1. นักเรียนระดับมัธยมปลาย<br />2. นักศึกษาระดับปริญญาตรี<br />3. ประชาชนทั่วไป</p>
+<h2><strong><img src="https://sandbox.thaimooc.org/asset-v1:ku-mooc+ku001+2018_t1+type@asset+block@icon-math-9.jpg" alt="" width="567" height="60" /></strong></h2>
+<p style="padding-left: 30px;"><strong>1. หนังสือ<br /></strong><strong>&nbsp; &nbsp; </strong>คณิตศาสตร์วิศวกรรม ii ของภาควิชาคณิตศาสตร์ มหาวิทยาลัยเกษตรศาสตร์</p>
+<p style="padding-left: 30px;"><strong>2. ข้อมูลเว็บไซต์ <a href="https://course.ku.ac.th/">https://course.ku.ac.th/</a></strong></p>
+<h2><strong><img src="https://sandbox.thaimooc.org/asset-v1:ku-mooc+ku001+2018_t1+type@asset+block@icon-math-10.jpg" alt="" width="500" height="60" /></strong></h2>
+<p style="padding-left: 30px;">"รายวิชานี้มีการออกประกาศนียบัตรผ่านระบบ" เมื่อผู้เรียนได้รับผลการเรียนว่าผ่าน ต้องได้คะแนนรวมไม่น้อยกว่า 50% โดยมีรายละเอียดการเก็บคะแนน ดังต่อไปนี้</p>
+<p style="padding-left: 30px;">&bull; คะแนนแบบฝึกหัดท้ายบทเรียน 5 บท จำนวน 5 ชุด คิดเป็น 30%&nbsp;</p>
+<p style="padding-left: 30px;">&bull; คะแนนแบบทดสอบหลังเรียนทุกบท จำนวน 5 ชุด คิดเป็น 40%</p>
+<p style="padding-left: 30px;">&bull; คะแนนแบบทดสอบรวมหลังเรียน จำนวน 20 ข้อ คิดเป็น 30%&nbsp;</p>
+<p style="padding-left: 60px;">&nbsp;</p>
+<p><img style="margin: 0 0 px 0;" src="https://sandbox.thaimooc.org/asset-v1:ku-mooc+ku001+2018_t1+type@asset+block@cc_icon.png" alt="cc" /></p>
+<h3>creative common สัญญาอนุญาตสิทธิ์</h3>
+<p><span style="color: #3366cc;">&ldquo;สื่อการสอนนี้เป็นส่วนหนึ่งของโครงการ thai mooc (thaimooc.org) และเผยแพร่ภายใต้สัญญาอนุญาตสิทธิ์แบบ creative commons ด้วยเงื่อนไข cc by nc sa&rdquo;</span></p>
+      </div>
+    </div>
+    
+
+    <div class="course-sidebar">
+      <div class="course-summary">
+
+        
+
+
+<header>
+  <div class="social-sharing">
+    <div class="sharing-message">แบ่งปันให้เพื่อนและครอบครัว</div>
+      
+      <a href="http://twitter.com/intent/tweet?text=ฉันเพิ่งลงทะเบียนสำหรับ+ku001+คณิตศาสตร์วิศวกรรม+ii+|+engineering+mathematics+ii++ผ่าน+@thai-mooc:+https://lms.thaimooc.org%2fcourses%2fcourse-v1%3aku%2bku001%2b2018%2fabout" class="share">
+        <span class="icon fa fa-twitter" aria-hidden="true"></span><span class="sr">ทวีตว่าคุณได้ทำการลงทะเบียนหลักสูตรนี้แล้ว</span>
+      </a>
+      <a href="http://www.facebook.com/thaimooc" class="share">
+        <span class="icon fa fa-thumbs-up" aria-hidden="true"></span><span class="sr">โพสต์ข้อความบนเฟซบุคเพื่อบอกว่าคุณลงทะเบียนหลักสูตรนี้แล้ว</span>
+      </a>
+      <a href="mailto:?subject=เรียนหลักสูตรด้วย%20%20thai%20mooc:lms%20ออนไลน์&body=ฉันเพิ่งลงทะเบียนสำหรับ%20ku001%20คณิตศาสตร์วิศวกรรม%20ii%20|%20engineering%20mathematics%20ii%20ผ่าน%20thai%20mooc:lms%20https://lms.thaimooc.org%2fcourses%2fcourse-v1%3aku%2bku001%2b2018%2fabout" class="share">
+        <span class="icon fa fa-envelope" aria-hidden="true"></span><span class="sr">ส่งอีเมล์ไปบอกใครสักคนว่าคุณได้ลงทะเบียนเรียบร้อยแล้ว</span>
+      </a>
+  </div>
+</header>
+
+
+        
+        <ol class="important-dates">
+          <li class="important-dates-item"><span class="icon fa fa-info-circle" aria-hidden="true"></span><p class="important-dates-item-title">รหัสรายวิชา</p><span class="important-dates-item-text course-number">ku001</span></li>
+              
+            <li class="important-dates-item">
+              <span class="icon fa fa-calendar" aria-hidden="true"></span>
+              <p class="important-dates-item-title">วันเปิดเรียน</p>
+                  
+                  <span class="important-dates-item-text start-date localized_datetime" data-format="shortdate" data-datetime="2020-04-15t00:00:00+0000" data-language="th"></span>
+            </li>
+
+            <li class="important-dates-item"><span class="icon fa fa-pencil" aria-hidden="true"></span><p class="important-dates-item-title">จำนวนชั่วโมงที่นำแนะต่อสัปดาห์</p><span class="important-dates-item-text effort">5 hours/week</span></li>
+
+
+
+
+        </ol>
+        
+    </div>
+
+      
+       
+
+
+
+
+
+
+
+
+    
+    
+    <script type="text/javascript" src="/static/bundles/coursetalkreviews.28bdc366155bcf9d6684.b1cdac9bc773.js" ></script>
+      <script type="text/javascript">
+        
+    new coursetalkreviews({
+        togglebutton: '.toggle-read-write-reviews',
+        loadicon: '.coursetalk-read-reviews .fa.fa-spinner',
+        readsrc: "//d3q6qq2zt8nhwv.cloudfront.net/s/js/widgets/coursetalk\u002dread\u002dreviews.js",
+        writesrc: "//d3q6qq2zt8nhwv.cloudfront.net/s/js/widgets/coursetalk\u002dwrite\u002dreviews.js"
+    });
+
+      </script>
+
+
+      
+
+
+  </div>
+
+  </div>
+</div>
+
+  <div style="display: none;">
+    <form id="class_enroll_form" method="post" data-remote="true" action="/change_enrollment">
+      <fieldset class="enroll_fieldset">
+        <legend class="sr">enroll</legend>
+        <input name="course_id" type="hidden" value="course-v1:ku+ku001+2018">
+        <input name="enrollment_action" type="hidden" value="enroll">
+      </fieldset>
+      <div class="submit">
+        <input name="submit" type="submit" value="enroll">
+      </div>
+    </form>
+  </div>
+
+
+
+
+<div id="video-modal" class="modal video-modal">
+  <div class="inner-wrapper">
+    <iframe title="youtube video" width="560" height="315" src="//www.youtube.com/embed/y4j6lr3vkqy?rel=0" frameborder="0" allowfullscreen=""></iframe>
+  </div>
+</div>
+
+
+
+  
+  <script type="text/javascript">
+    (function (require) {
+        require(['/static/js/dateutil_factory.841c29e02056.js?raw'], function () {
+          require(['js/dateutil_factory'], function (dateutilfactory) {
+            
+    dateutilfactory.transform(iterationkey=".localized_datetime");
+
+          });
+        });
+    }).call(this, require || requirejs.require);
+  </script>
+
+
+      
+    </div>
+
+        
+
+
+
+
+  <div class="wrapper wrapper-footer">
+    <footer id="footer-openedx" class="grid-container"
+    >
+      <div class="colophon">
+        <nav class="nav-colophon" aria-label="เกี่ยวกับ">
+          <ol>
+              <li class="nav-colophon-01">
+                <!--  <a id="about" href="/about">เกี่ยวกับ</a>  -->
+              </li>
+              <li class="nav-colophon-02">
+                <!--  <a id="blog" href="/blog">บล็อก </a>  -->
+              </li>
+              <li class="nav-colophon-03">
+                <!--  <a id="contact" href="/support/contact_us">ติดต่อ</a>  -->
+              </li>
+              <li class="nav-colophon-04">
+                <!--  <a id="donate" href="/donate">บริจาค</a>  -->
+              </li>
+          </ol>
+        </nav>
+
+
+        <div class="wrapper-logo">
+          <p>
+            <a href="/">
+              <img alt="organization logo" src="https://lms.thaimooc.org/static/images/logo.4ff3a16ed00a.png">
+            </a>
+          </p>
+        </div>
+
+        <p class="copyright">© thai mooc:lms.  all rights reserved except where noted.  edx, open edx and their respective logos are registered trademarks of edx inc. </p>
+
+        <nav class="nav-legal" aria-label="ถูกกฏหมาย">
+          <ul>
+              <li class="nav-legal-01">
+                <a href="/privacy">นโยบายความเป็นส่วนตัว</a>
+              </li>
+              <li class="nav-legal-02">
+                <a href="/tos">เงื่อนไขการให้บริการ</a>
+              </li>
+              <li class="nav-legal-03">
+                <a href="/honor">เกียรติคุณ</a>
+              </li>
+            <li><a href="https://www.edx.org/?utm_medium=affiliate_partner&amp;utm_source=opensource-partner&amp;utm_content=open-edx-partner-footer-link&amp;utm_campaign=open-edx-footer">take free online courses at edx.org</a></li>
+          </ul>
+        </nav>
+      </div>
+
+      <div class="footer-about-openedx">
+        <p>
+          <a href="http://open.edx.org">
+            <img src="https://files.edx.org/openedx-logos/edx-openedx-logo-tag.png" alt="โดย open edx" width="140" />
+          </a>
+        </p>
+      </div>
+    </footer>
+  </div>
+
+
+  </div>
+
+  
+  
+  <script type="text/javascript">
+  (function() {
+    $(".register").click(function(event) {
+      $("#class_enroll_form").submit();
+      event.preventdefault();
+    });
+
+
+
+    $('#class_enroll_form').on('ajax:complete', function(event, xhr) {
+      if(xhr.status == 200) {
+        if (xhr.responsetext == "") {
+          location.href = "/dashboard";
+        }
+        else {
+          location.href = xhr.responsetext;
+        }
+      } else if (xhr.status == 403) {
+          //location.href = "/register?course_id=course-v1:ku+ku001+2018&enrollment_action=enroll";
+          // punsarn
+          var login_url = "/auth/login/common-oauth2-backend/";
+          location.href = login_url + "?next=" + encodeuricomponent(location.href);
+      } else {
+        $('#register_error').text(
+            (xhr.responsetext ? xhr.responsetext : "เกิดข้อผิดพลาด กรุณาลองใหม่อีกครั้ง")
+        ).css("display", "block");
+      }
+    });
+
+
+  })(this)
+  </script>
+
+  <script src="/static/js/course_info.bf6c8c179dab.js"></script>
+
+
+  
+
+
+
+  <script type="text/javascript" src="/static/js/vendor/noreferrer.aa62a3e70ffa.js" charset="utf-8"></script>
+  <script type="text/javascript" src="/static/js/utils/navigation.08930e16ab3d.js" charset="utf-8"></script>
+  <script type="text/javascript" src="/static/js/header/header.309a1243e175.js"></script>
+  
+</body>
+</html>
+
+

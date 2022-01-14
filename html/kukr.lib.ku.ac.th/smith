@@ -1,0 +1,1629 @@
+﻿
+﻿<!doctype html>
+<html lang="th" prefix="og: http://ogp.me/ns#">
+    <head>
+        <meta charset="utf-8">
+        <title>kasetsart university knowledge repository : คลังความรู้ดิจิทัล มหาวิทยาลัยเกษตรศาสตร์</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <meta name="description" content="คลังความรู้ดิจิทัล มหาวิทยาลัยเกษตรศาสตร์ ให้บริการผลงานสร้างสรรค์ของบุคลากรมหาวิทยาลัยเกษตรศาสตร์ ซึ่งมีการสั่งสมองค์ความรู้อย่างต่อเนื่องมาเป็นเวลาอันยาวนาน เพื่อให้สามารถเข้าถึงข้อมูลได้ทุกที่ ทุกเวลาและไม่เสียค่าใช้จ่าย" />
+        <meta name="author" content="สำนักหอสมุด มหาวิทยาลัยเกษตรศาสตร์ กรุงเทพฯ" />  
+        <meta name="title" content="kasetsart university knowledge repository : คลังความรู้ดิจิทัล มหาวิทยาลัยเกษตรศาสตร์" />
+        <meta name="url" content="https://kukr2.lib.ku.ac.th/kukr_es/index.php/kukr" />
+        <meta name="image" content="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/android-icon-192x192.png?v=1ir9c2pax1" />
+        <meta property="og:image" content="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/android-icon-192x192.png?v=8sxtocawax" />
+        <meta property="og:url" content="https://kukr2.lib.ku.ac.th/kukr_es/index.php/kukr" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="kasetsart university knowledge repository : คลังความรู้ดิจิทัล มหาวิทยาลัยเกษตรศาสตร์" />
+        <meta property="og:description" content="คลังความรู้ดิจิทัล มหาวิทยาลัยเกษตรศาสตร์ ให้บริการผลงานสร้างสรรค์ของบุคลากรมหาวิทยาลัยเกษตรศาสตร์ ซึ่งมีการสั่งสมองค์ความรู้อย่างต่อเนื่องมาเป็นเวลาอันยาวนาน เพื่อให้สามารถเข้าถึงข้อมูลได้ทุกที่ ทุกเวลาและไม่เสียค่าใช้จ่าย" />
+        <meta property="fb:app_id" content="452666578829759" />
+
+    <meta name="google-site-verification" content="bdukfkaoqlmctnpsw9nkjpyt5nogzkxz5kiv9o-h0oe" />
+        <!--for cover fb-->
+        <img alt="image" style="display: none;" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/android-icon-192x192.png?v=nlkomtopok" />
+
+    <!-- favicon web and app -->
+    <link rel="shortcut icon" type="image/x-icon" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/favicon.ico?v=bpc3yo5ood">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-57x57.png?v=qx5n0u0a0b">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-60x60.png?v=ioxtcjm19b">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-72x72.png?v=lk0yozntnc">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-76x76.png?v=xojdcj7cu8">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-114x114.png?v=ndwu6jetko">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-120x120.png?v=e69e5xesr1">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-144x144.png?v=4oqn12x9es">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-152x152.png?v=hc5nxcwmfh">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/apple-icon-180x180.png?v=ajnkythcl8">
+    <link rel="shortcut icon" type="image/png" sizes="192x192"
+          href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/android-icon-192x192.png?v=epxudzxlim">
+    <link rel="shortcut icon" type="image/png" sizes="32x32" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/favicon-32x32.png?v=dzojnwwkjb">
+    <link rel="shortcut icon" type="image/png" sizes="96x96" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/favicon-96x96.png?v=buvzeusv7n">
+    <link rel="shortcut icon" type="image/png" sizes="16x16" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/favicon-16x16.png?v=emdbhrloct">
+    <link rel="manifest" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/manifest.json">
+    <meta name="msapplication-tilecolor" content="#ffffff" />
+    <meta name="msapplication-tileimage" content="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/favicon/ms-icon-144x144.png?v=aqtzkgvgaf" />
+    <meta name="theme-color" content="#006666" />
+
+    <!-- css -->
+    <link rel="stylesheet" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/css/jquery.fancybox.min.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/css/animate.css">
+
+    <!-- google font -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=kanit&display=swap" rel="stylesheet"> 
+
+    <!-- css overwrite -->
+    <link href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/css/style.css" rel="stylesheet">
+    <!-- <link href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/css/color1.css" rel="stylesheet"> -->
+
+    <!-- change color theme -->
+            <link href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/css/color1.css" rel="stylesheet">
+    
+
+    <!-- script -->
+    <script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/js/fontawesome-all.min.js"></script>
+    <script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/js/chart.min.js"></script>
+    <script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/js/style1.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <link href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/css/font-awesome.css" rel="stylesheet">
+
+
+    <!--/* fancybox */-->
+
+    <!--    <link rel="stylesheet" href="-->
+    <!--new_assets/js/fancybox/source/jquery.fancybox.css"/>-->
+    <!--    <script src="--><!--new_assets/js/fancybox/source/jquery.fancybox.pack.js"></script>-->
+    <!--    <script src="-->
+    <!--new_assets/js/fancybox/source/helpers/jquery.fancybox-thumbs.js"></script>-->
+    <!--    <script src="-->
+    <!--new_assets/js/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>-->
+
+    <!--angularjs-->
+    <script src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/angular_js/angular.min.js"></script>
+
+    <style type="text/css">
+                    .toolbar > .toolbar-list > .toolbar-item {
+                margin-left: 0px;
+            }
+            </style>
+
+    <!-- global site tag (gtag.js) - google analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=ua-205845-27"></script>
+    <script>
+        window.datalayer = window.datalayer || [];
+        function gtag(){datalayer.push(arguments);}
+        gtag('js', new date());
+
+        gtag('config', 'ua-205845-27');
+    </script>
+
+    <!-- global site tag (gtag.js) - google analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=g-b7zmsbqxln"></script>
+    <script>
+        window.datalayer = window.datalayer || [];
+        function gtag(){datalayer.push(arguments);}
+        gtag('js', new date());
+
+        gtag('config', 'g-b7zmsbqxln');
+    </script>
+
+    <!-- google tag manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new date().gettime(),event:'gtm.js'});var f=d.getelementsbytagname(s)[0],
+    j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbefore(j,f);
+    })(window,document,'script','datalayer','gtm-mcxgsfh');</script>
+    <!-- end google tag manager -->
+
+</head>
+<body class="animated fadein">
+
+    <style type="text/css">
+        .ku_all_login_alert{
+            top: 0;
+            position: absolute;
+            width: 100%;
+            text-align: center;
+        }
+
+        .ku_login_fail{
+
+            background-color: #ff9ea3;
+            z-index: 100;
+            color: #b32d2d;
+        }
+
+        .ku_login_success{
+            background-color: #9ae8ac;
+            z-index: 100;
+            color: #277351;
+        }
+    </style>
+   <!--  <div class="ku_all_login_alert ku_login_fail">
+         การเข้าสู่ระบบสำหรับสำหรับนิสิตและบุคลากร มก. ผิดพลาด
+    </div>
+    <div class="ku_all_login_alert ku_login_success">
+         การเข้าสู่ระบบสำหรับสำหรับนิสิตและบุคลากร มก. สำเร็จ
+    </div> -->
+    <!-- google tag manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=gtm-mcxgsfh"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- end google tag manager (noscript) -->
+    <!-- head content -->
+    <div id="mysidenav" class="sidenav" style="z-index: 99;">
+        <div class="nav-logo">
+            <a class="navbar-brand" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb//index"><img alt="image" src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/logo/logo.png" height="36"></a>
+            <div class="nav-logo2"><a rel="noopener" href="javascript:void(0)" onclick="closenav()"><i
+                        class="far fa-times-circle fa-2x"></i></a></div>
+        </div>
+                            <a rel="noopener" href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/index">หน้าหลัก</a>
+                                        <a class="dropdown-toggle" href="#" onclick="navfunction('nav-levelmain_3')">
+                        ค้นหา                    </a>
+
+                    <div id="nav-levelmain_3" class="nav-dropdown">
+                                                                                    <a target="0"
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/search">
+                                       ค้นหาอย่างง่าย                                </a>
+                                                                                                                <a target="0"
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/search/advance_search">
+                                       ค้นหาขั้นสูง                                </a>
+                                                                        </div>
+                                    <a rel="noopener" href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/researcher">ผู้แต่ง</a>
+                                        <a class="dropdown-toggle" href="#" onclick="navfunction('nav-levelmain_101')">
+                        ผลงาน                    </a>
+
+                    <div id="nav-levelmain_101" class="nav-dropdown">
+                                                                                    <a target=""
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/internal_menu/index/5">
+                                       หนังสืออิเล็กทรอนิกส์..                                </a>
+                                                                                                                <a target=""
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/internal_menu/index/74">
+                                       วารสารอิเล็กทรอนิกส์..                                </a>
+                                                                                                                <a target=""
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/internal_menu/index/81">
+                                       การประชุมทางวิชาการ..                                </a>
+                                                                                                                <a target=""
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/internal_menu/index/82">
+                                       อื่น ๆ                                </a>
+                                                                        </div>
+                                    <a class="dropdown-toggle" href="#" onclick="navfunction('nav-levelmain_9')">
+                        สถิติ                    </a>
+
+                    <div id="nav-levelmain_9" class="nav-dropdown">
+                                                                                    <a target="0"
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/analysis/all">
+                                       จำนวนผลงาน                                </a>
+                                                                                                                <a target="0"
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/analysis/top10">
+                                       สถิติสูงสุด 10 อันดับแรก                                </a>
+                                                                                                                <a target="0"
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/analysis/system_statistics">
+                                       สถิติการใช้งานระบบ                                </a>
+                                                                        </div>
+                                    <a class="dropdown-toggle" href="#" onclick="navfunction('nav-levelmain_102')">
+                        คณะและหน่วยงาน                    </a>
+
+                    <div id="nav-levelmain_102" class="nav-dropdown">
+                                                                                    <a target="1"
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/193">
+                                       บางเขน                                </a>
+                                                                                                                <a target="1"
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/194">
+                                       วิทยาเขตกําแพงแสน                                </a>
+                                                                                                                <a target="1"
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/195">
+                                       วิทยาเขตศรีราชา                                </a>
+                                                                                                                <a target="1"
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/196">
+                                       วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร                                </a>
+                                                                        </div>
+                                    <a class="dropdown-toggle" href="#" onclick="navfunction('nav-levelmain_103')">
+                        เกี่ยวกับเรา                    </a>
+
+                    <div id="nav-levelmain_103" class="nav-dropdown">
+                                                                                    <a target=""
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/8">
+                                       รายละเอียด                                </a>
+                                                                                                                <a target=""
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/201">
+                                       คณะกรรมการ                                </a>
+                                                                                                                <a target=""
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/197">
+                                       นโยบายความเป็นส่วนตัว..                                </a>
+                                                                                                                <a target=""
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/198">
+                                       เงื่อนไขการใช้งานเว็บไซต์..                                </a>
+                                                                                                                <a target=""
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/200">
+                                       ข้อตกลงและเงื่อนไขการดำเนินงาน..                                </a>
+                                                                                                                <a target=""
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/199">
+                                       จริยธรรมการจัดเก็บและใช้งานข้อมูล..                                </a>
+                                                                                                                <a target=""
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/202">
+                                       นโยบายการบริหารจัดการและการสงวนรักษาสารสนเทศ..                                </a>
+                                                                                                                <a target=""
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/203">
+                                       ผลงานที่ลบหรือยกเลิกการเผยแพร่..                                </a>
+                                                                                                                <a target=""
+                                   href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/11">
+                                       ที่ติดต่อ                                </a>
+                                                                        </div>
+                                    <a class="dropdown-toggle" href="#" onclick="navfunction('nav-levelmain_914')">
+                        ฐานข้อมูลอื่นๆ                    </a>
+
+                    <div id="nav-levelmain_914" class="nav-dropdown">
+                                                                                    <a target="1"
+                                   href="http://kukr2.lib.ku.ac.th/kukr_es/rama9">
+                                       คลังความรู้รัชกาลที่ ๙ กับมก.                                </a>
+                                                                                                                <a target="1"
+                                   href="http://kukr2.lib.ku.ac.th/kukr_es/sirindhorn">
+                                       คลังความรู้ฯ แว่นแก้วศรีนนทรี                                </a>
+                                                                                                                <a target="1"
+                                   href="http://kukr2.lib.ku.ac.th/kukr_es/rapee">
+                                       ฐานข้อมูลผลงาน ศ. ระพี สาคริก                                </a>
+                                                                                                                <a target="1"
+                                   href="http://kukr2.lib.ku.ac.th/kukr_es/prasert">
+                                       ฐานข้อมูลผลงาน ศ. ดร.ประเสริฐ ณ นคร                                </a>
+                                                                                                                <a target="1"
+                                   href="http://kukr2.lib.ku.ac.th/kukr_es/drought">
+                                       ฐานความรู้ สู้ภัยแล้ง                                </a>
+                                                                                                                <a target="1"
+                                   href="https://kukr.lib.ku.ac.th/db/archives">
+                                       ฐานข้อมูลจดหมายเหตุ มก.                                </a>
+                                                                                                                <a target="1"
+                                   href="http://kukr2.lib.ku.ac.th/kukr_es/covid19">
+                                       คลังความรู้เกษตรศาสตร์ สู้ covid-19                                </a>
+                                                                        </div>
+                        <!--<a class="nav-link" href="https://forms.gle/o5gjjje7nin9gsdua" title="แบบประเมินความพึงพอใจ">แบบประเมิน</a>-->
+        <div class="dropdown-divider"></div>
+        <a rel="noopener" href="https://forms.gle/o5gjjje7nin9gsdua" class="icon-style" target="_blank" title="แบบประเมินความพึงพอใจ">แบบประเมิน</a>
+      
+        <a rel="noopener" href="https://ebook.lib.ku.ac.th/kukr-input/" class="icon-style" target="_blank" title="บันทึกผลงานสร้างสรรค์">บันทึกผลงาน</a>
+            
+        <a rel="noopener" href="https://www.facebook.com/kurepository" class="icon-style" title="facebook"
+                               target="_blank">facebook</i>
+        </a>
+        <a rel="noopener" class="icon-style" href="https://kukr2.lib.ku.ac.th/kukr_es/doc/kukr2-manual.pdf" target="_blank">
+           วิธีใช้        </a>
+                    <a rel="noopener" href="#" class="nav-link" onclick="fancyboxopen(1)">เข้าสู่ระบบ</a>
+
+                
+                    <a class="nav-link" title="ไทย" href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/language/th"><img alt="image" class="flag-align"
+                                                                                      src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/th.png"><span
+                                                                                      class="flag-align2"> ภาษาไทย</span></a>
+            <a class="nav-link" title="english" href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/language/en"><img alt="image" class="flag-align"
+                                                                                          src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/en.png"><span
+                                                                                          class="flag-align2"> ภาษาอังกฤษ</span></a>
+            
+        <div class="dropdown-divider"></div>
+
+    </div>
+    <style>
+        .nav-link_custom {
+            color: #272b2f !important;
+        }
+        .nav-link_custom:hover {
+            color: #fff !important;
+        }
+
+        .dropdown-menu_custom {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            z-index: 1000;
+            display: none;
+            float: left;
+            min-width: 10rem;
+            padding: .5rem 0;
+            margin: .125rem 0 0;
+            font-size: 1rem;
+            color: #212529;
+            text-align: left;
+            list-style: none;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid rgba(0,0,0,.15);
+            border-radius: .25rem;
+        }
+
+        a .nav-link_custom:hover .dropdown-menu_custom {
+            display: block;
+        }
+
+        .mainmenu li:hover .submenu {
+            display: block;
+            max-height: 400px;
+        }
+
+        .submenu {
+            list-style: none;
+            width: 100%;
+            padding: 5px 5px 5px 5px;
+            margin: 0;
+        }
+
+        .submenu {
+            overflow: hidden;
+            max-height: 0;
+            -webkit-transition: all 0.5s ease-out;
+        }
+
+        
+    </style>
+    <div class="container">
+        <div class="hide_iframe row d-block d-sm-block d-md-block d-lg-none d-xl-none">
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <a class="navbar-brand" href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/index "><img alt="image" src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/logo/logo.png" height="60"></a>
+                <span style="cursor:pointer;" onclick="opennav()" class="animated rollin"><i class="fas fa-bars fa-2x"></i></span>
+            </nav>
+        </div>
+
+        <div class="hide_iframe row">
+            <div class="col-4 d-none d-sm-none d-md-none d-lg-block d-xl-block">
+                <!--<a href="https://kukr2.lib.ku.ac.th/kukr_es/kukr"><img src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/logo/logo.png" height="60"></a>-->
+                <a rel="noopener" href="http://kukr2.lib.ku.ac.th/kukr_es/kukr"><img alt="image" src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/logo/logo.png" height="60"></a>
+            </div>
+            <div class="col-8 menu-right d-none d-sm-none d-md-none d-lg-block d-xl-block">
+                <div class="navbar r-li-menu justify-content-end">
+                    <ul class="toolbar-list">
+                    <li class="nav-item toolbar-item r-li-menu">
+                            <button type="button" class="btn btn-info" onclick="window.open('https://forms.gle/o5gjjje7nin9gsdua','_blank')" title="แบบประเมินความพึงพอใจ">
+                    แบบประเมิน  </button>
+                        </li>
+            <li class="nav-item toolbar-item r-li-menu">
+                            <button type="button" class="btn btn-warning" onclick="window.open('https://ebook.lib.ku.ac.th/kukr-input/','_blank')" title="บันทึกผลงานสร้างสรรค์">
+                    บันทึกผลงาน  </button>
+                        </li>
+<style>
+.facb:hover {color: #3b5998;}
+</style>
+            <li class="nav-item toolbar-item r-li-menu">
+                            <a rel="noopener" href="https://www.facebook.com/kurepository" class="icon-style facb" title="facebook"
+                               target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
+                        </li>
+            <li class="nav-item toolbar-item r-li-menu">
+                            <a rel="noopener" href="https://kukr2.lib.ku.ac.th/kukr_es/doc/kukr2-manual.pdf" class="icon-style" title="คู่มือการใช้งานระบบ"
+                               target="_blank"><i class="fas fa-book fa-2x"></i></a>
+                        </li>
+                                                        <li class="nav-item toolbar-item r-li-menu">
+                                    <a rel="noopener" href="#" class="icon-style" onclick="fancyboxopen()"><i
+                                            class="far fa-user-circle fa-2x" title="เข้าสู่ระบบ"></i></a>
+                                </li>
+                                
+                        
+<!--
+                    <li class="nav-item toolbar-item r-li-menu">
+                            <a rel="noopener" href="https://kukr.lib.ku.ac.th/db/doc/" class="icon-style" target="_blank"><i class="fas fa-users-cog fa-2x" title="สำหรับเจ้าหน้าที่"></i></a>
+                        </li>
+-->
+                        <li class="nav-item dropdown toolbar-item r-li-menu">
+
+                                                            <a class="dropdown-toggle ck-link" href="#" id="langdropdownmenulink" data-toggle="dropdown"
+                                   aria-haspopup="true" aria-expanded="false" title="เปลี่ยนภาษา">
+                                    <img alt="image" class="flag-align" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/th.png">
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="langdropdownmenulink">
+                                    <a rel="noopener" href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/language/th" title="ไทย"
+                                       class="dropdown-item r-li-menu3"><img alt="image" class="flag-align"
+                                                                          src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/th.png"><span
+                                                                          class="flag-align2">&emsp; ภาษาไทย</span></a>
+                                    <a rel="noopener" href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/language/en" title="english"
+                                       class="dropdown-item r-li-menu3"><img alt="image" class="flag-align"
+                                                                          src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/img/en.png"><span
+                                                                          class="flag-align2">&emsp; ภาษาอังกฤษ</span></a>
+                                </div>
+
+                                                    </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class=" row">
+            <div class="col-12">
+                <div class="hide_iframe navbar toolbar d-none d-sm-none d-md-none d-lg-block d-xl-block">
+                    <ul class="toolbar-list">
+                                                            <li class="nav-item dropdown toolbar-item toolbar-item-browse animated fadeinleft">
+                                        <a class="toolbar-button toolbar-button-browse"
+                                           target=""
+                                           href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/index">
+                                               หน้าหลัก                                        </a>
+                                    </li>
+                                                                        <li class="nav-item dropdown toolbar-item">
+                                        <a class="nav-link dropdown-toggle toolbar-button" href="#"
+                                           id="navbardropdown3"
+                                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                               ค้นหา                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbardropdown3">
+                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/search">
+                                                           ค้นหาอย่างง่าย                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/search/advance_search">
+                                                           ค้นหาขั้นสูง                                                    </a>
+                                                                                                                                    </div>
+                                    </li>
+
+                                                                    <li class="nav-item dropdown toolbar-item ">
+                                        <a class="toolbar-button "
+                                           target=""
+                                           href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/researcher">
+                                               ผู้แต่ง                                        </a>
+                                    </li>
+                                                                        <li class="nav-item dropdown toolbar-item">
+                                        <a class="nav-link dropdown-toggle toolbar-button" href="#"
+                                           id="navbardropdown101"
+                                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                               ผลงาน                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbardropdown101">
+                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/internal_menu/index/5">
+                                                           หนังสืออิเล็กทรอนิกส์..                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/internal_menu/index/74">
+                                                           วารสารอิเล็กทรอนิกส์..                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/internal_menu/index/81">
+                                                           การประชุมทางวิชาการ..                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/internal_menu/index/82">
+                                                           อื่น ๆ                                                    </a>
+                                                                                                                                    </div>
+                                    </li>
+
+                                                                    <li class="nav-item dropdown toolbar-item">
+                                        <a class="nav-link dropdown-toggle toolbar-button" href="#"
+                                           id="navbardropdown9"
+                                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                               สถิติ                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbardropdown9">
+                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/analysis/all">
+                                                           จำนวนผลงาน                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/analysis/top10">
+                                                           สถิติสูงสุด 10 อันดับแรก                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/analysis/system_statistics">
+                                                           สถิติการใช้งานระบบ                                                    </a>
+                                                                                                                                    </div>
+                                    </li>
+
+                                                                    <li class="nav-item dropdown toolbar-item">
+                                        <a class="nav-link dropdown-toggle toolbar-button" href="#"
+                                           id="navbardropdown102"
+                                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                               คณะและหน่วยงาน                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbardropdown102">
+                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/193">
+                                                           บางเขน                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/194">
+                                                           วิทยาเขตกําแพงแสน                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/195">
+                                                           วิทยาเขตศรีราชา                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/196">
+                                                           วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร                                                    </a>
+                                                                                                                                    </div>
+                                    </li>
+
+                                                                    <li class="nav-item dropdown toolbar-item">
+                                        <a class="nav-link dropdown-toggle toolbar-button" href="#"
+                                           id="navbardropdown103"
+                                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                               เกี่ยวกับเรา                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbardropdown103">
+                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/8">
+                                                           รายละเอียด                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/201">
+                                                           คณะกรรมการ                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/197">
+                                                           นโยบายความเป็นส่วนตัว..                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/198">
+                                                           เงื่อนไขการใช้งานเว็บไซต์..                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/200">
+                                                           ข้อตกลงและเงื่อนไขการดำเนินงาน..                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/199">
+                                                           จริยธรรมการจัดเก็บและใช้งานข้อมูล..                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/202">
+                                                           นโยบายการบริหารจัดการและการสงวนรักษาสารสนเทศ..                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/203">
+                                                           ผลงานที่ลบหรือยกเลิกการเผยแพร่..                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target=""
+                                                       href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/multi_menu/index/11">
+                                                           ที่ติดต่อ                                                    </a>
+                                                                                                                                    </div>
+                                    </li>
+
+                                                                    <li class="nav-item dropdown toolbar-item">
+                                        <a class="nav-link dropdown-toggle toolbar-button" href="#"
+                                           id="navbardropdown914"
+                                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                               ฐานข้อมูลอื่นๆ                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbardropdown914">
+                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="http://kukr2.lib.ku.ac.th/kukr_es/rama9">
+                                                           คลังความรู้รัชกาลที่ ๙ กับมก.                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="http://kukr2.lib.ku.ac.th/kukr_es/sirindhorn">
+                                                           คลังความรู้ฯ แว่นแก้วศรีนนทรี                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="http://kukr2.lib.ku.ac.th/kukr_es/rapee">
+                                                           ฐานข้อมูลผลงาน ศ. ระพี สาคริก                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="http://kukr2.lib.ku.ac.th/kukr_es/prasert">
+                                                           ฐานข้อมูลผลงาน ศ. ดร.ประเสริฐ ณ นคร                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="http://kukr2.lib.ku.ac.th/kukr_es/drought">
+                                                           ฐานความรู้ สู้ภัยแล้ง                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="https://kukr.lib.ku.ac.th/db/archives">
+                                                           ฐานข้อมูลจดหมายเหตุ มก.                                                    </a>
+                                                                                                                                                                                                <a class="dropdown-item"
+                                                       target="1"
+                                                       href="http://kukr2.lib.ku.ac.th/kukr_es/covid19">
+                                                           คลังความรู้เกษตรศาสตร์ สู้ covid-19                                                    </a>
+                                                                                                                                    </div>
+                                    </li>
+
+                                                    </ul>
+                </div>
+
+                <!--edit text from admin-->
+                
+                <script type="text/javascript">
+                    function jsnmberformat(num) {
+                        return num.tostring().replace(/\b(?=(\d{3})+(?!\d))/g, ",");
+                    }
+                    function fancyboxopen(mobile = 0) {
+                        var width = mobile == 1 ? '320px' : '520px';
+
+                        $.fancybox.open({
+                            src: 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/member/login?iframe=true',
+                            type: 'iframe',
+                            iframe: {
+                                "preload": false,
+                                "css":
+                                        {
+                                            "width": width,
+                                            "height": "520px"
+                                        }
+                            },
+                            beforeclose: function () {
+                                var statuslogin = $(".fancybox-iframe").contents().find('#checkstatuslogin');
+                                if (typeof statuslogin[0] != 'undefined' && typeof statuslogin[0].value != 'undefined' && statuslogin[0].value == 1) {
+                                    parent.location.reload(true);
+                                }
+                            }
+
+                        });
+
+                    }
+                </script>
+
+
+
+<style type="text/css">
+    .loader {
+        margin: 0 auto;
+        border: 8px solid #9c3; /* thammsat yellow */
+        border-top: 8px solid #066; /* thammasat red */
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        animation: spin 1.5s infinite;
+    }
+
+    @keyframes spin {
+        0% {
+            transform: rotate(0deg);
+        }
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+
+    .hide{
+        display: none;
+    }
+</style>
+<div class="col-12">
+    
+        <div class="col-lg-12 col-md-12 col-sm-12 row-no-padding">
+            <div class="col-lg-12 row-no-padding mb20 ">
+                <div class="slides">
+                    <ul class="bjqs" style="text-align: center;">
+                                                    <li>
+                                <a rel="noopener" target="_blank" href="#">
+                                    <img alt="image" src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_1/kukr.png"/>
+                                </a>
+                            </li>
+                                                    <li>
+                                <a rel="noopener" target="_blank" href="https://kukr.lib.ku.ac.th/db/archives">
+                                    <img alt="image" src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_1/archives.png"/>
+                                </a>
+                            </li>
+                                                    <li>
+                                <a rel="noopener" target="_blank" href="http://kukr2.lib.ku.ac.th/kukr_es/rama9">
+                                    <img alt="image" src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_1/rama9.png"/>
+                                </a>
+                            </li>
+                                                    <li>
+                                <a rel="noopener" target="_blank" href="http://kukr2.lib.ku.ac.th/kukr_es/rapee">
+                                    <img alt="image" src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_1/rapee.png"/>
+                                </a>
+                            </li>
+                                                    <li>
+                                <a rel="noopener" target="_blank" href="http://kukr2.lib.ku.ac.th/kukr_es/prasert">
+                                    <img alt="image" src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_1/prasert.png"/>
+                                </a>
+                            </li>
+                                                    <li>
+                                <a rel="noopener" target="_blank" href="http://kukr2.lib.ku.ac.th/kukr_es/drought">
+                                    <img alt="image" src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_1/drought.png"/>
+                                </a>
+                            </li>
+                                                    <li>
+                                <a rel="noopener" target="_blank" href="http://kukr2.lib.ku.ac.th/kukr_es/covid19">
+                                    <img alt="image" src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_1/covid19-04.jpg"/>
+                                </a>
+                            </li>
+                                            </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="carouselexamplecontrols" class="carousel slide" data-ride="carousel" >
+        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                    <a rel="noopener" target="_blank" href="#">
+                        <img alt="image" class="d-block w-100"
+                         src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_1/kukr.png">
+                    </a>
+                </div>
+                            <div class="carousel-item ">
+                    <a rel="noopener" target="_blank" href="https://kukr.lib.ku.ac.th/db/archives">
+                        <img alt="image" class="d-block w-100"
+                         src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_1/archives.png">
+                    </a>
+                </div>
+                            <div class="carousel-item ">
+                    <a rel="noopener" target="_blank" href="http://kukr2.lib.ku.ac.th/kukr_es/rama9">
+                        <img alt="image" class="d-block w-100"
+                         src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_1/rama9.png">
+                    </a>
+                </div>
+                            <div class="carousel-item ">
+                    <a rel="noopener" target="_blank" href="http://kukr2.lib.ku.ac.th/kukr_es/rapee">
+                        <img alt="image" class="d-block w-100"
+                         src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_1/rapee.png">
+                    </a>
+                </div>
+                            <div class="carousel-item ">
+                    <a rel="noopener" target="_blank" href="http://kukr2.lib.ku.ac.th/kukr_es/prasert">
+                        <img alt="image" class="d-block w-100"
+                         src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_1/prasert.png">
+                    </a>
+                </div>
+                            <div class="carousel-item ">
+                    <a rel="noopener" target="_blank" href="http://kukr2.lib.ku.ac.th/kukr_es/drought">
+                        <img alt="image" class="d-block w-100"
+                         src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_1/drought.png">
+                    </a>
+                </div>
+                            <div class="carousel-item ">
+                    <a rel="noopener" target="_blank" href="http://kukr2.lib.ku.ac.th/kukr_es/covid19">
+                        <img alt="image" class="d-block w-100"
+                         src="https://kukr2.lib.ku.ac.th/kukr_es/file_upload/slide/site_1/covid19-04.jpg">
+                    </a>
+                </div>
+                    </div>
+        <a rel="noopener" class="carousel-control-prev" href="#carouselexamplecontrols" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">ก่อนหน้า</span>
+        </a>
+        <a rel="noopener" class="carousel-control-next" href="#carouselexamplecontrols" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">ถัดไป</span>
+        </a>
+    </div>
+
+<div class="search animated fadeinup" id="escontroller" ng-app="esapp" ng-controller="escontroller" ng-cloak>
+    <div>
+        <h2 class="search-count">ผลงานทั้งหมด <a rel="noopener"
+                href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?option=&stext=#top"> 81,468 </a> รายการ        </h2>
+    </div>
+    <form action="{{urles}}" method="get">
+        <div class="form-row">
+            <!-- <div class="form-group col-3 search-text d-none d-sm-none d-md-none d-lg-block d-xl-block"> -->
+            <div class="form-group col-xs-12 col-sm-12 col-md-12 col-lg-3 search-text  d-lg-block d-xl-block">
+                <select ng-model="query.option"
+                        name="option" class="custom-select search-control"
+                        ng-options="key as value for (key , value) in option_list track by key "
+                        >
+                    <option value="">ทั้งหมด</option>
+                </select>
+            </div>
+            <div class="form-group col-lg-9 col-sm-12 col-md-12 search-text">
+                <input type="text" class="form-control search-box form-control2"
+                       ng-model="query.main"
+                       name="stext"
+                       placeholder="กรุณาระบุคำค้น"
+                       required="required"
+                       autocomplete="off">
+                <button type="submit" class="search-submit" aria-label="search">
+                    <i class="fa fa-search search-submit-icon"></i>
+                </button>
+            </div>
+        </div>
+    </form>
+
+    <div class="col-12 text-right" style="padding-right: 0px;">
+        <a rel="noopener" class="search-option-title" href="https://kukr2.lib.ku.ac.th/kukr_es/kukr/search/advance_search"
+           id="advancedsearch">ค้นหาขั้นสูง</a>
+    </div>
+
+
+</div>
+
+<!-- main content -->
+    <br/>
+<div class="container">
+    <!-- chart -->
+    <div class="main-content2">
+        <div class="row">
+            <!-- left chart -->
+            <div class="col-lg-4 col-md-12 animated fadeinup">
+                <!--all block can on/off form admin-->
+                                    <table class="table table-bordered hide-table">
+                        <thead>
+                            <tr>
+                                <th class="ftable ftd table-active" scope="col"
+                                    colspan="2">ประเภทเนื้อหา </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                                                                                                                                                                            <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=00#top/40/00'">
+                                                <th class="ftable" scope="row">ไม่ระบุ </th>
+                                                <td class="ftable ftd" count="6,222"><span
+                                                        class="badge badge-pill badge-secondary">6,222</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=01#top/40/01'">
+                                                <th class="ftable" scope="row">บทความรู้ทั่วไป </th>
+                                                <td class="ftable ftd" count="13,072"><span
+                                                        class="badge badge-pill badge-secondary">13,072</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=02#top/40/02'">
+                                                <th class="ftable" scope="row">ผลงานวิจัย </th>
+                                                <td class="ftable ftd" count="59,369"><span
+                                                        class="badge badge-pill badge-secondary">59,369</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=03#top/40/03'">
+                                                <th class="ftable" scope="row">ตำรา / เอกสารประกอบการสอน </th>
+                                                <td class="ftable ftd" count="1,719"><span
+                                                        class="badge badge-pill badge-secondary">1,719</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=04#top/40/04'">
+                                                <th class="ftable" scope="row">สารานุกรม / พจนานุกรม </th>
+                                                <td class="ftable ftd" count="226"><span
+                                                        class="badge badge-pill badge-secondary">226</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=05#top/40/05'">
+                                                <th class="ftable" scope="row">เอกสารส่งเสริม / คู่มือ </th>
+                                                <td class="ftable ftd" count="526"><span
+                                                        class="badge badge-pill badge-secondary">526</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                            
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=07#top/40/07'">
+                                                <th class="ftable" scope="row">การจัดการความรู้ </th>
+                                                <td class="ftable ftd" count="134"><span
+                                                        class="badge badge-pill badge-secondary">134</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                </tbody>
+                    </table>
+
+                                            <div id="module_40" style="display: none;">
+                            <table class="table table-bordered hide-table">
+                                <tbody>
+                                                                                                                                                                            <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=00#top/40/00'">
+                                                    <th class="ftable" scope="row">ไม่ระบุ </th>
+                                                    <td class="ftable ftd" count="6,222">
+                                                        <span class="badge badge-pill badge-secondary">6,222</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=01#top/40/01'">
+                                                    <th class="ftable" scope="row">บทความรู้ทั่วไป </th>
+                                                    <td class="ftable ftd" count="13,072">
+                                                        <span class="badge badge-pill badge-secondary">13,072</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=02#top/40/02'">
+                                                    <th class="ftable" scope="row">ผลงานวิจัย </th>
+                                                    <td class="ftable ftd" count="59,369">
+                                                        <span class="badge badge-pill badge-secondary">59,369</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=03#top/40/03'">
+                                                    <th class="ftable" scope="row">ตำรา / เอกสารประกอบการสอน </th>
+                                                    <td class="ftable ftd" count="1,719">
+                                                        <span class="badge badge-pill badge-secondary">1,719</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=04#top/40/04'">
+                                                    <th class="ftable" scope="row">สารานุกรม / พจนานุกรม </th>
+                                                    <td class="ftable ftd" count="226">
+                                                        <span class="badge badge-pill badge-secondary">226</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                    <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=05#top/40/05'">
+                                                    <th class="ftable" scope="row">เอกสารส่งเสริม / คู่มือ </th>
+                                                    <td class="ftable ftd" count="526">
+                                                        <span class="badge badge-pill badge-secondary">526</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                                                                                                                                                <tr class="ftr hide"
+                                                    onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_content_type&filter_value=07#top/40/07'">
+                                                    <th class="ftable" scope="row">การจัดการความรู้ </th>
+                                                    <td class="ftable ftd" count="134">
+                                                        <span class="badge badge-pill badge-secondary">134</span>
+                                                    </td>
+                                                </tr>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </tbody>
+                            </table>
+                        </div>
+                        <table class="table table-bordered">
+                            <tbody>
+                                <tr>
+                                    <td class="ftable ftd table-active  hide" colspan="2" >
+                                        <div id="module_402" align="center"
+                                             onclick="myfunction('module_40')">
+                                            <i class="fas fa-angle-down icon-lg animated flipinx"></i>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                                                            <table class="table table-bordered ">
+                        <thead>
+                            <tr>
+                                <th class="ftable ftd table-active" scope="col"
+                                    colspan="2">ประเภทเอกสาร</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                                                                                                                                                                            <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_type_id&filter_value=1#top/39/1'">
+                                                <th class="ftable" scope="row">หนังสือ/เอกสาร </th>
+                                                <td class="ftable ftd" count="15,836"><span
+                                                        class="badge badge-pill badge-secondary">15,836</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_type_id&filter_value=2#top/39/2'">
+                                                <th class="ftable" scope="row">บทความในหนังสือ </th>
+                                                <td class="ftable ftd" count="34,206"><span
+                                                        class="badge badge-pill badge-secondary">34,206</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                                                                        <tr class="ftr"
+                                                onclick="window.location.href = 'https://kukr2.lib.ku.ac.th/kukr_es/kukr/essearch/?type_page=filter&filter_index=biblio_type_id&filter_value=3#top/39/3'">
+                                                <th class="ftable" scope="row">บทความในวารสาร </th>
+                                                <td class="ftable ftd" count="31,426"><span
+                                                        class="badge badge-pill badge-secondary">31,426</span>
+                                                </td>
+                                            </tr>
+                                        
+                                                                                                                                                                                            
+                                                                                                                                                                                            
+                                                                                                                            </tbody>
+                    </table>
+
+                                                    </div>
+
+
+            <!-- right chart -->
+            <div class="col-lg-8 col-md-12 animated fadeinup">
+                <!--all block can on/off form admin-->
+                                    <div class="main-content3 bib-tab-bottom">
+                        <p class="p-head">ตัวอย่างผลงาน <span class="span1"></span></p>
+                        <table class="table">
+                            <tbody>
+
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/kukr/search_detail/result/411107', '_blank')">
+                                        <th class="ftable2" scope="row">1</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_41_411107"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="411107" mdl_id="41" class="pre-img" id="img_41_411107" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">กัญชาพืชทางเลือกใหม่ ผลกระทบทางเศรษฐกิจและความคุ้มค่าในการลงทุน <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">รวิสสาข์ สุชาโต, ณัฐพล พจนาประเสริฐ, อัจฉรา ปทุมนากุล</p>
+                                                <p class="span3">สถาบันคลังสมองของชาติ;สำนักงานการวิจัยแห่งชาติ. กรุงเทพฯ. 2564. 148 หน้า</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/kukr/search_detail/result/20013243', '_blank')">
+                                        <th class="ftable2" scope="row">2</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_41_20013243"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="20013243" mdl_id="41" class="pre-img" id="img_41_20013243" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">ผู้ประกอบการล้งผลไม้: ความเป็นมา และผลกระทบต่อห่วงโซ่อุปทานผลไม้ <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">กัมปนาท เพ็ญสุภา</p>
+                                                <p class="span3">กรุงเทพฯ. 2564. 101 หน้า</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/kukr/search_detail/result/411071', '_blank')">
+                                        <th class="ftable2" scope="row">3</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_41_411071"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="411071" mdl_id="41" class="pre-img" id="img_41_411071" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">ระบบนิเวศพื้นที่พรุ: เศรษฐศาสตร์ว่าด้วยการประเมินมูลค่าเพื่อการอนุรักษ์ <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">เพ็ญพร เจนการกิจ</p>
+                                                <p class="span3">กรุงเทพฯ. 2564. 105 หน้า</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/kukr/search_detail/result/20013434', '_blank')">
+                                        <th class="ftable2" scope="row">4</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_41_20013434"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="20013434" mdl_id="41" class="pre-img" id="img_41_20013434" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">เรื่องเล่าพระไตรปิฎก <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">พระครูปลัดสุวัฒนโพธิคุณ, สุชาดา ศรีเศรษฐวรกุล, สุเชาวน์ พลอยชุม...</p>
+                                                <p class="span3">มหาวิทยาลัยเกษตรศาสตร์ คณะมนุษยศาสตร์. กรุงเทพฯ. 2564. 238 หน้า</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/kukr/search_detail/result/408928', '_blank')">
+                                        <th class="ftable2" scope="row">5</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_41_408928"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="408928" mdl_id="41" class="pre-img" id="img_41_408928" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">ศรทอง <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3"></p>
+                                                <p class="span3">มหาวิทยาลัยเกษตรศาสตร์ คณะมนุษยศาสตร์;มูลนิธิหลวงประดิษฐไพเราะ (ศร ศิลปบรรเลง). กรุงเทพฯ. 2563. 64 หน้า</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                            </tbody>
+                        </table>
+                    </div>
+                                        <div class="main-content3 bib-tab-bottom">
+                        <p class="p-head">ผลงานล่าสุด <span class="span1"></span></p>
+                        <table class="table">
+                            <tbody>
+
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/kukr/search_detail/result/20014078', '_blank')">
+                                        <th class="ftable2" scope="row">1</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_16_20014078"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="20014078" mdl_id="16" class="pre-img" id="img_16_20014078" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">การเปลี่ยนแปลงและการปรับตัวในการใช้ทรัพยากรชายฝั่งของชุมชนประมงตำบลบางแก้ว อำเภอเมือง จังหวัดสมุทรสงคราม: มุมมองจากประวัติศาสตร์ท้องถิ่น: รายงานผลการวิจัยฉบับสมบูรณ์ ภายใต้ชุดโครงการวิจัยเรื่องความเปลี่ยนแปลงและการปรับตัวของชาวประมงขนาดเล็กในยุคการปฎิรูปการประมงของประเทศไทย: กรณีศึกษาชุมชนชายฝั่ง จ.สมุทรสงคราม ทุนอุดหนุนวิจัยคณะสังคมศาสตร์ มก. ปีงบประมาณ 2561 <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">ศุภกาญจน์ พงศ์ยี่หล้า</p>
+                                                <p class="span3">มหาวิทยาลัยเกษตรศาสตร์ คณะสังคมศาสตร์. กรุงเทพฯ. 2565. 60 หน้า</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/kukr/search_detail/result/20014073', '_blank')">
+                                        <th class="ftable2" scope="row">2</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_16_20014073"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="20014073" mdl_id="16" class="pre-img" id="img_16_20014073" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">เศรษฐกิจอุตสาหกรรมประมงและการเพาะเลี้ยงสัตว์น้ำเพื่อความยั่งยืน <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">กุลภา กุลดิลก</p>
+                                                <p class="span3">กรุงเทพฯ. 2564. 146 หน้า</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/kukr/search_detail/result/20014043', '_blank')">
+                                        <th class="ftable2" scope="row">3</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_16_20014043"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="20014043" mdl_id="16" class="pre-img" id="img_16_20014043" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">the effectiveness (or lack thereof) of the individual mandate <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">jirakit taechachokevivat, pantira tangjitthaweechai, thana sompornserm</p>
+                                                <p class="span3">journal of economics and management strategy. vol. 8 no. 2 (jul-dec 2021) pages 201-221</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/kukr/search_detail/result/20014042', '_blank')">
+                                        <th class="ftable2" scope="row">4</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_16_20014042"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="20014042" mdl_id="16" class="pre-img" id="img_16_20014042" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">ปัจจัยที่มีอิทธิพลต่อความตั้งใจซื้อผลิตภัณฑ์อาหารทะเลที่ติดฉลากสิ่งแวดล้อมในกรุงเทพมหานคร <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">วรางคณา สุยะนันทน์, กุลภา กุลดิลก, วิศิษฐ์ ลิ้มสมบุญชัย</p>
+                                                <p class="span3">วารสารเศรษฐศาสตร์และกลยุทธ์การจัดการ. ปีที่ 8 ฉบับที่ 2 (ก.ค.-ธ.ค. 2564) หน้า 180-200</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                                    <tr class="ftr"
+                                        onclick="window.open('https://kukr2.lib.ku.ac.th/kukr_es/kukr/search_detail/result/20014038', '_blank')">
+                                        <th class="ftable2" scope="row">5</th>
+                                        <td class="ftable3">
+                                            <div class="loader" id="loader_16_20014038"
+                                                 style="width: 20px;height: 20px;margin-top: 10px;"></div>
+                                            <img alt="image" bibid="20014038" mdl_id="16" class="pre-img" id="img_16_20014038" src="" style="display: none;"/>
+                                        </td>
+                                        <td class="ftable2">
+                                            <div>
+                                                <p class="span2">ห่วงโซ่มูลค่าโลกและการลงทุนโดยตรงระหว่างประเทศ <span
+                                                        class="badge badge-pill badge-secondary"></span>
+                                                </p>
+                                                <p class="span3">ปิยะพรรณ ช่างวัฒนชัย</p>
+                                                <p class="span3">วารสารเศรษฐศาสตร์และกลยุทธ์การจัดการ. ปีที่ 8 ฉบับที่ 2 (ก.ค.-ธ.ค. 2564) หน้า 109-121</p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                                            </tbody>
+                        </table>
+                    </div>
+                                    <div class="row">
+                                    </div>
+
+            </div>
+
+
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+
+    jquery(document).ready(function($) {
+        $.ajaxqueue = [];
+        var que = $.ajaxqueue;
+
+        $.ajaxsetup({
+            beforesend: function(){
+                if (this.queue) {
+                    que.push(this);
+                }
+                else {
+                    return true;
+                }
+                if (que.length > 1) {
+                    return false;
+                }
+            },
+            complete: function(){
+                que.shift();
+                var newreq = que[0];
+                if (newreq) {
+                    // setup object creation should be automated 
+                    // and include all properties in queued ajax request
+                    // this version is just a demonstration. 
+                    var setup = {
+                        url: newreq.url,
+                        success: newreq.success
+                    };
+                    $.ajax(setup);
+                }
+            }
+        });
+
+        function genimgcover(mdl_id, bibid) {
+            var img_id = '#img_' + mdl_id + '_' + bibid;
+            var loading_id = '#loader_' + mdl_id + '_' + bibid;
+            // $.post('https://kukr2.lib.ku.ac.th/kukr_es/kukr' + '/tools/gencover/' + bibid, function (res) {
+            //     $(loading_id).hide();
+            //     $(img_id).attr('src', res);
+            //     $(img_id).show();
+            // });
+            $.ajax({
+                queue: true,
+                url: 'https://kukr2.lib.ku.ac.th/kukr_es/kukr' + '/tools/gencover/' + bibid,
+                success: function(res) {
+                    $(loading_id).hide();
+                    $(img_id).attr('src', res);
+                    $(img_id).show();
+                }
+            });
+        }
+
+
+   
+        $('.pre-img').each(function (key, value) {
+            var bibid = $(value).attr('bibid');
+            var mdl_id = $(value).attr('mdl_id');
+
+            genimgcover(mdl_id, bibid);
+        });
+    });
+
+</script>
+<script type="text/javascript">
+
+
+    var esapp = angular.module('esapp', []);
+    esapp.value('phpdata', {"baseurl":"https:\/\/kukr2.lib.ku.ac.th\/kukr_es\/kukr\/search\/","baseurlresult":"https:\/\/kukr2.lib.ku.ac.th\/kukr_es\/kukr\/essearch\/","option_list":{"title":"\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07","author":"\u0e0a\u0e37\u0e48\u0e2d\u0e1c\u0e39\u0e49\u0e41\u0e15\u0e48\u0e07","affiliation":"\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e39\u0e48\u0e1c\u0e39\u0e49\u0e41\u0e15\u0e48\u0e07","corp_author_text":"\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e07\u0e32\u0e19","keyword_text":"\u0e04\u0e33\u0e2a\u0e33\u0e04\u0e31\u0e0d","isbn_issn_text":"isbn\/issn","serial_title":"\u0e0a\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e23\u0e2a\u0e32\u0e23"}});
+
+
+    esapp.directive('ngenter', function () {
+        return function (scope, element, attrs) {
+            element.bind("keydown keypress", function (event) {
+                if (event.which === 13) {
+                    scope.$apply(function () {
+                        scope.$eval(attrs.ngenter, {'event': event});
+                    });
+                    event.preventdefault();
+                }
+            });
+        };
+    });
+
+    esapp.controller('escontroller', function ($scope, $http, $filter, phpdata, $timeout) {
+
+        var api_url = phpdata.baseurl;
+        $scope.urles = phpdata.baseurlresult;
+
+        $scope.option_list = phpdata.option_list;
+
+        $scope.loading_data = false;
+
+
+        $scope.query = {
+            'main': '',
+            'option': '',
+        }
+
+
+        var fnc_search = function () {
+            if (typeof $scope.cur_page === 'undefined') {
+                return;
+            }
+
+            $scope.all_bibid_explode = '';
+
+            if ($scope.query.main == '') {
+                alert('กรุณาระบุคำค้น');
+                return;
+            }
+
+            $scope.loading_data = true;
+            $scope.favorite_view = false;
+            $scope.is_favorited = false;
+            location.hash = '#top';
+
+            $scope.resutl_text = $scope.query.main;
+
+
+            $http.post(api_url + 'find/' + $scope.cur_page,
+                    'data=' + encodeuricomponent(angular.tojson($scope.query)),
+                    {headers: {'content-type': 'application/x-www-form-urlencoded;charset=utf-8;'}}
+            ).then(function (res) {
+                $scope.data = res.data;
+                $scope.list_data = $scope.data.result;
+                $scope.all_row = $scope.data.metadata.total;
+                $scope.all_page = $scope.data.metadata.all_page;
+
+                $scope.all_bibid_explode = $scope.data.all_bibid_explode;
+
+
+                $scope.loading_data = false;
+            });
+
+        }
+
+
+        $scope.searchmain = function () {
+            $scope.cur_page = 1;
+
+            fnc_resetfilter();
+            fnc_search();
+            fnc_getfilter();
+
+        }
+
+
+        var fnc_init = function () {
+
+        }
+
+
+        fnc_init();
+
+    });
+
+
+</script>
+
+
+<!-- footer content -->
+<!-- 2020 feedback -->
+<style>
+        .sticky-btns-inner{
+            transform: rotate(90deg);
+            position: relative;
+            right: -42%;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .sticky-button{
+            padding: 12px 30px 10px 30px;
+            font-weight: 500;
+            font-size: 16px;
+            letter-spacing: 1px;
+            color: #ffffff;
+            text-align: center;
+            margin: 0;
+            border-top-right-radius: 0;
+            border-top-left-radius: 0;
+            border-bottom-right-radius: 40px;
+            border-bottom-left-radius: 40px;
+            line-height: inherit;
+            text-decoration: none;
+        }
+        .sticky-buttons{
+            right: 0;
+            transform: rotate(0);
+            bottom: auto;
+            left: auto;
+            width: auto;
+            position: fixed;
+        }
+        .sticky-color-1 {
+            background-color: rgb(15, 76, 129);
+        }
+        .sticky-color-1:hover {
+            background-color: #658dc6;
+            color: #333;
+        }
+        .sticky-color-2 {
+            background-color: #006666;
+        }
+        .sticky-color-2:hover {
+            background-color: #739a42;
+            color: #333;
+        }
+        </style>
+        <div class="sticky-buttons" style="top: 40%;">
+            <div class="sticky-btns-inner">
+                <a class="nav-link sticky-button sticky-color-2" data-fancybox data-options='{"src" : "https://ebook.lib.ku.ac.th/feedback/kukr/", "type" : "iframe", "transitioneffect" : "circular"}' href="javascript:;" style="cursor: pointer; vertical-align: middle;">
+                    ข้อเสนอแนะ                </a>
+            </div>
+        </div>
+
+<!-- 2020 feedback -->
+
+
+<div class="hide_iframe animated fadein">
+    <div class="container">
+        <div class="row footer">
+            <div class="col-lg-8 col-md-12 footer-copy">
+                <p><img src="https://ebook.lib.ku.ac.th/img/copyright.gif" alt="" height="18" />2015 office of the university library, kasetsart university | <a class="text-white" href="https://kukr.lib.ku.ac.th/db_kukr/doc/" target="_blank">สำหรับเจ้าหน้าที่</a></p>            </div>
+            <div class="col-lg-4 col-md-12 footer-right">
+                                    <p><a href="https://creativecommons.org/licenses/by-nc-nd/3.0/th/" target="_blank" rel="license"> <img style="border-width: 0;" src="https://ebook.lib.ku.ac.th/img/88x31.png" alt="creative commons license" /> </a></p>
+<p class="ccc-box">โครงการพัฒนาคลังความรู้ดิจิทัล มหาวิทยาลัยเกษตรศาสตร์<br />is licensed under a creative commons attribution-noncommercial-noderivatives 3.0 thailand license.</p>                            </div>
+        </div>
+    </div>
+</div>
+
+<!-- go to top -->
+<button onclick="topfunction();" id="mybtn" title="go to top"><i class="fas fa-arrow-up fa-2x"></i></button>
+
+<!-- 2020 cookie notice -->
+        <style>
+            .cm-cookie-geo {
+                display: block;
+                position: fixed;
+                bottom: 0;
+		left: 0;
+                z-index: 98;
+            }
+            .cm-cookie-geo2 {
+                margin-bottom: 0rem;
+                padding: .25rem 1.25rem;
+                display:none;
+            }
+            .cm-cookie-geo3 {
+                color:#333333;
+                font-size: 0.9em; 
+                margin-right:15px;
+            }
+        </style>
+        <script>
+            function getcookie(cname) {
+                var name = cname + "=";
+                var decodedcookie = decodeuricomponent(document.cookie);
+                var ca = decodedcookie.split(';');
+                for(var i = 0; i <ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charat(0) == ' ') {
+                    c = c.substring(1);
+                    }
+                    if (c.indexof(name) == 0) {
+                    return c.substring(name.length, c.length);
+                    }
+                }
+                return "";
+            }
+
+            function cmcookie(){
+                var date = new date();
+                date.settime(date.gettime()+(7*24*60*60*1000));
+                document.cookie = "cm-kukr2-cookie-geo=yes; samesite=strict; secure; path=/; expires="+date.togmtstring();
+                document.getelementbyid('cm-cookie').classlist.add('fadeoutdown');
+            }
+        </script>
+        <div class="cm-cookie-geo cm-cookie-geo2 container-fluid alert alert-primary align-middle animated fadeinup" role="alert" id="cm-cookie">
+            <div class="row">
+		<div class="col-12 text-center" style="">
+			<span class="cm-cookie-geo3">เราใช้ cookies ในการให้บริการและปรับปรุงบริการของเรา ตลอดจนเพิ่มประสิทธิภาพให้แก่ประสบการณ์การใช้งานเว็บไซต์ หากคุณใช้งานเว็ปไซต์ของเราต่อ ถือว่าคุณยินยอมให้มีการใช้งาน cookies</span>
+			<button type="button" class="btn btn-primary btn-sm" onclick="cmcookie()">ยอมรับ</button>   
+             	</div>                
+	    </div>
+	</div>
+        <script>
+            cmgeo = getcookie('cm-kukr2-cookie-geo');
+            if((window.location.hostname== 'kukr2.lib.ku.ac.th') && cmgeo == ''){
+                document.getelementbyid("cm-cookie").style.display = "block"; 
+            };
+        </script>
+<!-- 2020 cookie notice -->
+
+
+<!--/* jquery ui */-->
+<link rel="stylesheet"
+      href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/jquery-ui-1.10.3/theme/smoothness/jquery-ui.css"/>
+<script src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/jquery-ui-1.10.3/jquery-ui.min.js"></script>
+
+<!--/* basic jquery slider */-->
+<link rel="stylesheet" href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/basic-jquery-slider/bjqs.css"/>
+<script src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/basic-jquery-slider/js/bjqs-1.3.js"></script>
+
+<!--angularjs-->
+<!--<script src="--><!--new_assets/js/angular_js/angular.min.js"></script>-->
+<script src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/angular_js/angular-animate.js"></script>
+<script src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/angular_js/angular-sanitize.js"></script>
+<script src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/new_assets/js/angular_js/angular-ui-router.js"></script>
+
+
+<!--highcharts-->
+<script language="javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/lib/js/jquery.cookie.js"></script>
+<script language="javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/lib/js/highcharts3/highcharts.js"></script>
+<script language="javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/lib/js/highcharts3/highcharts-more.js"></script>
+<script language="javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/lib/js/highcharts3/chartfunction.js"></script>
+<script language="javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/lib/js/highcharts3/exporting.js"></script>
+
+<!--jquery ui-->
+<link rel="stylesheet" href="https://kukr2.lib.ku.ac.th/kukr_es/lib/css/jquery-ui.css" media="all">
+
+<script language="javascript" type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/lib/js/jquery-ui.js"></script>
+<!-- script load -->
+<script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb//js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb//js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb//js/jquery.fancybox.js"></script>
+
+<!-- custom script -->
+<script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb//js/style2.js"></script>
+
+<!-- select2 -->
+<link href="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/css/select2.min.css" rel="stylesheet" />
+<script type="text/javascript" src="https://kukr2.lib.ku.ac.th/kukr_es/application/views/newagkb/js/select2.min.js"></script>
+
+
+<script>
+    $(document).ready(function () {
+        $(".fancybox").fancybox();
+    });
+</script>
+
+<!-- full chart -> -->
+<div id="full-wrap">
+    <div id="fullchart" name="fullchart"></div>
+</div>
+<!-- full chart-->
+<!--end tagline -->
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $('.expand').click(function () {
+            $('#fullchart').html('');
+            element = $('#' + $(this).attr('rel'));
+            $.fancybox.open(
+                $('#full-wrap').html(),
+                {
+                    'transitionin': 'fade',
+                    'transitionout': 'elastic',
+                    'showclosebutton': true,
+                    'scrolling': 'no',
+                    aftershow: function () {
+                        $('#full-wrap').html('');
+                        renderbox = 'fullchart';
+                        exporting = true;
+                        show_data_label = true;
+                        eval("cat = new array('" + element.attr('cat') + "');");
+                        eval(element.attr('chart-type') + "('" + element.attr('title') + "', cat,'" + element.attr('data') + "', '');");
+                    },
+                    afterclose: function () {
+                        $('#full-wrap').html('<div id="fullchart"></div>');
+                    }
+                }
+            );
+        });
+    });
+</script>
+
+</body>
+</html>
+
+<!--
+log time
+file : /application/controllers/front/index.php
+controller : index ,
+function : index
+
+<div class="row-fluid well" style="font-size: 12px;">
+การ query
+
+
+        ภาพ slide -    00 นาที 00 วินาที  0.01883600 ms 
+              
+        โมดูลด้านซ้าย :: ประเภทเนื้อหา  -    00 นาที 01 วินาที  0.63433900 ms 
+              
+        โมดูลด้านซ้าย :: ประเภทเอกสาร -    00 นาที 01 วินาที  0.63794600 ms 
+              
+        ตัวอย่างผลงาน -    00 นาที 01 วินาที  0.63212800 ms 
+              
+        ผลงานล่าสุด -    00 นาที 02 วินาที  0.68541000 ms 
+              
+        กราฟ -    00 นาที 00 วินาที  0.68774400 ms 
+              
+        <u>รวมเวลาทั้งหมด</u> -    00 นาที 05 วินาที  0.68775600 ms 
+              
+</div>
+
+<div class="row-fluid well" style="font-size: 12px;">
+การ แสดงผลหน้าเว็บ
+file : application/views/newagkb/index_view.php
+
+
+        โมดูลด้านซ้าย :: ประเภทเนื้อหา  -    00 นาที 00 วินาที  0.01413300 ms 
+              
+        โมดูลด้านซ้าย :: ประเภทเอกสาร -    00 นาที 00 วินาที  0.01415800 ms 
+              
+        ตัวอย่างผลงาน -    00 นาที 00 วินาที  0.01417500 ms 
+              
+        ผลงานล่าสุด -    00 นาที 00 วินาที  0.01418700 ms 
+              
+        <u>รวมเวลาทั้งหมด</u> -    00 นาที 00 วินาที  0.01420200 ms 
+              
+</div>
+query และ แสดงผล 0.0342 วินาที
+
+ -->

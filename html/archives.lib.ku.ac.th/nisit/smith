@@ -1,0 +1,835 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- the above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>ฐานข้อมูลเกียรติภูมิมหาวิทยาลัยเกษตรศาสตร์</title>
+    <link rel="shortcut icon" href="" >
+    <link rel="shortcut icon" type="image/jpg" href="" />
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+     <!--     google fonts-->
+    <link href='https://fonts.googleapis.com/css?family=open+sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!--fontawesom-->
+    <link rel="stylesheet" href="https://archives.lib.ku.ac.th/nisit/asset/css/font-awesome.min.css"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.6.3/css/all.css' integrity='sha384-uhrtzli+pbxthcwp1t77bi1l4ztiqrqd80kn4z8ntsryma2fd33n5dq8lwue00s/' crossorigin='anonymous'>
+
+    <!--animated css-->
+    <link rel="stylesheet" type="text/css" href="https://archives.lib.ku.ac.th/nisit/asset/css/animate.min.css">
+
+    <!-- bootstrap -->
+    <link href="https://archives.lib.ku.ac.th/nisit/asset/css/bootstrap.min.css" rel="stylesheet">
+    <!--bootstrap carousel-->
+    <link type="text/css" rel="stylesheet" href="https://archives.lib.ku.ac.th/nisit/asset/css/carousel.css" />
+
+
+    <!--main stylesheet-->
+    <link href="https://archives.lib.ku.ac.th/nisit/asset/css/style.css" rel="stylesheet">
+    <!--responsive framework-->
+    <link href="https://archives.lib.ku.ac.th/nisit/asset/css/responsive.css" rel="stylesheet">
+
+    <!-- html5 shim and respond.js for ie8 support of html5 elements and media queries -->
+    <!-- warning: respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt ie 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=roboto">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=montserrat">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+
+    <script src="https://archives.lib.ku.ac.th/nisit/backend/libs/jquery/jquery.min.js"></script>
+
+    <!-- <script src="https://code.jquery.com/jquery-3.5.1.js"></script> -->
+    <script src="https://cdn.datatables.net/1.10.21/js/jquery.datatables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.21/js/datatables.bootstrap.min.js"></script>
+    <script src="https://cdn.datatables.net/fixedheader/3.1.7/js/datatables.fixedheader.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.4/js/datatables.responsive.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.4/js/responsive.bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">    
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.21/css/datatables.bootstrap.min.css">    
+    <link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.1.7/css/fixedheader.bootstrap.min.css">    
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.4/css/responsive.bootstrap.min.css">  
+
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-jjsmvgyd0p3pxb1rribzuayoiiy6orq6vrjieaff/njgzixfdsf4x0xim+b07jrm" crossorigin="anonymous"></script>
+
+
+    <link rel="stylesheet" href="https://archives.lib.ku.ac.th/nisit/asset/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://archives.lib.ku.ac.th/nisit/asset/css/owl.theme.default.min.css">
+    <link type="text/css" rel="stylesheet" href="https://archives.lib.ku.ac.th/nisit/asset/css/layout-timeline.css"/>
+
+    <link rel="stylesheet" type="text/css" href="https://archives.lib.ku.ac.th/nisit/backend/libs/select2/select2.min.css">
+    <script src="https://archives.lib.ku.ac.th/nisit/backend/libs/select2/select2.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('.select-single').select2();
+        });
+    </script>
+
+
+        <!-- global site tag (gtag.js) - google analytics -->
+        <!-- https://analytics.google.com/analytics/web/ -->
+        <!-- สมัครด้วย kunisit2020@gmail.com | kkkk2222 -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=ua-177606044-1"></script>
+        <script>
+          window.datalayer = window.datalayer || [];
+          function gtag(){datalayer.push(arguments);}
+          gtag('js', new date());
+
+          gtag('config', 'ua-177606044-1');
+        </script>
+
+
+</head>
+
+
+
+<!--start hedaer section-->
+
+ <div id="sc" class="w3-bar w3-grad w3-card w3-left-align" style="background-color:#0e6e6c;">
+    <a  class="w3-bar-item w3-right w3-padding-large  w3-large " href="javascript:void(0);" onclick="myfunction()" title="toggle navigation menu" ><i id="scc" class="fa fa-bars"></i></a>
+    <a href="http://archives.lib.ku.ac.th/"><img class="logo_ku" src="https://archives.lib.ku.ac.th/nisit/asset/img/logo4.jpg"></a>
+  </div>
+
+  <!-- navbar on small screens -->
+  
+ <div id="navdemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-large">
+ <a href="http://archives.lib.ku.ac.th/" class="w3-bar-item w3-button  w3-padding-large w3-hover-white">หน้าหลัก</a>
+   <div class="w3-dropdown-hover w3-hover-white">
+    <button class="w3-button" title="notifications">รู้จักเรา <i class="fa fa-caret-down"></i></button>     
+    <div class="w3-dropdown-content w3-card-4 w3-bar-block">
+      <a href="http://archives.lib.ku.ac.th/hor_jotmai.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอจดหมายเหตุ มก.</a>
+      <a href="http://archives.lib.ku.ac.th/hor_prawat.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอประวัติมหาวิทยาลัยเกษตรศาสตร์</a>
+      <a href="http://archives.lib.ku.ac.th/conference.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอประชุมมหาวิทยาลัยเกษตรศาสตร์</a>
+      <a href="http://archives.lib.ku.ac.th/hor_nisit2.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอพักนิสิต (หอ2)</a>
+      <a href="http://archives.lib.ku.ac.th/department.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> โครงสร้างหน่วยงาน</a>
+      <a href="http://archives.lib.ku.ac.th/personnel.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> บุคลากร</a>
+	 </div>
+  </div>
+	<div class="w3-dropdown-hover w3-hover-white">
+    <button class="w3-button" title="notifications">เกี่ยวกับ มก. <i class="fa fa-caret-down"></i></button>     
+    <div class="w3-dropdown-content w3-card-4 w3-bar-block">
+      <a href="http://archives.lib.ku.ac.th/his_page1.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ประวัติมหาวิทยาลัยเกษตรศาสตร์</a>
+      <a href="http://archives.lib.ku.ac.th/president.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> นายกสภามหาวิทยาลัยเกษตรศาสตร์</a>
+	  <a href="http://archives.lib.ku.ac.th/chancellor.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> อธิการบดีมหาวิทยาลัยเกษตรศาสตร์</a>
+	  <a href="http://archives.lib.ku.ac.th/symbol.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ลัญลักษณ์/เหตุการณ์สำคัญ/สถานที่สำคัญ</a>
+	  <a href="http://archives.lib.ku.ac.th/oral.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> oral history</a>
+	 </div>
+  </div>
+  <div class="w3-dropdown-hover w3-hover-white">
+    <button class="w3-button" title="notifications">ระบบสารสนเทศ <i class="fa fa-caret-down"></i></button>     
+    <div class="w3-dropdown-content w3-card-4 w3-bar-block">
+	  <a href="https://kukr.lib.ku.ac.th/db/index.php?/archives" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลจดหมายเหตุ</a>
+      <a href="http://archives.lib.ku.ac.th/db-his-objects.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลวัตถุหอประวัติ</a>
+      <!-- <a href="http://archives.lib.ku.ac.th/nisit/" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลนิสิตมหาวิทยาลัยเกษตรศาสตร์</a> -->
+      <a href="http://archives.lib.ku.ac.th/nisit/" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลนิสิตมหาวิทยาลัยเกษตรศาสตร์</a>
+	  <a href="http://archives.lib.ku.ac.th/db-honor.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลเกียรติยศบุคลากร</a>
+	  <a href="http://archives.lib.ku.ac.th/db-timeline.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> กาลานุกรมออนไลน์</a>
+	 </div>
+  </div>
+   <div class="w3-dropdown-hover w3-hover-white">
+    <button class="w3-button" title="notifications">กิจกรรม <i class="fa fa-caret-down"></i></button>     
+    <div class="w3-dropdown-content w3-card-4 w3-bar-block">
+      <a href="http://archives.lib.ku.ac.th/db-exhibition.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> นิทรรศการออนไลน์</a>
+      <a href="http://archives.lib.ku.ac.th/julsan.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> จุลสารจดหมายเหตุ</a>
+	  <a href="http://archives.lib.ku.ac.th/activities.php" class="w3-bar-item w3-button"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ภาพกิจกรรม</a> 
+ 
+    </div>
+  </div>
+    <a href="http://archives.lib.ku.ac.th/contact.php" class="w3-bar-item w3-button  w3-padding-large w3-hover-white">ข้อเสนอแนะ</a> 
+    <div class="w3-bar-item w3-button  w3-padding-large w3-hover-white">
+                        <form action="search.php">
+                                                 
+                        <input class="" type="text" name="search" placeholder="search" value="">
+                        <button class="" type="submit"><i class="fa fa-search"></i></button>
+                        </form>
+                    </div>
+     <div class="w3-bar-item w3-button  w3-padding-large w3-hover-white">
+                              <a href="?lang=th"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/th.jpg">&nbsp;</a>
+                                <a>|</a>
+                                <a href="?lang=en"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/en.jpg">&nbsp;</a>
+                                
+                            
+                        </div>
+
+  </div>
+
+
+
+  <section id="header">
+        <div class="header-area">
+            <div class="top_header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 zero_mp">
+                            <div class="address">
+                                <div class="social_icon text-right">
+                              
+
+                                </div>
+
+                            </div>
+                        </div>
+                    
+                        <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5 zero_mp">
+                            <div class="phone">
+                                <div class="social_icon text-right">
+    
+                                </div>
+                            </div>
+                        </div>
+                
+                        <div class="col-md-4 col-md-4 col-sm-4 col-xs-4 zero_mp">
+                        <form action="search.php">
+                                                  <input class="search" type="text" name="search" placeholder="search" value="" style="display: none;">
+                          
+                        <br>
+                        <br>
+                        <!-- <button class="searchsubmit searchwhite" type="submit"><i class="fa fa-search"></i></button> -->
+                         <div class="social_icon text-right" >
+                               <a href="?lang=th"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/th.jpg">&nbsp;</a>
+                                <a>|</a>
+                                <a href="?lang=en"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/en.jpg">&nbsp;</a>
+                            </div>
+                        </form>
+
+                            
+                        </div>
+
+
+                 
+                    </div>
+             
+                </div>
+       
+            </div>
+     
+            <div class="header_menu text-center" data-spy="affix" data-offset-top="50" id="nav">
+                <div class="container">
+                    <nav class="navbar navbar-default zero_mp ">
+                 
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                                data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                <span class="sr-only">toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand custom_navbar-brand" href="http://archives.lib.ku.ac.th/"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/logo45.jpg " alt=""></a>
+                        </div>
+              
+                    <div class="collapse navbar-collapse zero_mp" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav navbar-right main_menu">
+                                
+                                 <li ><a href="http://archives.lib.ku.ac.th/">หน้าหลัก</a></li>
+                                <li class="dropdown"><a>รู้จักเรา</a>
+                                   <div class="dropdown-content">
+                                    <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/hor_jotmai.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอจดหมายเหตุ มก.</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/hor_prawat.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอประวัติมหาวิทยาลัยเกษตรศาสตร์</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/conference.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอประชุมมหาวิทยาลัยเกษตรศาสตร์</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/hor_nisit2.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> หอพักนิสิต (หอ2)</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/department.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> โครงสร้างหน่วยงาน</a></p>
+                                   <p><a href="http://archives.lib.ku.ac.th/personnel.php" style="color:#333;font-size:13px;text-align: left;"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> บุคลากร</a></p>
+                                   </div>
+                                </li>
+                                <li class="dropdown"><a>เกี่ยวกับ มก.</a>
+                                <div class="dropdown-content">
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/his_page1.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg">  ประวัติมหาวิทยาลัยเกษตรศาสตร์</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/president.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg">  นายกสภามหาวิทยาลัยเกษตรศาสตร์</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/chancellor.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg">  อธิการบดีมหาวิทยาลัยเกษตรศาสตร์</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/symbol.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg">  ลัญลักษณ์/เหตุการณ์สำคัญ/สถานที่สำคัญ</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/oral.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> oral history</a></p>
+                                   </div>
+                              </li>
+                                <li class="dropdown"><a>ระบบสารสนเทศ</a>
+                                <div class="dropdown-content">
+                                <p><a style="color:#333;font-size:13px;text-align: left;" href="https://kukr.lib.ku.ac.th/db/index.php?/archives"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลจดหมายเหตุ</a></p>
+                                  <!--  <p><a style="color:#333;font-size:13px;text-align: left;" href="his_ob.php">ฐานข้อมูลวัตถุหอประวัติ</a></p> -->
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/db-his-objects.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลวัตถุหอประวัติ</a></p>
+                                   <!-- <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/nisit/"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลนิสิตมหาวิทยาลัยเกษตรศาสตร์</a></p> -->
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/nisit/"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลนิสิตมหาวิทยาลัยเกษตรศาสตร์</a></p>
+                                  <!--  <p><a style="color:#333;font-size:13px;text-align: left;" href="kietyot.php">ฐานข้อมูลเกียรติยศบุคลากร</a></p> -->
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/db-honor.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลเกียรติยศบุคลากร</a></p>
+                                  <!--  <p><a style="color:#333;font-size:13px;text-align: left;" href="kalanukun.php">กาลานุกรมออนไลน์</a></p> -->
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/db-timeline.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> กาลานุกรมออนไลน์</a></p>
+                                    <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/nisit/graduate"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ฐานข้อมูลพิธีพระราชทานปริญญาบัตร </a>
+                                   </p>
+                                </div>
+                             </li>
+                                <li class="dropdown"><a>กิจกรรม</a>
+                                <div class="dropdown-content">
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/db-exhibition.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> นิทรรศการออนไลน์</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/julsan.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> จุลสารจดหมายเหตุ</a></p>
+                                   <p><a style="color:#333;font-size:13px;text-align: left;" href="http://archives.lib.ku.ac.th/activities.php"><img src="https://archives.lib.ku.ac.th/nisit/asset/img/icon_menu.jpg"> ภาพกิจกรรม</a></p>
+                                   </div>
+                            </li>
+                                <li class="dropdown"><a href="http://archives.lib.ku.ac.th/contact.php">ข้อเสนอแนะ</a></li>
+
+                            </ul>
+
+                        </div>
+                        
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+<style type="text/css">
+.modal-backdrop {
+     background-color: rgba(0,0,0,.0001) !important;
+}
+</style>
+
+<body>
+
+<div class="col-md-12" style="">
+  <div id="spinner_frame"
+    style="display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    z-index: 100;
+    "><p align="center">
+      <img src="https://archives.lib.ku.ac.th/nisit/asset/img/preloader_big.gif">
+    </p></div>
+</div>
+
+<div class="bg-yellowgreen">
+  <div class="container py-5">
+    <div class="row">  
+        <div  class="col-md-12" class="">    
+          <h1 class="ttnew">ฐานข้อมูลนิสิตมหาวิทยาลัยเกษตรศาสตร์</h1>
+            <form>
+
+                <div class="form-group row">
+                  <label for="colformlabelsm" class="col-sm-1 col-form-label f-w-300 text-black" style="text-alight:right;">ค้นหา :</label>
+
+                  <div class="col-sm-9">
+              
+
+                    <input type="text" class="form-control input-sm form2 txtsearch " placeholder="กรอกคำค้นหา ชื่อ นามสกุล รุ่น คณะ ปี" aria-controls="example" id="keywords" >
+
+                    <input type="hidden" class="form-control input-sm form2 mylike " placeholder="ชื่อ" aria-controls="example" id="fname" name="fname" style="" >
+
+                    <input type="hidden" class="form-control input-sm form2 mylike " placeholder="นามสกุล" aria-controls="example" id="sname" name="sname" style="" >
+
+                    <input type="hidden" class="form-control input-sm form2 mylike " placeholder="รุ่น" aria-controls="example" id="ku_generation" name="ku_generation" style="" >
+
+                    <input type="hidden" class="form-control input-sm form2 mylike " placeholder="คณะ" aria-controls="example" id="board" name="board" style="" >
+
+                    <input type="hidden" class="form-control input-sm form2 mylike " placeholder="หมวด" aria-controls="example" id="category" name="category" style="" value="" >
+
+                    <input type="hidden" class="form-control input-sm form2 mylike " placeholder="ปี" aria-controls="example" id="year_admission" name="year_admission" style="" >
+
+                  </div>
+       
+
+                  <div class="col-sm-2">
+                    <a href="" class="btnsearch"><p class="we2 text-center">ค้นหา</p></a>
+                  </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-sm-1"></div>
+                    <div class="col-sm-2">
+                        <select id="generation_desc" class=" form-control my_select select-single " >
+                          <option selected disabled hidden>เลือกรุ่น</option>  
+                          <option value="" >--เลือกรุ่น--</option>
+                          <option value="1" >1</option><option value="2" >2</option><option value="3" >3</option><option value="4" >4</option><option value="5" >5</option><option value="6" >6</option><option value="7" >7</option><option value="8" >8</option><option value="9" >9</option><option value="10" >10</option><option value="11" >11</option><option value="12" >12</option><option value="13" >13</option><option value="14" >14</option><option value="15" >15</option><option value="16" >16</option><option value="17" >17</option><option value="18" >18</option><option value="19" >19</option><option value="20" >20</option><option value="21" >21</option><option value="22" >22</option><option value="23" >23</option><option value="24" >24</option><option value="25" >25</option><option value="26" >26</option><option value="27" >27</option><option value="28" >28</option><option value="29" >29</option><option value="30" >30</option><option value="31" >31</option><option value="32" >32</option><option value="33" >33</option><option value="34" >34</option><option value="35" >35</option><option value="36" >36</option><option value="37" >37</option><option value="38" >38</option><option value="39" >39</option><option value="40" >40</option><option value="41" >41</option><option value="42" >42</option><option value="43" >43</option><option value="44" >44</option>  
+                        </select>
+                    </div>
+                    <div class="col-sm-3">
+                        <select id="board_desc" class="form2 form-control my_select select-single " >
+                          <option selected disabled hidden>เลือกคณะ</option>    
+                          <option value="" >--เลือกคณะ--</option>
+                           <option value="วนศาสตร์" >วนศาสตร์</option><option value="เกษตรศาสตร์" >เกษตรศาสตร์</option><option value="สหกรณ์" >สหกรณ์</option><option value="การประมง" >การประมง</option><option value="ประมง" >ประมง</option><option value="วิศวกรรมชลประทาน" >วิศวกรรมชลประทาน</option><option value="สัตวแพทย์ศาสตร์" >สัตวแพทย์ศาสตร์</option><option value="สหกรณ์และเศรษฐศาสตร์" >สหกรณ์และเศรษฐศาสตร์</option><option value="สัตวแพทยศาสตร์" >สัตวแพทยศาสตร์</option><option value="กสิกรรมและสัตวบาล" >กสิกรรมและสัตวบาล</option><option value="เศรษฐศาสตร์สหกรณ์" >เศรษฐศาสตร์สหกรณ์</option><option value="เศรษฐศาสตร์และสหกรณ์" >เศรษฐศาสตร์และสหกรณ์</option><option value="เกษตร" >เกษตร</option><option value="วิทยาศาสตร์" >วิทยาศาสตร์</option><option value="วิศวกรรมศาสตร์" >วิศวกรรมศาสตร์</option><option value="เศรษฐศาสตร์และบริหารธุรกิจ" >เศรษฐศาสตร์และบริหารธุรกิจ</option><option value="วิทยาศาสตร์และอักษรศาสตร์" >วิทยาศาสตร์และอักษรศาสตร์</option><option value="ศึกษาศาสตร์" >ศึกษาศาสตร์</option><option value="สังคมศาสตร์" >สังคมศาสตร์</option><option value="เศรษฐศาสตร์" >เศรษฐศาสตร์</option><option value="อุตสาหกรรมเกษตร" >อุตสาหกรรมเกษตร</option><option value="มนุษยศาสตร์" >มนุษยศาสตร์</option>  
+                        </select>
+                    </div>
+                    <div class="col-sm-3">
+                        <select id="category_desc" class="form2 form-control my_select select-single " >
+                          <option selected disabled hidden>เลือกหมวดหมู่</option> 
+                          <option value="" >--เลือกหมวดหมู่--</option>   
+                           <option value="" >ทุกหมวดหมู่</option><option value="2" >เกษตรศาสตร์ ปราดเปรื่อง</option><option value="3" >นิสิตเก่าดีเด่น ส.มก.</option><option value="4" >เพชรนนทรี</option><option value="5" >รางวัลอื่นๆ</option>    
+                        </select>
+                    </div>
+                    <div class="col-sm-3">
+                        <select id="year_desc" class="form2 form-control my_select select-single " >
+                          <option selected disabled hidden>เลือกปีที่ได้รางวัล</option>    
+                          <option value="" >--เลือกปีที่ได้รางวัล--</option>
+                            <option value="ไม่ระบุ" >ไม่ระบุ</option><option value="2563" >2563</option><option value="2562" >2562</option><option value="2561" >2561</option><option value="2560" >2560</option><option value="2559" >2559</option><option value="2558" >2558</option><option value="2557" >2557</option><option value="2556" >2556</option><option value="2555" >2555</option><option value="2554" >2554</option><option value="2553" >2553</option><option value="2552" >2552</option><option value="2551" >2551</option><option value="2550" >2550</option><option value="2549" >2549</option><option value="2548" >2548</option><option value="2547" >2547</option><option value="2546" >2546</option><option value="2545" >2545</option><option value="2544" >2544</option><option value="2543" >2543</option><option value="2542" >2542</option><option value="2541" >2541</option><option value="2540" >2540</option><option value="2539" >2539</option><option value="2538" >2538</option><option value="2537" >2537</option><option value="2536" >2536</option><option value="2535" >2535</option><option value="2534" >2534</option><option value="2533" >2533</option><option value="2532" >2532</option><option value="2531" >2531</option><option value="2530" >2530</option><option value="2529" >2529</option><option value="2528" >2528</option><option value="2527" >2527</option><option value="2526" >2526</option><option value="2525" >2525</option><option value="2524" >2524</option><option value="2523" >2523</option><option value="2522" >2522</option><option value="2521" >2521</option><option value="2520" >2520</option><option value="2519" >2519</option><option value="2518" >2518</option><option value="2517" >2517</option><option value="2516" >2516</option><option value="2515" >2515</option><option value="2514" >2514</option><option value="2513" >2513</option><option value="2512" >2512</option><option value="2511" >2511</option><option value="2510" >2510</option><option value="2509" >2509</option><option value="2508" >2508</option><option value="2507" >2507</option><option value="2506" >2506</option><option value="2505" >2505</option><option value="2504" >2504</option><option value="2503" >2503</option><option value="2502" >2502</option><option value="2501" >2501</option><option value="2500" >2500</option><option value="2499" >2499</option><option value="2498" >2498</option><option value="2497" >2497</option><option value="2496" >2496</option><option value="2495" >2495</option><option value="2494" >2494</option><option value="2493" >2493</option><option value="2492" >2492</option><option value="2491" >2491</option><option value="2490" >2490</option><option value="2489" >2489</option><option value="2488" >2488</option><option value="2487" >2487</option><option value="2486" >2486</option><option value="2485" >2485</option><option value="2484" >2484</option><option value="2483" >2483</option><option value="2482" >2482</option><option value="1984" >1984</option> 
+                        </select>
+                    </div>
+                </div>
+            </form>
+        </div>
+      </div>
+  </div>
+</div>
+<div class="bg-white">
+    <div class="container py-5">
+        <h5 class="text-center text-black show_count_result " style="display: none;">ผลลัพธ์จากการค้นหา : 100 รายการ</h5>
+        <table id="data-table" class="table table-bordered table-striped data-tablesearch responsive example nowrap">
+  
+        </table>
+    </div>
+</div>    
+
+
+  <!-- the modal -->
+  <div class="modal " id="mymodal">
+
+  <div class="modal-dialog modal-lg">
+      <div class="modal-content" >
+      
+        <!-- modal header -->
+        <div class="modal-header">
+          <h4 class="modal-title">qr-code</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        
+        <!-- modal body -->
+        <div class="modal-body show_qrcode ">
+            <!-- <center><img  src="https://archives.lib.ku.ac.th/nisit/asset/img/qr.png" style="width: 90%;" ></center> -->
+        </div>
+        
+        <!-- modal footer -->
+        <div class="modal-footer">
+          <button type="button" class="btn" data-dismiss="modal" style="width: 20%;">close</button>
+        </div>
+        
+      </div>
+    </div>
+  </div>    
+
+
+<!--start of footer-->
+ <style type="text/css">
+   .a:focus, a:hover{
+      color: red !important;
+    }
+ </style>
+    <section id="footer">
+        <div class="container">
+            <div class="col-md-12">
+      
+            <div class="row text-center">
+
+            
+
+            
+                <div class="col-md-4">
+                    <div class="copyright">
+                        <p style="color:#fccc00;">ลิงค์ที่เกี่ยวข้อง</p>
+                                                <p><a href="https://www.ku.ac.th" target="_blank" style="color:white;margin-top: 0%;" >มหาวิทยาลัยเกษตรศาสตร์</a></p>
+                                                <p><a href="http://www.lib.ku.ac.th" target="_blank" style="color:white;margin-top: 0%;" >สำนักหอสมุด มก.</a></p>
+                                                <p><a href="https://www.nat.go.th/" target="_blank" style="color:white;margin-top: 0%;" >สำนักหอจดหมายเหตุแห่งชาติ</a></p>
+                                                <p><a href="https://www.botlc.or.th/" target="_blank" style="color:white;margin-top: 0%;" >ศูนย์การเรียนรู้ธนาคารแห่งประเทศไทย</a></p>
+                                                <p><a href="https://www.thaibankmuseum.or.th/" target="_blank" style="color:white;margin-top: 0%;" >พิพิธภัณฑ์ธนาคารไทย</a></p>
+                                                <p><a href="http://archives.library.tu.ac.th/" target="_blank" style="color:white;margin-top: 0%;" >หอจดหมายเหตุ มหาวิทยาลัยธรรมศาสตร์ </a></p>
+                                            </div>
+                </div>
+
+
+                              <div class="col-md-4">
+                    <div class="copyright">
+                        <br> 
+                                               <p>
+                          <a href="https://www.kingprajadhipokmuseum.com/" target="_blank" style="color:white;margin-top: 0%;"  >พิพิธภัณฑ์พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว</a>
+                        </p>
+
+                                                <p>
+                          <a href="https://www.bia.or.th" target="_blank" style="color:white;margin-top: 0%;"  >หอจดหมายเหตุ พุทธทาส อินทปัญโญ</a>
+                        </p>
+
+                                                <p>
+                          <a href="https://www.museumsiam.org" target="_blank" style="color:white;margin-top: 0%;"  >มิวเซียมสยาม พิพิธภัณฑ์การเรียนรู้ </a>
+                        </p>
+
+                                                <p>
+                          <a href="http://www.admincourt.go.th/admincourt/site/10letter.html" target="_blank" style="color:white;margin-top: 0%;"  >ห้องสมุด พิพิธภัณฑ์และจดหมายเหตุศาลปกครอง</a>
+                        </p>
+
+                                                <p>
+                          <a href="http://www.admincourt.go.th/admincourt/site/10letter.html" target="_blank" style="color:white;margin-top: 0%;"  >ห้องสมุด พิพิธภัณฑ์และจดหมายเหตุศาลปกครอง</a>
+                        </p>
+
+                        
+                    </div>
+                </div>
+
+
+                <div class="col-md-2">
+                  <div class="copyright"></div>
+                </div>
+
+                <div class="col-md-4">
+                <div class="copyright">
+                    <p style="color:#fccc00;">หอจดหมายเหตุมหาวิทยาลัยเกษตรศาสตร์</p>
+
+
+              
+                        <p>
+                          
+                          อาคารเทพรัตน์วิทยาโชติ สำนักหอสมุด ชั้น 4 เลขที่ 50 <br />
+ถนนงามวงศ์วาน แขวงลาดยาว เขตจตุจักร กรุงเทพฯ 10900 <br />
+โทร. 0 2942 8616 ต่อ 426-430 <br />
+อีเมล archives@ku.ac.th
+                        </p>
+
+
+              
+
+                    </div>
+                </div>  
+            </div><br> 
+        </div>
+            <!--end of row-->
+        </div>
+        <!--end of container-->
+    </section>
+    <!--end of footer-->
+    <!--start of footer-->
+
+    <section id="footer2">
+        <div class="container">
+            <div class="row text-center">
+            
+                <p >copyright © 2019 archives of kasetsart university</p>
+            </div>
+        </div>
+        <!--end of row-->
+
+        <!--end of container-->
+    </section>
+
+
+
+<script>
+
+var otable;
+$(function() {
+    otable = $('#data-table').datatable({
+        processing: true,
+        serverside: true,
+        // ordering: false,
+        searching: false,
+        blengthchange: false,
+        info:     true,
+        idisplaylength: 10,
+          ajax: {
+          url: 'https://archives.lib.ku.ac.th/nisit/nisit/datatable',
+          type: "post",
+          data: function ( d ) {
+            // console.log(d);
+            d._token = "ft5fgwrcvpejkwvdwfult0xloscgsyqvkj1urkvt";
+            d.where={};
+            $('.mywhere').each(function() {
+              if( $.trim($(this).val()) && $.trim($(this).val()) != '0' ){
+                d.where[$(this).attr('name')] = $.trim($(this).val());
+              }
+            });
+
+            d.like={};
+            $('.mylike').each(function() {
+                if( $.trim($(this).val()) && $.trim($(this).val()) != '0' ){
+                  d.like[$(this).attr('name')] = $.trim($(this).val());
+                }
+           
+            });
+      
+            d.like2={};
+            $('.mylike2').each(function() {
+                if( $.trim($(this).val()) && $.trim($(this).val()) != '0' ){
+                  d.like2[$(this).attr('name')] = $.trim($(this).val());
+                }
+           
+            });
+
+            d.custom={};
+            $('.mycustom').each(function() {
+              if( $.trim($(this).val()) && $.trim($(this).val()) != '0' ){
+                // d.custom['fullname'] = $.trim($(this).val());
+                d.custom['ku_generation'] = $.trim($(this).val());
+              }
+            });
+            odata = d;
+          },
+        },
+
+        order: [[ 1, 'desc' ], [ 2, 'desc' ]],
+        columndefs : [ 
+              {
+              "targets": [0],
+              "orderable": false,
+              }
+          ],
+        columns: [
+            {data: 'qr',title :'<center>qr</center>', classname: 'text-center'},
+            {data: 'name',title :'<center>ชื่อ-นามสกุล</center>', classname: 'text-left'},
+            {data: 'ku_generation', title :'<center>ku รุ่น</center>', classname: 'text-center',render: function(d) {
+                  if(d>0){
+                   return d;
+                  }else{
+                    return '-';
+                  }
+            }},
+            {data: 'board', title :'<center>คณะ</center>', classname: 'text-center',render: function(d) {
+                   return (d?d:'-');
+            }},
+            {data: 'year_admission', title :'<center>ปี</center>', classname: 'text-center',render: function(d) {
+                   return (d?d:'-');
+            }},
+            {data: 'detail',title :'<center>รายละเอียด</center>', classname: 'text-center'},
+            
+           
+        ],
+        rowcallback: function(nrow, adata, dataindex){
+         
+        },
+        // statesave: true,
+    });
+    
+    // $('.mywhere,.mylike,.mycustom').on('change', function(e){
+    //     // alert("xxx");
+    //     otable.draw();
+    // });
+
+    $('.btnsearch').on('click', function(e){
+
+      e.preventdefault();
+      var generation_desc = $('#generation_desc').val();
+      var board_desc = $('#board_desc').val();
+      var category_desc = $('#category_desc').val();
+      var year_desc = $('#year_desc').val();
+      console.log(generation_desc+":"+board_desc+":"+category_desc+":"+year_desc);
+
+      var ch_select = false;
+      if(
+        (generation_desc!=null && generation_desc!='') || 
+        (board_desc!=null && board_desc!='') || 
+        (category_desc!=null && category_desc!='') ||
+        (year_desc!=null && year_desc!='')
+        ) {
+        ch_select = true;
+      }else{
+        ch_select = false;
+      }
+
+      console.log(ch_select);
+
+      var txtsearch = $(".txtsearch").val();
+
+      if(ch_select == true && txtsearch==""){
+
+        $(".txtsearch").val('%');
+        $('#spinner_frame').show();
+        otable.draw();
+
+      }else{
+
+          if(txtsearch==""){
+            $(".txtsearch").focus();
+            return false;
+          }
+          $('#spinner_frame').show();
+          otable.draw();
+
+      }
+
+          settimeout(function(){
+            $("#spinner_frame").hide();
+          }, 2500);
+
+    });
+
+
+
+});
+</script>
+
+<script type="text/javascript">
+
+        $(document).ready(function() {
+
+
+                    $(document).on('keyup', '#keywords', function(event) {
+                      event.preventdefault();
+                      $('#generation_desc option:first').prop('selected',true).trigger( "change" );
+                      $('#board_desc option:first').prop('selected',true).trigger( "change" );
+                      $('#category_desc option:first').prop('selected',true).trigger( "change" );
+                      $('#year_desc option:first').prop('selected',true).trigger( "change" );
+                    });
+
+
+                    $(document).on('change', '#keywords', function(event) {
+
+                        event.preventdefault();
+                        var str = $(this).val();
+                        var res =  str.split(" ");
+                        console.log(res.length);
+
+                        if(res.length==1){
+                           
+                            $('#fname').removeclass("mylike").addclass("mylike2");
+                            $('#sname').removeclass("mylike").addclass("mylike2");
+                            $('#ku_generation').removeclass("mylike").addclass("mylike2");
+                            $('#board').removeclass("mylike").addclass("mylike2");
+                            $('#year_admission').removeclass("mylike").addclass("mylike2");
+
+                            $('#fname').val($.trim(res[0]));
+                            $('#sname').val($.trim(res[0]));
+                            $('#ku_generation').val($.trim(res[0]));
+                            $('#board').val($.trim(res[0]));
+                            $('#year_admission').val($.trim(res[0]));
+
+                        }else{
+
+                            $('#fname').removeclass("mylike2").addclass("mylike");
+                            $('#sname').removeclass("mylike2").addclass("mylike");
+                            $('#ku_generation').removeclass("mylike2").addclass("mylike");
+                            $('#board').removeclass("mylike2").addclass("mylike");
+                            $('#year_admission').removeclass("mylike2").addclass("mylike");
+
+                            $('#fname').val($.trim(res[0]));
+                            $('#sname').val($.trim(res[1]));
+                            $('#ku_generation').val($.trim(res[2]));
+                            $('#board').val($.trim(res[3]));
+                            $('#year_admission').val($.trim(res[4]));
+                        }
+
+
+                    });
+
+                    $(document).on('keyup', '#keywords', function(event) {
+                      $(".my_select").prop('selectedindex',0);
+                    });
+
+                    $(document).on('change', '#generation_desc', function(event) {
+                        
+                        var str = $('#keywords').val();
+                        var res =  str.split(" ");
+
+                        $('#fname').removeclass("mylike2").addclass("mylike");
+                        $('#sname').removeclass("mylike2").addclass("mylike");
+                        $('#ku_generation').removeclass("mylike2").addclass("mylike");
+                        $('#board').removeclass("mylike2").addclass("mylike");
+                        $('#year_admission').removeclass("mylike2").addclass("mylike");
+
+                        $('#fname').val($.trim(res[0]));
+                        $('#sname').val($.trim(res[1]));
+                        $('#ku_generation').val($.trim(res[2]));
+                        $('#board').val($.trim(res[3]));
+                        $('#year_admission').val($.trim(res[4]));
+
+                        $('#ku_generation').val($(this).val());
+                    });
+
+                    $(document).on('change', '#board_desc', function(event) {
+
+                        var str = $('#keywords').val();
+                        var res =  str.split(" ");
+
+                        $('#fname').removeclass("mylike2").addclass("mylike");
+                        $('#sname').removeclass("mylike2").addclass("mylike");
+                        $('#ku_generation').removeclass("mylike2").addclass("mylike");
+                        $('#board').removeclass("mylike2").addclass("mylike");
+                        $('#year_admission').removeclass("mylike2").addclass("mylike");
+
+                        $('#fname').val($.trim(res[0]));
+                        $('#sname').val($.trim(res[1]));
+                        $('#ku_generation').val($.trim(res[2]));
+                        $('#board').val($.trim(res[3]));
+                        $('#year_admission').val($.trim(res[4]));
+
+                        $('#board').val($(this).val());
+                    });
+
+                    $(document).on('change', '#category_desc', function(event) {
+                        var str = $('#keywords').val();
+                        var res =  str.split(" ");
+
+                        $('#fname').removeclass("mylike2").addclass("mylike");
+                        $('#sname').removeclass("mylike2").addclass("mylike");
+                        $('#ku_generation').removeclass("mylike2").addclass("mylike");
+                        $('#board').removeclass("mylike2").addclass("mylike");
+                        $('#year_admission').removeclass("mylike2").addclass("mylike");
+
+                        $('#fname').val($.trim(res[0]));
+                        $('#sname').val($.trim(res[1]));
+                        $('#ku_generation').val($.trim(res[2]));
+                        $('#board').val($.trim(res[3]));
+                        $('#year_admission').val($.trim(res[4]));
+
+                        $('#category').val($(this).val());
+                    });
+
+                    $(document).on('change', '#year_desc', function(event) {
+                        var str = $('#keywords').val();
+                        var res =  str.split(" ");
+
+                        $('#fname').removeclass("mylike2").addclass("mylike");
+                        $('#sname').removeclass("mylike2").addclass("mylike");
+                        $('#ku_generation').removeclass("mylike2").addclass("mylike");
+                        $('#board').removeclass("mylike2").addclass("mylike");
+                        $('#year_admission').removeclass("mylike2").addclass("mylike");
+
+                        $('#fname').val($.trim(res[0]));
+                        $('#sname').val($.trim(res[1]));
+                        $('#ku_generation').val($.trim(res[2]));
+                        $('#board').val($.trim(res[3]));
+                        $('#year_admission').val($.trim(res[4]));
+
+                        $('#year_admission').val($(this).val());
+                    });
+
+
+
+                    $(document).on('click', '.btnqrcode', function(event) {
+
+                        // event.preventdefault();
+
+                           var id = $(this).data('id');
+                           // alert(id);
+
+                            $.ajax({
+                                url: "https://archives.lib.ku.ac.th/nisit/asset/qrcode/show_qrcode.php ",
+                                type: 'post',
+                                datatype: 'html',
+                                data: {data: id},
+                            })
+                            .done(function(data) {
+                                $(".show_qrcode").html(data);
+                            })
+
+                    });
+
+
+                    localstorage.clear();
+
+
+        });
+  
+  </script>

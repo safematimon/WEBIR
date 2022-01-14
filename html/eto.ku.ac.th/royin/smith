@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="th">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="eto ku">
+
+  <title>โครงการจัดกิจกรรมเสวนาทางวิชาการ การจัดประกวดและเผยแพร่ทางสื่อออนไลน์ เพื่อส่งเสริมการใช้ภาษาไทยภาษาไทยถิ่น และส่งเสริมการอ่าน ประจำปีพุทธศักราช 2563</title>
+
+  <!-- bootstrap core css -->
+  <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=prompt:wght@500&family=sarabun:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+  <!-- custom styles for this template -->
+  <link href="css/modern-business.css" rel="stylesheet">
+
+</head>
+<style>
+    body{
+        font-family: 'prompt', sans-serif;
+        font-family: 'sarabun', sans-serif;
+    }
+      -webkit-box-shadow: 3px 3px 5px 6px #ccc;  /* safari 3-4, ios 4.0.2 - 4.2, android 2.3+ */
+      -moz-box-shadow:    3px 3px 5px 6px #ccc;  /* firefox 3.5 - 3.6 */
+      box-shadow:         3px 3px 5px 6px #ccc;  /* opera 10.5, ie 9, firefox 4+, chrome 6+, ios 5 */
+    }
+</style>
+<body>
+ <nav class="navbar navbar-expand-lg navbar-light bg-white container">
+  <a class="navbar-brand" href="#"><img src="img/logo.jpg" height="50" /></a>
+  <button class="navbar-toggler alert-primary" type="button" data-toggle="collapse" data-target="#navbarnavaltmarkup" aria-controls="navbarnavaltmarkup" aria-expanded="false" aria-label="toggle navigation">
+    <span class="navbar-toggler-icon "></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarnavaltmarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link active" href="index.html"><i class="fa fa-home mr-1"></i>หน้าหลัก </a>
+        <a class="nav-item nav-link active" href="pdf/กำหนดการวันภาษาไทย 63.pdf" target="_blank"><i class="fa fa-calendar mr-1"></i>กำหนดการวันภาษาไทย </a>
+<!--      <a class="nav-item nav-link disabled" href="#"><i class="fa fa-window-maximize mr-1"></i>สมัครเข้าร่วมโครงการ </a>-->
+<!--
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbardropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <i class="fa fa-image mr-1" ></i>ประกาศผลรอบคัดเลือก
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbardropdown">
+          <a class="dropdown-item" href="pdf/ประกาศผลผู้ผ่านเข้ารอบชิงชนะเลิศภาคกลาง กลุ่ม1.pdf" target="_blank"><i class="fa fa-users mr-1 text-primary" ></i>กลุ่มที่ 1 (ภาคกลาง, ตะวันออก, ตะวันตก)</a>
+          <a class="dropdown-item" href="pdf/ประกาศภาคเหนือ.jpg" target="_blank"><i class="fa fa-users mr-1 text-success" ></i>กลุ่มที่ 2 (ภาคเหนือ)</a>
+          <a class="dropdown-item" href="pdf/ประกาศผลผู้ผ่านเข้ารอบชิงชนะเลิศภาคอีสาน กลุ่ม3.pdf" target="_blank"><i class="fa fa-users mr-1 text-warning" ></i>กลุ่มที่ 3 (ภาคอีสาน)</a>
+          <a class="dropdown-item" href="pdf/ประกาศภาคใต้.jpg" target="_blank"><i class="fa fa-users mr-1 text-danger" ></i>กลุ่มที่ 4 (ภาคใต้)</a>
+        </div>
+      </li>  
+-->
+<!--      <a class="nav-item nav-link" href="index.html"><i class="fa fa-bullhorn mr-1"></i>ประกาศผลรอบคัดเลือก <span class="sr-only">(current)</span></a>-->
+<!--      <a class="nav-item nav-link " href="schedule.html"><i class="fa fa-table mr-1"></i>กำหนดการรอบชิงชนะเลิศ</a>-->
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle active" href="#" id="navbardropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <i class="fa fa-image mr-1" ></i>ภาพกิจกรรม
+        </a>
+        <div class="dropdown-menu text-dark" aria-labelledby="navbardropdown">
+          <a class="dropdown-item " href="https://photos.app.goo.gl/5dhrefnbuoymadqaa" target="_blank"><i class="fa fa-users mr-1 text-primary" ></i>กลุ่มที่ 1 (ภาคกลาง, ตะวันออก, ตะวันตก)</a>
+          <a class="dropdown-item" href="https://photos.app.goo.gl/m7tdpzwdepbs6ben8" target="_blank"><i class="fa fa-users mr-1 text-success" ></i>กลุ่มที่ 2 (ภาคเหนือ)</a>
+          <a class="dropdown-item" href="https://photos.app.goo.gl/rxbydbpea7sep5qi7" target="_blank"><i class="fa fa-users mr-1 text-warning" ></i>กลุ่มที่ 3 (ภาคอีสาน)</a>
+          <a class="dropdown-item" href="https://photos.app.goo.gl/zww8hl2thmabm44n9" target="_blank"><i class="fa fa-users mr-1 text-danger" ></i>กลุ่มที่ 4 (ภาคใต้)</a>
+        </div>
+      </li>
+       <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle active" href="#" id="navbardropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <i class="fa fa-youtube-play mr-1" ></i>วิดีโอการประกวด
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbardropdown">
+          <a href="https://www.youtube.com/watch?v=lrwlmp1em4m" target="_blank" class="dropdown-item"><i class="fa fa-users mr-1 text-primary" ></i>กลุ่มที่ 1 (ภาคกลาง, ตะวันออก, ตะวันตก)</a>
+          <a href="https://youtu.be/5nmlxobdw-o" target="_blank" class="dropdown-item"><i class="fa fa-users mr-1 text-success" ></i>กลุ่มที่ 2 (ภาคเหนือ)</a>
+          <a href="https://www.youtube.com/watch?v=yak7dgg2s3w&feature=youtu.be" target="_blank" class="dropdown-item"><i class="fa fa-users mr-1 text-warning" ></i>กลุ่มที่ 3 (ภาคอีสาน)</a>
+          <a href="https://youtu.be/p721r2wwyes" target="_blank" class="dropdown-item"><i class="fa fa-users mr-1 text-danger" ></i>กลุ่มที่ 4 (ภาคใต้)</a>
+        </div>
+      </li>
+
+<!--      <a class="nav-item nav-link disabled" href="#"><i class="fa fa-trophy mr-1"></i>ประกาศผลรอบชิงชนะเลิศ</a>-->
+    </div>
+  </div>
+</nav>   
+<div class="container mt-3 shadow" >
+<div class="row">
+  <div class="col-sm-12">
+     <div class="embed-responsive embed-responsive-16by9">
+  	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ovvlee5rir4?rel=0;&autoplay=1&mute=0&loop=1&playlist=ig9ce55wbty" allow="accelerometer; autoplay; encrypted-media; gyroscope; " allowfullscreen>	</iframe>
+	</div>
+     
+    </div>
+<div class="col-sm-12">
+    <img src="img/วันภาษาไทย.jpg" class="img-fluid" alt=""/> </div>
+<!--
+  <div class="col-sm-7" >
+      <div class="row mt-4">
+          <div class="col-6"> <a href="pdf/schedule_part1.pdf" target="_blank"><img src="img/1596075856928.jpg" class="img-fluid" alt=""/></a>
+          </div>
+          <div class="col-6"> <a href="pdf/schedule_part2.pdf" target="_blank"><img src="img/1596075898352.jpg" class="img-fluid" alt=""/></a>
+          </div>
+          <div class="col-6 mt-3"> <a href="pdf/schedule_part3.pdf" target="_blank"><img src="img/1596075933096.jpg" class="img-fluid" alt=""/></a>
+          </div>
+          <div class="col-6 mt-3"> <a href="pdf/schedule_part4.pdf" target="_blank"><img src="img/1596075955249.jpg" class="img-fluid" alt=""/></a>
+          </div>
+      </div>  
+  </div>
+-->
+</div>
+</div>
+  <!-- footer -->
+<!--
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-center text-white">copyright &copy; your website 2019</p>
+    </div>
+  </footer>
+-->
+
+  <!-- bootstrap core javascript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>

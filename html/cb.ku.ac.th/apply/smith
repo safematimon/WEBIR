@@ -1,0 +1,889 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="keywords" content="แบบฟอร์มสมัครหลักสูตรศาสตร์แห่งแผ่นดิน ธนาคารหน่วยกิต ม.เกษตรศาสตร์" />
+  <meta name="description" content="แบบฟอร์มสมัครหลักสูตรศาสตร์แห่งแผ่นดิน ธนาคารหน่วยกิต ม.เกษตรศาสตร์">
+
+  <!-- favicons -->
+  <link rel="icon" type="image/png" href="img/nontri-3.png" >
+  <title>แบบฟอร์มสมัครหลักสูตรศาสตร์แห่งแผ่นดิน มก.</title>
+
+  <!-- bootstrap css file -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  
+  <!-- calendar css file -->
+  <!--<link rel="stylesheet" href="_plugin/jquery-ui/jquery-ui.css">
+  <link rel="stylesheet" href="css/style-demo.css">-->
+   <!--<link rel="stylesheet" href="https://jqueryui.com/resources/demos/style.css">-->
+  <!--<script src="js/jquery/jquery-3.2.1.min.js"></script>-->
+
+
+  <!-- libraries css files -->
+  <link href="js/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <!--<link href="lib/animate/animate.min.css" rel="stylesheet">-->
+
+  <!-- main stylesheet file -->
+  <link href="css/sis-apply.css" rel="stylesheet">
+  <script src="js/sisapply.js"></script>
+
+
+  <!-- =======================================================
+    theme name: regna
+    theme url: https://bootstrapmade.com/regna-bootstrap-onepage-template/
+    author: bootstrapmade.com
+    license: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
+
+<body>
+
+  <!--==========================
+  header
+  ============================-->
+  <header id="header">
+    <div class="container">
+
+      <div id="logo" class="pull-left">
+        <a href="index.php" class="text-white">non degree [ku]</a>
+        <!-- uncomment below if you prefer to use a text logo -->
+        <!--<h1><a href="#hero">regna</a></h1>-->
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="index.php">หน้าแรก</a></li>
+          <li class="" ><a href="https://sis.ku.ac.th/non-degree/" target="_blank">กำหนดการ</a></li>
+          <!--<li class=""><a href="create_signup.php">สมัครสมาชิก</a></li>-->
+          <!--<li class=""><a href="signin.php">ล็อคอิน</a></li>-->
+          
+          <li class="menu-has-children "><a href="apply.php">สมัครเรียน</a>
+            <ul>
+              <li><a href="javascript:winmodalenrol()">กรอกแบบฟอร์มสมัคร</a></li>
+              <li><a href="sign_print.php" > พิมพ์ใบสมัคร</a></li>
+              <!--<li><a href="javascript:winmodalfillcard()" > พิมพ์ใบสมัคร</a></li>-->
+                            <!--<li><a href="../tcpdf/examples/pdf_print_apply.php" target="_blank"> พิมพ์ใบสมัคร</a></li>-->
+            </ul>
+          </li>
+          <li><a href="javascript:winmodalhistory()" > แบบกรอกประวัติ</a></li>
+          <!--<li class=""><a href="show_apply_name.php">รายชื่อผู้สมัคร</a></li>-->
+          <?php// if($_session[cb_idcard]==''){ ?>
+          <!--<li class=""><a href="forgot_name.php">ลืมรหัสผ่าน</a></li>-->
+                    
+          <!--<li class="menu-has-children"><a href="">drop down</a>
+            <ul>
+              <li><a href="#">drop down 1</a></li>
+              <li class="menu-has-children"><a href="#">drop down 2</a>
+                <ul>
+                  <li><a href="#">deep drop down 1</a></li>
+                  <li><a href="#">deep drop down 2</a></li>
+                  <li><a href="#">deep drop down 3</a></li>
+                  <li><a href="#">deep drop down 4</a></li>
+                  <li><a href="#">deep drop down 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">drop down 3</a></li>
+              <li><a href="#">drop down 4</a></li>
+              <li><a href="#">drop down 5</a></li>
+            </ul>
+          </li>-->
+                    <!--<li class="menu-has-children"><a href=""></a>
+            <ul>
+              <li><a href="logout.php">ออกจากระบบ</a></li>
+            </ul>-->
+                  </ul>
+      </nav><!-- #nav-menu-container -->
+    </div>
+  </header><!-- #header -->
+  
+   <!--==========================
+    none section
+  ============================-->
+  <section id="none">
+    <div class="none-container">
+      <!--<h1>แบบฟอร์มสมัครหลักสูตร non degree</h1>-->
+      <!--<h2>มหาวิทยาลัยเกษตรศาสตร์</h2>-->
+      <div class="container">
+        
+        <!--<div style="float:left">
+        <img src="img/ku-square-green-4.jpg" style="width:70px;height:80px" class="logo">
+        </div> -->
+
+        <!--<div class="card no-border">
+        <div class="card-body header-title"  style="background-color: rgba(245, 245, 245, 0.4) !important;">
+          <span class="header-title-bold rsu-font">หลักสูตรประกาศนียบัตรชุดวิชา
+          <br>มหาวิทยาลัยเกษตรศาสตร์</span>
+        </div>
+      </div>-->
+        <div style="position:relative">
+        <div class="header-title"><span class="header-title-bold rsu-font" >
+        หลักสูตรประกาศนียบัตรชุดวิชา
+        <br>มหาวิทยาลัยเกษตรศาสตร์</span>
+        </div>
+        </div>
+        
+        <!--<div  class="step-app2 mb-2" style="max-width: 540px; font-size:2.5rem;background:#006c67;color:#fff">
+        หลักสูตรประกาศนียบัตรชุดวิชา
+        <br>มหาวิทยาลัยเกษตรศาสตร์
+        </div>-->
+
+        <span class="fs-20 pl-2 pt-1 pb-1 pr-2 rsu-font yellow-cb"  
+        style="color:#f3efef;">แบบฟอร์มสมัครเข้าศึกษาประกาศนียบัตรชุดวิชา  มหาวิทยาลัยเกษตรศาสตร์</span>
+      </div>
+        
+     <!-- <a href="#about" class="btn-get-started">ระบบสารสนเทศธนาคารหน่วยกิต</a>-->
+
+    </div>
+
+
+</section><!-- #hero -->
+
+<main id="main">
+<!--==========================
+  about us section
+============================-->
+    <section id="about">
+        <div class="container">
+          <div class="row about-container">
+
+            <!--<div class="col-lg-6 content order-lg-1" id="first">-->
+            <div class="col-lg-6 content" >
+             
+               
+              <!--<div class="icon-box wow fadeinup">
+                <div class="icon"><i class="fa fa-user-plus"></i></div>
+                <h4 class="title"><a href="create_signup.php">สมัครสมาชิก</a></h4>
+                <p class="description">สำหรับผู้ที่สมัครเรียนครั้งแรก กรุณาสมัครสมาชิก</p>
+              </div>
+
+              <div class="icon-box wow fadeinup" data-wow-delay="0.2s">
+                <div class="icon"><i class="fa fa-sign-in"></i></div>
+                <h4 class="title"><a href="signin.php">ล็อคอินเข้าระบบ</a></h4>
+                <p class="description">กรุณาล็อคอินเข้าระบบ</p>
+              </div>-->
+              <div class="icon-box wow fadeinup" data-wow-delay="0.4s">
+                <div class="icon"><i class="fa fa-calendar"></i></div>
+                <h4 class="title"><a href="https://sis.ku.ac.th/non-degree/" target="_blank">กำหนดการรับสมัคร</a></h4>
+                <p class="description">กำหนดการรับสมัคร และวัน-เวลาจัดการสอบสัมภาษณ์และการจัดเรียนการสอน</p>
+              </div>
+
+              <div class="icon-box wow fadeinup" data-wow-delay="0.2s">
+                <div class="icon"><i class="fa fa-pencil-square-o"></i></div>
+                <h4 class="title"><a href="javascript:winmodalenrol()">สมัครเรียนหลักสูตร non degree</a></h4>
+                <p class="description">กรอกแบบฟอร์มสมัครสำหรับเรียนหลักสูตร non degree</p>
+              </div>
+
+              <div class="icon-box wow fadeinup" data-wow-delay="0.2s">
+                <div class="icon"><i class="fa fa-print"></i></div>
+                <h4 class="title"><a href="sign_print.php">พิมพ์ใบสมัคร</a></h4>
+                <p class="description">สำหรับพิมพ์ใบสมัคร หรือดูข้อมูลการกรอกใบสมัคร</p>
+              </div><!--<a href="javascript:winmodalfillcard()">พิมพ์ใบสมัคร</a>-->
+              
+              <div class="icon-box wow fadeinup" data-wow-delay="0.4s">
+                  <div class="icon"><i class="fa fa-list-alt"></i></div>
+                  <h4 class="title"><a href="show_apply_name.php">จำนวนผู้สมัคร</a></h4>
+                  <p class="description">ผู้สมัครเรียนหลักสูตร non degree</p>
+              </div>
+
+                            <div class="icon-box wow fadeinup" data-wow-delay="0.4s">
+                <div class="icon"><i class="fa fa-envelope-open-o"></i></div>
+                <h4 class="title"><a href="javascript:winmodalhistory()">กรอกประวัติ</a></h4>
+                <p class="description">แบบกรอกประวัติ สำหรับผู้สอบผ่านสัมภาษณ์</p>
+              </div>
+              <?php//} ?>
+
+              <!--<div class="icon-box wow fadeinup" data-wow-delay="0.4s">
+                <div class="icon"><i class="fa fa-envelope-open-o"></i></div>
+                <h4 class="title"><a href="forgot_name.php">ลืมรหัสผ่าน</a></h4>
+                <p class="description">กรณีลืมรหัสผ่าน เพื่อขอรหัสผ่านใหม่</p>
+              </div>-->
+
+              
+              <!--<a href="../documents/กำหนดการโครงการธนาคารหน่วยกิต_164.jpg" target="_blank">กำหนดการรับสมัคร</a>-->
+              
+            </div>
+  
+            <!--<div class="col-lg-6 order-lg-2 wow fadeinright" id="second">-->
+            <div class="col-lg-6  wow fadeinright">
+
+              <div class="fc-black mt-0" style="padding-top:5px;padding-left:15px;font-size:24px;background:#006c67;color:#fff">
+              ประกาศ</div>
+              <hr class="mt-0" style="background:#b2bc1f;height:3px">
+              <ul>
+              <li class="pt-2 fs-18 fc-black">
+              ประกาศวิทยาลัยบูรณาการศาสตร์ เรื่อง กำหนดวัน เวลา รูปแบบการสอบสัมภาษณ์ และรายชื่อผู้มีสิทธิ์เข้ารับการสอบสัมภาษณ์ในโครงการธนาคารหน่วยกิต ภาคปลาย ปีการศึกษา 2564 (เพิ่มเติม)
+              <a href="https://sis.ku.ac.th/wp-content/uploads/2022/01/announce-entrepreneurshipforvegetablefruitandcerealbeverages-642.pdf" target="_blank">>>view</a><span class="blinking pl-2">new</span>
+              </li>
+              <li class="pt-2 fs-18 fc-black">
+              ประกาศวิทยาลัยบูรณาการศาสตร์ เรื่อง กำหนดวัน เวลา รูปแบบการสอบสัมภาษณ์ และรายชื่อผู้มีสิทธิ์เข้ารับการสอบสัมภาษณ์ในโครงการธนาคารหน่วยกิต
+              <a href="https://sis.ku.ac.th/wp-content/uploads/2021/12/announceinterviewnon-degree642.pdf" target="_blank">>>view</a><span class="blinking pl-2">new</span>
+              </li>
+              <!--<li class="pt-2 fs-18 fc-black">
+              ประกาศวิทยาลัยบูรณาการศาสตร์ เรื่อง กำหนดวัน เวลา รูปแบบการสอบสัมภาษณ์ และรายชื่อผู้มีสิทธิ์เข้ารับการสอบสัมภาษณ์ในโครงการธนาคารหน่วยกิต
+              <a href="https://sis.ku.ac.th/wp-content/uploads/2021/06/ประกาศผู้มีสิทธิ์สอบสัมภาษณ์nondegree_ต้น64.pdf" target="_blank">>>view</a><span class="blinking pl-2">new</span>
+              </li>
+              <li class="pt-2 fs-18 fc-black">
+              ชุดวิชาที่เปิดสอนและอัตราค่าธรรมเนียมการศึกษา ภาคต้น ปีการศึกษา 2564
+              <a href="https://sis.ku.ac.th/เปิดรับสมัครแล้ว-หลักสู/" target="_blank">>>view</a><span class="blinking pl-2">new</span>
+              </li>-->
+              <!--<li class="pt-2 fs-18 fc-black">
+              ชุดวิชาที่เปิดสอนและอัตราค่าธรรมเนียมการศึกษา ประจำภาคปลาย ปีการศึกษา 2563
+              <a href="../documents/กำหนดการโครงการธนาคารหน่วยกิต_63ภาคปลาย.pdf" target="_blank">
+                  >> view</a>
+              </li>
+              <li class="fs-18 fc-black">
+                  ประกาศมหาวิทยาลัยเกษตรศาสตร์ เรื่อง รายวิชาที่เปิดสอนในธนาคารหน่วยกิต และอัตราค่าหน่วยกิตต่อภาคการศึกษา
+                    <a href="../documents/2ตค63รายวิชาที้เปิดสอนในธนาคารหน่วยกิต.pdf" target="_blank">
+                  >> view</a>
+              </li>-->
+              
+              <!--<li class="pt-2 fs-18 fc-black">
+              ประกาศวิทยาลัยบูรณาการศาสตร์ เรื่อง  รายชื่อผู้มีสิทธิ์เข้าศึกษาหลักสูตรประกาศนียบัตรชุดวิชา ศาสตร์แห่งแผ่นดินเพื่อการพัฒนาที่ยั่งยืน ประจำปีการศึกษา 2563
+              <a href="../documents/ประกาศรายชื่อผู้มีสิทธิ์เข้าศึกษาnondegree_ต้น63.pdf" target="_blank">
+                  >> view</a>
+              </li>-->
+              </ul>
+              <hr class="mt-2" style="background:#b2bc1f;height:3px">
+
+              <div class="card mt-3" style="border-color:#006c67">
+                <h5 class="card-header first-app2 rsu-font">ผู้สมัครทุกท่านโปรดทราบ</h5>
+                <div class="card-body fc-black">
+                  <h5 class="card-title"></h5>
+                  <p class="card-text fs-18">
+                    1. ผู้สมัครทุกท่านมีสิทธิ์เลือกชุดวิชาที่สนใจได้ 3 อันดับ  โดยชุดวิชาอันดับที่ 1 จะถูกพิจารณาเป็นอันดับแรก 
+                    ในกรณีอันดับที่ท่านเลือกครบสิทธิ์เต็มจำนวน ท่านสามารถสัมภาษณ์ในอันดับถัดไปได้<br>
+                    2. การสมัครชุดวิชาและรายวิชา ต้องไม่เกินจำนวน 22 หน่วยกิต<br>
+                    3. รับสมัครผ่านระบบออนไลน์ถึงวันที่ 31  ม.ค. 2565
+                    <br>
+                  </p>  
+                </div>
+              </div>
+
+              
+
+              <div  class="step-app2 mb-3" style="max-width: 540px;">
+                <div class="row no-gutters">
+                  <div class="col-md-4 first-app2">
+                    สิ่งที่ต้องเตรียมสำหรับการสมัคร
+                  </div>
+                  <div class="col-md-8">
+                    <div class="card-body fc-black">
+                      <h5 class="card-title rsu-font">1. รูปถ่าย</h5>
+                      <h5 class="card-title rsu-font">2. สำเนาบัตรประชาชน</h5>
+                      <h5 class="card-title rsu-font">3. เอกสารแนบประกอบ</h5>
+                     
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!--<div  class="step-app mb-3" style="max-width: 540px;">
+                <div class="row no-gutters">
+                  <div class="col-md-4 first-app">
+                    ขั้นตอน<br>การสมัคร
+                  </div>
+                  <div class="col-md-8">
+                    <div class="card-body fc-black">
+                      <h5 class="card-title rsu-font">1. สมัครสมาชิก</h5>
+                      <h5 class="card-title rsu-font">2. ล็อคอินเข้าระบบ</h5>
+                      <h5 class="card-title rsu-font">3. กรอกแบบฟอร์มใบสมัคร</h5>
+                      <h5 class="card-title rsu-font">4. ตรวจสอบรายชื่อผู้สมัคร</h5>
+                      <h5 class="card-title rsu-font">5. พิมพ์ใบสมัคร</h5>
+                    </div>
+                  </div>
+                </div>
+              </div>-->
+
+            </div>
+          </div>
+  
+        </div>
+      </section><!-- #about -->
+
+
+     <!--==========================
+      picture section
+      ============================-->
+      <section id="photo">
+          <div class="row no-gutters">
+              <div class="col-3">
+                  <img src="img/instagram/dsc_8963.jpg" alt="" style="width:300px;height:210px">
+              </div>
+              <div class="col-3">
+                  <img src="img/instagram/dsc_9214.jpg" alt="" style="width:300px;height:210px">
+              </div>
+              <div class="col-3">
+                  <img src="img/instagram/dsc_8992.jpg" alt="" style="width:300px;height:210px">
+              </div>
+              <div class="col-3">
+                  <img src="img/instagram/dsc_8895.jpg" alt="" style="width:300px;height:210px">
+              </div>
+
+          </div>
+        </section>
+    <!--==========================
+      about us section
+    ============================-->
+    <!--<section id="about">
+      <div class="container">
+        <div class="row about-container">
+          <div class="col-lg-4 content">
+            <div class="icon-box wow fadeinup">
+              <div class="icon"><i class="fa fa-shopping-bag"></i></div>
+              <h4 class="title"><a href="">สมัครสมาชิก</a></h4>
+              
+            </div>
+          </div>
+
+          <div class="col-lg-4 content">
+            <div class="icon-box wow fadeinup" data-wow-delay="0.2s">
+              <div class="icon"><i class="fa fa-photo"></i></div>
+              <h4 class="title"><a href="">สมัครเรียนหลักสูตร non degree</a></h4>
+              <p class="description">excepteur sint occaecat cupidatat </p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 content">
+            <div class="icon-box wow fadeinup" data-wow-delay="0.4s">
+              <div class="icon"><i class="fa fa-bar-chart"></i></div>
+              <h4 class="title"><a href="">ลืมรหัสผ่าน</a></h4>
+              <p class="description">minim veniam, quis nostrud exercitation </p>
+            </div>
+          </div>
+          </div>
+
+          <div class="row about-container">
+            <div class="col-lg-4 content">
+              <div class="icon-box wow fadeinup">
+                <div class="icon"><i class="fa fa-shopping-bag"></i></div>
+                <h4 class="title"><a href="">รายชื่อผู้สมัคร</a></h4>
+                <p class="description">et harum quidem rerum facilis</p>
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+
+      </div>
+    </section--><!-- #about -->
+    <!--==========================
+      facts section
+    ============================-->
+    
+
+    <!--==========================
+      services section
+    ============================-->
+    <!--<section id="services">
+      <div class="container wow fadein">
+        <div class="row">
+          <div class="col-lg-4 col-md-6 wow fadeinup" data-wow-delay="0.2s">
+            <div class="box">
+              <div class="icon"><a href=""><i class="fa fa-desktop"></i></a></div>
+              <h4 class="title"><a href="">สมัครสมาชิก</a></h4>
+              
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 wow fadeinup" data-wow-delay="0.4s">
+            <div class="box">
+              <div class="icon"><a href=""><i class="fa fa-bar-chart"></i></a></div>
+              <h4 class="title"><a href="">สมัครเรียนหลักสูตร non degree</a></h4>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 wow fadeinup" data-wow-delay="0.6s">
+            <div class="box">
+              <div class="icon"><a href=""><i class="fa fa-paper-plane"></i></a></div>
+              <h4 class="title"><a href="">ลืมรหัสผ่าน</a></h4>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 wow fadeinup" data-wow-delay="0.2s">
+            <div class="box">
+              <div class="icon"><a href=""><i class="fa fa-photo"></i></a></div>
+              <h4 class="title"><a href="">รายชื่อผู้สมัคร</a></h4>
+              <p class="description"></p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>--><!-- #services -->
+
+    <!--==========================
+    call to action section
+    ============================-->
+    <!--<section id="call-to-action">
+      <div class="container wow fadein">
+        <div class="row">
+          <div class="col-lg-9 text-center text-lg-left">
+            <h3 class="cta-title">call to action</h3>
+            <p class="cta-text"> duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle" href="#">call to action</a>
+          </div>
+        </div>
+
+      </div>
+    </section>--><!-- #call-to-action -->
+
+    <!--==========================
+      portfolio section
+    ============================-->
+    <!--<section id="portfolio">
+      <div class="container wow fadeinup">
+        <div class="section-header">
+          <h3 class="section-title">portfolio</h3>
+          <p class="section-description">sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+        </div>
+        <div class="row">
+
+          <div class="col-lg-12">
+            <ul id="portfolio-flters">
+              <li data-filter=".filter-app, .filter-card, .filter-logo, .filter-web" class="filter-active">all</li>
+              <li data-filter=".filter-app">app</li>
+              <li data-filter=".filter-card">card</li>
+              <li data-filter=".filter-logo">logo</li>
+              <li data-filter=".filter-web">web</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row" id="portfolio-wrapper">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-app">
+            <a href="">
+              <img src="img/portfolio/app1.jpg" alt="">
+              <div class="details">
+                <h4>app 1</h4>
+                <span>alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-web">
+            <a href="">
+              <img src="img/portfolio/web2.jpg" alt="">
+              <div class="details">
+                <h4>web 2</h4>
+                <span>alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-app">
+            <a href="">
+              <img src="img/portfolio/app3.jpg" alt="">
+              <div class="details">
+                <h4>app 3</h4>
+                <span>alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+            <a href="">
+              <img src="img/portfolio/card1.jpg" alt="">
+              <div class="details">
+                <h4>card 1</h4>
+                <span>alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+            <a href="">
+              <img src="img/portfolio/card2.jpg" alt="">
+              <div class="details">
+                <h4>card 2</h4>
+                <span>alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-web">
+            <a href="">
+              <img src="img/portfolio/web3.jpg" alt="">
+              <div class="details">
+                <h4>web 3</h4>
+                <span>alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+            <a href="">
+              <img src="img/portfolio/card3.jpg" alt="">
+              <div class="details">
+                <h4>card 3</h4>
+                <span>alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-app">
+            <a href="">
+              <img src="img/portfolio/app2.jpg" alt="">
+              <div class="details">
+                <h4>app 2</h4>
+                <span>alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-logo">
+            <a href="">
+              <img src="img/portfolio/logo1.jpg" alt="">
+              <div class="details">
+                <h4>logo 1</h4>
+                <span>alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-logo">
+            <a href="">
+              <img src="img/portfolio/logo3.jpg" alt="">
+              <div class="details">
+                <h4>logo 3</h4>
+                <span>alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-web">
+            <a href="">
+              <img src="img/portfolio/web1.jpg" alt="">
+              <div class="details">
+                <h4>web 1</h4>
+                <span>alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-logo">
+            <a href="">
+              <img src="img/portfolio/logo2.jpg" alt="">
+              <div class="details">
+                <h4>logo 2</h4>
+                <span>alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+    </section>--><!-- #portfolio -->
+
+    <!--==========================
+      team section
+    ============================-->
+    <!--<section id="team">
+      <div class="container wow fadeinup">
+        <div class="section-header">
+          <h3 class="section-title">team</h3>
+          <p class="section-description">sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+        </div>
+        <div class="row">
+          <div class="col-lg-3 col-md-6">
+            <div class="member">
+              <div class="pic"><img src="img/team-1.jpg" alt=""></div>
+              <h4>walter white</h4>
+              <span>chief executive officer</span>
+              <div class="social">
+                <a href=""><i class="fa fa-twitter"></i></a>
+                <a href=""><i class="fa fa-facebook"></i></a>
+                <a href=""><i class="fa fa-google-plus"></i></a>
+                <a href=""><i class="fa fa-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="member">
+              <div class="pic"><img src="img/team-2.jpg" alt=""></div>
+              <h4>sarah jhinson</h4>
+              <span>product manager</span>
+              <div class="social">
+                <a href=""><i class="fa fa-twitter"></i></a>
+                <a href=""><i class="fa fa-facebook"></i></a>
+                <a href=""><i class="fa fa-google-plus"></i></a>
+                <a href=""><i class="fa fa-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="member">
+              <div class="pic"><img src="img/team-3.jpg" alt=""></div>
+              <h4>william anderson</h4>
+              <span>cto</span>
+              <div class="social">
+                <a href=""><i class="fa fa-twitter"></i></a>
+                <a href=""><i class="fa fa-facebook"></i></a>
+                <a href=""><i class="fa fa-google-plus"></i></a>
+                <a href=""><i class="fa fa-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="member">
+              <div class="pic"><img src="img/team-4.jpg" alt=""></div>
+              <h4>amanda jepson</h4>
+              <span>accountant</span>
+              <div class="social">
+                <a href=""><i class="fa fa-twitter"></i></a>
+                <a href=""><i class="fa fa-facebook"></i></a>
+                <a href=""><i class="fa fa-google-plus"></i></a>
+                <a href=""><i class="fa fa-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>--><!-- #team -->
+
+ 
+      
+    <!--==========================
+      contact section
+    ============================-->
+    <section id="contact">
+    <div class="container rsu-font">
+    <div class="row mt-5 single-contact-widget"> 
+
+        <div class="col-lg-4 col-sm-6 mb-4 mb-xl-0 ">
+            <h4>about us</h4>
+            <p>หลักสูตรประกาศนียบัตรชุดวิชา ศาสตร์แห่งแผ่นดินเพื่อการพัฒนาที่ยั่งยืน</p>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 mb-4 mb-xl-0">
+            <h4>contact info</h4>
+            <div class="contact-address">
+                <p class="fc-green">วิทยาลัยบูรณาการศาสตร์ ชั้น 6 อาคารระพีสาคริก ม.เกษตรศาสตร์</p>
+                <span>phone : 061-509-6710</span>
+                <span>email : sisku@ku.th</span>
+                <p class="fc-green pt-2">สำนักบริการคอมพิวเตอร์  [แจ้งปัญหาการใช้งาน]</p>
+                <span>phone : 02-562-0951 ต่อ 622575</span>
+                <span>email : cpctts@ku.ac.th</span>
+            </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 mb-4 mb-xl-0">
+            <h4>important link</h4>
+            <ul>
+                <li><a href="https://cb.ku.ac.th/">ระบบสารสนเทศธนาคารหน่วยกิต</a></li>
+                <li><a href="https://cb.ku.ac.th/apply/">สมัครหลักสูตร none degree</a></li>
+                <li><a href="https://sis.ku.ac.th/รายละเอียดชุดวิชา/" target="_blank">รายละเอียดชุดวิชา</a></li>
+                <li><a href="https://sis.ku.ac.th/non-degree/" target="_blank">กำหนดการ</a></li>
+
+            </ul>
+        </div>
+
+       
+
+    </div>
+</div>
+</div>
+</section>
+    <!--<section id="contact">
+      <div class="container wow fadeinup">
+        <div class="section-header">
+          <h3 class="section-title">contact</h3>
+          <p class="section-description">sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+        </div>
+      </div>-->
+
+      <!-- uncomment below if you wan to use dynamic maps -->
+     
+     <!-- <div class="container wow fadeinup mt-5">
+        <div class="row justify-content-center">
+
+          <div class="col-lg-3 col-md-4">
+
+            <div class="info">
+              <div>
+                <i class="fa fa-map-marker"></i>
+                <p>a108 adam street<br>new york, ny 535022</p>
+              </div>
+
+              <div>
+                <i class="fa fa-envelope"></i>
+                <p>info@example.com</p>
+              </div>
+
+              <div>
+                <i class="fa fa-phone"></i>
+                <p>+1 5589 55488 55s</p>
+              </div>
+            </div>
+
+            <div class="social-links">
+              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
+              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+            </div>
+
+          </div>
+
+          <div class="col-lg-5 col-md-8">
+            <div class="form">
+              <div id="sendmessage">your message has been sent. thank you!</div>
+              <div id="errormessage"></div>
+              <form action="" method="post" role="form" class="contactform">
+                <div class="form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="your name" data-rule="minlen:4" data-msg="please enter at least 4 chars" />
+                  <div class="validation"></div>
+                </div>
+                <div class="form-group">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="your email" data-rule="email" data-msg="please enter a valid email" />
+                  <div class="validation"></div>
+                </div>
+                <div class="form-group">
+                  <input type="text" class="form-control" name="subject" id="subject" placeholder="subject" data-rule="minlen:4" data-msg="please enter at least 8 chars of subject" />
+                  <div class="validation"></div>
+                </div>
+                <div class="form-group">
+                  <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="please write something for us" placeholder="message"></textarea>
+                  <div class="validation"></div>
+                </div>
+                <div class="text-center"><button type="submit">send message</button></div>
+              </form>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>--><!-- #contact -->
+
+  </main>
+
+ <!--==========================
+    footer
+  ============================-->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; copyright <strong>2019</strong>. develope by : ocs ku
+      </div>
+      <div class="credits">
+        <!--
+          all the links in the footer should remain intact.
+          you can delete the links only if you purchased the pro version.
+          licensing information: https://bootstrapmade.com/license/
+          purchase the pro version with working php/ajax contact form: https://bootstrapmade.com/buy/?theme=regna
+        -->
+       <!-- designed by <a href="https://bootstrapmade.com/">bootstrapmade</a>-->
+      </div>
+    </div>
+  </footer><!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+<!--  modal popup on fill card number for print profile -->
+<div class="modal fade" id="expmodalapply" tabindex="-1" aria-labelledby="examplemodallabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="examplemodallabel">กรอกแบบฟอร์มใบสมัครเรียน</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+          <div class="form-group">
+            <label for="applier-name" class="col-form-label">เลขที่บัตรประชาชน</label>
+            <label id="show-err3" class="text-danger pl-2"><strong></strong></label>
+            <input type="text" class="form-control" id="inpmyapp" name="inpappcard" maxlength="13" value="">
+          </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">close</button>
+        <button type="buttton" class="btn btn-primary" onclick="doshowenrolform()">submit</button>
+      </div>
+   
+    </div>
+  </div>
+</div>
+
+<!--  modal popup on fill card number for print profile -->
+<!--<div class="modal fade" id="expmodalprint" tabindex="-1" aria-labelledby="examplemodallabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="examplemodallabel">พิมพ์ใบสมัคร</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+          <div class="form-group">
+            <label for="recipient-name" class="col-form-label">เลขที่บัตรประชาชน</label>
+            <label id="show-err" class="text-danger pl-2"><strong></strong></label>
+            <input type="text" class="form-control" id="inpnumcard" name="inpnumcard" maxlength="13" value="">
+          </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">close</button>
+        <button type="buttton" class="btn btn-primary" onclick="doshowprint()">submit</button>
+      </div>
+   
+    </div>
+  </div>
+</div>-->
+
+<!--  modal popup on fill card number for update history profile -->
+<div class="modal fade" id="expmodalhistory" tabindex="-1" aria-labelledby="examplemodallabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="examplemodallabel">แบบกรอกประวัติ สำหรับผู้สอบผ่านสัมภาษณ์</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+          <div class="form-group">
+            <label for="recipient-name" class="col-form-label">เลขที่บัตรประชาชน</label>
+            <label id="show-err2" class="text-danger pl-2"><strong></strong></label>
+            <input type="text" class="form-control" id="txtmyid" name="txtmyid"  value="">
+          </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">close</button>
+        <button type="buttton" class="btn btn-primary" onclick="dohistoryform()">submit</button>
+      </div>
+   
+    </div>
+  </div>
+</div>
+  
+<!-- javascript libraries -->
+
+<script src="js/jquery/jquery-3.2.1.min.js"></script>
+<!--script src="js/jquery/jquery.min.js"></script>-->
+
+<script src="js/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="js/wow/wow.min.js"></script>
+<script src="js/superfish/superfish.min.js"></script>  <!-- minus menu -->
+<script src="js/easing/easing.min.js"></script>
+<!-- contact form javascript file -->
+
+<!-- template main javascript file -->
+<script src="js/main.js"></script>
+
+</body>
+</html>

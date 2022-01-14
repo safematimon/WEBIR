@@ -1,0 +1,1952 @@
+<!doctype html>
+
+<!--[if ie 8]> <html class="ie ie8" lang="th"> <![endif]-->
+<!--[if ie 9]> <html class="ie ie9" lang="th"> <![endif]-->
+<!--[if gt ie 9]><!--> <html lang="th"> <!--<![endif]-->
+
+<head>
+
+
+<meta charset="utf-8" />
+<title>คณะสาธารณสุขศาสตร์ &mdash; มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</title>
+
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="pingback" href="http://fph.csc.ku.ac.th/xmlrpc.php" />
+	
+
+	
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="คณะสาธารณสุขศาสตร์ &raquo; ฟีด" href="http://fph.csc.ku.ac.th/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="คณะสาธารณสุขศาสตร์ &raquo; ฟีดความเห็น" href="http://fph.csc.ku.ac.th/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojisettings = {"baseurl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgurl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgext":".svg","source":{"concatemoji":"http:\/\/fph.csc.ku.ac.th\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createelement("canvas"),i=h.getcontext&&h.getcontext("2d"),j=string.fromcharcode;if(!i||!i.filltext)return!1;switch(i.textbaseline="top",i.font="600 32px arial",a){case"flag":return i.filltext(j(55356,56806,55356,56826),0,0),!(h.todataurl().length<3e3)&&(i.clearrect(0,0,h.width,h.height),i.filltext(j(55356,57331,65039,8205,55356,57096),0,0),c=h.todataurl(),i.clearrect(0,0,h.width,h.height),i.filltext(j(55356,57331,55356,57096),0,0),d=h.todataurl(),c!==d);case"diversity":return i.filltext(j(55356,57221),0,0),e=i.getimagedata(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.filltext(j(55356,57221,55356,57343),0,0),e=i.getimagedata(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.filltext(j(55357,56835),0,0),0!==i.getimagedata(16,16,1,1).data[0];case"unicode8":return i.filltext(j(55356,57135),0,0),0!==i.getimagedata(16,16,1,1).data[0];case"unicode9":return i.filltext(j(55358,56631),0,0),0!==i.getimagedata(16,16,1,1).data[0]}return!1}function e(a){var c=b.createelement("script");c.src=a,c.type="text/javascript",b.getelementsbytagname("head")[0].appendchild(c)}var f,g,h,i;for(i=array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingexceptflag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingexceptflag=c.supports.everythingexceptflag&&c.supports[i[h]]);c.supports.everythingexceptflag=c.supports.everythingexceptflag&&!c.supports.flag,c.domready=!1,c.readycallback=function(){c.domready=!0},c.supports.everything||(g=function(){c.readycallback()},b.addeventlistener?(b.addeventlistener("domcontentloaded",g,!1),a.addeventlistener("load",g,!1)):(a.attachevent("onload",g),b.attachevent("onreadystatechange",function(){"complete"===b.readystate&&c.readycallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojisettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sfmcss-css'  href='http://fph.csc.ku.ac.th/wp-content/plugins/feedburner-alternative-and-rss-redirect/css/sfm_style.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sfmcss-css'  href='http://fph.csc.ku.ac.th/wp-content/plugins/feedburner-alternative-and-rss-redirect/css/sfm_widgetstyle.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://fph.csc.ku.ac.th/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://fph.csc.ku.ac.th/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.0.8.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='wp-polls-css'  href='http://fph.csc.ku.ac.th/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.8' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://fph.csc.ku.ac.th/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='weblator_polling-plugin-styles-css'  href='http://fph.csc.ku.ac.th/wp-content/plugins/weblator-polling/public/assets/css/public.css?ver=1.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='weblator_polling-fa-css'  href='http://fph.csc.ku.ac.th/wp-content/plugins/weblator-polling/public/assets/css/font-awesome.min.css?ver=1.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-fonts-css'  href='http://fonts.googleapis.com/css?family=open+sans:400,400italic,600,700|roboto+slab|merriweather:300italic&#038;subset' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-core-css'  href='http://fph.csc.ku.ac.th/wp-content/themes/csctheme/style.css?ver=2.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-responsive-css'  href='http://fph.csc.ku.ac.th/wp-content/themes/csctheme/css/responsive.css?ver=2.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pretty-photo-css'  href='http://fph.csc.ku.ac.th/wp-content/themes/csctheme/css/prettyphoto.css?ver=2.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-font-awesome-css'  href='http://fph.csc.ku.ac.th/wp-content/themes/csctheme/css/fontawesome/css/font-awesome.min.css?ver=2.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css-css'  href='http://fph.csc.ku.ac.th/?bunyad_custom_css=1&#038;ver=4.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.0.8.5'></script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.0.8.5'></script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=3.0.2'></script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-content/plugins/weblator-polling/public/assets/js/vendors/excanvas.js?ver=1.3.0'></script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-content/plugins/weblator-polling/public/assets/js/vendors/chart.min.js?ver=1.3.0'></script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-content/plugins/weblator-polling/public/assets/js/app/legend.js?ver=1.3.0'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var ajaxurl = "http:\/\/fph.csc.ku.ac.th\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-content/plugins/weblator-polling/public/assets/js/app/public.js?ver=1.3.0'></script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-content/themes/csctheme/js/jquery.prettyphoto.js?ver=4.6.1'></script>
+<link rel='https://api.w.org/' href='http://fph.csc.ku.ac.th/?rest_route=/' />
+<link rel="edituri" type="application/rsd+xml" title="rsd" href="http://fph.csc.ku.ac.th/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://fph.csc.ku.ac.th/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="wordpress 4.6.1" />
+<link rel="canonical" href="http://fph.csc.ku.ac.th/" />
+<link rel='shortlink' href='http://fph.csc.ku.ac.th/' />
+<link rel="alternate" type="application/json+oembed" href="http://fph.csc.ku.ac.th/?rest_route=%2foembed%2f1.0%2fembed&#038;url=http%3a%2f%2ffph.csc.ku.ac.th%2f" />
+<link rel="alternate" type="text/xml+oembed" href="http://fph.csc.ku.ac.th/?rest_route=%2foembed%2f1.0%2fembed&#038;url=http%3a%2f%2ffph.csc.ku.ac.th%2f&#038;format=xml" />
+<style type="text/css">
+.qtranxs_flag_th {background-image: url(http://fph.csc.ku.ac.th/wp-content/plugins/qtranslate-x/flags/); background-repeat: no-repeat;}
+.qtranxs_flag_en {background-image: url(http://fph.csc.ku.ac.th/wp-content/plugins/qtranslate-x/flags/gb.png); background-repeat: no-repeat;}
+</style>
+<link hreflang="thai" href="http://fph.csc.ku.ac.th/th/?lang=th" rel="alternate" />
+<link hreflang="x-default" href="http://fph.csc.ku.ac.th/th/" rel="alternate" />
+<meta name="generator" content="qtranslate-x 3.4.6.8" />
+<meta name="generator" content="powered by slider revolution 5.0.8.5 - responsive, mobile-friendly slider plugin for wordpress with comfortable drag and drop interface." />
+<link rel="icon" href="http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/cropped-logo1-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/cropped-logo1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/cropped-logo1-180x180.png" />
+<meta name="msapplication-tileimage" content="http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/cropped-logo1-270x270.png" />
+<style>
+@import url('https://fonts.googleapis.com/css2?family=kanit&display=swap');
+</style>	
+<!--[if lt ie 9]>
+<script src="http://fph.csc.ku.ac.th/wp-content/themes/csctheme/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+</head>
+
+
+<body class="home page page-id-6 page-template page-template-page-blocks page-template-page-blocks-php page-builder right-sidebar full has-featured has-nav-dark">
+
+<div class="main-wrap">
+
+	
+	
+	<div class="top-bar">
+
+		<div class="wrap">
+			<section class="top-bar-content cf">
+			
+								<div class="trending-ticker">
+					<span class="heading">hot news : </span>
+
+					<ul>
+												
+												
+							<li><a href="http://fph.csc.ku.ac.th/?p=6147" title="ค่าธรรมเนียมการศึกษาระดับปริญญาโท (ภาคพิเศษ)">ค่าธรรมเนียมการศึกษาระดับปริญญาโท (ภาคพิเศษ)</a></li>
+						
+												
+							<li><a href="http://fph.csc.ku.ac.th/?p=6123" title="รับสมัครนิสิตระดับบัณฑิตศึกษา 2565">รับสมัครนิสิตระดับบัณฑิตศึกษา 2565</a></li>
+						
+												
+							<li><a href="http://fph.csc.ku.ac.th/?p=6115" title="รายละเอียด หลักสูตรสาธารณสุขศาสตรมหาบัณฑิต ภาคพิเศษ">รายละเอียด หลักสูตรสาธารณสุขศาสตรมหาบัณฑิต ภาคพิเศษ</a></li>
+						
+												
+							<li><a href="http://fph.csc.ku.ac.th/?p=6089" title="ขอเชิญร่วมกิจกรรมพัฒนานิสิต ส่งเสริมคุณธรรม จริยธรรม ระเบียบวินัย สร้างเสริมบุคลิกภาพ ตาม idku&amp;phcsc">ขอเชิญร่วมกิจกรรมพัฒนานิสิต ส่งเสริมคุณธรรม จริยธรรม ระเบียบวินัย สร้างเสริมบุคลิกภาพ ตาม idku&amp;phcsc</a></li>
+						
+												
+							<li><a href="http://fph.csc.ku.ac.th/?p=6082" title="เปิดรับสมัครสมัครงานโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ (1 ตำบล 1 มหาวิทยาลัย) รอบที่ 7">เปิดรับสมัครสมัครงานโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ (1 ตำบล 1 มหาวิทยาลัย) รอบที่ 7</a></li>
+						
+												
+							<li><a href="http://fph.csc.ku.ac.th/?p=6059" title="ph.12 singing contest 2021">ph.12 singing contest 2021</a></li>
+						
+												
+							<li><a href="http://fph.csc.ku.ac.th/?p=6049" title="ประกาศรายชื่อผู้ผ่านการคัดเลือกเข้าทำงานในโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ  (1 ตำบล 1 มหาวิทยาลัย) คลัสเตอร์ 13 (รอบ 6)">ประกาศรายชื่อผู้ผ่านการคัดเลือกเข้าทำงานในโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ  (1 ตำบล 1 มหาวิทยาลัย) คลัสเตอร์ 13 (รอบ 6)</a></li>
+						
+												
+							<li><a href="http://fph.csc.ku.ac.th/?p=6018" title="รับสมัครสมัครงานโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ (1 ตำบล 1 มหาวิทยาลัย) รอบที่ 5">รับสมัครสมัครงานโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ (1 ตำบล 1 มหาวิทยาลัย) รอบที่ 5</a></li>
+						
+												
+											</ul>
+				</div>
+				
+									
+					
+		<div class="search">
+			<form role="search" action="http://fph.csc.ku.ac.th/" method="get">
+				<input type="text" name="s" class="query live-search-query" value="" placeholder="ค้นหา..."/>
+				<button class="search-button" type="submit"><i class="fa fa-search"></i></button>
+			</form>
+		</div> <!-- .search -->					
+				
+							<div class="textwidget">
+<ul class="social-icons cf">
+<li><a href="http://fph.csc.ku.ac.th/"><img src="http://www.csc.ku.ac.th/th/wp-content/uploads/2016/09/th-1.png" alt="th" width="63" height="21" /></a></li>
+<li><a href="#" target="_blank"><img src="http://www.csc.ku.ac.th/th/wp-content/uploads/2016/09/en-1.png" alt="en" width="63" height="21" /></a></li>
+</ul>
+
+<ul class="social-icons cf">
+<li><a href="http://www.facebook.com/publichealth.ku.csc?__mref=message_bubble" class="icon fa fa-facebook" title="facebook"><span class="visuallyhidden">facebook</span></a></li> <u>facebook</u>
+</ul></div>
+						
+			</section>
+		</div>
+		
+	</div>
+	
+	<div id="main-head" class="main-head">
+		
+		<div class="wrap">
+			
+			
+			<header class="default">
+			
+				<div class="title">
+							<a href="http://fph.csc.ku.ac.th/" title="คณะสาธารณสุขศาสตร์" rel="home" class">
+		
+														
+								
+				<img src="http://fph.csc.ku.ac.th/wp-content/uploads/2017/11/หfphlogo.png" class="logo-image" alt="คณะสาธารณสุขศาสตร์"  />
+					 
+						
+		</a>				</div>
+				
+									
+					<div class="right">
+					
+				
+					
+			<div class="adwrap-widget">
+			
+				<a href="https://misreg.csc.ku.ac.th/admission/" target="_blank"><img src="http://fph.csc.ku.ac.th/wp-content/uploads/2021/10/logoku3bu.png" alt="bannernisit2" width="85%" /></a>
+			
+			</div>
+		
+				
+							</div>
+					
+								
+			</header>
+				
+							
+				
+<div class="navigation-wrap cf">
+
+	<nav class="navigation cf nav-dark">
+	
+		<div class>
+		
+			<div class="mobile" data-type="off-canvas" data-search="1">
+				<a href="#" class="selected">
+					<span class="text">เมนูขณะนี้</span><span class="current"></span> <i class="hamburger fa fa-bars"></i>
+				</a>
+			</div>
+			
+			<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-9"><a href="http://fph.csc.ku.ac.th/">home</a></li>
+<li id="menu-item-2269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2269"><a href="#">เกี่ยวกับเรา</a>
+<ul class="sub-menu">
+	<li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="http://fph.csc.ku.ac.th/?p=3593">สารจากคณบดี</a></li>
+	<li id="menu-item-68" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68"><a href="http://fph.csc.ku.ac.th/?p=209">ประวัติความเป็นมา</a></li>
+	<li id="menu-item-69" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69"><a href="http://fph.csc.ku.ac.th/?p=216">วิสัยทัศน์ พันธกิจ</a></li>
+	<li id="menu-item-6047" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6047"><a href="https://sites.google.com/ku.th/missionvisionphkucsc/%e0%b8%ab%e0%b8%99%e0%b8%b2%e0%b9%81%e0%b8%a3%e0%b8%81?fbclid=iwar3ulhffoxah05y69sm63y5kt61oj6a4qhdqs3evdc4o6at-g4jzy3cgt10">แผนยุทธศาสตร์ ปีงบ 61-65</a></li>
+	<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-43"><a href="http://fph.csc.ku.ac.th/?p=29">คณะผู้บริหาร</a></li>
+	<li id="menu-item-3207" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3207"><a href="http://fph.csc.ku.ac.th/?p=2598">บุคลากร</a></li>
+	<li id="menu-item-5744" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5744"><a target="_blank" href="https://drive.google.com/drive/folders/1-prafcoct112vfy2ga8juguboi-7lpuy?usp=sharing">logo download</a></li>
+</ul>
+</li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="#">หน่วยงานภายใน</a>
+<ul class="sub-menu">
+	<li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="http://fph.csc.ku.ac.th/dch">ภาควิชาอนามัยชุมชน</a></li>
+	<li id="menu-item-79" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79"><a href="http://fph.csc.ku.ac.th/?p=2342">ภาควิชาบริหารงานสาธารณสุข</a></li>
+	<li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74"><a href="http://fph.csc.ku.ac.th/?p=2358">สำนักงานเลขานุการ</a></li>
+	<li id="menu-item-5832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5832"><a href="http://fph.csc.ku.ac.th/envilab/">ห้องปฏิบัติการตรวจวิเคราะห์คุณภาพน้ำ</a></li>
+</ul>
+</li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13"><a href="#">การเข้าศึกษา</a><ul class="mega-menu links row">
+		<li id="menu-item-2713" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2713"><a href="#">ระดับปริญญาตรี</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2712"><a href="http://fph.csc.ku.ac.th/?p=2897">หลักสูตรที่เปิดสอน</a></li>
+		<li id="menu-item-2714" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2714"><a target="_blank" href="https://misreg.csc.ku.ac.th/admission/">สมัครเข้าศึกษาต่อ tcas63</a></li>
+		<li id="menu-item-5587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5587"><a href="http://fph.csc.ku.ac.th/wp-content/uploads/2020/06/แบบรายงานผลการตรวจร่างกายของผู้มีสิทธิ์เข้าศึกษา-ประจำปีการศึกษา-2563.pdf">แบบรายงานผลการตรวจร่างกาย 2563</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2720"><a href="#">ระดับปริญญาโท ภาคปกติ</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2721" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2721"><a href="http://fph.csc.ku.ac.th/?p=3082">หลักสูตร สม.(ภาคปกติ)</a></li>
+		<li id="menu-item-2725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2725"><a href="http://fph.csc.ku.ac.th/?p=3093">สมัครเข้าศึกษาต่อ</a></li>
+		<li id="menu-item-2726" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2726"><a href="#">ทุนการศึกษา</a></li>
+		<li id="menu-item-3186" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3186"><a href="http://fph.csc.ku.ac.th/?p=3188">กรรมการหลักสูตร</a></li>
+		<li id="menu-item-4505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4505"><a target="_blank" href="https://drive.google.com/file/d/1fn_kvvetacsshnqcatsdk0p0h3-xc5s9/view?usp=sharing">ที่ปรึกษวิทยานิพนธ์</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2724"><a href="#">ระดับปริญญาโท ภาคพิเศษ</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2723" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2723"><a href="http://fph.csc.ku.ac.th/?p=6115">หลักสูตร สม.(ภาคพิเศษ)</a></li>
+		<li id="menu-item-6151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6151"><a href="http://fph.csc.ku.ac.th/?p=6147">ค่าธรรมเนียมการศึกษา</a></li>
+		<li id="menu-item-6159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6159"><a href="https://drive.google.com/drive/folders/1vo4blczkqncnabdm5phzdtuv5wafulcl">สมัครเข้าศึกษาต่อ</a></li>
+		<li id="menu-item-6160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6160"><a href="#">ทุนการศึกษา</a></li>
+		<li id="menu-item-6161" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6161"><a href="http://fph.csc.ku.ac.th/?p=3188">กรรมการหลักสูตร</a></li>
+		<li id="menu-item-6162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6162"><a href="https://drive.google.com/file/d/1fn_kvvetacsshnqcatsdk0p0h3-xc5s9/view?usp=sharing">ที่ปรึกษวิทยานิพนธ์</a></li>
+	</ul>
+</li>
+	<li id="menu-item-6150" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6150"><a href="#">ระดับปริญญาเอก</a></li>
+</ul>
+</li>
+<li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14"><a href="#">นิสิต</a><ul class="mega-menu links row">
+		<li id="menu-item-82" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-82"><a href="#">ข่าวสำหรับนิสิต</a>
+	<ul class="sub-menu">
+		<li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90"><a target="_blank" href="#">ข่าวทะเบียนและประมวลผล</a></li>
+		<li id="menu-item-91" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-91"><a target="_blank" href="#">ข่าวฝึกอบรม</a></li>
+		<li id="menu-item-92" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-92"><a target="_blank" href="#">ข่าวกิจกรรมนิสิต</a></li>
+		<li id="menu-item-93" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93"><a target="_blank" href="#">ข่าวทุนการศึกษา</a></li>
+		<li id="menu-item-94" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94"><a href="#">ข่าวงานคลัง</a></li>
+		<li id="menu-item-95" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95"><a target="_blank" href="#">ข่าวหอพัก</a></li>
+	</ul>
+</li>
+	<li id="menu-item-83" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-83"><a href="#">ระบบสารสนเทศ</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5706" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5706"><a href="http://fph.csc.ku.ac.th/mis/">ระบบการยื่นคำร้องออนไลน์</a></li>
+		<li id="menu-item-96" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96"><a target="_blank" href="https://misreg.csc.ku.ac.th/misreg/student">ระบบสารสนเทศนิสิต</a></li>
+		<li id="menu-item-3373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3373"><a href="https://misreg.csc.ku.ac.th/misreg/parentcsc/">ระบบสารสนเทศสำหรับผู้ปกครอง</a></li>
+		<li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97"><a target="_blank" href="http://nisit.kasetsart.org/webformlist_student.aspx?campus=4&#038;head=2">ระบบตรวจสอบชั่วโมงกิจกรรม</a></li>
+		<li id="menu-item-3701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3701"><a href="https://misreg.csc.ku.ac.th/ku/cschelpdesk/">ระบบแจ้งซ่อมสาธารณูปโภค</a></li>
+		<li id="menu-item-99" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99"><a target="_blank" href="http://www.csc.ku.ac.th/reg/?p=2991">ตารางเรียน</a></li>
+		<li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100"><a target="_blank" href="http://www.csc.ku.ac.th/reg/?p=2993">ตารางสอบ</a></li>
+		<li id="menu-item-101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101"><a target="_blank" href="https://misreg.csc.ku.ac.th/fsespt/exam/exam_nisit/search.php">ตรวจสอบเลขที่นั่งสอบ</a></li>
+		<li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98"><a target="_blank" href="http://nisitmis.csc.ku.ac.th/webapp2/postoffice/index.php">ระบบตรวจสอบพัสดุไปรษณีย์</a></li>
+		<li id="menu-item-2666" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2666"><a href="http://office.csc.ku.ac.th/dorm/">หอพักนิสิต/หน่วยที่พักอาศัย</a></li>
+		<li id="menu-item-4292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4292"><a href="https://misreg.csc.ku.ac.th/misreg/room/">ระบบจองห้องประชุมออนไลน์ คณะสาธารณสุขศาสตร์</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2661"><a href="#">เอกสาร/รายงาน</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2702"><a href="http://www.csc.ku.ac.th/reg/?p=2989">ปฏิทินการศึกษา</a></li>
+		<li id="menu-item-2703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2703"><a href="https://misreg.csc.ku.ac.th/misreg/ku8/">รายงานการลงทะเบียนเรียนku8</a></li>
+		<li id="menu-item-2704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2704"><a href="https://misreg.csc.ku.ac.th/misreg/ku5/report_ku5.php">รายงานสถานะการบันทึกเกรด</a></li>
+		<li id="menu-item-2705" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2705"><a href="https://misreg.csc.ku.ac.th/misreg/ku5/report_ku7.php">รายงานสถานะ ku7</a></li>
+		<li id="menu-item-2706" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2706"><a href="https://drive.google.com/file/d/1rgunusttskkqkzvybpkr2sgx7gtibjmq/view">คู่มือนิสิตออนไลน์</a></li>
+		<li id="menu-item-2707" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2707"><a href="http://www.csc.ku.ac.th/reg/?p=2995">ดาวน์โหลดแบบฟอร์ม</a></li>
+		<li id="menu-item-3675" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3675"><a target="_blank" href="http://fph.csc.ku.ac.th/wp-content/uploads/2020/06/แบบรายงานผลการตรวจร่างกายของผู้มีสิทธิ์เข้าศึกษา-ประจำปีการศึกษา-2563.pdf">แบบรายงานผลการตรวจร่างกาย 2563</a></li>
+		<li id="menu-item-3733" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3733"><a href="http://fph.csc.ku.ac.th/dch/wp-content/uploads/sites/5/2021/12/%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b8%9f%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%a1%e0%b8%82%e0%b8%ad%e0%b8%a2%e0%b8%b7%e0%b8%a1%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b8%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88-1-12-64.pdf">แบบฟอร์มการขอยืมวัสดุ/ครุภัณฑ์/ห้องปฏิบัติการ</a></li>
+		<li id="menu-item-6174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6174"><a href="https://drive.google.com/file/d/1exi4ptffloh7buv6amghq_ckxeaxvmci/view">เล่มฝึกงาน เฉพาะด้าน หลักสูตร สบ.64</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2662"><a href="#">ประเมินความพึงพอใจ</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2708" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2708"><a href="https://eassess.ku.ac.th/m/">ประเมินการสอน</a></li>
+		<li id="menu-item-2709" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2709"><a href="https://regis.ku.ac.th/assessku-v2">ประเมินความพึ่งพอใจต่อ มก.</a></li>
+		<li id="menu-item-2710" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2710"><a href="http://dbs.csc.ku.ac.th:8080/eval_graduate">ระบบประเมินบัณฑิตยุคใหม่</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2663"><a href="#">บุคลากร</a><ul class="mega-menu links row">
+		<li id="menu-item-3208" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3208"><a href="#">ข่าวสำหรับบุคลากร</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3209" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3209"><a href="http://www.csc.ku.ac.th/th/?cat=35">ข่าวกิจกรรม มก.ฉกส.</a></li>
+		<li id="menu-item-3210" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3210"><a href="http://www.csc.ku.ac.th/th/?cat=34">ข่าวหน่วยทรัพยากรบุคคล</a></li>
+		<li id="menu-item-3211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3211"><a href="http://www.csc.ku.ac.th/th/?cat=36">ข่าวสวัสดิการ</a></li>
+		<li id="menu-item-3212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3212"><a href="http://www.csc.ku.ac.th/th/?cat=37">ข่าวประกาศส่วนกลาง มก.</a></li>
+		<li id="menu-item-3213" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3213"><a href="http://www.csc.ku.ac.th/th/?p=3807">การจัดการความรู้</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3214"><a href="#">ระบบสารสนเทศ</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3215" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3215"><a href="https://misreg.csc.ku.ac.th/misreg/studentdata_v2">ระบบฐานข้อมูลนิสิต</a></li>
+		<li id="menu-item-3216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3216"><a href="https://misreg.csc.ku.ac.th/misreg/ku8/">รายงานนิสิตลงทะเบียนเรียน</a></li>
+		<li id="menu-item-3217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3217"><a href="https://misreg.csc.ku.ac.th/misreg/autoforms_v2/index.html">กำหนดค่าธรรมเนียม/ค่าหอพัก</a></li>
+		<li id="menu-item-3218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3218"><a href="http://dbs.csc.ku.ac.th:8080/lockstd/loginpage.jsp">กำหนดสิทธิ์การลงทะเบียน</a></li>
+		<li id="menu-item-3219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3219"><a href="https://misreg.csc.ku.ac.th/misreg/course/formlogin.php">ระบบบันทึกข้อมูลรายวิชา</a></li>
+		<li id="menu-item-3220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3220"><a href="https://misreg.csc.ku.ac.th/misreg/cscreport/">ระบบรายงานสถิติอื่นๆ</a></li>
+		<li id="menu-item-3221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3221"><a href="https://misreg.csc.ku.ac.th/misreg/reserve_room">ระบบจองห้องออนไลน์</a></li>
+		<li id="menu-item-3222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3222"><a href="http://dbs.csc.ku.ac.th:8080/graduate/formlogin.jsp">ระบบยื่นใบขอจบการศึกษา</a></li>
+		<li id="menu-item-3223" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3223"><a href="https://misreg.csc.ku.ac.th/misreg/salary/">พิมพ์สลิปเงินเดือน(เงินรายได้)</a></li>
+		<li id="menu-item-3224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3224"><a href="https://misreg.csc.ku.ac.th/ku/edocuments/">ระบบหนังสือเวียน มก.ฉกส.</a></li>
+		<li id="menu-item-3672" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3672"><a href="https://misreg.csc.ku.ac.th/misreg/csccash/">ตรวจสอบเงินโอนเข้าบัญชี</a></li>
+		<li id="menu-item-3225" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3225"><a href="https://misreg.csc.ku.ac.th/ku/cschelpdesk/">ระบบแจ้งซ่อมสาธารณูปโภค</a></li>
+		<li id="menu-item-5756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5756"><a href="https://inv.csc.ku.ac.th/qrpayment/person/page-login.php">ระบบชำระเงินค่าสาธารณูปโภค</a></li>
+		<li id="menu-item-3226" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3226"><a href="http://dbs.csc.ku.ac.th:8080/logintime/">ระบบตรวจสอบการลงเวลาปฏิบัติงาน</a></li>
+		<li id="menu-item-3227" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3227"><a href="http://misoffice.csc.ku.ac.th/app/occeoffice/">ระบบจัดการข้อมูล ot</a></li>
+		<li id="menu-item-3228" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3228"><a href="https://misreg.csc.ku.ac.th/ku/emeeting">ระบบประชุมอิเล็กทรอนิกส์</a></li>
+		<li id="menu-item-3372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3372"><a href="http://dbs.csc.ku.ac.th:8080/edocument/">ระบบสารบรรณออนไลน์</a></li>
+		<li id="menu-item-3229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3229"><a href="https://misreg.csc.ku.ac.th/ku/archservices/">บริการออนไลน์หน่วยภูมิสถาปัตย์</a></li>
+		<li id="menu-item-3371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3371"><a target="_blank" href="http://www.csc.ku.ac.th/qrcode/">ระบบ qr code</a></li>
+		<li id="menu-item-3900" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3900"><a href="http://dbs.csc.ku.ac.th:8080/edocument3/">ระบบเอกสารอิเล็กทรอนิกส์</a></li>
+		<li id="menu-item-3230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3230"><a href="https://mail2.csc.ku.ac.th/">web mail มก.ฉกส.</a></li>
+		<li id="menu-item-5682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5682"><a href="https://inv.csc.ku.ac.th/qrpayment/person/page-login.php">ระบบชำระเงินค่าสาธารณูปโภค</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3231"><a href="#">อาจารย์ผู้สอน</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3232"><a href="https://misreg.csc.ku.ac.th/misreg/ku8/">รายงานการลงทะเบียนเรียนku8</a></li>
+		<li id="menu-item-3233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3233"><a href="https://misreg.csc.ku.ac.th/misreg/ku5">ระบบบันทึกเกรดออนไลน์</a></li>
+		<li id="menu-item-3234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3234"><a href="http://nisitmis.csc.ku.ac.th/webapp2/gpa/">ระบบแก้ไขระดับคะแนนนิสิต</a></li>
+		<li id="menu-item-3235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3235"><a href="https://eassess.ku.ac.th/">ระบบประเมินการเรียนการสอน</a></li>
+		<li id="menu-item-3236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3236"><a href="https://misreg.csc.ku.ac.th/misreg/advisor_v2/">ระบบสารสนเทศสำหรับอาจารย์</a></li>
+		<li id="menu-item-3237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3237"><a href="http://www.csc.ku.ac.th/reg/?p=3163">ระบบตรวจสอบห้องสอบ</a></li>
+		<li id="menu-item-3238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3238"><a href="http://www.csc.ku.ac.th/reg/?p=2991">ตารางเรียน</a></li>
+		<li id="menu-item-3239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3239"><a href="http://www.csc.ku.ac.th/reg/?p=2993">ตารางสอบ</a></li>
+		<li id="menu-item-4290" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4290"><a href="https://misreg.csc.ku.ac.th/misreg/room/">ระบบจองห้องประชุมออนไลน์ คณะสาธารณสุขศาสตร์</a></li>
+		<li id="menu-item-5764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5764"><a href="https://docs.google.com/forms/d/e/1faipqlsfiq08liqqwb2wpurxysn9kuldjljxwsz8voacab46sg85zvw/viewform">แบบขอใช้บริการ ยืน-คืน ครุภัณฑ์ฯ</a></li>
+		<li id="menu-item-5765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5765"><a href="https://docs.google.com/forms/d/e/1faipqlsf2nfrjrqf32wtzgcvfynh4z8pp9crjoviosvsearas562ypa/viewform">แบบขอใช้บริการงานประชาสัมพันธ์และสื่อสารองค์กร</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3240"><a href="#">เอกสาร/แบบฟอร์ม</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3295" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3295"><a target="_blank" href="https://drive.google.com/open?id=0bx_kd_6ggsf8fjl2tmfprfozywjdyuzmelz6vezabxbcvvrqewj1si1pneprethmsw1vc2m">บันทึกข้อความ–หนังสือออกภายนอก ตรามก</a></li>
+		<li id="menu-item-3296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3296"><a target="_blank" href="https://drive.google.com/open?id=0bx_kd_6ggsf8fjl2tmfprfozywjdyuzmelz6vezabxbcvvrqewj1si1pneprethmsw1vc2m">แบบฟอร์มเดินทางไปราชการ</a></li>
+		<li id="menu-item-3298" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3298"><a target="_blank" href="https://drive.google.com/open?id=0bx_kd_6ggsf8fjl2tmfprfozywjdyuzmelz6vezabxbcvvrqewj1si1pneprethmsw1vc2m">แบบจัดซื้อจัดจ้าง</a></li>
+		<li id="menu-item-3299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3299"><a target="_blank" href="https://drive.google.com/open?id=0bx_kd_6ggsf8fjl2tmfprfozywjdyuzmelz6vezabxbcvvrqewj1si1pneprethmsw1vc2m">โครงการงบอุดหนุน</a></li>
+		<li id="menu-item-3300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3300"><a href="http://fph.csc.ku.ac.th/?p=2549">โครงการเกษตรเพื่อยุทธศาสตร์การพัฒนา</a></li>
+		<li id="menu-item-3301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3301"><a href="http://fph.csc.ku.ac.th/?p=656">การขอตำแหน่งทางวิชาการ</a></li>
+		<li id="menu-item-5759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5759"><a href="https://anyflip.com/juriy/shal/?fbclid=iwar2kyzgiliklferkpsmjcxmktocgearkjmi0o4n3dqzkolymlljoxoozcgk">คู่มือปฏิบัติงานวิเคราะห์นโยบายและแผน</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-361"><a href="#">วิจัย</a><ul class="mega-menu links row">
+		<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15"><a href="#">เกี่ยวกับงานวิจัย</a>
+	<ul class="sub-menu">
+		<li id="menu-item-362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-362"><a href="http://fph.csc.ku.ac.th/?p=462">โครงการวิจัย</a></li>
+		<li id="menu-item-363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-363"><a href="http://fph.csc.ku.ac.th/?p=466">ผลงานทางวิชาการ</a></li>
+		<li id="menu-item-364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-364"><a href="http://fph.csc.ku.ac.th/?p=468">แหล่งทุนวิจัย</a></li>
+		<li id="menu-item-366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-366"><a href="http://fph.csc.ku.ac.th/?p=474">จรรยาบรรณนักวิจัย</a></li>
+	</ul>
+</li>
+	<li id="menu-item-371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-371"><a target="_blank">บริการวิชาการ</a>
+	<ul class="sub-menu">
+		<li id="menu-item-369" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-369"><a href="http://fph.csc.ku.ac.th/?p=478">โครงการบริการวิชาการ</a></li>
+		<li id="menu-item-2750" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2750"><a href="http://fph.csc.ku.ac.th/?p=2747">โครงการพัฒนาวิชาการ</a></li>
+		<li id="menu-item-370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-370"><a href="http://fph.csc.ku.ac.th/?p=480">โครงกาารแลกเปลี่ยนเรียนรู้ (km)</a></li>
+		<li id="menu-item-2749" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2749"><a href="https://kuservice.ku.ac.th/kuservice/webapp/home/index.php">ระบบฐานข้อมูลพัฒนาวิชาการ</a></li>
+	</ul>
+</li>
+	<li id="menu-item-482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-482"><a href="#">สถาบันวิจัย มก.</a>
+	<ul class="sub-menu">
+		<li id="menu-item-483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-483"><a target="_blank" href="https://research.rdi.ku.ac.th/kur/login.aspx">ระบบสืบค้นข้อมูลงานวิจัย</a></li>
+		<li id="menu-item-484" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-484"><a target="_blank" href="http://research.rdi.ku.ac.th/forest">ระบบสืบค้นข้อมูลงานวิจัย</a></li>
+		<li id="menu-item-485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-485"><a target="_blank" href="http://www2.rdi.ku.ac.th/newweb/?p=1443">ระบบฐานข้อมูลวิจัยและงานสร้างสรรค์ มก.</a></li>
+		<li id="menu-item-486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-486"><a target="_blank" href="https://research.rdi.ku.ac.th/kurx/login.aspx">ระบบบริหารเงินอุดหนุนวิจัยภายนอก</a></li>
+		<li id="menu-item-487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-487"><a target="_blank" href="http://www2.rdi.ku.ac.th/newweb/?page_id=4924">ระบบสำนักงานอัตโนมัติ</a></li>
+		<li id="menu-item-488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488"><a target="_blank" href="https://research.rdi.ku.ac.th/tracking/">ระบบติดตามงานวิจัย</a></li>
+	</ul>
+</li>
+	<li id="menu-item-368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-368"><a href="#">download</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5875" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5875"><a href="http://fph.csc.ku.ac.th/wp-content/uploads/2021/01/apc-request-form.docx">ใบสมัคร apc-request-form</a></li>
+		<li id="menu-item-5876" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5876"><a href="http://fph.csc.ku.ac.th/wp-content/uploads/2021/01/ใบสมัคร-international-published-paper.docx">ใบสมัคร-international-publish-paper</a></li>
+		<li id="menu-item-5877" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5877"><a href="http://fph.csc.ku.ac.th/wp-content/uploads/2021/01/ใบสมัคร-ms-eng.docx">ใบสมัคร-ms-eng</a></li>
+		<li id="menu-item-2751" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2751"><a href="https://kuservice.ku.ac.th/index_.php?action=download&#038;part=2">dowdload เอกสาร</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-118"><a href="#">หน่วยงาน</a><ul class="mega-menu links row">
+		<li id="menu-item-147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-147"><a href="#">สายวิชาการ</a>
+	<ul class="sub-menu">
+		<li id="menu-item-148" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148"><a href="http://fna.csc.ku.ac.th">คณะทรัพยากรธรรมชาติและอุตสาหกรรมเกษตร</a></li>
+		<li id="menu-item-150" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-150"><a href="http://www.csc.ku.ac.th/fam">คณะศิลปศาสตร์และวิทยาการจัดการ</a></li>
+		<li id="menu-item-149" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149"><a href="http://fse.csc.ku.ac.th/">คณะวิทยาศาสตร์และวิศวกรรมศาสตร์</a></li>
+	</ul>
+</li>
+	<li id="menu-item-151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-151"><a href="#">สายสนับสนุน</a>
+	<ul class="sub-menu">
+		<li id="menu-item-152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-152"><a href="http://occ.csc.ku.ac.th/">สำนักงานวิทยาเขตฯ</a></li>
+		<li id="menu-item-153" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-153"><a href="#">กองบริหารทั่วไป</a></li>
+		<li id="menu-item-154" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154"><a href="#">กองบริหารวิชาการและนิสิต</a></li>
+		<li id="menu-item-155" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-155"><a href="#">กองบริหารการวิจัยและบริการวิชาการ</a></li>
+		<li id="menu-item-156" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156"><a href="#">กองบริการกลาง</a></li>
+	</ul>
+</li>
+	<li id="menu-item-157" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-157"><a href="#">มหาวิทยาลัย</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158"><a href="http://www.ku.ac.th/">วิทยาเขตบางเขน</a></li>
+		<li id="menu-item-159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159"><a href="http://www.kps.ku.ac.th/">วิทยาเขตกำแพงแสน</a></li>
+		<li id="menu-item-160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160"><a href="http://www.src.ku.ac.th/">วิทยาเขตศรีราชา</a></li>
+		<li id="menu-item-161" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-161"><a href="http://www.csc.ku.ac.th/">วิทยาเขตเฉลิมพระเกียรติฯ</a></li>
+	</ul>
+</li>
+	<li id="menu-item-164" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-164"><a href="#">หน่วยงานบริการหลัก</a>
+	<ul class="sub-menu">
+		<li id="menu-item-162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-162"><a target="_blank" href="http://www.csc.ku.ac.th/reg">งานทะเบียนและประมวลผล</a></li>
+		<li id="menu-item-163" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163"><a target="_blank" href="http://office.csc.ku.ac.th/dsa">งานกิจการนิสิต</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1116"><a target="_blank" href="https://drive.google.com/drive/folders/1iq8d7bzgvgeb-lw4zqm4dhiekq_2uix_?usp=sharing">km ph</a></li>
+</ul>
+</li>
+</ul></div>			
+						
+				<div class="mobile-menu-container"><ul id="menu-main-menu-1" class="menu mobile-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-9"><a href="http://fph.csc.ku.ac.th/">home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2269"><a href="#">เกี่ยวกับเรา</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="http://fph.csc.ku.ac.th/?p=3593">สารจากคณบดี</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68"><a href="http://fph.csc.ku.ac.th/?p=209">ประวัติความเป็นมา</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69"><a href="http://fph.csc.ku.ac.th/?p=216">วิสัยทัศน์ พันธกิจ</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6047"><a href="https://sites.google.com/ku.th/missionvisionphkucsc/%e0%b8%ab%e0%b8%99%e0%b8%b2%e0%b9%81%e0%b8%a3%e0%b8%81?fbclid=iwar3ulhffoxah05y69sm63y5kt61oj6a4qhdqs3evdc4o6at-g4jzy3cgt10">แผนยุทธศาสตร์ ปีงบ 61-65</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-43"><a href="http://fph.csc.ku.ac.th/?p=29">คณะผู้บริหาร</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3207"><a href="http://fph.csc.ku.ac.th/?p=2598">บุคลากร</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5744"><a target="_blank" href="https://drive.google.com/drive/folders/1-prafcoct112vfy2ga8juguboi-7lpuy?usp=sharing">logo download</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="#">หน่วยงานภายใน</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="http://fph.csc.ku.ac.th/dch">ภาควิชาอนามัยชุมชน</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79"><a href="http://fph.csc.ku.ac.th/?p=2342">ภาควิชาบริหารงานสาธารณสุข</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74"><a href="http://fph.csc.ku.ac.th/?p=2358">สำนักงานเลขานุการ</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5832"><a href="http://fph.csc.ku.ac.th/envilab/">ห้องปฏิบัติการตรวจวิเคราะห์คุณภาพน้ำ</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13"><a href="#">การเข้าศึกษา</a><ul class="mega-menu links row">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2713"><a href="#">ระดับปริญญาตรี</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2712"><a href="http://fph.csc.ku.ac.th/?p=2897">หลักสูตรที่เปิดสอน</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2714"><a target="_blank" href="https://misreg.csc.ku.ac.th/admission/">สมัครเข้าศึกษาต่อ tcas63</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5587"><a href="http://fph.csc.ku.ac.th/wp-content/uploads/2020/06/แบบรายงานผลการตรวจร่างกายของผู้มีสิทธิ์เข้าศึกษา-ประจำปีการศึกษา-2563.pdf">แบบรายงานผลการตรวจร่างกาย 2563</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2720"><a href="#">ระดับปริญญาโท ภาคปกติ</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2721"><a href="http://fph.csc.ku.ac.th/?p=3082">หลักสูตร สม.(ภาคปกติ)</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2725"><a href="http://fph.csc.ku.ac.th/?p=3093">สมัครเข้าศึกษาต่อ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2726"><a href="#">ทุนการศึกษา</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3186"><a href="http://fph.csc.ku.ac.th/?p=3188">กรรมการหลักสูตร</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4505"><a target="_blank" href="https://drive.google.com/file/d/1fn_kvvetacsshnqcatsdk0p0h3-xc5s9/view?usp=sharing">ที่ปรึกษวิทยานิพนธ์</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2724"><a href="#">ระดับปริญญาโท ภาคพิเศษ</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2723"><a href="http://fph.csc.ku.ac.th/?p=6115">หลักสูตร สม.(ภาคพิเศษ)</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6151"><a href="http://fph.csc.ku.ac.th/?p=6147">ค่าธรรมเนียมการศึกษา</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6159"><a href="https://drive.google.com/drive/folders/1vo4blczkqncnabdm5phzdtuv5wafulcl">สมัครเข้าศึกษาต่อ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6160"><a href="#">ทุนการศึกษา</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6161"><a href="http://fph.csc.ku.ac.th/?p=3188">กรรมการหลักสูตร</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6162"><a href="https://drive.google.com/file/d/1fn_kvvetacsshnqcatsdk0p0h3-xc5s9/view?usp=sharing">ที่ปรึกษวิทยานิพนธ์</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6150"><a href="#">ระดับปริญญาเอก</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14"><a href="#">นิสิต</a><ul class="mega-menu links row">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-82"><a href="#">ข่าวสำหรับนิสิต</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90"><a target="_blank" href="#">ข่าวทะเบียนและประมวลผล</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-91"><a target="_blank" href="#">ข่าวฝึกอบรม</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-92"><a target="_blank" href="#">ข่าวกิจกรรมนิสิต</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93"><a target="_blank" href="#">ข่าวทุนการศึกษา</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94"><a href="#">ข่าวงานคลัง</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95"><a target="_blank" href="#">ข่าวหอพัก</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-83"><a href="#">ระบบสารสนเทศ</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5706"><a href="http://fph.csc.ku.ac.th/mis/">ระบบการยื่นคำร้องออนไลน์</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96"><a target="_blank" href="https://misreg.csc.ku.ac.th/misreg/student">ระบบสารสนเทศนิสิต</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3373"><a href="https://misreg.csc.ku.ac.th/misreg/parentcsc/">ระบบสารสนเทศสำหรับผู้ปกครอง</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97"><a target="_blank" href="http://nisit.kasetsart.org/webformlist_student.aspx?campus=4&#038;head=2">ระบบตรวจสอบชั่วโมงกิจกรรม</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3701"><a href="https://misreg.csc.ku.ac.th/ku/cschelpdesk/">ระบบแจ้งซ่อมสาธารณูปโภค</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99"><a target="_blank" href="http://www.csc.ku.ac.th/reg/?p=2991">ตารางเรียน</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100"><a target="_blank" href="http://www.csc.ku.ac.th/reg/?p=2993">ตารางสอบ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101"><a target="_blank" href="https://misreg.csc.ku.ac.th/fsespt/exam/exam_nisit/search.php">ตรวจสอบเลขที่นั่งสอบ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98"><a target="_blank" href="http://nisitmis.csc.ku.ac.th/webapp2/postoffice/index.php">ระบบตรวจสอบพัสดุไปรษณีย์</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2666"><a href="http://office.csc.ku.ac.th/dorm/">หอพักนิสิต/หน่วยที่พักอาศัย</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4292"><a href="https://misreg.csc.ku.ac.th/misreg/room/">ระบบจองห้องประชุมออนไลน์ คณะสาธารณสุขศาสตร์</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2661"><a href="#">เอกสาร/รายงาน</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2702"><a href="http://www.csc.ku.ac.th/reg/?p=2989">ปฏิทินการศึกษา</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2703"><a href="https://misreg.csc.ku.ac.th/misreg/ku8/">รายงานการลงทะเบียนเรียนku8</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2704"><a href="https://misreg.csc.ku.ac.th/misreg/ku5/report_ku5.php">รายงานสถานะการบันทึกเกรด</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2705"><a href="https://misreg.csc.ku.ac.th/misreg/ku5/report_ku7.php">รายงานสถานะ ku7</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2706"><a href="https://drive.google.com/file/d/1rgunusttskkqkzvybpkr2sgx7gtibjmq/view">คู่มือนิสิตออนไลน์</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2707"><a href="http://www.csc.ku.ac.th/reg/?p=2995">ดาวน์โหลดแบบฟอร์ม</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3675"><a target="_blank" href="http://fph.csc.ku.ac.th/wp-content/uploads/2020/06/แบบรายงานผลการตรวจร่างกายของผู้มีสิทธิ์เข้าศึกษา-ประจำปีการศึกษา-2563.pdf">แบบรายงานผลการตรวจร่างกาย 2563</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3733"><a href="http://fph.csc.ku.ac.th/dch/wp-content/uploads/sites/5/2021/12/%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b8%9f%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%a1%e0%b8%82%e0%b8%ad%e0%b8%a2%e0%b8%b7%e0%b8%a1%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b8%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88-1-12-64.pdf">แบบฟอร์มการขอยืมวัสดุ/ครุภัณฑ์/ห้องปฏิบัติการ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6174"><a href="https://drive.google.com/file/d/1exi4ptffloh7buv6amghq_ckxeaxvmci/view">เล่มฝึกงาน เฉพาะด้าน หลักสูตร สบ.64</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2662"><a href="#">ประเมินความพึงพอใจ</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2708"><a href="https://eassess.ku.ac.th/m/">ประเมินการสอน</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2709"><a href="https://regis.ku.ac.th/assessku-v2">ประเมินความพึ่งพอใจต่อ มก.</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2710"><a href="http://dbs.csc.ku.ac.th:8080/eval_graduate">ระบบประเมินบัณฑิตยุคใหม่</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2663"><a href="#">บุคลากร</a><ul class="mega-menu links row">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3208"><a href="#">ข่าวสำหรับบุคลากร</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3209"><a href="http://www.csc.ku.ac.th/th/?cat=35">ข่าวกิจกรรม มก.ฉกส.</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3210"><a href="http://www.csc.ku.ac.th/th/?cat=34">ข่าวหน่วยทรัพยากรบุคคล</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3211"><a href="http://www.csc.ku.ac.th/th/?cat=36">ข่าวสวัสดิการ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3212"><a href="http://www.csc.ku.ac.th/th/?cat=37">ข่าวประกาศส่วนกลาง มก.</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3213"><a href="http://www.csc.ku.ac.th/th/?p=3807">การจัดการความรู้</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3214"><a href="#">ระบบสารสนเทศ</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3215"><a href="https://misreg.csc.ku.ac.th/misreg/studentdata_v2">ระบบฐานข้อมูลนิสิต</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3216"><a href="https://misreg.csc.ku.ac.th/misreg/ku8/">รายงานนิสิตลงทะเบียนเรียน</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3217"><a href="https://misreg.csc.ku.ac.th/misreg/autoforms_v2/index.html">กำหนดค่าธรรมเนียม/ค่าหอพัก</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3218"><a href="http://dbs.csc.ku.ac.th:8080/lockstd/loginpage.jsp">กำหนดสิทธิ์การลงทะเบียน</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3219"><a href="https://misreg.csc.ku.ac.th/misreg/course/formlogin.php">ระบบบันทึกข้อมูลรายวิชา</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3220"><a href="https://misreg.csc.ku.ac.th/misreg/cscreport/">ระบบรายงานสถิติอื่นๆ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3221"><a href="https://misreg.csc.ku.ac.th/misreg/reserve_room">ระบบจองห้องออนไลน์</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3222"><a href="http://dbs.csc.ku.ac.th:8080/graduate/formlogin.jsp">ระบบยื่นใบขอจบการศึกษา</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3223"><a href="https://misreg.csc.ku.ac.th/misreg/salary/">พิมพ์สลิปเงินเดือน(เงินรายได้)</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3224"><a href="https://misreg.csc.ku.ac.th/ku/edocuments/">ระบบหนังสือเวียน มก.ฉกส.</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3672"><a href="https://misreg.csc.ku.ac.th/misreg/csccash/">ตรวจสอบเงินโอนเข้าบัญชี</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3225"><a href="https://misreg.csc.ku.ac.th/ku/cschelpdesk/">ระบบแจ้งซ่อมสาธารณูปโภค</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5756"><a href="https://inv.csc.ku.ac.th/qrpayment/person/page-login.php">ระบบชำระเงินค่าสาธารณูปโภค</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3226"><a href="http://dbs.csc.ku.ac.th:8080/logintime/">ระบบตรวจสอบการลงเวลาปฏิบัติงาน</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3227"><a href="http://misoffice.csc.ku.ac.th/app/occeoffice/">ระบบจัดการข้อมูล ot</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3228"><a href="https://misreg.csc.ku.ac.th/ku/emeeting">ระบบประชุมอิเล็กทรอนิกส์</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3372"><a href="http://dbs.csc.ku.ac.th:8080/edocument/">ระบบสารบรรณออนไลน์</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3229"><a href="https://misreg.csc.ku.ac.th/ku/archservices/">บริการออนไลน์หน่วยภูมิสถาปัตย์</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3371"><a target="_blank" href="http://www.csc.ku.ac.th/qrcode/">ระบบ qr code</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3900"><a href="http://dbs.csc.ku.ac.th:8080/edocument3/">ระบบเอกสารอิเล็กทรอนิกส์</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3230"><a href="https://mail2.csc.ku.ac.th/">web mail มก.ฉกส.</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5682"><a href="https://inv.csc.ku.ac.th/qrpayment/person/page-login.php">ระบบชำระเงินค่าสาธารณูปโภค</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3231"><a href="#">อาจารย์ผู้สอน</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3232"><a href="https://misreg.csc.ku.ac.th/misreg/ku8/">รายงานการลงทะเบียนเรียนku8</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3233"><a href="https://misreg.csc.ku.ac.th/misreg/ku5">ระบบบันทึกเกรดออนไลน์</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3234"><a href="http://nisitmis.csc.ku.ac.th/webapp2/gpa/">ระบบแก้ไขระดับคะแนนนิสิต</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3235"><a href="https://eassess.ku.ac.th/">ระบบประเมินการเรียนการสอน</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3236"><a href="https://misreg.csc.ku.ac.th/misreg/advisor_v2/">ระบบสารสนเทศสำหรับอาจารย์</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3237"><a href="http://www.csc.ku.ac.th/reg/?p=3163">ระบบตรวจสอบห้องสอบ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3238"><a href="http://www.csc.ku.ac.th/reg/?p=2991">ตารางเรียน</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3239"><a href="http://www.csc.ku.ac.th/reg/?p=2993">ตารางสอบ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4290"><a href="https://misreg.csc.ku.ac.th/misreg/room/">ระบบจองห้องประชุมออนไลน์ คณะสาธารณสุขศาสตร์</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5764"><a href="https://docs.google.com/forms/d/e/1faipqlsfiq08liqqwb2wpurxysn9kuldjljxwsz8voacab46sg85zvw/viewform">แบบขอใช้บริการ ยืน-คืน ครุภัณฑ์ฯ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5765"><a href="https://docs.google.com/forms/d/e/1faipqlsf2nfrjrqf32wtzgcvfynh4z8pp9crjoviosvsearas562ypa/viewform">แบบขอใช้บริการงานประชาสัมพันธ์และสื่อสารองค์กร</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3240"><a href="#">เอกสาร/แบบฟอร์ม</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3295"><a target="_blank" href="https://drive.google.com/open?id=0bx_kd_6ggsf8fjl2tmfprfozywjdyuzmelz6vezabxbcvvrqewj1si1pneprethmsw1vc2m">บันทึกข้อความ–หนังสือออกภายนอก ตรามก</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3296"><a target="_blank" href="https://drive.google.com/open?id=0bx_kd_6ggsf8fjl2tmfprfozywjdyuzmelz6vezabxbcvvrqewj1si1pneprethmsw1vc2m">แบบฟอร์มเดินทางไปราชการ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3298"><a target="_blank" href="https://drive.google.com/open?id=0bx_kd_6ggsf8fjl2tmfprfozywjdyuzmelz6vezabxbcvvrqewj1si1pneprethmsw1vc2m">แบบจัดซื้อจัดจ้าง</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3299"><a target="_blank" href="https://drive.google.com/open?id=0bx_kd_6ggsf8fjl2tmfprfozywjdyuzmelz6vezabxbcvvrqewj1si1pneprethmsw1vc2m">โครงการงบอุดหนุน</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3300"><a href="http://fph.csc.ku.ac.th/?p=2549">โครงการเกษตรเพื่อยุทธศาสตร์การพัฒนา</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3301"><a href="http://fph.csc.ku.ac.th/?p=656">การขอตำแหน่งทางวิชาการ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5759"><a href="https://anyflip.com/juriy/shal/?fbclid=iwar2kyzgiliklferkpsmjcxmktocgearkjmi0o4n3dqzkolymlljoxoozcgk">คู่มือปฏิบัติงานวิเคราะห์นโยบายและแผน</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-361"><a href="#">วิจัย</a><ul class="mega-menu links row">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15"><a href="#">เกี่ยวกับงานวิจัย</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-362"><a href="http://fph.csc.ku.ac.th/?p=462">โครงการวิจัย</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-363"><a href="http://fph.csc.ku.ac.th/?p=466">ผลงานทางวิชาการ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-364"><a href="http://fph.csc.ku.ac.th/?p=468">แหล่งทุนวิจัย</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-366"><a href="http://fph.csc.ku.ac.th/?p=474">จรรยาบรรณนักวิจัย</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-371"><a target="_blank">บริการวิชาการ</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-369"><a href="http://fph.csc.ku.ac.th/?p=478">โครงการบริการวิชาการ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2750"><a href="http://fph.csc.ku.ac.th/?p=2747">โครงการพัฒนาวิชาการ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-370"><a href="http://fph.csc.ku.ac.th/?p=480">โครงกาารแลกเปลี่ยนเรียนรู้ (km)</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2749"><a href="https://kuservice.ku.ac.th/kuservice/webapp/home/index.php">ระบบฐานข้อมูลพัฒนาวิชาการ</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-482"><a href="#">สถาบันวิจัย มก.</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-483"><a target="_blank" href="https://research.rdi.ku.ac.th/kur/login.aspx">ระบบสืบค้นข้อมูลงานวิจัย</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-484"><a target="_blank" href="http://research.rdi.ku.ac.th/forest">ระบบสืบค้นข้อมูลงานวิจัย</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-485"><a target="_blank" href="http://www2.rdi.ku.ac.th/newweb/?p=1443">ระบบฐานข้อมูลวิจัยและงานสร้างสรรค์ มก.</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-486"><a target="_blank" href="https://research.rdi.ku.ac.th/kurx/login.aspx">ระบบบริหารเงินอุดหนุนวิจัยภายนอก</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-487"><a target="_blank" href="http://www2.rdi.ku.ac.th/newweb/?page_id=4924">ระบบสำนักงานอัตโนมัติ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488"><a target="_blank" href="https://research.rdi.ku.ac.th/tracking/">ระบบติดตามงานวิจัย</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-368"><a href="#">download</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5875"><a href="http://fph.csc.ku.ac.th/wp-content/uploads/2021/01/apc-request-form.docx">ใบสมัคร apc-request-form</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5876"><a href="http://fph.csc.ku.ac.th/wp-content/uploads/2021/01/ใบสมัคร-international-published-paper.docx">ใบสมัคร-international-publish-paper</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5877"><a href="http://fph.csc.ku.ac.th/wp-content/uploads/2021/01/ใบสมัคร-ms-eng.docx">ใบสมัคร-ms-eng</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2751"><a href="https://kuservice.ku.ac.th/index_.php?action=download&#038;part=2">dowdload เอกสาร</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-118"><a href="#">หน่วยงาน</a><ul class="mega-menu links row">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-147"><a href="#">สายวิชาการ</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148"><a href="http://fna.csc.ku.ac.th">คณะทรัพยากรธรรมชาติและอุตสาหกรรมเกษตร</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-150"><a href="http://www.csc.ku.ac.th/fam">คณะศิลปศาสตร์และวิทยาการจัดการ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149"><a href="http://fse.csc.ku.ac.th/">คณะวิทยาศาสตร์และวิศวกรรมศาสตร์</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-151"><a href="#">สายสนับสนุน</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-152"><a href="http://occ.csc.ku.ac.th/">สำนักงานวิทยาเขตฯ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-153"><a href="#">กองบริหารทั่วไป</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154"><a href="#">กองบริหารวิชาการและนิสิต</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-155"><a href="#">กองบริหารการวิจัยและบริการวิชาการ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156"><a href="#">กองบริการกลาง</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-157"><a href="#">มหาวิทยาลัย</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158"><a href="http://www.ku.ac.th/">วิทยาเขตบางเขน</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159"><a href="http://www.kps.ku.ac.th/">วิทยาเขตกำแพงแสน</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160"><a href="http://www.src.ku.ac.th/">วิทยาเขตศรีราชา</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-161"><a href="http://www.csc.ku.ac.th/">วิทยาเขตเฉลิมพระเกียรติฯ</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-164"><a href="#">หน่วยงานบริการหลัก</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-162"><a target="_blank" href="http://www.csc.ku.ac.th/reg">งานทะเบียนและประมวลผล</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163"><a target="_blank" href="http://office.csc.ku.ac.th/dsa">งานกิจการนิสิต</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1116"><a target="_blank" href="https://drive.google.com/drive/folders/1iq8d7bzgvgeb-lw4zqm4dhiekq_2uix_?usp=sharing">km ph</a></li>
+</ul>
+</li>
+</ul></div>			
+				
+		</div>
+		
+	</nav>
+
+		
+</div>				
+							
+		</div>
+		
+				
+	</div>	
+	<div class="breadcrumbs-wrap">
+		
+		<div class="wrap">
+				</div>
+		
+	</div>
+
+<div class="main-featured"><div class="wrap cf"><link href="http://fonts.googleapis.com/css?family=kanit" rel="stylesheet" property="stylesheet" type="text/css" media="all" /><link href="http://fonts.googleapis.com/css?family=font-family: &#039;kanit&#039;;" rel="stylesheet" property="stylesheet" type="text/css" media="all" />
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- start revolution slider 5.0.8.5 auto mode -->
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.8.5">
+<ul>	<!-- slide  -->
+	<li data-index="rs-97" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-link="http://fph.csc.ku.ac.th/?p=6123"   data-thumb="http://fph.csc.ku.ac.th/wp-content/uploads/2021/11/2-100x50.png"  data-delay="4000"  data-rotate="0"  data-saveperformance="off"  data-title="slide" data-description="">
+		<!-- main image -->
+		<img src="http://fph.csc.ku.ac.th/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt=""  width="1617" height="645" data-lazyload="http://fph.csc.ku.ac.th/wp-content/uploads/2021/11/2.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-96" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-link="https://misreg.csc.ku.ac.th/admission/"  data-target="_blank"  data-thumb="http://fph.csc.ku.ac.th/wp-content/uploads/2021/10/สมัคร-tcas-100x50.png"  data-delay="4000"  data-rotate="0"  data-saveperformance="off"  data-title="slide" data-description="">
+		<!-- main image -->
+		<img src="http://fph.csc.ku.ac.th/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt=""  width="1617" height="645" data-lazyload="http://fph.csc.ku.ac.th/wp-content/uploads/2021/10/สมัคร-tcas.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-84" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://fph.csc.ku.ac.th/wp-content/uploads/2021/08/2-100x50.jpg"  data-delay="4000"  data-rotate="0"  data-saveperformance="off"  data-title="slide" data-description="">
+		<!-- main image -->
+		<img src="http://fph.csc.ku.ac.th/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt=""  width="1617" height="645" data-lazyload="http://fph.csc.ku.ac.th/wp-content/uploads/2021/08/2.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-81" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://fph.csc.ku.ac.th/wp-content/uploads/2020/12/11111-02-01-01-100x50.jpg"  data-delay="4000"  data-rotate="0"  data-saveperformance="off"  data-title="slide" data-description="">
+		<!-- main image -->
+		<img src="http://fph.csc.ku.ac.th/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt=""  width="2249" height="898" data-lazyload="http://fph.csc.ku.ac.th/wp-content/uploads/2020/12/11111-02-01-01.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-60" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://fph.csc.ku.ac.th/wp-content/uploads/2020/12/ประกาศ-กรมอนามัย-100x50.jpg"  data-delay="4000"  data-rotate="0"  data-saveperformance="off"  data-title="slide" data-description="">
+		<!-- main image -->
+		<img src="http://fph.csc.ku.ac.th/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt=""  width="1617" height="645" data-lazyload="http://fph.csc.ku.ac.th/wp-content/uploads/2020/12/ประกาศ-กรมอนามัย.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+	</li>
+	<!-- slide  -->
+	<li data-index="rs-52" data-transition="fade" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-link="http://fph.csc.ku.ac.th/?p=216"   data-thumb="http://fph.csc.ku.ac.th/wp-content/uploads/2020/09/untitled-1-02-100x50.jpg"  data-delay="4000"  data-rotate="0"  data-saveperformance="off"  data-title="slide" data-description="">
+		<!-- main image -->
+		<img src="http://fph.csc.ku.ac.th/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt=""  width="1618" height="646" data-lazyload="http://fph.csc.ku.ac.th/wp-content/uploads/2020/09/untitled-1-02.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- layers -->
+	</li>
+</ul>
+<div class="tp-static-layers">
+</div>
+<div class="tp-bannertimer" style="height: 5px; background-color: rgba(0, 0, 0, 0.15);"></div>	</div>
+<script>var htmldiv = document.getelementbyid("rs-plugin-settings-inline-css"); var htmldivcss="";
+				if(htmldiv) {
+					htmldiv.innerhtml = htmldiv.innerhtml + htmldivcss;
+				}
+				else{
+					var htmldiv = document.createelement("div");
+					htmldiv.innerhtml = "<style>" + htmldivcss + "</style>";
+					document.getelementsbytagname("head")[0].appendchild(htmldiv.childnodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	prepare placeholder for slider	-
+			******************************************/
+
+			var setrevstartsize=function(){
+				try{var e=new object,i=jquery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jquery('#rev_slider_1_1');
+					e.gridwidth = [1078];
+					e.gridheight = [430];
+							
+					e.sliderlayout = "auto";
+					if(e.responsivelevels&&(jquery.each(e.responsivelevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=math.round(h*f),"fullscreen"==e.sliderlayout){var u=(e.c.width(),jquery(window).height());if(void 0!=e.fullscreenoffsetcontainer){var c=e.fullscreenoffsetcontainer.split(",");if (c) jquery.each(c,function(e,i){u=jquery(i).length>0?u-jquery(i).outerheight(!0):u}),e.fullscreenoffset.split("%").length>1&&void 0!=e.fullscreenoffset&&e.fullscreenoffset.length>0?u-=jquery(window).height()*parseint(e.fullscreenoffset,0)/100:void 0!=e.fullscreenoffset&&e.fullscreenoffset.length>0&&(u-=parseint(e.fullscreenoffset,0))}f=u}else void 0!=e.minheight&&f<e.minheight&&(f=e.minheight);e.c.closest(".rev_slider_wrapper").css({height:f})
+				}catch(d){console.log("failure at presize of slider:"+d)}
+			};
+						
+				
+			setrevstartsize();
+			function revslider_showdoublejqueryerror(sliderid) {
+					var errormessage = "revolution slider error: you have some jquery.js library include that comes after the revolution files js include.";
+					errormessage += "<br> this includes make eliminates the revolution slider libraries, and make it not work.";
+					errormessage += "<br><br> to fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. in the slider settings -> troubleshooting set option:  <strong><b>put js includes to body</b></strong> option to true.";
+					errormessage += "<br>&nbsp;&nbsp;&nbsp; 2. find the double jquery.js include and remove it.";
+					errormessage = "<span style='font-size:16px;color:#bc0c06;'>" + errormessage + "</span>"
+						jquery(sliderid).show().html(errormessage);
+				}
+						var tpj=jquery;
+			
+			var revapi1;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_1_1").revolution == undefined){
+					revslider_showdoublejqueryerror("#rev_slider_1_1");
+				}else{
+					revapi1 = tpj("#rev_slider_1_1").show().revolution({
+						slidertype:"standard",
+						jsfilelocation:"http://fph.csc.ku.ac.th/wp-content/plugins/revslider/public/assets/js/",
+						sliderlayout:"auto",
+						dottedoverlay:"none",
+						delay:9000,
+						navigation: {
+							keyboardnavigation:"off",
+							keyboard_direction: "horizontal",
+							mousescrollnavigation:"off",
+							onhoverstop:"on",
+							touch:{
+								touchenabled:"on",
+								swipe_threshold: 75,
+								swipe_min_touches: 50,
+								swipe_direction: "horizontal",
+								drag_block_vertical: false
+							}
+							,
+							arrows: {
+								style:"hesperiden",
+								enable:true,
+								hide_onmobile:false,
+								hide_onleave:false,
+								tmp:'',
+								left: {
+									h_align:"left",
+									v_align:"center",
+									h_offset:30,
+									v_offset:0
+								},
+								right: {
+									h_align:"right",
+									v_align:"center",
+									h_offset:30,
+									v_offset:0
+								}
+							}
+							,
+							bullets: {
+								enable:true,
+								hide_onmobile:true,
+								hide_under:600,
+								style:"hephaistos",
+								hide_onleave:true,
+								hide_delay:200,
+								hide_delay_mobile:1200,
+								direction:"horizontal",
+								h_align:"center",
+								v_align:"bottom",
+								h_offset:0,
+								v_offset:30,
+								space:5,
+								tmp:''
+							}
+						},
+						gridwidth:1078,
+						gridheight:430,
+						lazytype:"smart",
+						parallax: {
+							type:"mouse",
+							origo:"slidercenter",
+							speed:2000,
+							levels:[2,3,4,5,6,7,12,16,10,50],
+						},
+						shadow:0,
+						spinner:"off",
+						stoploop:"off",
+						stopafterloops:-1,
+						stopatslide:-1,
+						shuffle:"off",
+						autoheight:"off",
+						hidethumbsonmobile:"off",
+						hideslideratlimit:0,
+						hidecaptionatlimit:0,
+						hideallcaptionatlilmit:0,
+						debugmode:false,
+						fallbacks: {
+							simplifyall:"off",
+							nextslideonwindowfocus:"off",
+							disablefocuslistener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		<script>
+					var htmldivcss = unescape(".hesperiden.tparrows%20%7b%0a%09cursor%3apointer%3b%0a%09background%3a%23000%3b%0a%09background%3argba%280%2c0%2c0%2c0.5%29%3b%0a%09width%3a40px%3b%0a%09height%3a40px%3b%0a%09position%3aabsolute%3b%0a%09display%3ablock%3b%0a%09z-index%3a100%3b%0a%20%20%20%20border-radius%3a%2050%25%3b%0a%7d%0a.hesperiden.tparrows%3ahover%20%7b%0a%09background%3a%23000%3b%0a%7d%0a.hesperiden.tparrows%3abefore%20%7b%0a%09font-family%3a%20%22revicons%22%3b%0a%09font-size%3a20px%3b%0a%09color%3a%23fff%3b%0a%09display%3ablock%3b%0a%09line-height%3a%2040px%3b%0a%09text-align%3a%20center%3b%0a%7d%0a.hesperiden.tparrows.tp-leftarrow%3abefore%20%7b%0a%09content%3a%20%22%5ce82c%22%3b%0a%20%20%20%20margin-left%3a-3px%3b%0a%7d%0a.hesperiden.tparrows.tp-rightarrow%3abefore%20%7b%0a%09content%3a%20%22%5ce82d%22%3b%0a%20%20%20%20margin-right%3a-3px%3b%0a%7d%0a.hephaistos.tp-bullets%20%7b%0a%7d%0a.hephaistos.tp-bullets%3abefore%20%7b%0a%09content%3a%22%20%22%3b%0a%09position%3aabsolute%3b%0a%09width%3a100%25%3b%0a%09height%3a100%25%3b%0a%09background%3atransparent%3b%0a%09padding%3a10px%3b%0a%09margin-left%3a-10px%3bmargin-top%3a-10px%3b%0a%09box-sizing%3acontent-box%3b%0a%7d%0a.hephaistos%20.tp-bullet%20%7b%0a%09width%3a12px%3b%0a%09height%3a12px%3b%0a%09position%3aabsolute%3b%0a%09background%3a%23999%3b%0a%09border%3a3px%20solid%20%23f5f5f5%3b%0a%09border-radius%3a50%25%3b%0a%09cursor%3a%20pointer%3b%0a%09box-sizing%3acontent-box%3b%0a%20%20box-shadow%3a%200px%200px%202px%201px%20rgba%28130%2c130%2c130%2c%200.3%29%3b%0a%0a%7d%0a.hephaistos%20.tp-bullet%3ahover%2c%0a.hephaistos%20.tp-bullet.selected%20%7b%0a%09background%3a%23fff%3b%0a%20%20%20%20border-color%3a%23000%3b%0a%7d%0a.hephaistos%20.tp-bullet-image%20%7b%0a%7d%0a.hephaistos%20.tp-bullet-title%20%7b%0a%7d%0a%0a");
+					var htmldiv = document.getelementbyid('rs-plugin-settings-inline-css');
+					if(htmldiv) {
+						htmldiv.innerhtml = htmldiv.innerhtml + htmldivcss;
+					}
+					else{
+						var htmldiv = document.createelement('div');
+						htmldiv.innerhtml = '<style>' + htmldivcss + '</style>';
+						document.getelementsbytagname('head')[0].appendchild(htmldiv.childnodes[0]);
+					}
+				  </script>
+				</div><!-- end revolution slider --></div></div>
+
+<div class="main wrap cf">
+
+	<div class="row">
+		<div class="col-8 main-content">
+			
+			
+			<div id="post-6" class="page-content post-6 page type-page status-publish">
+
+					
+						
+					
+					<div class="row cf builder">
+			
+		
+					
+							<div class="column builder one-1">
+							
+						<div class="textwidget"><a href="https://drive.google.com/drive/folders/1oje_xmvxlmckxkpoq43vohb9qdxhu1jo?usp=sharing" target="_blank"><img src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/04/untitled-1-01.jpg" alt="b" width="100%" /></a></div>
+					
+			 </div> 			
+					
+					</div>
+			
+		
+				
+			
+		
+					
+							
+			
+<section class="news-focus">
+
+		
+	<div class="section-head prominent heading cat-text-5">
+		<a href="http://fph.csc.ku.ac.th/?cat=5" title="ข่าวกิจกรรม">ข่าวกิจกรรม</a>
+	
+					
+						
+			</div>
+	
+		
+		
+	<div class="row news-0 highlights">
+
+		<div class="column half blocks">
+		
+					<article itemscope itemtype="http://schema.org/article">
+					
+				<a href="http://fph.csc.ku.ac.th/?p=6089" title="ขอเชิญร่วมกิจกรรมพัฒนานิสิต ส่งเสริมคุณธรรม จริยธรรม ระเบียบวินัย สร้างเสริมบุคลิกภาพ ตาม idku&amp;phcsc" class="image-link" itemprop="url">
+					<img width="351" height="185" src="http://fph.csc.ku.ac.th/wp-content/uploads/2021/09/untitled-1-351x185.png" class="image wp-post-image" alt="untitled-1" title="ขอเชิญร่วมกิจกรรมพัฒนานิสิต ส่งเสริมคุณธรรม จริยธรรม ระเบียบวินัย สร้างเสริมบุคลิกภาพ ตาม idku&amp;phcsc" itemprop="image" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2021/09/untitled-1-351x185.png 351w, http://fph.csc.ku.ac.th/wp-content/uploads/2021/09/untitled-1-351x185@2x.png 702w" sizes="(max-width: 351px) 100vw, 351px" />					
+											<span class="post-format-icon gallery"><i class="fa fa-picture-o"></i></span>
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2021-09-22t12:51:25+00:00" itemprop="datepublished" class="meta-item">22/09/2021</time><span class="meta-item comments"><a href="http://fph.csc.ku.ac.th/?p=6089#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="http://fph.csc.ku.ac.th/?p=6089" title="ขอเชิญร่วมกิจกรรมพัฒนานิสิต ส่งเสริมคุณธรรม จริยธรรม ระเบียบวินัย สร้างเสริมบุคลิกภาพ ตาม idku&amp;phcsc">ขอเชิญร่วมกิจกรรมพัฒนานิสิต ส่งเสริมคุณธรรม จริยธรรม ระเบียบวินัย สร้างเสริมบุคลิกภาพ ตาม idku&amp;phcsc</a></h2>
+				
+								
+				<div class="excerpt">
+					<p>เนื่องในวันมหิดล (วันเทิดพระบิดา) โครงการเสริมสร้างความสัมพันธ์ของนิสิตเพื่อการเป็นบัณฑิตที่พึงประสงค์ ขอเชิญร่วมกิจกรรม&hellip;</p>
+				</div>
+				
+			</article>
+			
+					
+		</div>
+		
+		
+		<ul class="column half block posts-list thumb">
+
+				
+						
+				<li>
+				
+					<a href="http://fph.csc.ku.ac.th/?p=6059"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2021/08/1-2-110x96.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="1" title="ph.12 singing contest 2021" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2021/08/1-2-110x96.png 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2021/08/1-2-110x96@2x.png 220w" sizes="(max-width: 110px) 100vw, 110px" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2021-08-31t09:38:29+00:00" itemprop="datepublished" class="meta-item">31/08/2021</time>					
+			</div>
+							
+						<a href="http://fph.csc.ku.ac.th/?p=6059" title="ph.12 singing contest 2021">
+							ph.12 singing contest 2021</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="http://fph.csc.ku.ac.th/?p=6013"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2021/04/22-110x96.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="22" title="ส่งกำลังใจให้บุคลากรทางการแพทย์และผู้ปฏิบัติหน้าที่ทุกท่าน ในการป้องกัน รักษาและดูแลผู้ป่วย covid-19" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2021/04/22-110x96.png 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2021/04/22-110x96@2x.png 220w" sizes="(max-width: 110px) 100vw, 110px" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2021-05-08t03:52:03+00:00" itemprop="datepublished" class="meta-item">08/05/2021</time>					
+			</div>
+							
+						<a href="http://fph.csc.ku.ac.th/?p=6013" title="ส่งกำลังใจให้บุคลากรทางการแพทย์และผู้ปฏิบัติหน้าที่ทุกท่าน ในการป้องกัน รักษาและดูแลผู้ป่วย covid-19">
+							ส่งกำลังใจให้บุคลากรทางการแพทย์และผู้ปฏิบัติหน้าที่ทุกท่าน ในการป้องกัน รักษาและดูแลผู้ป่วย covid-19</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="http://fph.csc.ku.ac.th/?p=5972"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/dsc_4654-2-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="dsc_4654-2" title="คณะฯ เยี่ยมชมศูนย์วิทยาศาสตร์การแพทย์เขตที่ 8 จ.อุดรธานี" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/dsc_4654-2-110x96.jpg 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/dsc_4654-2-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2021-03-12t06:49:26+00:00" itemprop="datepublished" class="meta-item">12/03/2021</time>					
+			</div>
+							
+						<a href="http://fph.csc.ku.ac.th/?p=5972" title="คณะฯ เยี่ยมชมศูนย์วิทยาศาสตร์การแพทย์เขตที่ 8 จ.อุดรธานี">
+							คณะฯ เยี่ยมชมศูนย์วิทยาศาสตร์การแพทย์เขตที่ 8 จ.อุดรธานี</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="http://fph.csc.ku.ac.th/?p=5961"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/dsc_4628-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="dsc_4628" title="การประชุมสัมมนา edpex" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/dsc_4628-110x96.jpg 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/dsc_4628-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2021-03-12t06:44:18+00:00" itemprop="datepublished" class="meta-item">12/03/2021</time>					
+			</div>
+							
+						<a href="http://fph.csc.ku.ac.th/?p=5961" title="การประชุมสัมมนา edpex">
+							การประชุมสัมมนา edpex</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+		</ul>
+			
+				
+	</div>
+	
+			
+</section>
+<section class="gallery-block">
+
+	<h3 class="gallery-title prominent">บริการด้านเทคโนโลยี</h3>
+
+<div class="flexslider carousel">
+	<ul class="slides">
+		
+		<li>
+			<a href="http://fph.csc.ku.ac.th/?p=5582" title="เปิดให้บริการซอฟต์แวร์ adobe creative cloud ลิขสิทธิ์มหาวิทยาลัยเกษตรศาสตร์" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/05/ph-000001-214x140.jpg" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2020/05/ph-000001-214x140.jpg 214w, http://fph.csc.ku.ac.th/wp-content/uploads/2020/05/ph-000001-214x140@2x.jpg 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fph.csc.ku.ac.th/?p=5582" title="เปิดให้บริการซอฟต์แวร์ adobe creative cloud ลิขสิทธิ์มหาวิทยาลัยเกษตรศาสตร์">เปิดให้บริการซอฟต์แวร์ adobe creative cloud ลิขสิทธิ์มหาวิทยาลัยเกษตรศาสตร์</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fph.csc.ku.ac.th/?p=5443" title="บริการดาวน์โหลดโปรแกรมลิขสิทธิ์" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/04/s__19980292-214x140.jpg" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2020/04/s__19980292-214x140.jpg 214w, http://fph.csc.ku.ac.th/wp-content/uploads/2020/04/s__19980292-214x140@2x.jpg 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fph.csc.ku.ac.th/?p=5443" title="บริการดาวน์โหลดโปรแกรมลิขสิทธิ์">บริการดาวน์โหลดโปรแกรมลิขสิทธิ์</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fph.csc.ku.ac.th/?p=5441" title="บริการเอกสารทางการศึกษา ออนไลน์" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/04/26503-214x140.jpg" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2020/04/26503-214x140.jpg 214w, http://fph.csc.ku.ac.th/wp-content/uploads/2020/04/26503-214x140@2x.jpg 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fph.csc.ku.ac.th/?p=5441" title="บริการเอกสารทางการศึกษา ออนไลน์">บริการเอกสารทางการศึกษา ออนไลน์</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fph.csc.ku.ac.th/?p=5439" title="แนะนำเทคโนโลยีดิจิทัล ku work &amp; learn from home" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/04/reportapp-214x140.jpg" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2020/04/reportapp-214x140.jpg 214w, http://fph.csc.ku.ac.th/wp-content/uploads/2020/04/reportapp-214x140@2x.jpg 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fph.csc.ku.ac.th/?p=5439" title="แนะนำเทคโนโลยีดิจิทัล ku work &amp; learn from home">แนะนำเทคโนโลยีดิจิทัล ku work &amp; learn from home</a></p>
+		</li>
+	
+		</ul>
+	<div class="title-bar"></div>
+</div>
+
+
+</section>
+<section class="gallery-block">
+
+	<h3 class="gallery-title prominent">วิดีโอกิจกรรม</h3>
+
+<div class="flexslider carousel">
+	<ul class="slides">
+		
+		<li>
+			<a href="http://fph.csc.ku.ac.th/?p=6013" title="ส่งกำลังใจให้บุคลากรทางการแพทย์และผู้ปฏิบัติหน้าที่ทุกท่าน ในการป้องกัน รักษาและดูแลผู้ป่วย covid-19" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fph.csc.ku.ac.th/wp-content/uploads/2021/04/22-214x140.png" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2021/04/22-214x140.png 214w, http://fph.csc.ku.ac.th/wp-content/uploads/2021/04/22-214x140@2x.png 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fph.csc.ku.ac.th/?p=6013" title="ส่งกำลังใจให้บุคลากรทางการแพทย์และผู้ปฏิบัติหน้าที่ทุกท่าน ในการป้องกัน รักษาและดูแลผู้ป่วย covid-19">ส่งกำลังใจให้บุคลากรทางการแพทย์และผู้ปฏิบัติหน้าที่ทุกท่าน ในการป้องกัน รักษาและดูแลผู้ป่วย covid-19</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fph.csc.ku.ac.th/?p=5777" title="โครงการสาสุขช่อใหม่ (กาวน์ขาวก้าวใหม่) คณะสาธารณสุขศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ ประจำปีการศึกษา 2563" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/09/ฟฟ-214x140.jpg" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" />				</span>
+							</a>
+			<p class="title"><a href="http://fph.csc.ku.ac.th/?p=5777" title="โครงการสาสุขช่อใหม่ (กาวน์ขาวก้าวใหม่) คณะสาธารณสุขศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ ประจำปีการศึกษา 2563">โครงการสาสุขช่อใหม่ (กาวน์ขาวก้าวใหม่) คณะสาธารณสุขศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ ประจำปีการศึกษา 2563</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fph.csc.ku.ac.th/?p=5707" title="โครงการปฐมนิเทศนิสิตใหม่ คณะสาธารณสุขศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ ประจำปีการศึกษา 2563" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/07/untitled-214x140.png" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2020/07/untitled-214x140.png 214w, http://fph.csc.ku.ac.th/wp-content/uploads/2020/07/untitled-214x140@2x.png 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fph.csc.ku.ac.th/?p=5707" title="โครงการปฐมนิเทศนิสิตใหม่ คณะสาธารณสุขศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ ประจำปีการศึกษา 2563">โครงการปฐมนิเทศนิสิตใหม่ คณะสาธารณสุขศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ ประจำปีการศึกษา 2563</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fph.csc.ku.ac.th/?p=5688" title="คณบดีคณะสาธารณสุขศาสตร์ กล่าวต้อนรับนิสิตใหม่ ku80" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/07/aaaaa-214x140.png" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2020/07/aaaaa-214x140.png 214w, http://fph.csc.ku.ac.th/wp-content/uploads/2020/07/aaaaa-214x140@2x.png 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fph.csc.ku.ac.th/?p=5688" title="คณบดีคณะสาธารณสุขศาสตร์ กล่าวต้อนรับนิสิตใหม่ ku80">คณบดีคณะสาธารณสุขศาสตร์ กล่าวต้อนรับนิสิตใหม่ ku80</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fph.csc.ku.ac.th/?p=5496" title="ครบรอบ 7 ปี แห่งการสถาปนาก่อตั้งคณะสาธารณสุขศาสตร์ มหาวิทยาลัยเกษตรศาสตร์" class="image-link">
+				<span class="image"><img width="214" height="140" src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/04/web-214x140.jpg" class="attachment-gallery-block size-gallery-block wp-post-image" alt="" title="" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2020/04/web-214x140.jpg 214w, http://fph.csc.ku.ac.th/wp-content/uploads/2020/04/web-214x140@2x.jpg 428w" sizes="(max-width: 214px) 100vw, 214px" />				</span>
+							</a>
+			<p class="title"><a href="http://fph.csc.ku.ac.th/?p=5496" title="ครบรอบ 7 ปี แห่งการสถาปนาก่อตั้งคณะสาธารณสุขศาสตร์ มหาวิทยาลัยเกษตรศาสตร์">ครบรอบ 7 ปี แห่งการสถาปนาก่อตั้งคณะสาธารณสุขศาสตร์ มหาวิทยาลัยเกษตรศาสตร์</a></p>
+		</li>
+	
+		</ul>
+	<div class="title-bar"></div>
+</div>
+
+
+</section>
+<section class="news-focus">
+
+		
+	<div class="section-head prominent heading cat-text-6">
+		<a href="http://fph.csc.ku.ac.th/?cat=6" title="สิ่งอำนวยความสะดวก">สิ่งอำนวยความสะดวก</a>
+	
+					
+						
+			</div>
+	
+		
+		
+	<div class="row news-0 highlights">
+
+		<div class="column half blocks">
+		
+					<article itemscope itemtype="http://schema.org/article">
+					
+				<a href="http://fph.csc.ku.ac.th/?p=337" title="คณะสาธารณสุขศาสตร์" class="image-link" itemprop="url">
+					<img width="351" height="185" src="http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/1-7-1-351x185.jpg" class="image wp-post-image" alt="1-7" title="คณะสาธารณสุขศาสตร์" itemprop="image" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/1-7-1-351x185.jpg 351w, http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/1-7-1-351x185@2x.jpg 702w" sizes="(max-width: 351px) 100vw, 351px" />					
+											<span class="post-format-icon gallery"><i class="fa fa-picture-o"></i></span>
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2016-10-31t08:58:55+00:00" itemprop="datepublished" class="meta-item">31/10/2016</time><span class="meta-item comments"><a href="http://fph.csc.ku.ac.th/?p=337#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="http://fph.csc.ku.ac.th/?p=337" title="คณะสาธารณสุขศาสตร์">คณะสาธารณสุขศาสตร์</a></h2>
+				
+								
+				<div class="excerpt">
+					<p>มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร เป็นวิทยาเขตหนึ่งที่จัดตั้งขึ้น ตามนโยบายการขยายโอกาสทางการ&hellip;</p>
+				</div>
+				
+			</article>
+			
+					
+		</div>
+		
+		
+		<ul class="column half block posts-list thumb">
+
+				
+						
+				<li>
+				
+					<a href="http://fph.csc.ku.ac.th/?p=322"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/dsc09313-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="dsc09313" title="ห้องปฏิบัติการ คณะสาธารณสุขศาสตร์" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/dsc09313-110x96.jpg 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/dsc09313-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2016-10-31t08:16:38+00:00" itemprop="datepublished" class="meta-item">31/10/2016</time>					
+			</div>
+							
+						<a href="http://fph.csc.ku.ac.th/?p=322" title="ห้องปฏิบัติการ คณะสาธารณสุขศาสตร์">
+							ห้องปฏิบัติการ คณะสาธารณสุขศาสตร์</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="http://fph.csc.ku.ac.th/?p=292"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/gib02011-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="gib02011" title="ห้องปฏิบัติการ คณะสาธารณสุขศาสตร์" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/gib02011-110x96.jpg 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/gib02011-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2016-10-31t04:18:23+00:00" itemprop="datepublished" class="meta-item">31/10/2016</time>					
+			</div>
+							
+						<a href="http://fph.csc.ku.ac.th/?p=292" title="ห้องปฏิบัติการ คณะสาธารณสุขศาสตร์">
+							ห้องปฏิบัติการ คณะสาธารณสุขศาสตร์</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="http://fph.csc.ku.ac.th/?p=58"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/14566190_10208831203189647_6109549632805049833_o-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="14566190_10208831203189647_6109549632805049833_o" title="ตัวอย่างข่าวประกอบวิดีโอกิจกรรม 1" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/14566190_10208831203189647_6109549632805049833_o-110x96.jpg 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/14566190_10208831203189647_6109549632805049833_o-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2016-10-20t07:29:38+00:00" itemprop="datepublished" class="meta-item">20/10/2016</time>					
+			</div>
+							
+						<a href="http://fph.csc.ku.ac.th/?p=58" title="ตัวอย่างข่าวประกอบวิดีโอกิจกรรม 1">
+							ตัวอย่างข่าวประกอบวิดีโอกิจกรรม 1</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="http://fph.csc.ku.ac.th/?p=56"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/14566190_10208831203189647_6109549632805049833_o-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="14566190_10208831203189647_6109549632805049833_o" title="ตัวอย่างข่าวประกอบวิดีโอกิจกรรม 2" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/14566190_10208831203189647_6109549632805049833_o-110x96.jpg 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2016/10/14566190_10208831203189647_6109549632805049833_o-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2016-10-20t07:28:57+00:00" itemprop="datepublished" class="meta-item">20/10/2016</time>					
+			</div>
+							
+						<a href="http://fph.csc.ku.ac.th/?p=56" title="ตัวอย่างข่าวประกอบวิดีโอกิจกรรม 2">
+							ตัวอย่างข่าวประกอบวิดีโอกิจกรรม 2</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+		</ul>
+			
+				
+	</div>
+	
+			
+</section><div class="row cf builder">
+			
+		
+					
+							<div class="column builder one-1">
+							
+			<h3 class="widget-title">ข่าวประชาสัมพันธ์คณะ</h3>			<div class="textwidget"><div class="sc-tabs-wrap"><ul class="sc-tabs"><li class="active"><a href="#" data-id="1">ข่าวประกาศ</a></li><li><a href="#" data-id="2">ข่าวนิสิต</a></li><li><a href="#" data-id="3">ข่าวอบรมสัมมนา</a></li><li><a href="#" data-id="4">ข่าวกิจกรรม</a></li><li><a href="#" data-id="5">ข่าวศิษย์เก่า</a></li><li><a href="#" data-id="6">ข่าวรับสมัครงาน</a></li></ul><ul class="sc-tabs-panes"><li id="sc-pane-1" class="active"><ul class="lcp_catlist" id="lcp_instance_0"><li><a href="http://fph.csc.ku.ac.th/?p=6123" title="รับสมัครนิสิตระดับบัณฑิตศึกษา 2565">รับสมัครนิสิตระดับบัณฑิตศึกษา 2565</a> 09/11/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=6089" title="ขอเชิญร่วมกิจกรรมพัฒนานิสิต ส่งเสริมคุณธรรม จริยธรรม ระเบียบวินัย สร้างเสริมบุคลิกภาพ ตาม idku&amp;phcsc">ขอเชิญร่วมกิจกรรมพัฒนานิสิต ส่งเสริมคุณธรรม จริยธรรม ระเบียบวินัย สร้างเสริมบุคลิกภาพ ตาม idku&amp;phcsc</a> 22/09/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=6082" title="เปิดรับสมัครสมัครงานโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ (1 ตำบล 1 มหาวิทยาลัย) รอบที่ 7">เปิดรับสมัครสมัครงานโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ (1 ตำบล 1 มหาวิทยาลัย) รอบที่ 7</a> 15/09/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=6059" title="ph.12 singing contest 2021">ph.12 singing contest 2021</a> 31/08/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=6049" title="ประกาศรายชื่อผู้ผ่านการคัดเลือกเข้าทำงานในโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ  (1 ตำบล 1 มหาวิทยาลัย) คลัสเตอร์ 13 (รอบ 6)">ประกาศรายชื่อผู้ผ่านการคัดเลือกเข้าทำงานในโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ  (1 ตำบล 1 มหาวิทยาลัย) คลัสเตอร์ 13 (รอบ 6)</a> 27/08/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5996" title="ประกาศ รายชื่อผู้ผ่านการคัดเลือกเข้าทำงานในโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ (1 ตำบล 1 มหาวิทยาลัย) คลัสเตอร์ 13 (รอบ 4)">ประกาศ รายชื่อผู้ผ่านการคัดเลือกเข้าทำงานในโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ (1 ตำบล 1 มหาวิทยาลัย) คลัสเตอร์ 13 (รอบ 4)</a> 08/04/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5992" title="ประกาศ รายชื่อผู้มีสิทธิ์สัมภาษณ์งาน รอบ 4 (ครั้งที่1)">ประกาศ รายชื่อผู้มีสิทธิ์สัมภาษณ์งาน รอบ 4 (ครั้งที่1)</a> 07/04/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5943" title="ประกาศรายชื่อผู้ผ่านการคัดเลือก ตำแหน่ง นักวิชาการสาธารณสุข .">ประกาศรายชื่อผู้ผ่านการคัดเลือก ตำแหน่ง นักวิชาการสาธารณสุข .</a> 17/02/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5921" title="ประกาศ นัดทำสัญญาจ้างโครงการ 1 ตำบล 1 มหาวิทยาลัย">ประกาศ นัดทำสัญญาจ้างโครงการ 1 ตำบล 1 มหาวิทยาลัย</a> 29/01/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5912" title="คณะสาธารณสุขศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ เปิดรับสมัคร &#8220;โครงการ 1 ตำบล 1 มหาวิทยาลัย&#8221; รอบที่ 3">คณะสาธารณสุขศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ เปิดรับสมัคร &#8220;โครงการ 1 ตำบล 1 มหาวิทยาลัย&#8221; รอบที่ 3</a> 26/01/2021 </li></ul></li>
+<li id="sc-pane-2"><ul class="lcp_catlist" id="lcp_instance_0"><li><a href="http://fph.csc.ku.ac.th/?p=5389" title="โครงการทำบุญตักบาตรประจำเดือนเฉลิมพระเกียรติ  ประจำเดือนมีนาคม">โครงการทำบุญตักบาตรประจำเดือนเฉลิมพระเกียรติ  ประจำเดือนมีนาคม</a> 12/03/2020 </li><li><a href="http://fph.csc.ku.ac.th/?p=5381" title="นิสิตคณะสาธารณสุขศาสตร์ที่ได้รับทุนพระราชทานรางวัลเรียนดีใน “ทุนภูมิพล”">นิสิตคณะสาธารณสุขศาสตร์ที่ได้รับทุนพระราชทานรางวัลเรียนดีใน “ทุนภูมิพล”</a> 09/03/2020 </li><li><a href="http://fph.csc.ku.ac.th/?p=5182" title="ขอแสดงความยินดีกับ &#8220;นางสาวปภัสวรรณ พิพัฒน์พานุกูล&#8221; ที่ได้รับรางวัลนิสิตผู้มีคุณธรรม จริยธรรมดีเด่น">ขอแสดงความยินดีกับ &#8220;นางสาวปภัสวรรณ พิพัฒน์พานุกูล&#8221; ที่ได้รับรางวัลนิสิตผู้มีคุณธรรม จริยธรรมดีเด่น</a> 29/01/2020 </li><li><a href="http://fph.csc.ku.ac.th/?p=5145" title="คณะสาธารณสุขศาสตร์ลงนามความร่วมมือทางวิชาการกับวิทยาลัยวิทยาศาสตร์สุขภาพสะหวันนะเขต สปป ลาว">คณะสาธารณสุขศาสตร์ลงนามความร่วมมือทางวิชาการกับวิทยาลัยวิทยาศาสตร์สุขภาพสะหวันนะเขต สปป ลาว</a> 17/01/2020 </li><li><a href="http://fph.csc.ku.ac.th/?p=4993" title="โครงการสานสัมพันธ์น้องพี่และศึกษาดูงานอนามัยสิ่งแวดล้อม">โครงการสานสัมพันธ์น้องพี่และศึกษาดูงานอนามัยสิ่งแวดล้อม</a> 25/12/2019 </li><li><a href="http://fph.csc.ku.ac.th/?p=4147" title="โครงการปฏิบัติธรรมนำสุขและศึกษาดูงาน">โครงการปฏิบัติธรรมนำสุขและศึกษาดูงาน</a> 27/02/2019 </li><li><a href="http://fph.csc.ku.ac.th/?p=4134" title="ให้บริการวิชาการ ในกิจกรรมการคัดกรองผู้ป่วยเบาหวาน">ให้บริการวิชาการ ในกิจกรรมการคัดกรองผู้ป่วยเบาหวาน</a> 27/02/2019 </li><li><a href="http://fph.csc.ku.ac.th/?p=4058" title="รับสมัครระดับบัณฑิตศึกษา">รับสมัครระดับบัณฑิตศึกษา</a> 19/12/2018 </li><li><a href="http://fph.csc.ku.ac.th/?p=3825" title="ภาพกิจกรรมสอนน้องร้องเพลงคณะสาธารณสุขศาสตร์">ภาพกิจกรรมสอนน้องร้องเพลงคณะสาธารณสุขศาสตร์</a> 03/09/2018 </li><li><a href="http://fph.csc.ku.ac.th/?p=3441" title="รับสมัครระดับบัณฑิตศึกษา">รับสมัครระดับบัณฑิตศึกษา</a> 23/04/2018 </li></ul></li>
+<li id="sc-pane-3"><ul class="lcp_catlist" id="lcp_instance_0"><li><a href="http://fph.csc.ku.ac.th/?p=4840" title="คณะสาธารณสุขศาสตร์ ร่วมประชุมหารือกับคณบดีคณะเทคนิคการสัตวแพทย์">คณะสาธารณสุขศาสตร์ ร่วมประชุมหารือกับคณบดีคณะเทคนิคการสัตวแพทย์</a> 17/12/2019 </li><li><a href="http://fph.csc.ku.ac.th/?p=4159" title="โครงการพัฒนาศักยภาพกลุ่มผู้ประกอบการ otop">โครงการพัฒนาศักยภาพกลุ่มผู้ประกอบการ otop</a> 27/02/2019 </li><li><a href="http://fph.csc.ku.ac.th/?p=4138" title="การอบรมเชิงปฏิบัติการการเขียนบทความวิชาการภาษาอังกฤษเพื่อการตีพิมพ์ ระดับนานาชาติ">การอบรมเชิงปฏิบัติการการเขียนบทความวิชาการภาษาอังกฤษเพื่อการตีพิมพ์ ระดับนานาชาติ</a> 27/02/2019 </li><li><a href="http://fph.csc.ku.ac.th/?p=3901" title="โครงการรูปแบบการจัดการขยะต้นทางที่เหมาะสมสำหรับมหาวิทยาลัยเกษตรศาสตร์  วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร">โครงการรูปแบบการจัดการขยะต้นทางที่เหมาะสมสำหรับมหาวิทยาลัยเกษตรศาสตร์  วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</a> 19/09/2018 </li><li><a href="http://fph.csc.ku.ac.th/?p=3785" title=""></a> 28/08/2018 </li><li><a href="http://fph.csc.ku.ac.th/?p=3613" title="#โครงการสัมมนาคณะสาธารณสุขศาสตร์ 2561">#โครงการสัมมนาคณะสาธารณสุขศาสตร์ 2561</a> 17/06/2018 </li><li><a href="http://fph.csc.ku.ac.th/?p=3449" title="#โครงการจุดประกายความคิดสร้างสรรค์ ประจำปี 2561">#โครงการจุดประกายความคิดสร้างสรรค์ ประจำปี 2561</a> 30/04/2018 </li><li><a href="http://fph.csc.ku.ac.th/?p=2263" title="ทุนการศึกษาระดับปริญญาโท  ณ chalmers university of technology ประเทศสวีเดน">ทุนการศึกษาระดับปริญญาโท  ณ chalmers university of technology ประเทศสวีเดน</a> 19/10/2017 </li><li><a href="http://fph.csc.ku.ac.th/?p=2257" title="ขอเชิญผู้สนใจ เข้าร่วมงาน the uk study exhibition  9 พฤศจิกายน 2560">ขอเชิญผู้สนใจ เข้าร่วมงาน the uk study exhibition  9 พฤศจิกายน 2560</a> 19/10/2017 </li></ul></li>
+<li id="sc-pane-4"><ul class="lcp_catlist" id="lcp_instance_0"><li><a href="http://fph.csc.ku.ac.th/?p=6089" title="ขอเชิญร่วมกิจกรรมพัฒนานิสิต ส่งเสริมคุณธรรม จริยธรรม ระเบียบวินัย สร้างเสริมบุคลิกภาพ ตาม idku&amp;phcsc">ขอเชิญร่วมกิจกรรมพัฒนานิสิต ส่งเสริมคุณธรรม จริยธรรม ระเบียบวินัย สร้างเสริมบุคลิกภาพ ตาม idku&amp;phcsc</a> 22/09/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=6059" title="ph.12 singing contest 2021">ph.12 singing contest 2021</a> 31/08/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=6013" title="ส่งกำลังใจให้บุคลากรทางการแพทย์และผู้ปฏิบัติหน้าที่ทุกท่าน ในการป้องกัน รักษาและดูแลผู้ป่วย covid-19">ส่งกำลังใจให้บุคลากรทางการแพทย์และผู้ปฏิบัติหน้าที่ทุกท่าน ในการป้องกัน รักษาและดูแลผู้ป่วย covid-19</a> 08/05/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5972" title="คณะฯ เยี่ยมชมศูนย์วิทยาศาสตร์การแพทย์เขตที่ 8 จ.อุดรธานี">คณะฯ เยี่ยมชมศูนย์วิทยาศาสตร์การแพทย์เขตที่ 8 จ.อุดรธานี</a> 12/03/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5961" title="การประชุมสัมมนา edpex">การประชุมสัมมนา edpex</a> 12/03/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5953" title="อบรมเชิงปฏิบัติการ การประเมินตนเอง sa">อบรมเชิงปฏิบัติการ การประเมินตนเอง sa</a> 12/03/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5927" title="ประชุมหารือ โครงการ 1 ตำบล 1 มหาวิทยาลัย">ประชุมหารือ โครงการ 1 ตำบล 1 มหาวิทยาลัย</a> 03/02/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5902" title="km การขอทุนสนับสนุนโครงการนิพนธ์ต้นฉบับ (manuscript)และโครงการสนับสนุนการตีพิมพ์ระดับนานาชาติ ประจำปี 2564">km การขอทุนสนับสนุนโครงการนิพนธ์ต้นฉบับ (manuscript)และโครงการสนับสนุนการตีพิมพ์ระดับนานาชาติ ประจำปี 2564</a> 26/01/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5882" title="การประชุมฝ่ายบริหารและแผน">การประชุมฝ่ายบริหารและแผน</a> 26/01/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5811" title="พิธีลงนามถวายพระพรชัยมงคลสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ พระบรม ราชชนนีพันปีหลวง">พิธีลงนามถวายพระพรชัยมงคลสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ พระบรม ราชชนนีพันปีหลวง</a> 24/09/2020 </li></ul></li>
+<li id="sc-pane-5"><ul class="lcp_catlist" id="lcp_instance_0"><li><a href="http://fph.csc.ku.ac.th/?p=4986" title="รับสมัครบุคคลเพื่อคัดเลือกเข้าเป็นพนักงานมหาวิทยาลัยสายวิชาการ จำนวน 3 อัตรา สังกัดภาควิชาอนามัยชุมชน">รับสมัครบุคคลเพื่อคัดเลือกเข้าเป็นพนักงานมหาวิทยาลัยสายวิชาการ จำนวน 3 อัตรา สังกัดภาควิชาอนามัยชุมชน</a> 23/12/2019 </li><li><a href="http://fph.csc.ku.ac.th/?p=4058" title="รับสมัครระดับบัณฑิตศึกษา">รับสมัครระดับบัณฑิตศึกษา</a> 19/12/2018 </li><li><a href="http://fph.csc.ku.ac.th/?p=3955" title=""></a> 28/09/2018 </li><li><a href="http://fph.csc.ku.ac.th/?p=3940" title="แบบสอบถาม ความต้องการเข้าศึกษาต่อระดับปริญญาตรีของนักเรียนมัธยมศึกษาตอนปลาย">แบบสอบถาม ความต้องการเข้าศึกษาต่อระดับปริญญาตรีของนักเรียนมัธยมศึกษาตอนปลาย</a> 21/09/2018 </li><li><a href="http://fph.csc.ku.ac.th/?p=3927" title="แบบสอบถามความต้องการและความคาดหวังของผู้ใช้บัณฑิต">แบบสอบถามความต้องการและความคาดหวังของผู้ใช้บัณฑิต</a> 21/09/2018 </li><li><a href="http://fph.csc.ku.ac.th/?p=3441" title="รับสมัครระดับบัณฑิตศึกษา">รับสมัครระดับบัณฑิตศึกษา</a> 23/04/2018 </li><li><a href="http://fph.csc.ku.ac.th/?p=2263" title="ทุนการศึกษาระดับปริญญาโท  ณ chalmers university of technology ประเทศสวีเดน">ทุนการศึกษาระดับปริญญาโท  ณ chalmers university of technology ประเทศสวีเดน</a> 19/10/2017 </li><li><a href="http://fph.csc.ku.ac.th/?p=2257" title="ขอเชิญผู้สนใจ เข้าร่วมงาน the uk study exhibition  9 พฤศจิกายน 2560">ขอเชิญผู้สนใจ เข้าร่วมงาน the uk study exhibition  9 พฤศจิกายน 2560</a> 19/10/2017 </li><li><a href="http://fph.csc.ku.ac.th/?p=2230" title="ชมรมศิษย์เก่าคณะสาธารณสุขศาสตร์ระดมสมองจัดทำแผนยุทธศาสตร์">ชมรมศิษย์เก่าคณะสาธารณสุขศาสตร์ระดมสมองจัดทำแผนยุทธศาสตร์</a> 17/10/2017 </li><li><a href="http://fph.csc.ku.ac.th/?p=1262" title="แบบสอบถามภาวะการได้งานทำของบัณฑิต ปีการศึกษา 2558 คณะสาธารณสุขศาสตร์ มก.ฉกส.">แบบสอบถามภาวะการได้งานทำของบัณฑิต ปีการศึกษา 2558 คณะสาธารณสุขศาสตร์ มก.ฉกส.</a> 19/07/2017 </li></ul></li>
+<li id="sc-pane-6"><ul class="lcp_catlist" id="lcp_instance_0"><li><a href="http://fph.csc.ku.ac.th/?p=6018" title="รับสมัครสมัครงานโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ (1 ตำบล 1 มหาวิทยาลัย) รอบที่ 5">รับสมัครสมัครงานโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ (1 ตำบล 1 มหาวิทยาลัย) รอบที่ 5</a> 21/05/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5996" title="ประกาศ รายชื่อผู้ผ่านการคัดเลือกเข้าทำงานในโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ (1 ตำบล 1 มหาวิทยาลัย) คลัสเตอร์ 13 (รอบ 4)">ประกาศ รายชื่อผู้ผ่านการคัดเลือกเข้าทำงานในโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ (1 ตำบล 1 มหาวิทยาลัย) คลัสเตอร์ 13 (รอบ 4)</a> 08/04/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5992" title="ประกาศ รายชื่อผู้มีสิทธิ์สัมภาษณ์งาน รอบ 4 (ครั้งที่1)">ประกาศ รายชื่อผู้มีสิทธิ์สัมภาษณ์งาน รอบ 4 (ครั้งที่1)</a> 07/04/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5986" title="รับสมัครสมัครงานโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ (1 ตำบล 1 มหาวิทยาลัย) รอบที่ 4">รับสมัครสมัครงานโครงการยกระดับเศรษฐกิจและสังคมรายตำบลแบบบูรณาการ (1 ตำบล 1 มหาวิทยาลัย) รอบที่ 4</a> 07/04/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5921" title="ประกาศ นัดทำสัญญาจ้างโครงการ 1 ตำบล 1 มหาวิทยาลัย">ประกาศ นัดทำสัญญาจ้างโครงการ 1 ตำบล 1 มหาวิทยาลัย</a> 29/01/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5916" title="ประกาศรายชื่อผู้ผ่านการคัดเลือก &#8220;โครงการ 1 ตำบล 1 มหาวิทยาลัย&#8221; (รอบที่ 3)">ประกาศรายชื่อผู้ผ่านการคัดเลือก &#8220;โครงการ 1 ตำบล 1 มหาวิทยาลัย&#8221; (รอบที่ 3)</a> 27/01/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5912" title="คณะสาธารณสุขศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ เปิดรับสมัคร &#8220;โครงการ 1 ตำบล 1 มหาวิทยาลัย&#8221; รอบที่ 3">คณะสาธารณสุขศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ เปิดรับสมัคร &#8220;โครงการ 1 ตำบล 1 มหาวิทยาลัย&#8221; รอบที่ 3</a> 26/01/2021 </li><li><a href="http://fph.csc.ku.ac.th/?p=5576" title="ประกาศ มก.ฉกส. เรื่อง แต่งตั้งผู้ปฏิบัติหน้าที่ในตำแหน่งหัวหน้างาน กองบริหารการวิจัยและบริการวิชาการ สำนักงานวิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร">ประกาศ มก.ฉกส. เรื่อง แต่งตั้งผู้ปฏิบัติหน้าที่ในตำแหน่งหัวหน้างาน กองบริหารการวิจัยและบริการวิชาการ สำนักงานวิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</a> 26/05/2020 </li><li><a href="http://fph.csc.ku.ac.th/?p=5574" title="ประกาศ มก.ฉกส. เรื่อง แต่งตั้งผู้ปฏิบัติหน้าที่ในนตำแหน่งหัวหน้างานกิจการนิสิต กองบริหารวิชาการและนิสิต สำนักงานวิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร">ประกาศ มก.ฉกส. เรื่อง แต่งตั้งผู้ปฏิบัติหน้าที่ในนตำแหน่งหัวหน้างานกิจการนิสิต กองบริหารวิชาการและนิสิต สำนักงานวิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</a> 26/05/2020 </li><li><a href="http://fph.csc.ku.ac.th/?p=5530" title="ประกาศ มก.ฉกส. เรื่อง ประกาศรายชื่อผู้ที่ผ่านคัดเลือกเข้าร่วมโครงการจ้างงานประชาชนที่ได้รับผลกระทบจากสถานการณ์ การระบาดของโรคติดเชื้อไวรัสโคโรนา">ประกาศ มก.ฉกส. เรื่อง ประกาศรายชื่อผู้ที่ผ่านคัดเลือกเข้าร่วมโครงการจ้างงานประชาชนที่ได้รับผลกระทบจากสถานการณ์ การระบาดของโรคติดเชื้อไวรัสโคโรนา</a> 15/05/2020 </li></ul></li></ul></div></div>
+					
+			 </div> 			
+					
+					</div>
+			
+		
+		
+
+			</div>
+			
+		</div>
+		
+		
+			
+		
+		
+		<aside class="col-4 sidebar" data-sticky="1">
+			<ul>
+			
+			<li id="text-2" class="widget widget_text"><h3 class="widgettitle">คณบดีคณะสาธารณสุขศาสตร์</h3>			<div class="textwidget"><img class="alignnone size-medium aligncenter" src="http://fph.csc.ku.ac.th/wp-content/uploads/2019/08/7.png" alt="1" width="70%">
+<h2 style="text-align: center">ดร.พัสกร องอาจ</h2>
+<p style="text-align: center">คณบดีคณะสาธารณสุขศาสตร์</br>
+phone: 042-725023  </br>
+email: passakorn_2514@hotmail.com</p></div>
+		</li>
+<li id="text-11" class="widget widget_text"><h3 class="widgettitle">คู่มือนิสิตใหม่ 2564</h3>			<div class="textwidget"><a href="https://anyflip.com/aleue/ztlx/" target="_blank"><img src="http://fph.csc.ku.ac.th/wp-content/uploads/2021/07/sght002-3.png" alt="bannernisit2" width="100%" /></a></div>
+		</li>
+
+		<li id="bunyad_ads_widget-8" class="widget bunyad-ad">		
+							<h3 class="widgettitle">คลินิค วิชาการ ph</h3>					
+			<div class="adwrap-widget">
+			
+				<a href="#" target="_blank"><img src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/06/sght002.jpg" alt="bannernisit2" width="100%" /></a>			
+			</div>
+		
+		</li>
+		
+		
+		<li id="bunyad_ads_widget-6" class="widget bunyad-ad">		
+							<h3 class="widgettitle">สำหรับผู้ปกครอง</h3>					
+			<div class="adwrap-widget">
+			
+				<a href="#" target="_blank"><img src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/05/sght001.jpg" alt="bannernisit2" width="100%" /></a>			
+			</div>
+		
+		</li>
+		
+		
+		<li id="bunyad_ads_widget-7" class="widget bunyad-ad">		
+							<h3 class="widgettitle">แบบรายงานผลการตรวจร่างกายผู้มีสิทธิ์เข้าศึกษา   ปีการศึกษา 2564</h3>					
+			<div class="adwrap-widget">
+			
+				<a href="https://drive.google.com/file/d/1txeh5_z-b0hynkmtqeqw5ky-weqm8t2n/view?usp=sharing" target="_blank"><img src="http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/4-ประกาศเฟส-2.jpg" alt="bannernisit2" width="100%" /></a>
+
+			
+			</div>
+		
+		</li>
+		
+		
+		<li id="bunyad_ads_widget-3" class="widget bunyad-ad">		
+							<h3 class="widgettitle">จดหมายข่าวคณะสาธารณสุขศาสตร์</h3>					
+			<div class="adwrap-widget">
+			
+				<a href="http://fph.csc.ku.ac.th/?p=5851" target="_blank"><img src="http://fph.csc.ku.ac.th/wp-content/uploads/2017/09/sght00.png" alt="bannernisit2" width="100%" /></a>			
+			</div>
+		
+		</li>
+		
+			
+			<li id="bunyad-tabbed-recent-widget-2" class="widget tabbed">	
+			<ul class="tabs-list">
+			
+								
+				<li class="active">
+					<a href="#" data-tab="1">ผลงานอาจารย์</a>
+				</li>
+				
+								
+				<li class="">
+					<a href="#" data-tab="2">ผลงานนิสิต</a>
+				</li>
+				
+								
+				<li class="">
+					<a href="#" data-tab="3">km ku phcsc</a>
+				</li>
+				
+								
+			</ul>
+			
+			<div class="tabs-data">
+									
+				<ul class="tab-posts active posts-list" id="recent-tab-1">
+				
+								
+						
+					<li>
+					
+						<a href="http://fph.csc.ku.ac.th/?p=5221"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/01/อบรมการใช้งานระบบ-ithesis_๒๐๐๑๒๙_0024-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="%e0%b8%ad%e0%b8%9a%e0%b8%a3%e0%b8%a1%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-ithesis_%e0%b9%92%e0%b9%90%e0%b9%90%e0%b9%91" title="โครงการอบรมการใช้ระบบไอทีสิส (ithesis) สำหรับการจัดทำและบริหารจัดการวิทยานิพนธ์" />	
+																									
+						</a>
+						
+						<div class="content">
+						
+										<div class="cf listing-meta meta above">
+					
+				<time datetime="2020-01-29t03:51:45+00:00" itemprop="datepublished" class="meta-item">29/01/2020</time><span class="meta-item comments"><a href="http://fph.csc.ku.ac.th/?p=5221#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+								
+							<a href="http://fph.csc.ku.ac.th/?p=5221" title="โครงการอบรมการใช้ระบบไอทีสิส (ithesis) สำหรับการจัดทำและบริหารจัดการวิทยานิพนธ์">
+								โครงการอบรมการใช้ระบบไอทีสิส (ithesis) สำหรับการจัดทำและบริหารจัดการวิทยานิพนธ์</a>
+								
+															
+																																								
+						</div>
+					
+					</li>
+					
+						
+					<li>
+					
+						<a href="http://fph.csc.ku.ac.th/?p=5215"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/01/2-4-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="2-4" title="คณะสาธารณสุขศาสตร์ ร่วมลงนามบันทึกความเข้าใจและความร่วมมือระหว่างวิทยาลัยพยาบาลบรมราชชนนี นพรัตน์ วชิระ" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2020/01/2-4-110x96.jpg 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2020/01/2-4-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />	
+																									
+						</a>
+						
+						<div class="content">
+						
+										<div class="cf listing-meta meta above">
+					
+				<time datetime="2020-01-29t03:19:33+00:00" itemprop="datepublished" class="meta-item">29/01/2020</time><span class="meta-item comments"><a href="http://fph.csc.ku.ac.th/?p=5215#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+								
+							<a href="http://fph.csc.ku.ac.th/?p=5215" title="คณะสาธารณสุขศาสตร์ ร่วมลงนามบันทึกความเข้าใจและความร่วมมือระหว่างวิทยาลัยพยาบาลบรมราชชนนี นพรัตน์ วชิระ">
+								คณะสาธารณสุขศาสตร์ ร่วมลงนามบันทึกความเข้าใจและความร่วมมือระหว่างวิทยาลัยพยาบาลบรมราชชนนี นพรัตน์ วชิระ</a>
+								
+															
+																																								
+						</div>
+					
+					</li>
+					
+						
+					<li>
+					
+						<a href="http://fph.csc.ku.ac.th/?p=5201"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/01/1-1-1-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="1-1" title="คณะสาธารณสุขศาสตร์ ร่วมลงนามความร่วมมือระหว่างสถานีวิทยุมหาวิทยาลัยเกษตรศาสตร์" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2020/01/1-1-1-110x96.jpg 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2020/01/1-1-1-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />	
+																									
+						</a>
+						
+						<div class="content">
+						
+										<div class="cf listing-meta meta above">
+					
+				<time datetime="2020-01-29t03:16:15+00:00" itemprop="datepublished" class="meta-item">29/01/2020</time><span class="meta-item comments"><a href="http://fph.csc.ku.ac.th/?p=5201#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+								
+							<a href="http://fph.csc.ku.ac.th/?p=5201" title="คณะสาธารณสุขศาสตร์ ร่วมลงนามความร่วมมือระหว่างสถานีวิทยุมหาวิทยาลัยเกษตรศาสตร์">
+								คณะสาธารณสุขศาสตร์ ร่วมลงนามความร่วมมือระหว่างสถานีวิทยุมหาวิทยาลัยเกษตรศาสตร์</a>
+								
+															
+																																								
+						</div>
+					
+					</li>
+					
+						
+					<li>
+					
+						<a href="http://fph.csc.ku.ac.th/?p=3944"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2018/09/42348573_319149135330704_3820234355930824704_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="42348573_319149135330704_3820234355930824704_n" title="ขอแสดงความยินดีกับ อาจารย์รัชฎาภรณ์ อึ้งเจริญ ผู้ช่วยคณบดีฝ่ายบริหารฯ และคณะทำงานฯ" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2018/09/42348573_319149135330704_3820234355930824704_n-110x96.jpg 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2018/09/42348573_319149135330704_3820234355930824704_n-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />	
+																									
+						</a>
+						
+						<div class="content">
+						
+										<div class="cf listing-meta meta above">
+					
+				<time datetime="2018-09-21t09:46:31+00:00" itemprop="datepublished" class="meta-item">21/09/2018</time><span class="meta-item comments"><a href="http://fph.csc.ku.ac.th/?p=3944#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+								
+							<a href="http://fph.csc.ku.ac.th/?p=3944" title="ขอแสดงความยินดีกับ อาจารย์รัชฎาภรณ์ อึ้งเจริญ ผู้ช่วยคณบดีฝ่ายบริหารฯ และคณะทำงานฯ">
+								ขอแสดงความยินดีกับ อาจารย์รัชฎาภรณ์ อึ้งเจริญ ผู้ช่วยคณบดีฝ่ายบริหารฯ และคณะทำงานฯ</a>
+								
+															
+																																								
+						</div>
+					
+					</li>
+					
+										
+									
+				</ul>
+									
+				<ul class="tab-posts  posts-list" id="recent-tab-2">
+				
+								
+						
+					<li>
+					
+						<a href="http://fph.csc.ku.ac.th/?p=5381"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/03/88175478_1692862487522359_9030061631945572352_n-1-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="88175478_1692862487522359_9030061631945572352_n-1" title="นิสิตคณะสาธารณสุขศาสตร์ที่ได้รับทุนพระราชทานรางวัลเรียนดีใน “ทุนภูมิพล”" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2020/03/88175478_1692862487522359_9030061631945572352_n-1-110x96.jpg 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2020/03/88175478_1692862487522359_9030061631945572352_n-1-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />	
+																									
+						</a>
+						
+						<div class="content">
+						
+										<div class="cf listing-meta meta above">
+					
+				<time datetime="2020-03-09t02:25:28+00:00" itemprop="datepublished" class="meta-item">09/03/2020</time><span class="meta-item comments"><a href="http://fph.csc.ku.ac.th/?p=5381#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+								
+							<a href="http://fph.csc.ku.ac.th/?p=5381" title="นิสิตคณะสาธารณสุขศาสตร์ที่ได้รับทุนพระราชทานรางวัลเรียนดีใน “ทุนภูมิพล”">
+								นิสิตคณะสาธารณสุขศาสตร์ที่ได้รับทุนพระราชทานรางวัลเรียนดีใน “ทุนภูมิพล”</a>
+								
+															
+																																								
+						</div>
+					
+					</li>
+					
+						
+					<li>
+					
+						<a href="http://fph.csc.ku.ac.th/?p=3199"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2018/01/s-110x96.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="s" title="ขอแสดงความยินดีกับนิสิตคณะสาธารณสุขศาสตร์" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2018/01/s-110x96.png 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2018/01/s-110x96@2x.png 220w" sizes="(max-width: 110px) 100vw, 110px" />	
+																									
+						</a>
+						
+						<div class="content">
+						
+										<div class="cf listing-meta meta above">
+					
+				<time datetime="2018-01-29t07:34:55+00:00" itemprop="datepublished" class="meta-item">29/01/2018</time><span class="meta-item comments"><a href="http://fph.csc.ku.ac.th/?p=3199#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+								
+							<a href="http://fph.csc.ku.ac.th/?p=3199" title="ขอแสดงความยินดีกับนิสิตคณะสาธารณสุขศาสตร์">
+								ขอแสดงความยินดีกับนิสิตคณะสาธารณสุขศาสตร์</a>
+								
+															
+																																								
+						</div>
+					
+					</li>
+					
+						
+					<li>
+					
+						<a href="http://fph.csc.ku.ac.th/?p=789"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2017/03/dscf9849-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="dscf9849" title="มอบทุนการศึกษาให้แก่นักกีฬาเรือพาย (ทีมเรือพาย มก.)" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2017/03/dscf9849-110x96.jpg 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2017/03/dscf9849-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />	
+																									
+						</a>
+						
+						<div class="content">
+						
+										<div class="cf listing-meta meta above">
+					
+				<time datetime="2017-03-17t03:46:12+00:00" itemprop="datepublished" class="meta-item">17/03/2017</time><span class="meta-item comments"><a href="http://fph.csc.ku.ac.th/?p=789#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+								
+							<a href="http://fph.csc.ku.ac.th/?p=789" title="มอบทุนการศึกษาให้แก่นักกีฬาเรือพาย (ทีมเรือพาย มก.)">
+								มอบทุนการศึกษาให้แก่นักกีฬาเรือพาย (ทีมเรือพาย มก.)</a>
+								
+															
+																																								
+						</div>
+					
+					</li>
+					
+						
+					<li>
+					
+						<a href="http://fph.csc.ku.ac.th/?p=663"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2017/01/เชิดชู-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="%e0%b9%80%e0%b8%8a%e0%b8%b4%e0%b8%94%e0%b8%8a%e0%b8%b9" title="รางวัลรองชนะเลิศอันดับที่ 2 ยูงทองเกมส์ งานสาธารณสุขสัมพันธ์ครั้งที่ 35" />	
+																									
+						</a>
+						
+						<div class="content">
+						
+										<div class="cf listing-meta meta above">
+					
+				<time datetime="2017-01-23t09:51:17+00:00" itemprop="datepublished" class="meta-item">23/01/2017</time><span class="meta-item comments"><a href="http://fph.csc.ku.ac.th/?p=663#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+								
+							<a href="http://fph.csc.ku.ac.th/?p=663" title="รางวัลรองชนะเลิศอันดับที่ 2 ยูงทองเกมส์ งานสาธารณสุขสัมพันธ์ครั้งที่ 35">
+								รางวัลรองชนะเลิศอันดับที่ 2 ยูงทองเกมส์ งานสาธารณสุขสัมพันธ์ครั้งที่ 35</a>
+								
+															
+																																								
+						</div>
+					
+					</li>
+					
+										
+									
+				</ul>
+									
+				<ul class="tab-posts  posts-list" id="recent-tab-3">
+				
+								
+						
+					<li>
+					
+						<a href="http://fph.csc.ku.ac.th/?p=5902"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2021/01/dsc_3015-2-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="dsc_3015-2" title="km การขอทุนสนับสนุนโครงการนิพนธ์ต้นฉบับ (manuscript)และโครงการสนับสนุนการตีพิมพ์ระดับนานาชาติ ประจำปี 2564" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2021/01/dsc_3015-2-110x96.jpg 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2021/01/dsc_3015-2-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />	
+																									
+						</a>
+						
+						<div class="content">
+						
+										<div class="cf listing-meta meta above">
+					
+				<time datetime="2021-01-26t04:44:30+00:00" itemprop="datepublished" class="meta-item">26/01/2021</time><span class="meta-item comments"><a href="http://fph.csc.ku.ac.th/?p=5902#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+								
+							<a href="http://fph.csc.ku.ac.th/?p=5902" title="km การขอทุนสนับสนุนโครงการนิพนธ์ต้นฉบับ (manuscript)และโครงการสนับสนุนการตีพิมพ์ระดับนานาชาติ ประจำปี 2564">
+								km การขอทุนสนับสนุนโครงการนิพนธ์ต้นฉบับ (manuscript)และโครงการสนับสนุนการตีพิมพ์ระดับนานาชาติ ประจำปี 2564</a>
+								
+															
+																																								
+						</div>
+					
+					</li>
+					
+						
+					<li>
+					
+						<a href="http://fph.csc.ku.ac.th/?p=5399"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/03/dsc_5275-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="dsc_5275" title="การประชุมคณะกรรมการคณะสาธารณสุขศาสตร์ ครั้งที่3/2563" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2020/03/dsc_5275-110x96.jpg 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2020/03/dsc_5275-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />	
+																									
+						</a>
+						
+						<div class="content">
+						
+										<div class="cf listing-meta meta above">
+					
+				<time datetime="2020-03-19t07:21:42+00:00" itemprop="datepublished" class="meta-item">19/03/2020</time><span class="meta-item comments"><a href="http://fph.csc.ku.ac.th/?p=5399#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+								
+							<a href="http://fph.csc.ku.ac.th/?p=5399" title="การประชุมคณะกรรมการคณะสาธารณสุขศาสตร์ ครั้งที่3/2563">
+								การประชุมคณะกรรมการคณะสาธารณสุขศาสตร์ ครั้งที่3/2563</a>
+								
+															
+																																								
+						</div>
+					
+					</li>
+					
+						
+					<li>
+					
+						<a href="http://fph.csc.ku.ac.th/?p=5389"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/03/89555814_4060521933989404_3408754820864016384_o-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="89555814_4060521933989404_3408754820864016384_o" title="โครงการทำบุญตักบาตรประจำเดือนเฉลิมพระเกียรติ  ประจำเดือนมีนาคม" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2020/03/89555814_4060521933989404_3408754820864016384_o-110x96.jpg 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2020/03/89555814_4060521933989404_3408754820864016384_o-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />	
+																									
+						</a>
+						
+						<div class="content">
+						
+										<div class="cf listing-meta meta above">
+					
+				<time datetime="2020-03-12t07:11:26+00:00" itemprop="datepublished" class="meta-item">12/03/2020</time><span class="meta-item comments"><a href="http://fph.csc.ku.ac.th/?p=5389#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+								
+							<a href="http://fph.csc.ku.ac.th/?p=5389" title="โครงการทำบุญตักบาตรประจำเดือนเฉลิมพระเกียรติ  ประจำเดือนมีนาคม">
+								โครงการทำบุญตักบาตรประจำเดือนเฉลิมพระเกียรติ  ประจำเดือนมีนาคม</a>
+								
+															
+																																								
+						</div>
+					
+					</li>
+					
+						
+					<li>
+					
+						<a href="http://fph.csc.ku.ac.th/?p=5377"><img width="110" height="96" src="http://fph.csc.ku.ac.th/wp-content/uploads/2020/03/88133435_4032554863452778_2869124014419214336_o-3-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="88133435_4032554863452778_2869124014419214336_o" title="มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร ร่วมกับ บริษัท เคเอส เวสท์ วอเตอร์เซอร์วิส" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2020/03/88133435_4032554863452778_2869124014419214336_o-3-110x96.jpg 110w, http://fph.csc.ku.ac.th/wp-content/uploads/2020/03/88133435_4032554863452778_2869124014419214336_o-3-110x96@2x.jpg 220w" sizes="(max-width: 110px) 100vw, 110px" />	
+																									
+						</a>
+						
+						<div class="content">
+						
+										<div class="cf listing-meta meta above">
+					
+				<time datetime="2020-03-04t08:59:48+00:00" itemprop="datepublished" class="meta-item">04/03/2020</time><span class="meta-item comments"><a href="http://fph.csc.ku.ac.th/?p=5377#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+								
+							<a href="http://fph.csc.ku.ac.th/?p=5377" title="มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร ร่วมกับ บริษัท เคเอส เวสท์ วอเตอร์เซอร์วิส">
+								มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร ร่วมกับ บริษัท เคเอส เวสท์ วอเตอร์เซอร์วิส</a>
+								
+															
+																																								
+						</div>
+					
+					</li>
+					
+										
+									
+				</ul>
+							
+			</div>
+			
+			</li>
+		
+		<li id="text-3" class="widget widget_text"><h3 class="widgettitle">ภาพกิจกรรมคณะ</h3>			<div class="textwidget">
+<section class="gallery-block">
+
+
+<div class="flexslider slider">
+	<ul class="slides">
+		
+		<li>
+			<a href="http://fph.csc.ku.ac.th/?p=6089" title="ขอเชิญร่วมกิจกรรมพัฒนานิสิต ส่งเสริมคุณธรรม จริยธรรม ระเบียบวินัย สร้างเสริมบุคลิกภาพ ตาม idku&amp;phcsc" class="image-link">
+				<span class="image"><img width="351" height="185" src="http://fph.csc.ku.ac.th/wp-content/uploads/2021/09/untitled-1-351x185.png" class="attachment-main-block size-main-block wp-post-image" alt="" title="" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2021/09/untitled-1-351x185.png 351w, http://fph.csc.ku.ac.th/wp-content/uploads/2021/09/untitled-1-351x185@2x.png 702w" sizes="(max-width: 351px) 100vw, 351px" />				</span>
+							</a>
+			<p class="title"><a href="http://fph.csc.ku.ac.th/?p=6089" title="ขอเชิญร่วมกิจกรรมพัฒนานิสิต ส่งเสริมคุณธรรม จริยธรรม ระเบียบวินัย สร้างเสริมบุคลิกภาพ ตาม idku&amp;phcsc">ขอเชิญร่วมกิจกรรมพัฒนานิสิต ส่งเสริมคุณธรรม จริยธรรม ระเบียบวินัย สร้างเสริมบุคลิกภาพ ตาม idku&amp;phcsc</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fph.csc.ku.ac.th/?p=6059" title="ph.12 singing contest 2021" class="image-link">
+				<span class="image"><img width="351" height="185" src="http://fph.csc.ku.ac.th/wp-content/uploads/2021/08/1-2-351x185.png" class="attachment-main-block size-main-block wp-post-image" alt="" title="" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2021/08/1-2-351x185.png 351w, http://fph.csc.ku.ac.th/wp-content/uploads/2021/08/1-2-351x185@2x.png 702w" sizes="(max-width: 351px) 100vw, 351px" />				</span>
+							</a>
+			<p class="title"><a href="http://fph.csc.ku.ac.th/?p=6059" title="ph.12 singing contest 2021">ph.12 singing contest 2021</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fph.csc.ku.ac.th/?p=5972" title="คณะฯ เยี่ยมชมศูนย์วิทยาศาสตร์การแพทย์เขตที่ 8 จ.อุดรธานี" class="image-link">
+				<span class="image"><img width="351" height="185" src="http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/dsc_4654-2-351x185.jpg" class="attachment-main-block size-main-block wp-post-image" alt="" title="" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/dsc_4654-2-351x185.jpg 351w, http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/dsc_4654-2-351x185@2x.jpg 702w" sizes="(max-width: 351px) 100vw, 351px" />				</span>
+							</a>
+			<p class="title"><a href="http://fph.csc.ku.ac.th/?p=5972" title="คณะฯ เยี่ยมชมศูนย์วิทยาศาสตร์การแพทย์เขตที่ 8 จ.อุดรธานี">คณะฯ เยี่ยมชมศูนย์วิทยาศาสตร์การแพทย์เขตที่ 8 จ.อุดรธานี</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fph.csc.ku.ac.th/?p=5961" title="การประชุมสัมมนา edpex" class="image-link">
+				<span class="image"><img width="351" height="185" src="http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/dsc_4628-351x185.jpg" class="attachment-main-block size-main-block wp-post-image" alt="" title="" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/dsc_4628-351x185.jpg 351w, http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/dsc_4628-351x185@2x.jpg 702w" sizes="(max-width: 351px) 100vw, 351px" />				</span>
+							</a>
+			<p class="title"><a href="http://fph.csc.ku.ac.th/?p=5961" title="การประชุมสัมมนา edpex">การประชุมสัมมนา edpex</a></p>
+		</li>
+	
+		
+		<li>
+			<a href="http://fph.csc.ku.ac.th/?p=5953" title="อบรมเชิงปฏิบัติการ การประเมินตนเอง sa" class="image-link">
+				<span class="image"><img width="351" height="185" src="http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/dsc_3719-351x185.jpg" class="attachment-main-block size-main-block wp-post-image" alt="" title="" srcset="http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/dsc_3719-351x185.jpg 351w, http://fph.csc.ku.ac.th/wp-content/uploads/2021/03/dsc_3719-351x185@2x.jpg 702w" sizes="(max-width: 351px) 100vw, 351px" />				</span>
+							</a>
+			<p class="title"><a href="http://fph.csc.ku.ac.th/?p=5953" title="อบรมเชิงปฏิบัติการ การประเมินตนเอง sa">อบรมเชิงปฏิบัติการ การประเมินตนเอง sa</a></p>
+		</li>
+	
+		</ul>
+	<div class="title-bar"></div>
+</div>
+
+
+</section></div>
+		</li>
+<li id="text-9" class="widget widget_text"><h3 class="widgettitle">ลิงค์ที่เกี่ยวข้อง</h3>			<div class="textwidget">- <a href="http://www.grad.ku.ac.th/">บัณฑิตวิทยาลัย มหาวิทยาลัยเกษตรศาสตร์</a><br>
+
+- <a href="https://www.anamai.moph.go.th/">กรมอนามัย กระทรวงสาธารณสุข</a><br>
+
+
+
+</div>
+		</li>
+
+		<li id="bunyad_ads_widget-5" class="widget bunyad-ad">		
+					
+			<div class="adwrap-widget">
+			
+				  <!-- histats.com  (div with counter) --><div id="histats_counter"></div>
+<!-- histats.com  start  (aync)-->
+<script type="text/javascript">var _hasync= _hasync|| [];
+_hasync.push(['histats.start', '1,3890233,4,408,270,55,00011111']);
+_hasync.push(['histats.fasi', '1']);
+_hasync.push(['histats.track_hits', '']);
+(function() {
+var hs = document.createelement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getelementsbytagname('head')[0] || document.getelementsbytagname('body')[0]).appendchild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3890233&101" alt="" border="0"></a></noscript>
+<!-- histats.com  end  -->
+<br/>
+จำนวนผู้เข้าชม : 
+<!-- start of simplehitcounter code -->
+<div><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=2296183&amp;f=0&amp;b=16711935" border="0" height="18" width="83" alt="web counter"></a><br></div>
+<!-- end of simplehitcounter code -->			
+			</div>
+		
+		</li>
+		
+		<li id="text-10" class="widget widget_text"><h3 class="widgettitle">รายวิชา</h3>			<div class="textwidget">- <a href="https://drive.google.com/file/d/14qzbqzkdo3wndjpp06mmmf_qorsjf_2_/view">ชีวเคมีทางสาธารณสุข-ชีวพลังงานศาสตร์</a><br>
+
+- <a href="https://drive.google.com/file/d/1pdsysatuywrjbkdqrbxk9l2n8f8exp1w/view?usp=sharing">ชีวเคมีทางสาธารณสุข-carbohydrate metabolism</a><br>
+
+- <a href="https://drive.google.com/file/d/1yolc9p5xpxavqyw7-2yqxv_yys4_iocb/view?usp=sharing">ชีวเคมีทางสาธารณสุข-lipid metabolism</a><br>
+
+- <a href="https://drive.google.com/file/d/1hua195zwfmlnyi264dtq13pc9ppfxv4y/view?usp=sharing">ชีวเคมีทางสาธารณสุข-nucleic acid ตอนที่ 1</a><br>
+
+- <a href="https://drive.google.com/file/d/1leiyn-owx0jvfdnoqfyljecbmtf3x_sv/view?usp=sharing">ชีวเคมีทางสาธารณสุข-nucleic acid ตอนที่ 2</a><br>
+
+- <a href="https://drive.google.com/file/d/14qzbqzkdo3wndjpp06mmmf_qorsjf_2_/view">ชีวเคมีทางสาธารณสุข-ชีวพลังงานศาสตร์</a><br>
+
+- <a href="https://drive.google.com/file/d/1hftrdx6tojhpq_bbhmvfb-fa0jwya98y/view?usp=sharing">ชีวเคมีทางสาธารณสุข-บทที่ 11 xenobiotic metabolism</a><br>
+
+- <a href="https://drive.google.com/file/d/1izicflzvxurop9qidjfk4-m_6nfyudbc/view?usp=sharing">ชีวเคมีทางสาธารณสุข-บทที่ 10 nucleotide metabolism</a><br>
+</div>
+		</li>
+	
+			</ul>
+		</aside>
+		
+			
+	</div> <!-- .row -->
+</div> <!-- .main -->
+
+
+		
+	<footer class="main-footer">
+	
+			<div class="wrap">
+		
+					<ul class="widgets row cf">
+				<li class="widget col-4 widget_text"><h3 class="widgettitle">ที่อยู่/ติดต่อสอบถาม</h3>			<div class="textwidget">คณะสาธารณสุขศาสตร์
+ มหาวิทยาลัยเกษตรศาสตร์
+วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร
+<br>
+59/7 หมู่ 1 ถ.วปรอ 366 ต.เชียงเครือ อ.เมือง จ.สกลนคร 47000 <br> โทรศัพท์ 042-725023
+<br> โทรศัพท์ 093-3296556
+<br> แฟกซ์  042-725155</div>
+		</li><li class="widget col-4 widget_text"><h3 class="widgettitle">ติดต่อหน่วยงานภายใน</h3>			<div class="textwidget">061-0287788 : ประชาสัมพันธ์และวิเทศสัมพันธ์<br/>
+081-7391745 : หน่วยทะเบียนและประมวลผล<br/>
+086-2241118 : หน่วยแนะแนวและรับเข้า (ตรี/โท)<br/>
+098-4854435 : ทุน กยศ. และ กรอ.<br/>
+088-5108007 : หน่วยหอพักนิสิต<br/>
+042-725042 ต่อ 5503 : งานเทคโนโลยีสารสนเทศ<br/></div>
+		</li><li class="widget col-4 widget_text"><h3 class="widgettitle">ประเมินความพึงพอใจเว็บไซต์</h3>			<div class="textwidget"><div class="weblator-poll-container" data-poll-id="1">
+
+    <div class="weblator-poll-loading">loading</div>
+
+    <div class="panel panel-default">
+
+
+        <div class="panel-body weblator-poll-vote">
+
+            <div class="alert alert-success">thank you for voting</div>
+            <div class="alert alert-warning">you have already voted on this poll!</div>
+            <div class="alert alert-danger">please select an option!</div>
+
+            <ul><li><input type="radio" name="weblator-chart-options" id="option-14" data-poll-id="1" value="14"/>
+                        <label for="option-14">พึงพอใจมากที่สุด</label>
+                    </li><li><input type="radio" name="weblator-chart-options" id="option-15" data-poll-id="1" value="15"/>
+                        <label for="option-15">พึงพอใจมาก</label>
+                    </li><li><input type="radio" name="weblator-chart-options" id="option-16" data-poll-id="1" value="16"/>
+                        <label for="option-16">พึงพอใจปานกลาง</label>
+                    </li><li><input type="radio" name="weblator-chart-options" id="option-17" data-poll-id="1" value="17"/>
+                        <label for="option-17">พึงพอใจน้อย</label>
+                    </li><li><input type="radio" name="weblator-chart-options" id="option-18" data-poll-id="1" value="18"/>
+                        <label for="option-18">พึงพอใจน้อยที่สุด</label>
+                    </li></ul></div><div class="panel-footer">
+            <div class="button-vote" style="float:left; text-align: left;">
+                <button class="btn btn-default vote-button weblator-poll-submit"><i class="fa fa-spinner fa-spin vote-spin"></i> vote</button>
+            </div>
+            <div class="weblator-view-results" style="float:right; text-align: right;">
+
+                <a href="#" class="weblator-view-poll btn btn-default">view results</a>
+                <a href="#" class="weblator-hide-poll btn btn-default">hide results</a>
+
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div><canvas id="weblator-chart-1" class="weblator-chart" width="400" height="200"></canvas><script>var mfzsn = new poll(1);</script>
+
+</div></div>
+		</li>			</ul>
+				
+		</div>
+	
+		
+	
+			<div class="lower-foot">
+			<div class="wrap">
+		
+					
+			</div>
+		</div>		
+		
+	</footer>
+	
+</div> <!-- .main-wrap -->
+
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-includes/js/comment-reply.min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var _wpcf7 = {"loaderurl":"http:\/\/fph.csc.ku.ac.th\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"please verify that you are not a robot."}},"sending":"\u0e01\u0e33\u0e25\u0e31\u0e07\u0e2a\u0e48\u0e07 ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var pollsl10n = {"ajax_url":"http:\/\/fph.csc.ku.ac.th\/wp-admin\/admin-ajax.php","text_wait":"your last request is still being processed. please wait a while ...","text_valid":"please choose a valid poll answer.","text_multiple":"maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.8'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var bunyad = {"ajaxurl":"http:\/\/fph.csc.ku.ac.th\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-content/themes/csctheme/js/bunyad-theme.js?ver=2.6.1'></script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-content/themes/csctheme/js/jquery.flexslider-min.js?ver=2.6.1'></script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-content/themes/csctheme/js/jquery.sticky-sidebar.min.js?ver=2.6.1'></script>
+<script type='text/javascript' src='http://fph.csc.ku.ac.th/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+<p class="tk">powered by <a href="http://www.moviekillers.com/" title="moviekillers" rel="follow"> moviekillers.com </a></p>
+</body>
+</html>

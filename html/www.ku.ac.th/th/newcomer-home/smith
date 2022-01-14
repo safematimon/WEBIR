@@ -1036,142 +1036,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>110</span>
-                </span>
-                <span class="ml-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
-    <path d="m0 0h24v24h0z" fill="none"/>
-  </svg>                  </span>
-                  <span>0</span>
-                </span>
-              </div> -->
-            </div>
-
-  </a>
-</div>
-
-
-<div class="swiper-slide news-slide p-1 ">
-<a href="https://www.ku.ac.th/th/news1/view/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%a1%e0%b8%b4%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%ad%e0%b8%99-%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b8%9b%e0%b8%a5%e0%b8%b2%e0%b8%a2-2564-%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%97%e0%b8%b5%e0%b9%88-1" class="card-hover-effect"> 
-<div>
-            <div class="img">
-                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202201/m_news/389/thumbnail_1deb04b9ff80f1e91da605522a802409.png" alt="ประเมินการเรียนการสอน ภาคปลาย 2564 ครั้งที่ 1"  class="swiper-lazy" />
-            </div>
-            <div class="content ">
-              <div class="news-title">ประเมินการเรียนการสอน ภาคปลาย 2564 ครั้งที่ 1</div>
-              <div class="pt-2">
-                <p>
-                สำหรับนิสิต ป.ตรี หลักสูตรภาษาไทย ระหว่างวันที่ 10-14 มกราคม 2565                </p>
-              </div>
-            </div>
-</div>
-
-
-            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
-              <div class="date">10 มกราคม 2565</div>
-              <!-- <div class="stat d-flex">
-                <span class="mr-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m0 0h24v24h0z" fill="none"/>
-    <path
-      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
-      fill="#74787b"
-    />
-  </svg>                  </span>
-                  <span>224</span>
-                </span>
-                <span class="ml-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
-    <path d="m0 0h24v24h0z" fill="none"/>
-  </svg>                  </span>
-                  <span>0</span>
-                </span>
-              </div> -->
-            </div>
-
-  </a>
-</div>
-
-
-<div class="swiper-slide news-slide p-1 ">
-<a href="https://www.ku.ac.th/th/news1/view/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%b2%e0%b8%a8-%e0%b8%a1%e0%b8%81-%e0%b9%80%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%ad%e0%b8%99%e0%b8%82%e0%b8%ad%e0%b8%87-%e0%b8%a1%e0%b8%81-%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%a8%e0%b8%81%e0%b8%b2%e0%b8%a5%e0%b8%9b%e0%b8%b5%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88-2565" class="card-hover-effect"> 
-<div>
-            <div class="img">
-                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202201/m_news/389/thumbnail_bf453d699bab1d6f509c67311fb504f6.png" alt="ประกาศ มก. เรื่อง การจัดการเรียนการสอนของ มก. หลังเทศกาลปีใหม่ 2565"  class="swiper-lazy" />
-            </div>
-            <div class="content ">
-              <div class="news-title">ประกาศ มก. เรื่อง การจัดการเรียนการสอนของ มก. หลังเทศกาลปีใหม่ 2565</div>
-              <div class="pt-2">
-                <p>
-                ตามมาตรการป้องกันการแพร่ระบาดโรคติดเชื้อไวรัส covid-19 ฉบับที่ 34                </p>
-              </div>
-            </div>
-</div>
-
-
-            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
-              <div class="date">3 มกราคม 2565</div>
-              <!-- <div class="stat d-flex">
-                <span class="mr-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m0 0h24v24h0z" fill="none"/>
-    <path
-      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
-      fill="#74787b"
-    />
-  </svg>                  </span>
-                  <span>2786</span>
-                </span>
-                <span class="ml-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
-    <path d="m0 0h24v24h0z" fill="none"/>
-  </svg>                  </span>
-                  <span>0</span>
-                </span>
-              </div> -->
-            </div>
-
-  </a>
-</div>
-
-
-<div class="swiper-slide news-slide p-1 ">
-<a href="https://www.ku.ac.th/th/news1/view/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%b2%e0%b8%a8-%e0%b8%a1%e0%b8%81-%e0%b9%80%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87-%e0%b9%81%e0%b8%99%e0%b8%a7%e0%b8%9b%e0%b8%8f%e0%b8%b4%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%b4%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%9a%e0%b8%b8%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%81%e0%b8%a3-%e0%b8%a1%e0%b8%81-%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%a8%e0%b8%81%e0%b8%b2%e0%b8%a5%e0%b8%9b%e0%b8%b5%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88-2565" class="card-hover-effect"> 
-<div>
-            <div class="img">
-                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202201/m_news/389/thumbnail_869ce2251ce9bfd2fb0d2f18bf453ab8.png" alt="ประกาศ มก. เรื่อง แนวปฏิบัติงานของบุคลากร มก. หลังเทศกาลปีใหม่ 2565"  class="swiper-lazy" />
-            </div>
-            <div class="content ">
-              <div class="news-title">ประกาศ มก. เรื่อง แนวปฏิบัติงานของบุคลากร มก. หลังเทศกาลปีใหม่ 2565</div>
-              <div class="pt-2">
-                <p>
-                ตามมาตรการป้องกันการแพร่ระบาดโรคติดเชื้อไวรัส covid-19 ฉบับที่ 33                </p>
-              </div>
-            </div>
-</div>
-
-
-            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
-              <div class="date">3 มกราคม 2565</div>
-              <!-- <div class="stat d-flex">
-                <span class="mr-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m0 0h24v24h0z" fill="none"/>
-    <path
-      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
-      fill="#74787b"
-    />
-  </svg>                  </span>
-                  <span>2464</span>
+                  <span>129</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1216,7 +1081,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>2556</span>
+                  <span>2561</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1261,7 +1126,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>2796</span>
+                  <span>2800</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1306,7 +1171,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>1701</span>
+                  <span>1704</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1351,7 +1216,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>6642</span>
+                  <span>6674</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1396,7 +1261,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>3684</span>
+                  <span>3689</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1441,7 +1306,142 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>1879</span>
+                  <span>1882</span>
+                </span>
+                <span class="ml-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
+    <path d="m0 0h24v24h0z" fill="none"/>
+  </svg>                  </span>
+                  <span>0</span>
+                </span>
+              </div> -->
+            </div>
+
+  </a>
+</div>
+
+
+<div class="swiper-slide news-slide p-1 ">
+<a href="https://www.ku.ac.th/th/news1/view/%e0%b8%82%e0%b8%ad%e0%b9%80%e0%b8%8a%e0%b8%b4%e0%b8%8d%e0%b8%94%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b9%8c%e0%b9%82%e0%b8%ab%e0%b8%a5%e0%b8%94-%e0%b8%84%e0%b8%a5%e0%b8%b4%e0%b8%9b-ku-change-for-the-future" class="card-hover-effect"> 
+<div>
+            <div class="img">
+                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202108/m_news/389/thumbnail_ccfc1b5b0bd914e3935f0f8a01cfbd4b.png" alt="ขอเชิญดาวน์โหลด คลิป ku change for the future"  class="swiper-lazy" />
+            </div>
+            <div class="content ">
+              <div class="news-title">ขอเชิญดาวน์โหลด คลิป ku change for the future</div>
+              <div class="pt-2">
+                <p>
+                มหาวิทยาลัยเกษตรศาสตร์ เปลี่ยนความคิดพลิกอนาคต                </p>
+              </div>
+            </div>
+</div>
+
+
+            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
+              <div class="date">9 สิงหาคม 2564</div>
+              <!-- <div class="stat d-flex">
+                <span class="mr-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m0 0h24v24h0z" fill="none"/>
+    <path
+      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+      fill="#74787b"
+    />
+  </svg>                  </span>
+                  <span>1725</span>
+                </span>
+                <span class="ml-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
+    <path d="m0 0h24v24h0z" fill="none"/>
+  </svg>                  </span>
+                  <span>0</span>
+                </span>
+              </div> -->
+            </div>
+
+  </a>
+</div>
+
+
+<div class="swiper-slide news-slide p-1 ">
+<a href="https://www.ku.ac.th/th/news1/view/%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%81%e0%b8%b2%e0%b8%a3-adobe-creative-cloud-%e0%b8%a3%e0%b8%b9%e0%b8%9b%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88" class="card-hover-effect"> 
+<div>
+            <div class="img">
+                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202107/m_news/389/thumbnail_105e3738b639d514dda8eec7cdd57038.png" alt="บริการ adobe creative cloud รูปแบบใหม่"  class="swiper-lazy" />
+            </div>
+            <div class="content ">
+              <div class="news-title">บริการ adobe creative cloud รูปแบบใหม่</div>
+              <div class="pt-2">
+                <p>
+                สำหรับนิสิต และบุคลากร มก. เริ่ม 6 ก.ค. 64                </p>
+              </div>
+            </div>
+</div>
+
+
+            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
+              <div class="date">7 กรกฎาคม 2564</div>
+              <!-- <div class="stat d-flex">
+                <span class="mr-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m0 0h24v24h0z" fill="none"/>
+    <path
+      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+      fill="#74787b"
+    />
+  </svg>                  </span>
+                  <span>1890</span>
+                </span>
+                <span class="ml-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
+    <path d="m0 0h24v24h0z" fill="none"/>
+  </svg>                  </span>
+                  <span>0</span>
+                </span>
+              </div> -->
+            </div>
+
+  </a>
+</div>
+
+
+<div class="swiper-slide news-slide p-1 ">
+<a href="https://www.ku.ac.th/th/news1/view/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9b%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%9b%e0%b8%a5%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%99%e0%b8%99%e0%b9%82%e0%b8%a2%e0%b8%9a%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%a9%e0%b8%b1%e0%b8%97-google" class="card-hover-effect"> 
+<div>
+            <div class="img">
+                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202105/m_news/389/thumbnail_f86c744522572287cacfd3772bae62e4.png" alt="แจ้งเตือนการปรับเปลี่ยนนโยบายการให้บริการพื้นที่ของบริษัท google"  class="swiper-lazy" />
+            </div>
+            <div class="content ">
+              <div class="news-title">แจ้งเตือนการปรับเปลี่ยนนโยบายการให้บริการพื้นที่ของบริษัท google</div>
+              <div class="pt-2">
+                <p>
+                มีผลบังคับใช้ในเดือนกรกฎาคม 2565                </p>
+              </div>
+            </div>
+</div>
+
+
+            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
+              <div class="date">7 พฤษภาคม 2564</div>
+              <!-- <div class="stat d-flex">
+                <span class="mr-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m0 0h24v24h0z" fill="none"/>
+    <path
+      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+      fill="#74787b"
+    />
+  </svg>                  </span>
+                  <span>1533</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1505,7 +1505,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>733</span>
+                  <span>795</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1550,7 +1550,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>46</span>
+                  <span>49</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1595,7 +1595,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>1656</span>
+                  <span>1660</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1640,7 +1640,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>2094</span>
+                  <span>2097</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1685,7 +1685,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>2645</span>
+                  <span>2651</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1730,7 +1730,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>5551</span>
+                  <span>5555</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1775,7 +1775,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>3480</span>
+                  <span>3484</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1821,7 +1821,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>8375</span>
+                  <span>8381</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1911,7 +1911,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>4372</span>
+                  <span>4375</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -1975,7 +1975,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>6</span>
+                  <span>13</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -2020,7 +2020,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>43</span>
+                  <span>47</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -2065,7 +2065,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>39</span>
+                  <span>43</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -2110,7 +2110,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>188</span>
+                  <span>193</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -2155,7 +2155,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>1403</span>
+                  <span>1406</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -2219,7 +2219,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>21</span>
+                  <span>30</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -2264,322 +2264,7 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>2311</span>
-                </span>
-                <span class="ml-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
-    <path d="m0 0h24v24h0z" fill="none"/>
-  </svg>                  </span>
-                  <span>0</span>
-                </span>
-              </div> -->
-            </div>
-
-  </a>
-</div>
-
-
-<div class="swiper-slide news-slide p-1 ">
-<a href="https://www.ku.ac.th/th/education-news/view/tcas-65-%e0%b8%a3%e0%b8%ad%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88-1-%e0%b8%84%e0%b8%93%e0%b8%b0%e0%b8%ad%e0%b8%b8%e0%b8%95%e0%b8%aa%e0%b8%b2%e0%b8%ab%e0%b8%81%e0%b8%a3%e0%b8%a3%e0%b8%a1%e0%b9%80%e0%b8%81%e0%b8%a9%e0%b8%95%e0%b8%a3" class="card-hover-effect"> 
-<div>
-            <div class="img">
-                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202112/m_news/340/thumbnail_4a0d339094561c4cd2de5a1c602d14f5.png" alt="tcas 65 รอบที่ 1 คณะอุตสาหกรรมเกษตร"  class="swiper-lazy" />
-            </div>
-            <div class="content ">
-              <div class="news-title">tcas 65 รอบที่ 1 คณะอุตสาหกรรมเกษตร</div>
-              <div class="pt-2">
-                <p>
-                รับสมัคร 13 ธ.ค. 64 - 14 ม.ค. 65                </p>
-              </div>
-            </div>
-</div>
-
-
-            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
-              <div class="date">17 ธันวาคม 2564</div>
-              <!-- <div class="stat d-flex">
-                <span class="mr-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m0 0h24v24h0z" fill="none"/>
-    <path
-      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
-      fill="#74787b"
-    />
-  </svg>                  </span>
-                  <span>2031</span>
-                </span>
-                <span class="ml-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
-    <path d="m0 0h24v24h0z" fill="none"/>
-  </svg>                  </span>
-                  <span>0</span>
-                </span>
-              </div> -->
-            </div>
-
-  </a>
-</div>
-
-
-<div class="swiper-slide news-slide p-1 ">
-<a href="https://www.ku.ac.th/th/education-news/view/tcas-65-%e0%b8%a3%e0%b8%ad%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88-1-%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2%e0%b8%97%e0%b8%b5%e0%b8%a1%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%80%e0%b8%a2%e0%b8%b2%e0%b8%a7%e0%b8%8a%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b8%a1%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4" class="card-hover-effect"> 
-<div>
-            <div class="img">
-                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202112/m_news/340/thumbnail_58fc2cb81ff925bcd27315feeaec726c.png" alt="tcas 65 รอบที่ 1 โครงการนักกีฬาทีมชาติและเยาวชนทีมชาติ"  class="swiper-lazy" />
-            </div>
-            <div class="content ">
-              <div class="news-title">tcas 65 รอบที่ 1 โครงการนักกีฬาทีมชาติและเยาวชนทีมชาติ</div>
-              <div class="pt-2">
-                <p>
-                รับสมัคร 13 ธ.ค. 64 - 14 ม.ค. 65                </p>
-              </div>
-            </div>
-</div>
-
-
-            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
-              <div class="date">14 ธันวาคม 2564</div>
-              <!-- <div class="stat d-flex">
-                <span class="mr-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m0 0h24v24h0z" fill="none"/>
-    <path
-      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
-      fill="#74787b"
-    />
-  </svg>                  </span>
-                  <span>2014</span>
-                </span>
-                <span class="ml-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
-    <path d="m0 0h24v24h0z" fill="none"/>
-  </svg>                  </span>
-                  <span>0</span>
-                </span>
-              </div> -->
-            </div>
-
-  </a>
-</div>
-
-
-<div class="swiper-slide news-slide p-1 ">
-<a href="https://www.ku.ac.th/th/education-news/view/tcas-65-%e0%b8%a3%e0%b8%ad%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88-1-%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%8a%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%9c%e0%b8%b7%e0%b8%ad%e0%b8%81" class="card-hover-effect"> 
-<div>
-            <div class="img">
-                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202112/m_news/340/thumbnail_9330993f97646c34e802755981c13c6f.png" alt="tcas 65 รอบที่ 1 โครงการช้างเผือก"  class="swiper-lazy" />
-            </div>
-            <div class="content ">
-              <div class="news-title">tcas 65 รอบที่ 1 โครงการช้างเผือก</div>
-              <div class="pt-2">
-                <p>
-                รับสมัคร 13 ธ.ค. 64 - 14 ม.ค. 65                </p>
-              </div>
-            </div>
-</div>
-
-
-            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
-              <div class="date">14 ธันวาคม 2564</div>
-              <!-- <div class="stat d-flex">
-                <span class="mr-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m0 0h24v24h0z" fill="none"/>
-    <path
-      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
-      fill="#74787b"
-    />
-  </svg>                  </span>
-                  <span>20649</span>
-                </span>
-                <span class="ml-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
-    <path d="m0 0h24v24h0z" fill="none"/>
-  </svg>                  </span>
-                  <span>0</span>
-                </span>
-              </div> -->
-            </div>
-
-  </a>
-</div>
-
-
-<div class="swiper-slide news-slide p-1 ">
-<a href="https://www.ku.ac.th/th/education-news/view/tcas-65-%e0%b8%a3%e0%b8%ad%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88-1-%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%a5%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%a5%e0%b8%b1%e0%b8%a2%e0%b9%80%e0%b8%81%e0%b8%a9%e0%b8%95%e0%b8%a3%e0%b8%a8%e0%b8%b2%e0%b8%aa%e0%b8%95%e0%b8%a3%e0%b9%8c-%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-16" class="card-hover-effect"> 
-<div>
-            <div class="img">
-                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202112/m_news/340/thumbnail_b5138950485b6141ce4551d0b5b53e47.png" alt="tcas 65 รอบที่ 1 โครงการเรียนล่วงหน้าของมหาวิทยาลัยเกษตรศาสตร์ รุ่นที่ 16"  class="swiper-lazy" />
-            </div>
-            <div class="content ">
-              <div class="news-title">tcas 65 รอบที่ 1 โครงการเรียนล่วงหน้าของมหาวิทยาลัยเกษตรศาสตร์ รุ่นที่ 16</div>
-              <div class="pt-2">
-                <p>
-                รับสมัคร 13 ธ.ค. 64 - 14 ม.ค. 65                </p>
-              </div>
-            </div>
-</div>
-
-
-            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
-              <div class="date">14 ธันวาคม 2564</div>
-              <!-- <div class="stat d-flex">
-                <span class="mr-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m0 0h24v24h0z" fill="none"/>
-    <path
-      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
-      fill="#74787b"
-    />
-  </svg>                  </span>
-                  <span>4774</span>
-                </span>
-                <span class="ml-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
-    <path d="m0 0h24v24h0z" fill="none"/>
-  </svg>                  </span>
-                  <span>0</span>
-                </span>
-              </div> -->
-            </div>
-
-  </a>
-</div>
-
-
-<div class="swiper-slide news-slide p-1 ">
-<a href="https://www.ku.ac.th/th/education-news/view/tcas-65-%e0%b8%a3%e0%b8%ad%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88-1-%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%84%e0%b8%a7%e0%b8%95%e0%b8%b2%e0%b9%82%e0%b8%ad%e0%b8%a5%e0%b8%b4%e0%b8%a1%e0%b8%9b%e0%b8%b4%e0%b8%81%e0%b8%a7%e0%b8%b4%e0%b8%8a%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%a3" class="card-hover-effect"> 
-<div>
-            <div class="img">
-                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202112/m_news/340/thumbnail_5f807b5c4a5a689b165ea73221b824e2.png" alt="tcas 65 รอบที่ 1 โครงการโควตาโอลิมปิกวิชาการ"  class="swiper-lazy" />
-            </div>
-            <div class="content ">
-              <div class="news-title">tcas 65 รอบที่ 1 โครงการโควตาโอลิมปิกวิชาการ</div>
-              <div class="pt-2">
-                <p>
-                รับสมัคร 13 ธ.ค. 64 - 14 ม.ค. 65                </p>
-              </div>
-            </div>
-</div>
-
-
-            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
-              <div class="date">14 ธันวาคม 2564</div>
-              <!-- <div class="stat d-flex">
-                <span class="mr-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m0 0h24v24h0z" fill="none"/>
-    <path
-      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
-      fill="#74787b"
-    />
-  </svg>                  </span>
-                  <span>2327</span>
-                </span>
-                <span class="ml-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
-    <path d="m0 0h24v24h0z" fill="none"/>
-  </svg>                  </span>
-                  <span>0</span>
-                </span>
-              </div> -->
-            </div>
-
-  </a>
-</div>
-
-
-<div class="swiper-slide news-slide p-1 ">
-<a href="https://www.ku.ac.th/th/education-news/view/tcas-65-%e0%b8%a3%e0%b8%ad%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88-1-%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%aa%e0%b8%a3%e0%b8%b4%e0%b8%a1%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%a1%e0%b8%b5%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%aa%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b8%96%e0%b8%9e%e0%b8%b4%e0%b9%80%e0%b8%a8%e0%b8%a9%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%a8%e0%b8%b2%e0%b8%aa%e0%b8%95%e0%b8%a3%e0%b9%8c%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%84%e0%b9%82%e0%b8%99%e0%b9%82%e0%b8%a5%e0%b8%a2%e0%b8%b5-%e0%b8%9e%e0%b8%aa%e0%b8%a7%e0%b8%97" class="card-hover-effect"> 
-<div>
-            <div class="img">
-                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202112/m_news/340/thumbnail_bda9e3f90b1bb5b4660897d8a15dc604.png" alt="tcas 65 รอบที่ 1 โครงการพัฒนาและส่งเสริมผู้มีความสามารถพิเศษทางวิทยาศาสตร์และเทคโนโลยี (พสวท.)"  class="swiper-lazy" />
-            </div>
-            <div class="content ">
-              <div class="news-title">tcas 65 รอบที่ 1 โครงการพัฒนาและส่งเสริมผู้มีความสามารถพิเศษทางวิทยาศาสตร์และเทคโนโลยี (พสวท.)</div>
-              <div class="pt-2">
-                <p>
-                รับสมัคร 13 ธ.ค. 64 - 14 ม.ค. 65                </p>
-              </div>
-            </div>
-</div>
-
-
-            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
-              <div class="date">14 ธันวาคม 2564</div>
-              <!-- <div class="stat d-flex">
-                <span class="mr-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m0 0h24v24h0z" fill="none"/>
-    <path
-      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
-      fill="#74787b"
-    />
-  </svg>                  </span>
-                  <span>2385</span>
-                </span>
-                <span class="ml-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
-    <path d="m0 0h24v24h0z" fill="none"/>
-  </svg>                  </span>
-                  <span>0</span>
-                </span>
-              </div> -->
-            </div>
-
-  </a>
-</div>
-
-
-<div class="swiper-slide news-slide p-1 ">
-<a href="https://www.ku.ac.th/th/education-news/view/tcas-65-%e0%b8%a3%e0%b8%ad%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88-1-%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%81%e0%b8%aa%e0%b8%b9%e0%b8%95%e0%b8%a3%e0%b8%99%e0%b8%b2%e0%b8%99%e0%b8%b2%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%81%e0%b8%aa%e0%b8%b9%e0%b8%95%e0%b8%a3%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%b2%e0%b8%ad%e0%b8%b1%e0%b8%87%e0%b8%81%e0%b8%a4%e0%b8%a9" class="card-hover-effect"> 
-<div>
-            <div class="img">
-                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202112/m_news/340/thumbnail_3dd1f3f7bd0f51fb64a5f4aec53f7fe7.png" alt="tcas 65 รอบที่ 1 โครงการหลักสูตรนานาชาติและหลักสูตรภาษาอังกฤษ "  class="swiper-lazy" />
-            </div>
-            <div class="content ">
-              <div class="news-title">tcas 65 รอบที่ 1 โครงการหลักสูตรนานาชาติและหลักสูตรภาษาอังกฤษ </div>
-              <div class="pt-2">
-                <p>
-                รับสมัคร 13 ธ.ค. 64 - 14 ม.ค. 65                </p>
-              </div>
-            </div>
-</div>
-
-
-            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
-              <div class="date">14 ธันวาคม 2564</div>
-              <!-- <div class="stat d-flex">
-                <span class="mr-2">
-                  <span class="mr-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-    <path d="m0 0h24v24h0z" fill="none"/>
-    <path
-      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
-      fill="#74787b"
-    />
-  </svg>                  </span>
-                  <span>2948</span>
+                  <span>2319</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">
@@ -2624,7 +2309,232 @@
       fill="#74787b"
     />
   </svg>                  </span>
-                  <span>2338</span>
+                  <span>2342</span>
+                </span>
+                <span class="ml-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
+    <path d="m0 0h24v24h0z" fill="none"/>
+  </svg>                  </span>
+                  <span>0</span>
+                </span>
+              </div> -->
+            </div>
+
+  </a>
+</div>
+
+
+<div class="swiper-slide news-slide p-1 ">
+<a href="https://www.ku.ac.th/th/education-news/view/%e0%b8%9b%e0%b8%8f%e0%b8%b4%e0%b8%97%e0%b8%b4%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%aa%e0%b8%a1%e0%b8%b1%e0%b8%84%e0%b8%a3%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%84%e0%b8%b1%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b8%9a%e0%b8%b8%e0%b8%84%e0%b8%84%e0%b8%a5%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%a9%e0%b8%b2%e0%b8%95%e0%b9%88%e0%b8%ad-%e0%b8%a1%e0%b8%81" class="card-hover-effect"> 
+<div>
+            <div class="img">
+                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202109/m_news/340/thumbnail_7798900ef74be5c165ba8ddcf10db65b.png" alt="ปฏิทินการรับสมัครและคัดเลือกบุคคลเข้าศึกษาต่อ มก."  class="swiper-lazy" />
+            </div>
+            <div class="content ">
+              <div class="news-title">ปฏิทินการรับสมัครและคัดเลือกบุคคลเข้าศึกษาต่อ มก.</div>
+              <div class="pt-2">
+                <p>
+                ประจำปีการศึกษา 2565                </p>
+              </div>
+            </div>
+</div>
+
+
+            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
+              <div class="date">30 กันยายน 2564</div>
+              <!-- <div class="stat d-flex">
+                <span class="mr-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m0 0h24v24h0z" fill="none"/>
+    <path
+      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+      fill="#74787b"
+    />
+  </svg>                  </span>
+                  <span>7279</span>
+                </span>
+                <span class="ml-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
+    <path d="m0 0h24v24h0z" fill="none"/>
+  </svg>                  </span>
+                  <span>0</span>
+                </span>
+              </div> -->
+            </div>
+
+  </a>
+</div>
+
+
+<div class="swiper-slide news-slide p-1 ">
+<a href="https://www.ku.ac.th/th/education-news/view/%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b8%a7%e0%b8%b4%e0%b8%8a%e0%b8%b2%e0%b9%80%e0%b8%a8%e0%b8%a3%e0%b8%a9%e0%b8%90%e0%b8%a8%e0%b8%b2%e0%b8%aa%e0%b8%95%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%81%e0%b8%a9%e0%b8%95%e0%b8%a3%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%97%e0%b8%a3%e0%b8%b1%e0%b8%9e%e0%b8%a2%e0%b8%b2%e0%b8%81%e0%b8%a3-%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%aa%e0%b8%a1%e0%b8%b1%e0%b8%84%e0%b8%a3%e0%b8%99%e0%b8%b4%e0%b8%aa%e0%b8%b4%e0%b8%95%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88-%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b8%9b%e0%b8%a3%e0%b8%b4%e0%b8%8d%e0%b8%8d%e0%b8%b2%e0%b9%82%e0%b8%97-2565" class="card-hover-effect"> 
+<div>
+            <div class="img">
+                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202111/m_news/340/thumbnail_c5e9777c24338320a6f85feefe15620f.png" alt="ภาควิชาเศรษฐศาสตร์เกษตรและทรัพยากร เปิดรับสมัครนิสิตใหม่ ระดับปริญญาโท 2565"  class="swiper-lazy" />
+            </div>
+            <div class="content ">
+              <div class="news-title">ภาควิชาเศรษฐศาสตร์เกษตรและทรัพยากร เปิดรับสมัครนิสิตใหม่ ระดับปริญญาโท 2565</div>
+              <div class="pt-2">
+                <p>
+                ประจำปีการศึกษา 2565 ภาคพิเศษ                </p>
+              </div>
+            </div>
+</div>
+
+
+            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
+              <div class="date">10 พฤศจิกายน 2564</div>
+              <!-- <div class="stat d-flex">
+                <span class="mr-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m0 0h24v24h0z" fill="none"/>
+    <path
+      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+      fill="#74787b"
+    />
+  </svg>                  </span>
+                  <span>424</span>
+                </span>
+                <span class="ml-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
+    <path d="m0 0h24v24h0z" fill="none"/>
+  </svg>                  </span>
+                  <span>0</span>
+                </span>
+              </div> -->
+            </div>
+
+  </a>
+</div>
+
+
+<div class="swiper-slide news-slide p-1 ">
+<a href="https://www.ku.ac.th/th/education-news/view/%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%aa%e0%b8%a1%e0%b8%b1%e0%b8%84%e0%b8%a3%e0%b8%99%e0%b8%b4%e0%b8%aa%e0%b8%b4%e0%b8%95-%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b8%9b-%e0%b9%82%e0%b8%97-%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%81%e0%b8%aa%e0%b8%b9%e0%b8%95%e0%b8%a3%e0%b9%80%e0%b8%a8%e0%b8%a3%e0%b8%a9%e0%b8%90%e0%b8%a8%e0%b8%b2%e0%b8%aa%e0%b8%95%e0%b8%a3%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%9a%e0%b8%b1%e0%b8%93%e0%b8%91%e0%b8%b4%e0%b8%95" class="card-hover-effect"> 
+<div>
+            <div class="img">
+                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202111/m_news/340/thumbnail_b3728f583647614f62fed95d108f6d1f.png" alt="เปิดรับสมัครนิสิต ระดับป.โท หลักสูตรเศรษฐศาสตรมหาบัณฑิต"  class="swiper-lazy" />
+            </div>
+            <div class="content ">
+              <div class="news-title">เปิดรับสมัครนิสิต ระดับป.โท หลักสูตรเศรษฐศาสตรมหาบัณฑิต</div>
+              <div class="pt-2">
+                <p>
+                สาขาวิชาเศรษฐศาสตร์ธุรกิจ mbe รุ่นที่ 29 ประจำภาคต้น ปีการศึกษา 2565                </p>
+              </div>
+            </div>
+</div>
+
+
+            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
+              <div class="date">1 พฤศจิกายน 2564</div>
+              <!-- <div class="stat d-flex">
+                <span class="mr-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m0 0h24v24h0z" fill="none"/>
+    <path
+      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+      fill="#74787b"
+    />
+  </svg>                  </span>
+                  <span>922</span>
+                </span>
+                <span class="ml-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
+    <path d="m0 0h24v24h0z" fill="none"/>
+  </svg>                  </span>
+                  <span>0</span>
+                </span>
+              </div> -->
+            </div>
+
+  </a>
+</div>
+
+
+<div class="swiper-slide news-slide p-1 ">
+<a href="https://www.ku.ac.th/th/education-news/view/%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88-%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%81%e0%b8%aa%e0%b8%b9%e0%b8%95%e0%b8%a3%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%a8%e0%b8%b2%e0%b8%aa%e0%b8%95%e0%b8%a3%e0%b8%9a%e0%b8%b1%e0%b8%93%e0%b8%91%e0%b8%b4%e0%b8%95-%e0%b8%aa%e0%b8%b2%e0%b8%82%e0%b8%b2%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%84%e0%b9%82%e0%b8%99%e0%b9%82%e0%b8%a5%e0%b8%a2%e0%b8%b5%e0%b8%9e%e0%b8%ad%e0%b8%a5%e0%b8%b4%e0%b9%80%e0%b8%a1%e0%b8%ad%e0%b8%a3%e0%b9%8c" class="card-hover-effect"> 
+<div>
+            <div class="img">
+                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202105/m_news/340/thumbnail_1d2c621b78a4e6a87ce882facf3a85a2.png" alt="เปิดใหม่ !! หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิทยาการและเทคโนโลยีพอลิเมอร์"  class="swiper-lazy" />
+            </div>
+            <div class="content ">
+              <div class="news-title">เปิดใหม่ !! หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิทยาการและเทคโนโลยีพอลิเมอร์</div>
+              <div class="pt-2">
+                <p>
+                (หลักสูตรนานาชาติ)                </p>
+              </div>
+            </div>
+</div>
+
+
+            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
+              <div class="date">28 พฤษภาคม 2564</div>
+              <!-- <div class="stat d-flex">
+                <span class="mr-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m0 0h24v24h0z" fill="none"/>
+    <path
+      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+      fill="#74787b"
+    />
+  </svg>                  </span>
+                  <span>1692</span>
+                </span>
+                <span class="ml-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m10 9v5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" fill="#74787b" />
+    <path d="m0 0h24v24h0z" fill="none"/>
+  </svg>                  </span>
+                  <span>0</span>
+                </span>
+              </div> -->
+            </div>
+
+  </a>
+</div>
+
+
+<div class="swiper-slide news-slide p-1 ">
+<a href="https://www.ku.ac.th/th/education-news/view/%e0%b8%84%e0%b8%93%e0%b8%b0%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%a8%e0%b8%b2%e0%b8%aa%e0%b8%95%e0%b8%a3%e0%b9%8c-%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%81%e0%b8%aa%e0%b8%b9%e0%b8%95%e0%b8%a3%e0%b8%9b-%e0%b9%82%e0%b8%97-%e0%b8%aa%e0%b8%b2%e0%b8%82%e0%b8%b2%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%a8%e0%b8%b2%e0%b8%aa%e0%b8%95%e0%b8%a3%e0%b9%8c%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%8a%e0%b8%b5%e0%b8%a7%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a2%e0%b9%8c" class="card-hover-effect"> 
+<div>
+            <div class="img">
+                    <img src="/assets/images/common/image.svg" data-src="/400x300/web-upload/202012/m_news/340/thumbnail_8fda1aa1bfc80c63d20446264ec9196b.png" alt="คณะวิทยาศาสตร์ เปิดหลักสูตรป.โท สาขาวิทยาศาสตร์ข้อมูลชีวการแพทย์"  class="swiper-lazy" />
+            </div>
+            <div class="content ">
+              <div class="news-title">คณะวิทยาศาสตร์ เปิดหลักสูตรป.โท สาขาวิทยาศาสตร์ข้อมูลชีวการแพทย์</div>
+              <div class="pt-2">
+                <p>
+                แห่งแรกในประเทศไทย                </p>
+              </div>
+            </div>
+</div>
+
+
+            <div class="info d-flex justify-content-between pl-3 pr-3 pb-1">
+              <div class="date">29 ธันวาคม 2563</div>
+              <!-- <div class="stat d-flex">
+                <span class="mr-2">
+                  <span class="mr-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
+    <path d="m0 0h24v24h0z" fill="none"/>
+    <path
+      d="m12 4.5c7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+      fill="#74787b"
+    />
+  </svg>                  </span>
+                  <span>1902</span>
                 </span>
                 <span class="ml-2">
                   <span class="mr-2">

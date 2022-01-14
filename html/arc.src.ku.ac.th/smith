@@ -1,0 +1,579 @@
+<html>
+<head>
+<title>หอจดหมายเหตุ :: มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+</head>
+<style>
+.hl { background-image:url(img/bg_01.png) ;
+					background-repeat : no-repeat ;
+					background-position : top right ;
+	}
+.hr { background-image:url(img/bg_03.png) ;
+					background-repeat : no-repeat ;
+					background-position : top left ;
+	}
+.bl { background-image:url(img/bg_04.png) ;
+					background-repeat : no-repeat ;
+					background-position : top right ;
+	}
+.br { background-image:url(img/bg_06.png) ;
+					background-repeat : no-repeat ;
+					background-position : top left ;
+	}
+.dl { background-image:url(img/bg_08.png) ;
+					background-repeat : repeat-y ;
+					background-position : top right ;
+	}
+.dc { background-image:url(img/bg_09.png) ;
+					background-repeat : repeat ;
+					background-position : top right ;
+	}
+.dr { background-image:url(img/bg_10.png) ;
+					background-repeat : repeat-y ;
+					background-position : top left ;
+	}
+.fl { background-image:url(img/bg_11.png) ;
+					background-repeat : no-repeat ;
+					background-position : top right ;
+	}
+.fr { background-image:url(img/bg_13.png) ;
+					background-repeat : no-repeat ;
+					background-position : top left ;
+	}
+.banner { background-image:url(img/bg_07.png) ;
+					background-repeat : no-repeat ;
+					background-position : top left ;
+	}
+</style>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+<!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+ <script type="text/javascript" src="http://arc.src.ku.ac.th/script/jquery.min.js"></script>-->
+
+<body bgcolor="#2d0e07" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- save for web slices (index(2).jpg) -->
+<table width=100% border=0 cellpadding="0" cellspacing="0">
+<tr><td class=hl>&nbsp;</td><td width="996" height="152"><img src="img/bg_02.png" alt=""></td><td class=hr>&nbsp;</td></tr>
+<tr><td class=bl>&nbsp;</td><td width="304" height="374" >
+		<table border=0 cellpadding="0" cellspacing="0">
+			<tr><td><!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+<title> new document </title>
+<meta name="generator" content="editplus">
+<meta name="author" content="">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<script type="text/javascript" src="../script/jquery.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="../script/jkmegamenu.css" />
+
+<script type="text/javascript" src="../script/jkmegamenu.js">
+
+
+</script>
+
+<script type="text/javascript">
+jkmegamenu.definemenu("megaanchor", "megamenu1", "mouseover")
+jkmegamenu.definemenu("megaanchor2", "megamenu2", "mouseover")
+jkmegamenu.definemenu("megaanchor3", "megamenu3", "mouseover")
+jkmegamenu.definemenu("megaanchor4", "megamenu4", "mouseover")
+jkmegamenu.definemenu("megaanchor5", "megamenu5", "mouseover")
+</script>
+</head>
+<style>
+.bgbb { background-image:url(menu/bmenu.png) ;
+					background-repeat : repeat ;
+					background-position : 0% 0% ;
+				}
+</style>
+<body>
+<!--<table border="0" cellpadding="0" cellspacing="0" width=991><tr class=bgbb><td align=center>
+	<table width="100%" border="0" cellpadding="0" cellspacing="0" ><tr>
+		<td><a href="content2.php?page=history" id="megaanchor"><img src="../menu/menu_8_012.png"  style="border-width:0;" ></a></td>
+		<td><a href="content2.php?page=department" id="megaanchor2"><img src="../menu/menu_8_022.png"  style="border-width:0;"></a></td>
+		<td><a href="index.php" id="megaanchor3"><img src="../menu/menu_8_032.png"  style="border-width:0;"></a></td>
+		<td width=150><a href="http://158.108.102.21/research/index.php" id="megaanchor4"><img src="../menu/menu_8_042.png" style="border-width:0;"></a></td>
+		<td><a href="index.php" id="megaanchor5"><img src="../menu/menu_8_052.png"  style="border-width:0;"></a></td>
+		<td><a href="content2.php?page=contact"' id="megaanchor6"><img src="../menu/menu_8_062.png"  style="border-width:0;"></a></td></tr></table>
+</td></tr></table>-->
+
+<table width="996" height="41" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+			<a href="index.php?ipage=principles" id="megaanchor" onmouseover="document.bt1.src='img/menuh_01.png'"
+onmouseout="document.bt1.src='img/menu_01.png'"><img src="img/menu_01.png" width="194" height="41" alt="" style="border-width:0;" name="bt1"></td>
+		<td>
+			<a href="index.php?ipage=history" id="megaanchor2"  onmouseover="document.bt2.src='img/menuh_02.png'"
+onmouseout="document.bt2.src='img/menu_02.png'"><img src="img/menu_02.png" width="174" height="41" alt="" style="border-width:0;" name="bt2"></td>
+		<td>
+			<a href="index.php?ipage=leader/leader" id="megaanchor3"  onmouseover="document.bt3.src='img/menuh_03.png'"
+onmouseout="document.bt3.src='img/menu_03.png'"><img src="img/menu_03.png" width="126" height="41" alt="" style="border-width:0;" name="bt3"></td>
+		<td>
+			<a href="" id="megaanchor4"  onmouseover="document.bt4.src='img/menuh_04.png'"
+onmouseout="document.bt4.src='img/menu_04.png'"><img src="img/menu_04.png" width="164" height="41" alt="" style="border-width:0;" name="bt4"></td>
+		<td>
+			<a href="" id="megaanchor5"  onmouseover="document.bt5.src='img/menuh_05.png'"
+onmouseout="document.bt5.src='img/menu_05.png'"><img src="img/menu_05.png" width="204" height="41" alt="" style="border-width:0;" name="bt5"></td>
+		<td>
+			<a href="index.php?ipage=display" id="megaanchor6"  onmouseover="document.bt6.src='img/menuh_06.png'"
+onmouseout="document.bt6.src='img/menu_06.png'"><img src="img/menu_06.png" width="134" height="41" alt="" style="border-width:0;" name="bt6"></td>
+	</tr>
+</table>
+
+<div id="megamenu1" class="megamenu" onmouseover="document.bt1.src='img/menuh_01.png'"
+onmouseout="document.bt1.src='img/menu_01.png'">
+<div class="column">
+	<h3>รู้จักหอจดหมายเหตุ</h3>
+	<ul>
+	<li><a href="index.php?ipage=principles">- การจัดตั้งหอจดหมายเหตุ</a></li>
+	<li><a href="index.php?ipage=objective">- วัตถุประสงค์</a></li>
+	<li><a href="" >- แผนการดำเนินงาน</a></li>
+	<li><a href="download/etc1.pdf" >- พระราชบัญญัติจดหมายเหตุแห่งชาติ</a></li>
+<!--	<li><a href="index.php?ipage=board2">- คณะทำงาน</a></li>-->
+	</ul>
+	<h3>คณะทำงาน</h3>
+	<ul>
+	<li><a href="index.php?ipage=board2">- คณะกรรมการอำนวยการ</a></li>
+	<li><a href="index.php?ipage=board3">- คณะอนุกรรมการอำนวยการ</a></li>
+</div>
+</div>
+<div id="megamenu2" class="megamenu"  onmouseover="document.bt2.src='img/menuh_02.png'"
+onmouseout="document.bt2.src='img/menu_02.png'">
+<div class="column">
+	<h3>ประวัติมหาวิทยาลัย</h3>
+	<ul>
+	<li><a href="index.php?ipage=history">- การจัดตั้งมหาวิทยาลัย</a></li>
+	<li><a href="index.php?ipage=prapiroon">- ประวัติพระพิรุณทรงนาค</a></li>
+	<li><a href="index.php?ipage=3pr">- ๓ บูรพาจารย์ ผู้ก่อตั้งมหาวิทยาลัย</a></li>
+	<li><a href="index.php?ipage=logo">- สัญลักษณ์มหาวิทยาลัย</a></li>
+	<li><a href="index.php?ipage=narratives">- กว่าจะมาเป็นวิทยาเขตศรีราชา</a></li>
+	</ul>
+</div>
+</div>
+<div id="megamenu3" class="megamenu"  onmouseover="document.bt3.src='img/menuh_03.png'"
+onmouseout="document.bt3.src='img/menu_03.png'">
+<div class="column">
+	<h3>บุคคลสำคัญ</h3>
+	<ul>
+	<li><a href="index.php?ipage=leader/leader">- ผู้บริหารวิทยาเขต</a></li>
+	</ul>
+	<h3>ผู้บริหาร คณะวิชา วิทยาลัย สำนัก</h3>
+	<ul>
+	<li><a href="index.php?ipage=leader/leaderms">- คณะวิทยาการจัดการ</a></li>
+	<li><a href="index.php?ipage=leader/leaderen">- คณะวิศวกรรมศาสตร์ศรีราชา</a></li>
+	<li><a href="index.php?ipage=leader/leadersc">- คณะวิทยาศาสตร์ศรีราชา</a></li>
+	<li><a href="index.php?ipage=leader/leaderoa">- สำนักงานวิทยาเขต</a></li>
+	<li><a href="index.php?ipage=leader/leadervt">- สำนักวิทยบริการ</a></li>
+	<li><a href="index.php?ipage=leader/leaderim">- วิทยาลัยพาณิชยนาวีนานาชาติ</a></li>
+	<li><a href="index.php?ipage=leader/leaderec">- คณะเศรษฐศาสตร์ ศรีราชา</a></li>
+	</ul>
+</div>
+
+</div>
+<div id="megamenu4" class="megamenu"  onmouseover="document.bt4.src='img/menuh_04.png'"
+onmouseout="document.bt4.src='img/menu_04.png'">
+<div class="column">
+	<h3>อาคารและสถานที่</h3>
+	<ul>
+	<li><a href="index.php?ipage=building1">- พ.ศ. 2498-2534</a></li>
+	<li><a href="index.php?ipage=building2">- พ.ศ. 2535-ปัจจุบัน</a></li>
+	</ul>
+</div>
+</div>
+<div id="megamenu5" class="megamenu"  onmouseover="document.bt5.src='img/menuh_05.png'"
+onmouseout="document.bt5.src='img/menu_05.png'">
+<div class="column">
+	<h3>คลังข้อมูลจดหมายเหตุ</h3>
+	<ul>
+	<li><a href="http://isad.csc.ku.ac.th/" target='_blank'>- ฐานข้อมูล icaatom</a></li>
+	<li><a href="index.php?ipage=gallery">- คลังภาพจดหมายเหตุ</a></li>
+	<li><a href="https://ebook.lib.ku.ac.th/ebook27/ebook/2020rg0112/" target='_blank'>- 25 ปี นนทรีศรีราชา (e-book)</a></li>
+	</ul>
+</div>
+</div>
+</body>
+</html>
+</td></tr>
+			<tr><td width="996" height="333" class=banner >
+
+	</td></tr>
+</table>
+</td><td class=br>&nbsp;</td></tr>
+<tr><td class=dl>&nbsp;</td><td width="996" height="700" class=dc valign=top>
+	<table border=0  width=100% cellpadding="0" cellspacing="5"><tr><td align=right><table id="table_01" width="249" height="28" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+			<img src="img/bcku_01.png" width="27" height="28" alt=""></td>
+		<td><a href='http://www.src.ku.ac.th'>
+			<img src="img/bcku_02.png" width="138" height="28" alt="" border=0></a></td>
+		<td>
+			<img src="img/bcku_03.png" width="22" height="28" alt=""></td>
+		<td><a href='http://lib.vit.src.ku.ac.th'>
+			<img src="img/bcku_04.png" width="62" height="28" alt="" border=0></a></td>
+	</tr>
+</table></td></tr></table><link rel="stylesheet" type="text/css" href="script/style.css" />
+<style>
+.bgbt { background-image:url(img/bgb.png) ;
+					background-repeat : no-repeat ;
+					background-position : top left ;
+	}
+.bgr { background-image:url(img/bgr.png) ;
+					background-repeat : no-repeat ;
+					background-position : top left ;
+	}	
+</style>
+
+
+
+
+<table width=970 border="0" cellpadding="0" cellspacing="0" class=table align=center >
+	<tr><td width=720 valign=top align=left>
+			<table width=100% border=0  ><tr><td><img src='temp/home12.png'></td></tr>
+				<tr><td height=300>
+						<!doctype html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    <title>amazing slider</title>
+    
+    <!-- insert to your webpage before the </head> -->
+   <script src="slide/sliderengine/jquery.js"></script>
+    <script src="slide/sliderengine/amazingslider.js"></script>
+    <script src="slide/sliderengine/initslider-0.js"></script>
+    <!-- end of head section html codes -->
+    
+</head>
+<body style="background-color:#aaa;">
+<div >
+    
+    <!-- insert to your webpage where you want to display the slider -->
+    <div id="amazingslider-0" style="display:block;position:relative;margin:10px 5px 32px;">
+        <ul class="amazingslider-slides" style="display:none;">
+
+		 <li><a href="http://vit.src.ku.ac.th/gallery/259/index.html" target="_blank"><img src="slide/images/020.jpg" alt="24-06-57 " data-description="เสวนาวิชาการจดหมายเหตุ
+" /></a></li>
+ <li><a href="http://vit.src.ku.ac.th/gallery/257/index.html" target="_blank"><img src="slide/images/019.jpg" alt="12-06-57 " data-description="สัมภาษณ์ประวัติศาสตร์บอกเล่า(oral history) 
+รศ. ศรีอร สมบูรณ์ทรัพย์
+" /></a></li>
+ <li><a href="http://vit.src.ku.ac.th/gallery/256/index.html" target="_blank"><img src="slide/images/018.jpg" alt="06-06-57 " data-description="สัมภาษณ์ประวัติศาสตร์บอกเล่า(oral history) ดร.ศุภาภาส คำโตนด
+" /></a></li>
+
+            <li><a href="http://www.vit.src.ku.ac.th/gallery/255/index.html" target="_blank"><img src="slide/images/001.jpg" alt="04-06-57 " data-description="สัมภาษณ์ประวัติศาสตร์บอกเล่า อ.พรเทพ พัฒนานุรักษ์
+" /></a></li>
+            <li><a href="http://www.vit.src.ku.ac.th/gallery/250/index.html"><img src="slide/images/002.jpg" alt="27-05-57 " data-description="สัมภาษณ์ประวัติศาสตร์บอกเล่า (ผอ. เรวัติ อ่ำทอง)" /></a></li>
+            <li><a href="http://www.vit.src.ku.ac.th/gallery/247/index.html"><img src="slide/images/003.jpg" alt="24-04-57 " data-description="ประชุม การพัฒนาฐานข้อมูลจดหมายเหตุ และศึกษาดูงาน ณ พิพิธภัณฑ์และจดหมายเหตุ ธกส.
+" /></a></li>
+            <li><a href="http://arc.src.ku.ac.th/gallery/g3/album/index.html"><img src="slide/images/004.jpg" alt="17-01-57 " data-description="รศ.ดร.วิโรจ อิ่มพิทักษ์ และ รองอธิการบดี วิทยาเขตศรีราชา เยี่ยมชม ภาพ time line วิทยาเขตศรีราชา
+" /></a></li>
+            <li><a href="http://vit.src.ku.ac.th/gallery/216/index.html"><img src="slide/images/005.jpg" alt="13-12-56 " data-description="คณะทำงานเข้าร่วมอบรม เรื่อง การลงระบบฐานข้อมูลจดหมายเหตุ" /></a></li>
+            <li><a href="http://vit.src.ku.ac.th/gallery/215/index.html"><img src="slide/images/006.jpg" alt="12-12-56 " data-description="คณะทำงานเข้าร่วมประชุม เรื่อง การพัฒนาฐานข้อมูลจดหมายเหตุ" /></a></li>
+            <li><a href="http://vit.src.ku.ac.th/gallery/213/index.html"><img src="slide/images/007.jpg" alt="18-11-56 " data-description="สัมภาษณ์ประวัติศาสตร์บอกเล่า(oral history) ผศ. จำลอง เจียมจำนรรจา" /></a></li>
+            <li><a href="http://vit.src.ku.ac.th/gallery/221/index.html"><img src="slide/images/008.jpg" alt="27-09-56 " data-description="สัมภาษณ์ประวัติศาสตร์บอกเล่า (คุณธีระนันท์ บัวเพ็ชร)" /></a></li>
+            <li><a href="http://vit.src.ku.ac.th/gallery/210/index.html"><img src="slide/images/009.jpg" alt="26-08-56 " data-description="รศ.ดร. วิโรจ อิ่มพิทักษ์ เปิดนิทรรศการ 'กว่าจะเป็นนนทรีศรีราชา' ในวันสถาปนา มก.ศรช. ครบรอบปีที่ 18" /></a></li>
+            <li><a href="http://vit.src.ku.ac.th/gallery/220/index.html"><img src="slide/images/010.jpg" alt="20-08-56 " data-description="สัมภาษณ์ประวัติศาสตร์บอกเล่า (รศ. ชัยวัฒน์ ชัยกุล และคุณพิมพ์จันทร์ นุ่มหอม) 
+" /></a></li>
+            <li><a href="http://vit.src.ku.ac.th/gallery/187/index.html"><img src="slide/images/011.jpg" alt="14-05-56 " data-description="ศึกษาดูงานเพื่อพัฒนางานจดหมายเหตุและหอประวัติ ณ ศูนย์สารสนเทศ สำนักราชเลขาธิการ ศาลายา
+" /></a></li>
+            <li><a href="http://vit.src.ku.ac.th/gallery/178/index.html"><img src="slide/images/012.jpg" alt="05-04-56 " data-description="ประชุมคณะกรรมการหอประวัติ
+" /></a></li>
+            <li><a href="http://vit.src.ku.ac.th/gallery/159/index.html"><img src="slide/images/013.jpg" alt="12-12-55 " data-description="ศึกษาดูงานหอจดหมายเหตุแห่งชาติ
+" /></a></li>
+            <li><a href="http://vit.src.ku.ac.th/gallery/143/index.html"><img src="slide/images/014.jpg" alt="15-08-55 " data-description="ประชุมการบริหารและการพัฒนาความร่วมมือของเครือข่ายจดหมายเหตุ ม.เกษตรศาสตร์ ณ วิทยาเขตสกลนคร
+" /></a></li>
+            <li><a href="http://vit.src.ku.ac.th/gallery/116/index.html"><img src="slide/images/015.jpg" alt="15-03-55" data-description="ศึกษาดูงานพิพิธภัณฑ์ศาลปกครอง หอจดหมายเหตุมหาวิทยาลัยสุโขทัยธรรมาธิราช" /></a></li>
+            <li><a href="http://vit.src.ku.ac.th/gallery/108/index.html"><img src="slide/images/016.jpg" alt="19-02-55 " data-description="ศึกษาดูงานการจัดทำหอประวัติ มก. ฉกส.
+" /></a></li>
+            <li><a href="http://vit.src.ku.ac.th/gallery/103/index.html"><img src="slide/images/017.jpg" alt="02-02-55 " data-description="ศึกษาดูงาน หอประวัติมหาวิทยาลัยเกษตรศาสตร์" /></a></li>
+        </ul>
+        <ul class="amazingslider-thumbnails" style="display:none;">
+			<li><img src="slide/images/020-tn.jpg" /></li>
+            <li><img src="slide/images/019-tn.jpg" /></li>
+            <li><img src="slide/images/018-tn.jpg" /></li>
+
+			<li><img src="slide/images/001-tn.jpg" /></li>
+            <li><img src="slide/images/002-tn.jpg" /></li>
+            <li><img src="slide/images/003-tn.jpg" /></li>
+            <li><img src="slide/images/004-tn.jpg" /></li>
+            <li><img src="slide/images/005-tn.jpg" /></li>
+            <li><img src="slide/images/006-tn.jpg" /></li>
+            <li><img src="slide/images/007-tn.jpg" /></li>
+            <li><img src="slide/images/008-tn.jpg" /></li>
+            <li><img src="slide/images/009-tn.jpg" /></li>
+            <li><img src="slide/images/010-tn.jpg" /></li>
+            <li><img src="slide/images/011-tn.jpg" /></li>
+            <li><img src="slide/images/012-tn.jpg" /></li>
+            <li><img src="slide/images/013-tn.jpg" /></li>
+            <li><img src="slide/images/014-tn.jpg" /></li>
+            <li><img src="slide/images/015-tn.jpg" /></li>
+            <li><img src="slide/images/016-tn.jpg" /></li>
+            <li><img src="slide/images/017-tn.jpg" /></li>
+        </ul>
+        <div class="amazingslider-engine" style="display:none;"><a href="http://amazingslider.com">jquery slideshow</a></div>
+    </div>
+    <!-- end of body section html codes -->
+    
+</div>
+</body>
+</html></td></tr>
+			</table>
+	
+	<!--<table width=600 border=0 ><tr><td height=65><img src='temp/home01.png'><br><br></td></tr></
+		<tr><td height=500 valign=top style="position: relative; margin: 0 0; width: 600px; height: 300px;border: #3e180f 1px solid;border-radius: 20px 20px 20px 20px;filter: alpha(opacity=70); opacity:0.7; background-color: #3e180f;"></td></tr>
+	</table><br><br>-->
+	<table width=670 border=0 cellpadding="10"  cellspacing="5" ><tr><td><img src='temp/home02.png'></td></tr></
+		<tr ><td height=250 valign=top style="position: relative; margin: 0 0; width: 600px; height: 300px;border: #3e180f 1px solid;border-radius: 20px 20px 20px 20px;filter: alpha(opacity=70); opacity:0.7; background-color: #3e180f;"><font size=2>
+		<!--  news -->
+			<a href='http://www.vit.src.ku.ac.th/gallery/259/index.html' target='_blank'>24-06-57 เสวนาวิชาการจดหมายเหตุ</a><br>
+			<a href='http://www.vit.src.ku.ac.th/gallery/257/index.html' target='_blank'>12-06-57 สัมภาษณ์ประวัติศาสตร์บอกเล่า (oral history) 
+รศ. ศรีอร สมบูรณ์ทรัพย์</a><br>
+			<a href='http://www.vit.src.ku.ac.th/gallery/256/index.html' target='_blank'>06-06-57 สัมภาษณ์ประวัติศาสตร์บอกเล่า (oral history) ดร.ศุภาภาส คำโตนด</a><br>
+			
+			<a href='http://www.vit.src.ku.ac.th/gallery/255/index.html' target='_blank'>04-06-57 สัมภาษณ์ประวัติศาสตร์บอกเล่า (oral history) อ.พรเทพ พัฒนานุรักษ์</a><br>
+			<a href='http://www.vit.src.ku.ac.th/gallery/250/index.html' target='_blank'>27-05-57 สัมภาษณ์ประวัติศาสตร์บอกเล่า (oral history) ผอ. เรวัติ อ่ำทอง)</a><br>
+			<a href='http://www.vit.src.ku.ac.th/gallery/247/index.html' target='_blank'>24-04-57 ประชุม การพัฒนาฐานข้อมูลจดหมายเหตุ และศึกษาดูงาน ณ พิพิธภัณฑ์และจดหมายเหตุ ธกส.</a><br>
+			
+			<a href='http://arc.src.ku.ac.th/gallery/g3/album/index.html' target='_blank'>17-01-57 รศ.ดร.วิโรจ อิ่มพิทักษ์ และ รองอธิการบดี วิทยาเขตศรีราชา เยี่ยมชม ภาพ time line วิทยาเขตศรีราชา</a><br>
+			<a href='http://vit.src.ku.ac.th/gallery/216/index.html' target='_blank'>13-12-56 คณะทำงานเข้าร่วมอบรม เรื่อง การลงระบบฐานข้อมูลจดหมายเหตุ</a><br>
+			<a href='http://vit.src.ku.ac.th/gallery/215/index.html' target='_blank'>12-12-56 คณะทำงานเข้าร่วมประชุม เรื่อง การพัฒนาฐานข้อมูลจดหมายเหตุ</a><br>
+			<a href='http://vit.src.ku.ac.th/gallery/213/index.html' target='_blank'>18-11-56 สัมภาษณ์ประวัติศาสตร์บอกเล่า(oral history) ผศ. จำลอง เจียมจำนรรจา</a><br>
+			<a href='http://vit.src.ku.ac.th/gallery/221/index.html' target='_blank'>27-09-56 สัมภาษณ์ประวัติศาสตร์บอกเล่า (oral history) คุณธีระนันท์ บัวเพ็ชร</a><br>
+			<a href='http://vit.src.ku.ac.th/gallery/210/index.html' target='_blank'>26-08-56 รศ.ดร. วิโรจ อิ่มพิทักษ์ เปิดนิทรรศการ "กว่าจะเป็นนนทรีศรีราชา" ในวันสถาปนา มก.ศรช. ครบรอบปีที่ 18</a><br>
+			<a href='http://vit.src.ku.ac.th/gallery/220/index.html' target='_blank'>20-08-56 สัมภาษณ์ประวัติศาสตร์บอกเล่า (oral history) รศ. ชัยวัฒน์ ชัยกุล และคุณพิมพ์จันทร์ นุ่มหอม </a><br>
+			<a href='http://vit.src.ku.ac.th/gallery/187/index.html' target='_blank'>14-05-56 ศึกษาดูงานเพื่อพัฒนางานจดหมายเหตุและหอประวัติ ณ ศูนย์สารสนเทศ สำนักราชเลขาธิการ ศาลายา</a><br>
+			<a href='http://vit.src.ku.ac.th/gallery/178/index.html' target='_blank'>05-04-56 ประชุมคณะกรรมการหอประวัติ</a><br>
+			<a href='http://vit.src.ku.ac.th/gallery/159/index.html' target='_blank'>12-12-55 ศึกษาดูงานหอจดหมายเหตุแห่งชาติ</a><br>
+			<a href='http://vit.src.ku.ac.th/gallery/143/index.html' target='_blank'>15-08-55 ประชุมการบริหารและการพัฒนาความร่วมมือของเครือข่ายจดหมายเหตุ ม.เกษตรศาสตร์ ณ วิทยาเขตสกลนคร</a><br>
+			<a href='http://vit.src.ku.ac.th/gallery/116/index.html' target='_blank'>15-03-55 ศึกษาดูงานพิพิธภัณฑ์ศาลปกครอง หอจดหมายเหตุมหาวิทยาลัยสุโขทัยธรรมาธิราช</a><br>
+			<a href='http://vit.src.ku.ac.th/gallery/108/index.html' target='_blank'>19-02-55 ศึกษาดูงานการจัดทำหอประวัติ มก. ฉกส.</a><br>
+			<a href='http://vit.src.ku.ac.th/gallery/103/index.html' target='_blank'>02-02-55 ศึกษาดูงาน หอประวัติมหาวิทยาลัยเกษตรศาสตร์</a><br>
+			</font>
+		<!-- end news -->
+		</td></tr>
+	</table>
+</td>
+
+<td width=250  valign=top class="bgr" align=center><br><br>
+	<table height=180 border=0 width=90% ><tr><td align=center height=70><img src='temp/home9.png'></td></tr>
+	<tr><td valign=top><img src='img/point.png'>&nbsp;<font color=#998675><font size=2><a href='http://archives.lib.ku.ac.th/'>จดหมายเหตุ มก.</a><br>
+	<img src='img/point.png'>&nbsp;<a href='http://lib.kps.ku.ac.th/g4/archive/'>จดหมายเหตุ วข.กำแพงแสน</a><br>
+	<img src='img/point.png'>&nbsp;<a href='http://arc.src.ku.ac.th/'>จดหมายเหตุ วข. ศรีราชา</a><br>
+	<img src='img/point.png'>&nbsp;<a href='http://arc.csc.ku.ac.th/'>จดหมายเหตุ วข. ฉก.สกลนคร</a><br></font>
+	</td></tr></table>
+	<table height=150 border=0 width=90%><tr><td align=center height=70><img src='temp/home10.png'></td></tr>
+	<tr><td valign=top><img src='img/point.png'>&nbsp;<font size=2><a href='http://vit.src.ku.ac.th/gallery/210/index.html' target='_blank'>กว่าจะเป็นนนทรีศรีราชา</a><br>
+	 <img src='img/point.png'>&nbsp;<a href='http://arc.src.ku.ac.th/gallery/d2/album/index.html' target='_blank'>เฉลิมพระเกียรติ ๘๔ พรรษามหาราชา</a><br>
+	<img src='img/point.png'>&nbsp;<a href='http://arc.src.ku.ac.th/gallery/d1/album/index.html' target='_blank'>เฉลิมพระเกียรติ ๗๙ พรรษา</a><br>
+	</td></tr></table>
+	<!-- <table height=200 border=0 width=90%><tr><td align=center height=70><img src='temp/home11.png'></td></tr>
+	<tr><td valign=top><font color=#998675><font size=2>ความพึงพอใจของเว็บไซต์จดหมายเหตุ มก.ศรช.<br>
+	</font>
+	</td></tr></table> -->
+
+</td></tr>
+<tr><td colspan=2>
+<table width=100% border=0><tr>
+<td>
+<table width=480 border=0  height=350><tr><td><img src='temp/home01.png'><br><br></td></tr></
+		<tr><td height=380 align=center style="position: relative; margin: 0 0; width: 600px; height: 358px;border: #3e180f 1px solid;border-radius: 20px 20px 20px 20px;filter: alpha(opacity=70); opacity:0.7; background-color: #3e180f;">
+		<!--<script src="../pr/gallery/jquery.js" type="text/javascript"></script>-->
+<script src="../pr/gallery/main.js" type="text/javascript"></script>
+<html>
+<head>
+<title>pr2</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+</head>
+<style>
+
+.ag{
+	text-decoration:none;
+	color:#f30;	
+}
+.pg{
+	clear:both;
+	margin:0;
+	padding:.5em 0;
+}
+.preg{
+	display:block;
+	font:100% "courier new", courier, monospace;
+	padding:10px;
+	border:1px solid #bae2f0;
+	background:#e3f4f9;	
+	margin:.5em 0;
+	overflow:auto;
+	width:800px;
+}
+
+.imgg{border:none;}
+/*.ul,li{
+	margin:0;
+	padding:0;
+}
+li{
+	list-style:none;
+	float:left;
+	display:inline;
+	margin-right:10px;
+}
+
+
+
+  */
+
+#preview{
+	position:absolute;
+	border:1px solid #ccc;
+	background:#333;
+	padding:5px;
+	display:none;
+	color:#fff;
+	width:500px;
+	}
+
+</style>
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- save for web slices (pr2.jpg) -->
+<table id="table_01" width="451" height="344" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><a href="javascript:void(0)"   id="../pr/fpr2_01.jpg" class="preview">
+			<img src="../pr/pr2_01.jpg" width="119" height="100" alt=""></a></td>
+		<td colspan="3"><a href="javascript:void(0)"   id="../pr/fpr2_02.jpg" class="preview">
+			<img src="../pr/pr2_02.jpg" width="123" height="100" alt=""></a></td>
+		<td colspan="3">
+		<a href="javascript:void(0)"   id="../pr/fpr2_03.jpg" class="preview">
+			<img src="../pr/pr2_03.jpg" width="115" height="100" alt=""></a></td>
+		<td>
+		<a href="javascript:void(0)"   id="../pr/fpr2_04.jpg" class="preview">
+			<img src="../pr/pr2_04.jpg" width="93" height="100" alt=""></a></td>
+		<td>
+			<img src="../pr/spacer.gif" width="1" height="100" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<a href="javascript:void(0)"   id="../pr/fpr2_05.jpg" class="preview">
+			<img src="../pr/pr2_05.jpg" width="128" height="120" alt=""></a></td>
+		<td>
+			<img src="../pr/pr2_06.jpg" width="26" height="120" alt=""></td>
+		<td colspan="3" rowspan="3">
+		<a href="javascript:void(0)"   id="../pr/fpr2_07.jpg" class="preview">
+			<img src="../pr/pr2_07.jpg" width="191" height="144" alt=""></a></td>
+		<td colspan="2" rowspan="2">
+		<a href="javascript:void(0)"   id="../pr/fpr2_08.jpg" class="preview">
+			<img src="../pr/pr2_08.jpg" width="105" height="128" alt=""></a></td>
+		<td>
+			<img src="../pr/spacer.gif" width="1" height="120" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3" rowspan="3">
+		<a href="javascript:void(0)"   id="../pr/fpr2_09.jpg" class="preview">
+			<img src="../pr/pr2_09.jpg" width="154" height="123" alt=""></a></td>
+		<td>
+			<img src="../pr/spacer.gif" width="1" height="8" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" rowspan="2">
+		<a href="javascript:void(0)"   id="../pr/fpr2_10.jpg" class="preview">
+			<img src="../pr/pr2_10.jpg" width="105" height="115" alt=""></a></td>
+		<td>
+			<img src="../pr/spacer.gif" width="1" height="16" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<a href="javascript:void(0)"   id="../pr/fpr2_11.jpg" class="preview">
+			<img src="../pr/pr2_11.jpg" width="184" height="99" alt=""></a></td>
+		<td>
+			<img src="../pr/pr2_12.jpg" width="7" height="99" alt=""></td>
+		<td>
+			<img src="../pr/spacer.gif" width="1" height="99" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="../pr/spacer.gif" width="119" height="1" alt=""></td>
+		<td>
+			<img src="../pr/spacer.gif" width="9" height="1" alt=""></td>
+		<td>
+			<img src="../pr/spacer.gif" width="26" height="1" alt=""></td>
+		<td>
+			<img src="../pr/spacer.gif" width="88" height="1" alt=""></td>
+		<td>
+			<img src="../pr/spacer.gif" width="96" height="1" alt=""></td>
+		<td>
+			<img src="../pr/spacer.gif" width="7" height="1" alt=""></td>
+		<td>
+			<img src="../pr/spacer.gif" width="12" height="1" alt=""></td>
+		<td>
+			<img src="../pr/spacer.gif" width="93" height="1" alt=""></td>
+		<td></td>
+	</tr>
+</table>
+<!-- end save for web slices -->
+</body>
+</html></td>
+
+</td></tr>
+	</table>
+<td>
+	<table width=460 border=0 ><tr><td><img src='temp/home03.png'><br><br></td></tr></
+		<tr><td height=380 align=center style="position: relative; margin: 0 0; width: 600px; height: 300px;border: #3e180f 1px solid;border-radius: 20px 20px 20px 20px;filter: alpha(opacity=70); opacity:0.7; background-color: #3e180f;">
+		<object width='425' height='355'>
+<param name='movie' value='http://www.youtube.com/v/spre5zex6nm'></param>
+<param name='wmode' value='transparent'></param>
+<embed src='http://www.youtube.com/v/spre5zex6nm' type='application/x-shockwave-flash' wmode='transparent' width='425' height='355'>
+</embed>
+</object>
+</td></tr>
+	</table>
+			</td></tr></table>
+<br><br>	</td></tr>
+
+<tr ><td colspan=2 class="bgbt">
+	<table border=0 align=center><tr><td width=267 valign=top ><font size=2><font color=#998675><center><img src='temp/home04.png'></center>
+	<a href='http://arc.csc.ku.ac.th/'>งานจดหมายเหตุ วิทยาเขตสกลนคร</a><br>
+	<a href='http://www.nat.go.th/'>สำนักหอจดหมายเหตุแห่งชาติ</a><br>
+	<a href='http://www.narama9.go.th/'>หอจดหมายเหตุแห่งชาติเฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัวฯ</a><br>
+	<a href='http://www.arc.tu.ac.th/'>หอจดหมายเหตุมหาวิทยาลัยธรรมศาสตร์</a><br>
+	<a href='http://www.li.mahidol.ac.th/liua/service-tha.php'>หอจดหมายเหตุมหาวิทยาลัยมหิดล</a><br>
+	<a href='http://www.bot.or.th/thai/libraryandarchives/pages/library.aspx'>หอสมุดและหอจดหมายเหตุธนาคารแห่งประเทศไทย</a><br>
+	<a href='http://www.archives.su.ac.th/'>โครงการหอจดหมายเหตุมหาวิทยาลัยศิลปากร</a><br>
+	<a href='http://links.stks.or.th/darchive/danstda_main.html'>ฐานข้อมูลจดหมายเหตุดิจิทัล สวทช.</a><br>
+	<a href='http://www.mfu.ac.th/center/lib/archives/'>หอจดหมายเหตุมหาวิทยาลัยแม่ฟ้าหลวง</a><br></font>
+	
+	</td><td  valign=top width=225>
+	<font size=2>
+	<font color=#998675><center><img src='temp/home05.png'></center>
+	<a href='http://kuhistory.ku.ac.th/'>หอประวัติ มก.</a><br>
+	<a href='http://www.memocent.chula.ac.th/'>หอประวัติจุฬาลงกรณ์มหาวิทยาลัย</a><br>
+	<a href='http://www.psuhistory.psu.ac.th/'>หอประวัติมหาวิทยาลัยสงขลานครินทร์</a><br>
+	<a href='http://library.cmu.ac.th/pinmala/index.php'>หอประวัติมหาวิทยาลัยเชียงใหม่</a><br>
+	
+	<font color=#998675><center><img src='temp/home08.png'></center>
+	<a href='http://www.oamc.ku.ac.th/'>สำนักพิพิธภัณฑ์และวัฒนธรรมการเกษตร</a><br>
+	<a href='http://www.bot.or.th/thai/botmuseum/pages/botmuseum1.aspx'>พิพิธภัณฑ์ธนาคารแห่งประเทศไทย</a><br>
+	<a href='http://www.thaibankmuseum.or.th/index.php'>พิพิธภัณฑ์ธนาคารไทย</a><br>
+	<a href='http://www.kingprajadhipokmuseum.org/home/'>พิพิธภัณฑ์พระปกเกล้าเจ้าอยู่หัว</a><br>
+	<a href='http://www.ndmi.or.th/home.php'>สถาบันพิพิธภัณฑ์การเรียนรู้แห่งชาติ	</a><br>
+	</td>
+	
+	<td  valign=top width=227>
+	<font size=2><font color=#998675><center><img src='temp/home06.png'></center></font>
+	  <table border=0 align=center cellspacing=0 style='padding-top:0px;'><tr align=center valign=top><td colspan=2><img src='img/c0.png'><img src='img/c0.png'><img src='img/c5.png'><img src='img/c7.png'><img src='img/c8.png'><img src='img/c1.png'><img src='img/c1.png'><br></td></tr><tr><td colspan=2 align=center style='padding-top:10px;'><font size=2><font color=#998675>เริ่มเก็บข้อมูล :: 23/12/2013</td></tr><tr><td><font size=2><font color=#998675>วันนี้</td><td align=right><font size=2><font color=#998675>5</td></tr><tr><td><font size=2><font color=#998675>เมื่อวานนี้</td><td align=right><font size=2><font color=#998675>30</td></tr><tr><td><font size=2><font color=#998675>สัปดาห์นี้</td><td align=right><font size=2><font color=#998675>1259</td></tr><tr><td><font size=2><font color=#998675>สัปดาห์ที่แล้ว</td><td align=right><font size=2><font color=#998675>1510</td></tr><tr><td><font size=2><font color=#998675>เดือนนี้</td><td align=right><font size=2><font color=#998675>415</td></tr><tr><td><font size=2><font color=#998675>เดือนที่แล้ว</td><td align=right><font size=2><font color=#998675>811</td></tr><tr><td><font size=2><font color=#998675>จำนวนผู้ชมทั้งหมด</td><td align=right><font size=2><font color=#998675>57811</td></tr></table></td>
+	<td  valign=top align=center>
+	<font size=2><font color=#998675><center><img src='temp/home07.png'></center><br>
+	หอจดหมายเหตุ<br>มหาวิทยาลัยเกษตรศาสตร์ วข.ศรีราชา<br>
+	ฝ่ายห้องสมุด สำนักวิทยบริการ <br>อาคาร 14 หอสมุดอนุสรณ์ 10 ปี<br>
+	เลขที่ 199 ม.6 ต.ทุ่งสุขลา อ.ศรีราชา จ.ชลบุรี 20230<br>
+	เบอร์โทร./แฟ๊กซ์  0-3835-2623 <br>
+	หมายเลขภายใน 2725
+	</font>
+	</td>
+	</tr></table>
+
+</td></tr>
+	
+</table></td><td class=dr>&nbsp;</td></tr>
+<tr><td class=fl>&nbsp;</td><td width="996" height="70"   ><img src="img/bg_12.png" alt="" ></td><td class=fr>&nbsp;</td></tr>
+</td></tr></table>
+<!-- end save for web slices -->
+</body>
+</html>

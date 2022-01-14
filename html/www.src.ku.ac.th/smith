@@ -1,0 +1,375 @@
+  
+<!doctype html>
+<!--[if ie 8]> <html class="ie ie8" lang="en-us"> <![endif]-->
+<!--[if ie 9]> <html class="ie ie9" lang="en-us"> <![endif]-->
+<!--[if gt ie 9]><!--> <html lang="en-us"> <!--<![endif]-->
+<link rel="shortcut icon" href="favicon.ico">
+<head>
+    	<title>kasetsart university sriracha campus</title>
+
+<link rel='stylesheet' id='google-fonts-css'  href='script/tmp/font.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='script/tmp/bootstrap.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='script/tmp/font-awesome.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-css'  href='script/tmp/theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-elements-css'  href='script/tmp/theme-elements.css' type='text/css' media='all' />
+<link rel='stylesheet' id='skin-css'  href='script/tmp/default2.css' type='text/css' media='all' />
+<script type='text/javascript' src='script/tmp/jquery.js'></script>
+	<!--[if ie]>
+			<link rel="stylesheet" href="http://www.okler.net/wp-content/themes/porto/assets/css/ie.css">
+		<![endif]-->
+
+		<!--[if lte ie 8]>
+			<script src="http://www.okler.net/wp-content/themes/porto/assets/vendor/respond.js"></script>
+		<![endif]--></head>
+
+<style>
+/*body { 
+-webkit-filter: grayscale(3%);
+-moz-filter: grayscale(3%);
+-ms-filter: grayscale(3%);
+-o-filter: grayscale(3%);
+filter: gray;
+filter: grayscale(3%);
+/*overflow:scroll;*/
+
+	
+/*}*/
+
+.bggrad{
+/*
+background-image: -o-linear-gradient(top, #ffffff, #abdb92);
+ background: -moz-linear-gradient(top, #ffffff, #abdb92);
+ background-image: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#abdb92));
+ filter: progid:dximagetransform.microsoft.gradient(startcolorstr='#ffffff', endcolorstr='#abdb92');
+ background: -ms-linear-gradient(top, #ffffff, #abdb92);*/
+ 
+ background: while; /* for browsers that do not support gradients */
+  /* for safari 5.1 to 6.0 */
+  background: -webkit-linear-gradient(top,#ffffff,#abdb92,#ffffff);
+  /* for opera 11.1 to 12.0 */
+  background: -o-linear-gradient(top,#ffffff,#abdb92,#ffffff);
+  /* for fx 3.6 to 15 */
+  background: -moz-linear-gradient(top,#ffffff,#abdb92,#ffffff);
+  /* standard syntax */
+  background: linear-gradient(to bottom, #ffffff,#abdb92,#ffffff); }
+}
+.bfooter { background-image:url(img/ft_01.png) ;
+			background-repeat : no-repeat ;
+			background-position : top right ;
+}
+.bfooter2 { background-image:url(img/ft_02.png) ;
+			background-repeat : no-repeat ;
+			background-position : top center ;
+}
+</style>
+	<body class="topic bbpress single single-topic postid-10009810 full chrome" >
+<!-- <table width="100%"><tr bgcolor='#000000'><td align=center><img src='services/homepage/head9.png'></td></tr></table> -->
+<!-- wrapper -->
+<div class="body" >
+    <!--[if lt ie 8]><p class="chromeframe">you are using an <strong>outdated</strong> browser. please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate google chrome frame</a> to improve your experience.</p><![endif]-->
+    <!-- header -->
+    <header id="header" >
+     <table width="100%" border=0  valign=middle><tr><td rowspan=2 >
+    <div class="container" style="width: 100%">
+ <div align="right">  <h1 class="logo" id="logo" ><a href="index.php" title="ku src"><img src="img/logo.png" alt="ku src" title="ku src" /></a></h1></div> </td>
+    <td colspan=2 >	<div class="search">
+	<form id="searchform" action="index.php?ipage=scrnews" method="post" role="search">
+		<div class="input-group">
+			<input type="text" class="form-control search" name="bbp_search" placeholder="search..." value="">
+			<input type="hidden" value="bbp-search-request" name="action">
+			<span class="input-group-btn">
+				<button class="btn btn-default" type="submit" name="submit"><i class="icon icon-search"></i></button>
+			</span>
+		</div>
+	</form>
+</div>
+				<nav class="menu-top-menu-container" id="secondary-nav">
+			<ul class="nav nav-pills nav-top" id="menu-top-menu">
+			<!-- <li><a href='index.php'><img src='img/flag_th.jpg'></a></li> -->
+			<li><a href='index.php?lg=th'><img src='img/flag_th.jpg'></a></li>
+			<li><a href='index.php?lg=en'><img src='img/flag_en.jpg'></a></li>
+				<li><a href="https://webmail.src.ku.ac.th"><i class="icon icon-envelope-o"></i>mail.src</a></li>
+				<li><a href="https://accounts.ku.ac.th/"><i class="icon icon-user"></i> nontri acc.</a></li>
+				<li><a href="https://accounts.ku.ac.th/public/forgottenpassword">forgot password</a>
+				</li>
+			</ul>
+		</nav>
+		
+        <button class="btn btn-responsive-nav btn-inverse" data-toggle="collapse" data-target=".nav-main-collapse">
+			<i class="icon icon-bars"></i>
+		</button></td></tr>
+		 </div>
+    <tr><td > <nav id="primary-nav" class="nav-main mega-menu"><ul id="mainmenu" class="nav nav-pills nav-main">
+   <li><a href="index.php">หน้าหลัก</a></li>
+	
+			<li class="dropdown"><a href="#" class="dropdown-toggle">แนะนำมหาวิทยาลัย <i class="icon icon-angle-down"></i></a>
+	
+		<ul class="dropdown-menu">
+					<li><a href='info/kusrc-2561/index.html' target='_blank'>แนะนำวิทยาเขต</a></li>
+			<li class="dropdown-submenu"><a href="#" title="">เกี่ยวกับ มก.ศรช.</a>
+			<ul class="dropdown-menu">
+				<li><a href="index.php?ipage=info/history" title="">ประวัติความเป็นมา</a></li>
+				<li><a href="index.php?ipage=info/prapiroon">ประวัติพระพิรุณทรงนาค</a></li>
+				<li><a href="index.php?ipage=info/logo">ตราสัญลักษณ์มหาวิทยาลัย</a></li>
+				<li><a href="index.php?ipage=info/objective">ปณิธาน วิสัยทัศน์ พันธกิจ ยุทธศาสตร์</a></li>
+				<li><a href="http://www.src.ku.ac.th/info/idku55.pdf" target='_blank'>เอกลักษณ์ อัตลักษณ์</a></li>
+						<li><a href="http://arc.src.ku.ac.th/" target='_blank'>หอจดหมายเหตุ</a></li>
+				<li><a href="http://www.src.ku.ac.th/info/song/index.html" target='_blank'>เพลง มก.ศรช.</a></li>
+				<li><a href="http://www.src.ku.ac.th/e_book/masterplanos/slider.html" target='_blank'>ผังแม่บท</a></li>
+				<li><a href="https://ebook.lib.ku.ac.th/ebook27/ebook/2020rg0112/" target='_blank'>25 ปี นนทรีศรีราชา (e-book)</a></li></ul></li>
+			<li><a href="http://www.ku.ac.th/web2012/index.php?c=adms&m=linkmenu_th&time=20130815100152&load=&lang=thai&ip=1&id=171&page=%ca%c0%d2%c1%cb%d2%c7%d4%b7%c2%d2%c5%d1%c2&page1=" target=_blank>สภามหาวิทยาลัย</a></li>
+			<li><a href="index.php?ipage=info/chart">คณะผู้บริหาร</a></li>	
+			<li class="dropdown-submenu"><a href="#" title="">การบริหารงาน</a>
+			<ul class="dropdown-menu">
+				<li><a href="index.php?ipage=info/principle" title="">หลักการจัดตั้งองค์กรและบริหาร</a></li>
+				<li><a href="index.php?ipage=info/org">แผนภูมิโครงสร้างการบริหารงาน</a></li>
+				<li><a href="index.php?ipage=info/setting">โครงสร้างการจัดหน่วยงานและภาระหน้าที่</a></li></ul></li>
+			<li><a href="index.php?ipage=info/map" title="">แผนที่ / แผนผังภายใน</a>
+		<!-- 	<ul class="dropdown-menu">
+				<li><a href="index.php?ipage=info/map" title="">แผนที่การเดินทางและแผนผังภายใน</a></li>
+				<li><a href="index.php?ipage=info/location">ที่ตั้งหน่วยงานและวิทยาเขต</a></li>
+				<li><a href="index.php?ipage=info/building">อาคารและสถานที่</a> </li></ul>--></li>
+			<li><a href="index.php?ipage=info/contact">ติดต่อสอบถาม</a></li>	
+			<li class="dropdown-submenu"><a href="#" title="">วิทยาเขต</a>
+			<ul class="dropdown-menu">
+				<li><a href="http://www.ku.ac.th/" title="" target='_blank'>บางเขน</a></li>
+				<li><a href="http://www.kps.ku.ac.th/" title="" target='_blank'>กำแพงแสน</a></li>
+				<li><a href="http://www.csc.ku.ac.th/" target='_blank'>เฉลิมพระเกียรติ จ.สกลนคร</a></li></li>
+				<li><a href="http://web.sbc.ku.ac.th/newsupan/" target='_blank'>โครงการจัดตั้ง วิทยาเขตสุพรรณบุรี</a></li></ul></li>		
+			
+		</ul>
+			</li>
+			<li class="dropdown"><a href="#" class="dropdown-toggle">คณะ/หน่วยงาน <i class="icon icon-angle-down"></i></a>
+		<ul class="dropdown-menu">
+			<li><a href="index.php?ipage=info/dep/ms"><i class="icon icon-user"></i> คณะวิทยาการจัดการ (faculty of management sciences)</a></li>
+			<li><a href="index.php?ipage=info/dep/en"><i class="icon icon-gear"></i> คณะวิศวกรรมศาสตร์ศรีราชา (faculty of engineering at sriracha)</a></li>
+			<li><a href="index.php?ipage=info/dep/sci"><i class="icon icon-flask"></i> คณะวิทยาศาสตร์ ศรีราชา (faculty of science at sriracha)</a></li>
+			<li><a href="index.php?ipage=info/dep/eco"><i class="icon icon-dollar"></i> คณะเศรษฐศาสตร์ ศรีราชา (faculty of economics at sriracha)</a></li>
+			<li><a href="index.php?ipage=info/dep/imc"><i class="icon icon-anchor"></i> คณะพาณิชยนาวีนานาชาติ (faculty of international maritime studies)</a></li>
+			<li><a href="index.php?ipage=info/dep/oas"><i class="icon icon-street-view"></i> สำนักงานวิทยาเขตศรีราชา (office of sriracha campus)</a></li>
+			<li><a href="https://www.facebook.com/kusrcsab" target='_blank'><i class="icon icon-graduation-cap"></i> 
+องค์การนิสิต มก.ศรช. (student body organization sriracha) </a></li>
+		</ul>
+			</li>
+			<li><a href="index.php?ipage=info/stu">นิสิต</a></li>
+			<li><a href="index.php?ipage=info/per">บุคลากร</a></li>
+			<li><a href="index.php?ipage=info/par">ผู้ปกครอง</a></li>
+			<li><a href="index.php?ipage=info/aln">ศิษย์เก่า</a></li>  
+</ul></nav></td><td> <div class="social-icons">
+            <ul class="social-icons">
+				  <li class="facebook"><a href="https://www.facebook.com/kusriracha/" target="_blank" title="facebook">facebook</a></li>
+				  <li class="googleplus"><a href="https://accounts.google.com" target="_blank" title="google">google</a></li>
+				  <li class="mail"><a href="https://webmail.src.ku.ac.th/cube/index.php" target="_blank" title="src mail">src mail</a></li>
+			</ul></div></td></tr></table>
+   
+   
+    <div class="navbar-collapse nav-main-collapse collapse">
+        <div class="container">
+            
+       
+       </div>
+    </div>
+</header>    <!-- /header -->
+    
+<!-- content -->
+
+<table border=0 width=100% align=center cellpadding=0 cellspacing=0 >
+<tr><td align=center class=bggrad >
+<style>
+.aw { background-image:url(img/award.jpg) ;
+					background-repeat : no-repeat ;
+					background-position : top center ;
+	}
+.gr { background-image:url(img/hgallery.png) ;
+			background-repeat : no-repeat ;
+			background-position : top left ;
+}
+</style>
+<table border=0 width=1024 height=1000 align=center >
+<tr><td valign=top align=left width=750><!doctype html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    
+    
+    <!-- insert to your webpage before the </head> -->
+   <!--  <script src="script/banner/sliderengine/jquery.js"></script> -->
+    <script src="script/banner/sliderengine/amazingslider.js"></script>
+    <script src="script/banner/sliderengine/initslider-1.js"></script>
+    <!-- end of head section html codes -->
+    
+</head>
+<body>
+<div style="margin:5px auto;max-width:730px;">
+    
+    <!-- insert to your webpage where you want to display the slider -->
+    <div id="amazingslider-1" style="display:block;position:relative;margin:3px auto 50px;">
+        <ul class="amazingslider-slides" style="display:none;">
+                    <li><a href='https://www.src.ku.ac.th/services/file_news/2564/nov/ku12_152751.pdf'><img src="../services/banner/2564/nov12_161845.jpeg" width="700" /></a></li>
+                    <li><a href='https://www.src.ku.ac.th/services/file_news/2565/jan/ic13_154142.jpeg'><img src="../services/banner/2565/jan13_154225.jpg" width="700" /></a></li>
+                    <li><a href='https://grad.ms.src.ku.ac.th/'><img src="../services/banner/2564/nov17_111119.jpg" width="700" /></a></li>
+                    <li><a href='https://www.src.ku.ac.th/services/file_news/2564/nov/an12_153153.pdf'><img src="../services/banner/2564/nov12_160136.jpeg" width="700" /></a></li>
+                    <li><a href='http://www.facebook.com/masterengkusrc'><img src="../services/banner/2564/nov08_134702.jpg" width="700" /></a></li>
+                    <li><a href='https://qa.src.ku.ac.th/admission/'><img src="../services/banner/2564/nov03_135021.jpg" width="700" /></a></li>
+                    <li><a href='https://econ.src.ku.ac.th/economics/course.php?id=9'><img src="../services/banner/2564/oct27_115834.jpg" width="700" /></a></li>
+                    <li><a href='https://qa.src.ku.ac.th/admission/pic/c_tcas65.jpg'><img src="../services/banner/2564/oct15_104745.jpg" width="700" /></a></li>
+                    <li><a href='https://www.src.ku.ac.th/services/file_news/2564/jul/ku30_160519.png'><img src="../services/banner/2564/aug02_140854.jpg" width="700" /></a></li>
+                    <li><a href='https://www.src.ku.ac.th/services/file_news/2564/jul/30_160705.png'><img src="../services/banner/2564/aug02_131931.jpg" width="700" /></a></li>
+                  
+        </ul>
+        <ul class="amazingslider-thumbnails" style="display:none;">
+                    <li><img src="../services/banner/2564/tm_nov12_161845.jpeg"</li>
+                    <li><img src="../services/banner/2565/tm_jan13_154225.jpg"</li>
+                    <li><img src="../services/banner/2564/tm_nov17_111119.jpg"</li>
+                    <li><img src="../services/banner/2564/tm_nov12_160136.jpeg"</li>
+                    <li><img src="../services/banner/2564/tm_nov08_134702.jpg"</li>
+                    <li><img src="../services/banner/2564/tm_nov03_135021.jpg"</li>
+                    <li><img src="../services/banner/2564/tm_oct27_115834.jpg"</li>
+                    <li><img src="../services/banner/2564/tm_oct15_104745.jpg"</li>
+                    <li><img src="../services/banner/2564/tm_aug02_140854.jpg"</li>
+                    <li><img src="../services/banner/2564/tm_aug02_131931.jpg"</li>
+         
+        </ul>
+      
+    </div>
+    <!-- end of body section html codes -->
+    
+</div>
+</body>
+</html></td><td width=250 rowspan=2>
+<table  height=230 border=0 align=center><tr><td>
+	<table cellpadding=1 cellspaceing=2 border=0 >
+	<tr><td><a href='https://reg.src.ku.ac.th/'><img src='img/menu/menu_01.png'  onmouseover="this.src='img/menu/menu_1.png'" onmouseout="this.src='img/menu/menu_01.png'" border=0></td>
+	<td><a href='https://rsv.src.ku.ac.th/'><img src='img/menu/menu_02.png'  onmouseover="this.src='img/menu/menu_2.png'" onmouseout="this.src='img/menu/menu_02.png'" border=0></td></tr>
+	<tr><td><a href='https://web.src.ku.ac.th/emeeting/login.php'><img src='img/menu/menu_03.png'   onmouseover="this.src='img/menu/menu_3.png'" onmouseout="this.src='img/menu/menu_03.png'" border=0></td>
+	<td><a href='https://eoffice.src.ku.ac.th/'><img src='img/menu/menu_04.png'  onmouseover="this.src='img/menu/menu_4.png'" onmouseout="this.src='img/menu/menu_04.png'" border=0></td></tr>
+	<tr><td><a href='index.php?ipage=disnews&id=8983'><img src='img/menu/menu_05.png'  onmouseover="this.src='img/menu/menu_5.png'" onmouseout="this.src='img/menu/menu_05.png'" border=0></td>
+	<td><a href='http://it.vit.src.ku.ac.th/content.php?page=mac'><img src='img/menu/menu_06.png'  onmouseover="this.src='img/menu/menu_6.png'" onmouseout="this.src='img/menu/menu_06.png'" border=0></td></tr></table>
+</td></tr>
+<tr><td align=left><img src='img/hotlink.png'>
+<select onchange="location = this.options[this.selectedindex].value;" class="input-sm" style="width:200px;">
+<option value="#">- ลิงค์ด่วน -</option>
+<option value="https://reg.src.ku.ac.th/">- หน่วยบริการการศึกษา</option>
+<option value="http://web.src.ku.ac.th/activity/nisit/">- งานกิจการนิสิต</option>
+<option value="http://dorm.admin.src.ku.ac.th/">- หอพักนิสิต</option>
+<option value="https://lib.src.ku.ac.th/">- ห้องสมุด</option>
+<option value="http://oscapp.src.ku.ac.th/techno/">- งานเทคโนโลยีสารสนเทศ</option>
+<option value="https://qa.src.ku.ac.th/car_src_v2">- ระบบจองรถวิทยาเขต</option>
+<!-- <option value="http://www.vit.src.ku.ac.th/per/">- ระบบนามานุกรม</option> -->
+<option value="http://www.src.ku.ac.th/services/file_news/2554/aug/ku22.pdf">- การใช้สิทธิเพื่อขอรับค่าสินไหมฯ</option>
+<option value="http://dorm.admin.src.ku.ac.th/streng/admin.asp">- ตารางการใช้อาคารพลศึกษาและสนามกีฬา</option>
+<option value="https://osc.src.ku.ac.th/ma/">- ระบบแจ้งซ่อมออนไลน์</option>
+<option value="index.php?ipage=scrnews">- อ่านข่าวย้อนหลัง</option>
+<option value="index.php?ipage=mg_news/addnews">- ฝากข่าวประชาสัมพันธ์</option>
+</select>&nbsp;</td></tr></table>
+<table width=250 height=170 border=0 align=right ><tr><td style="cursor: pointer;" class="aw" align=left valign=middle><br><iframe id="award" frameborder="0" border="0" width="240" height="160" src="award2.php" scrolling="no"> </iframe></td></tr></table>
+<iframe id="newsimg" frameborder="0" border="0" width="100%" height="340" src="script/pr/pr.php" scrolling="no"> </iframe></td></tr>
+<tr><td valign=top align=left>
+<iframe id="news" frameborder="0" border="0" width="768" height="430" src="news.php" scrolling="no"></iframe>
+</td></tr>
+
+<tr><td colspan=2 valign=top height=400 align=center class="gr">
+<iframe id="gallery" frameborder="0" border="0" width="1024" height="400" src="script/gallery/gallery.php" scrolling="no"></iframe >
+</td></tr>
+</table></td></tr>
+<tr  height=336><td><footer id="footer" style="background-color: #007738;border-top-color: #007738; background-image:url(img/ft_01.png) ;background-repeat : no-repeat ;background-position : bottom right ; ">
+	<div class="container" >
+		<div class="row">
+			            <div class="footer-ribon">
+				<span>ku src campus</span>
+			</div>
+            			<div class="col-md-3" style="background-color: #007738;">
+				<div id="text-2" class="widget widget_text"><h4  class="widget-title" ><font color='#bff20f' style="	text-shadow: 1px 1px 1px #007738;">
+				 	มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา				</font></h4>			<div class="textwidget"><font color='#ffffff'>
+				 	199 ม.6 ต.ทุ่งสุขลา อ.ศรีราชา จ.ชลบุรี 20230				 	<br>
+<br><i class="icon icon-phone"></i> contact us:<br>
+<font color='#ffffff'>0-3835-4580-4</font>
+<br><br><i class="icon icon-fax"></i> <a href="index.php?ipage=info/contact">สมุดโทรศัพท์</a><br>			</div>
+		</div>			</div>
+			<div class="col-md-3">
+			               <center> <a href="services/album/index.html"><img src='img/gallery.png' border=0></center>
+						<center><a href="script/vdo/vdo.php" target='_blank'><img src='img/vdo.png' border=0></center>
+				<center><a href="info/kusrc-2561/index.html" target='_blank'><img src='img/introku.png' border=0></center>
+								<center><a href='info/kusrc-2561/index.html' target='_blank'><img src='img/kuqr2.png' width=100 border=0></a></center>
+			</div>
+			<div class="col-md-4">
+                <div id="bbp_topics_widget-2" class="widget widget_display_topics"><img src='img/topic.png' border=0>
+		<ul>
+							<li>
+					<a class="bbp-forum-title" href="http://www.src.ku.ac.th/services/file_news/2559/jul/ku28_151439.pdf">ข้อบังคับว่าด้วยการศึกษาระดับ ป.ตรี 2559</a>
+				</li>
+					<li>
+					<a class="bbp-forum-title" href="https://reg.src.ku.ac.th/calender.asp">ปฏิทินการศึกษา ป.ตรี</a>
+				</li>
+				<li>
+					<a class="bbp-forum-title" href="http://www.grad.ku.ac.th/%e0%b8%99%e0%b8%b4%e0%b8%aa%e0%b8%b4%e0%b8%95/%e0%b8%9b%e0%b8%8f%e0%b8%b4%e0%b8%97%e0%b8%b4%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%a9%e0%b8%b2/">ปฏิทินการศึกษา ป.โท</a>
+				</li>
+						<li>
+					<a class="bbp-forum-title" href="http://www.src.ku.ac.th/services/file_news/2559/apr/ku20_114028.pdf">แนวปฏิบัตินิสิตในการสอบ</a>
+				</li>
+				<li>
+					<a class="bbp-forum-title" href="http://www.src.ku.ac.th/index.php?ipage=disnews&id=8983">บัญชีผู้ใช้เครือข่ายนนทรี</a>
+				</li>
+					<li>
+					<a class="bbp-forum-title" href="http://osc.src.ku.ac.th/content.php?page=news&nid=16">นโยบายการใช้งานเครือข่ายของมหาวิทยาลัย</a>
+				</li>
+				<li>
+					<a class="bbp-forum-title" href="index.php?ipage=info/rev">นโยบายเกี่ยวกับการประหยัดพลังงาน</a>
+				</li>
+				<li>
+					<a class="bbp-forum-title" href="http://kupresident13.ku.ac.th/kup13/">ku president 13</a>
+				</li>
+				<li>
+					<a class="bbp-forum-title" href="http://osc.src.ku.ac.th/webboard/">กระดานถาม-ตอบ</a>
+				</li>
+							
+		</ul>
+		</div>			</div>
+			<div class="col-md-2">
+        <div id="social_icons-2" class="widget social-icons"><h4 class="widget-title"><img src='img/follow.png' border=0></h4>
+        <!-- <ul class="social-icons"><li class="facebook"><a href="https://www.facebook.com/kusriracha/" target="_blank" data-placement="bottom" rel="tooltip" title="facebook">facebook</a></li> --> 
+				<!--<li class="mail"><a href="https://webmail.src.ku.ac.th/cube/index.php" target="_blank" data-placement="bottom" rel="tooltip" title="src mail">src mail</a></li>--> </ul></div>			</div>
+	<center><!-- <a href='https://www.facebook.com/kusriracha/' target='_blank'><img src='img/fb.png' width=160 border=0></a>
+	<br><br> 
+	<a href='https://www.facebook.com/kusriracha/' target='_blank'><img src='img/kufb.png' width=100 border=0></center>-->
+	<a href='https://www.facebook.com/kusriracha/' target='_blank'><img src='img/social01.png'  border=0 onmouseover="this.style.opacity=0.7;this.filters.alpha.opacity=70" onmouseout="this.style.opacity=1;this.filters.alpha.opacity=100"><br>
+		<a href='https://www.facebook.com/pr.kusrc/' target='_blank'><img src='img/social02.png'  border=0 onmouseover="this.style.opacity=0.7;this.filters.alpha.opacity=70" onmouseout="this.style.opacity=1;this.filters.alpha.opacity=100"><br>
+		<a href='https://twitter.com/kusrc_uni/' target='_blank'><img src='img/social03.png'  border=0 onmouseover="this.style.opacity=0.7;this.filters.alpha.opacity=70" onmouseout="this.style.opacity=1;this.filters.alpha.opacity=100"><br>
+		<a href='https://www.instagram.com/kusrc.pr/' target='_blank'><img src='img/social04.png'  border=0 onmouseover="this.style.opacity=0.7;this.filters.alpha.opacity=70" onmouseout="this.style.opacity=1;this.filters.alpha.opacity=100">
+		</div>
+	</div>
+	
+		
+		
+		<br><br>
+	
+</footer> </td></tr><tr><td  height=41>
+<table cellpadding=0 cellspacing=0 border=0 width="100%"  >
+<tr><td align=center style="background-color: #002e20; " class="bfooter2"></td>
+<td align=right width=225><img src='img/ft_03.png'></td></tr></table></td></tr>
+</table>
+
+
+        <!-- footer -->
+       <!-- /footer -->
+    </div>
+<!-- wrapper -->
+<!-- powered by wordpress and the spyropress framework -->
+<script type='text/javascript' src='script/tmp/widgets.js'></script>
+<script type='text/javascript' src='script/tmp/plugins.js'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var theme_settings = {"ajaxurl":"http:\/\/www.okler.net\/wp-admin\/admin-ajax.php","twitter_feed":"http:\/\/www.okler.net\/wp-admin\/admin-ajax.php?action=spyropress_twitter_tweets","loaderurl":"http:\/\/www.okler.net\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"sending ...","assets":"http:\/\/www.okler.net\/wp-content\/themes\/porto\/assets\/"};
+/* ]]> */
+</script>
+
+
+<script type='text/javascript' src='script/tmp/bootstrap.js'></script>
+<script type='text/javascript' src='script/tmp/twitter.js'></script>
+<script type='text/javascript' src='script/tmp/jquery.validate.js'></script>
+<script type='text/javascript' src='script/tmp/theme.js'></script>
+
+
+
+</body>
+</html>

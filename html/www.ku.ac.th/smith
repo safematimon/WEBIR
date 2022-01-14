@@ -21,7 +21,7 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" type="text/css">
   <link rel="stylesheet" href="/assets/css/header.css" type="text/css">
   <!-- style for intro event page. -->
-  <link rel="stylesheet" href="/assets/css/intro-event/intro-event.css?v=1642168187" type="text/css">
+  <link rel="stylesheet" href="/assets/css/intro-event/intro-event.css?v=1642190087" type="text/css">
   <style>
     .intro-link {
       cursor: pointer;

@@ -1,0 +1,740 @@
+
+<!doctype html>
+<html class="html" lang="en-us">
+<head>
+	
+	<!-- global site tag (gtag.js) - google analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=g-py40z2jcky"></script>
+<script>
+  window.datalayer = window.datalayer || [];
+  function gtag(){datalayer.push(arguments);}
+  gtag('js', new date());
+
+  gtag('config', 'g-py40z2jcky');
+</script>
+	
+	<meta charset="utf-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>contact &#8211; greencampus</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="greencampus &raquo; feed" href="https://greencampus.ku.ac.th/feed/" />
+<link rel="alternate" type="application/rss+xml" title="greencampus &raquo; comments feed" href="https://greencampus.ku.ac.th/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojisettings = {"baseurl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgurl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgext":".svg","source":{"concatemoji":"https:\/\/greencampus.ku.ac.th\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.10"}};
+			!function(a,b,c){function d(a,b){var c=string.fromcharcode;l.clearrect(0,0,k.width,k.height),l.filltext(c.apply(this,a),0,0);var d=k.todataurl();l.clearrect(0,0,k.width,k.height),l.filltext(c.apply(this,b),0,0);var e=k.todataurl();return d===e}function e(a){var b;if(!l||!l.filltext)return!1;switch(l.textbaseline="top",l.font="600 32px arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createelement("script");c.src=a,c.defer=c.type="text/javascript",b.getelementsbytagname("head")[0].appendchild(c)}var g,h,i,j,k=b.createelement("canvas"),l=k.getcontext&&k.getcontext("2d");for(j=array("flag","emoji"),c.supports={everything:!0,everythingexceptflag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingexceptflag=c.supports.everythingexceptflag&&c.supports[j[i]]);c.supports.everythingexceptflag=c.supports.everythingexceptflag&&!c.supports.flag,c.domready=!1,c.readycallback=function(){c.domready=!0},c.supports.everything||(h=function(){c.readycallback()},b.addeventlistener?(b.addeventlistener("domcontentloaded",h,!1),a.addeventlistener("load",h,!1)):(a.attachevent("onload",h),b.attachevent("onreadystatechange",function(){"complete"===b.readystate&&c.readycallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojisettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bdt-uikit-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/bdt-uikit.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='prime-slider-site-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/prime-slider-site.css?ver=1.14.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://greencampus.ku.ac.th/wp-includes/css/dist/block-library/style.min.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://greencampus.ku.ac.th/wp-includes/css/dist/block-library/theme.min.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='pdfemb-gutenberg-block-backend-js-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='be098ee71-css'  href='https://greencampus.ku.ac.th/wp-content/uploads/essential-addons-elementor/be098ee71.min.css?ver=1642189050' type='text/css' media='all' />
+<link rel='stylesheet' id='twae-centered-css-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/timeline-widget-addon-for-elementor/assets/css/twae-centered-timeline.min.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='twae-horizontal-css-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/timeline-widget-addon-for-elementor/assets/css/twae-horizontal-styles.min.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='twae-fontello-css-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/timeline-widget-addon-for-elementor/assets/css/twae-fontello.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.11.2' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css'  href='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-google-font-mukta-vaani-css'  href='//fonts.googleapis.com/css?family=mukta+vaani%3a100%2c200%2c300%2c400%2c500%2c600%2c700%2c800%2c900%2c100i%2c200i%2c300i%2c400i%2c500i%2c600i%2c700i%2c800i%2c900i&#038;subset=latin&#038;ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' type='text/css' media='all' />
+<style id='elementor-icons-inline-css' type='text/css'>
+
+		.elementor-add-new-section .elementor-add-templately-promo-button{
+            background-color: #5d4fff;
+            background-image: url(https://greencampus.ku.ac.th/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
+            background-repeat: no-repeat;
+            background-position: center center;
+            margin-left: 5px;
+            position: relative;
+            bottom: 5px;
+        }
+</style>
+<link rel='stylesheet' id='elementor-animations-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-274-css'  href='https://greencampus.ku.ac.th/wp-content/uploads/elementor/css/post-274.css?ver=1630644524' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel="stylesheet" type="text/css" href="https://greencampus.ku.ac.th/wp-content/plugins/smart-slider-3/library/media/smartslider.min.css?1596179576" media="all" />
+<style type="text/css">.n2-ss-spinner-simple-white-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -20px;
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    z-index: 1000;
+}
+
+.n2-ss-spinner-simple-white {
+  outline: 1px solid rgba(0,0,0,0);
+  width:100%;
+  height: 100%;
+}
+
+.n2-ss-spinner-simple-white:before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: -11px;
+    margin-left: -11px;
+}
+
+.n2-ss-spinner-simple-white:not(:required):before {
+    content: '';
+    border-radius: 50%;
+    border-top: 2px solid #333;
+    border-right: 2px solid transparent;
+    animation: n2simplewhite .6s linear infinite;
+}
+@keyframes n2simplewhite {
+    to {transform: rotate(360deg);}
+}</style><script type='text/javascript' src='https://greencampus.ku.ac.th/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://greencampus.ku.ac.th/wp-json/' />
+<link rel="edituri" type="application/rsd+xml" title="rsd" href="https://greencampus.ku.ac.th/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://greencampus.ku.ac.th/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="wordpress 5.0.10" />
+<link rel="canonical" href="https://greencampus.ku.ac.th/contact/" />
+<link rel='shortlink' href='https://greencampus.ku.ac.th/?p=274' />
+<link rel="alternate" type="application/json+oembed" href="https://greencampus.ku.ac.th/wp-json/oembed/1.0/embed?url=https%3a%2f%2fgreencampus.ku.ac.th%2fcontact%2f" />
+<link rel="alternate" type="text/xml+oembed" href="https://greencampus.ku.ac.th/wp-json/oembed/1.0/embed?url=https%3a%2f%2fgreencampus.ku.ac.th%2fcontact%2f&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<!-- oceanwp css -->
+<style type="text/css">
+/* general css */.site-breadcrumbs a:hover,.background-image-page-header .site-breadcrumbs a:hover{color:#81d742}/* header css */#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:80px}.effect-one #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-three #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after{background-color:#b1ba1d}.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfhover >a.menu-link >span:after{color:#b1ba1d}.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfhover >a.menu-link >span:after{text-shadow:10px 0 #b1ba1d,-10px 0 #b1ba1d}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,#searchform-header-replace-close{color:#63acf7}#site-navigation-wrap .dropdown-menu >li >a:hover,.oceanwp-mobile-menu-icon a:hover,#searchform-header-replace-close:hover{color:#afda53}#site-navigation-wrap .dropdown-menu >.current-menu-item >a,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a,#site-navigation-wrap .dropdown-menu >.current-menu-item >a:hover,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a:hover{color:#afda53}.dropdown-menu .sub-menu,#searchform-dropdown,.current-shop-items-dropdown{border-color:#0e938e}.dropdown-menu ul li a.menu-link{color:#0e938e}.dropdown-menu ul li a.menu-link:hover{color:#b1ba1d}/* footer widgets css */#footer-widgets{padding:30px 0 0 0}/* footer bottom css */#footer-bottom{background-color:#63acf7}#footer-bottom,#footer-bottom p{color:#ffffff}#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover{color:#000000}/* typography css */body{font-size:18px}h1{font-style:italic;font-size:40px;color:#006b67;line-height:0.5;text-transform:none}h3{font-size:20px;letter-spacing:.5px}h4{font-size:17 px;line-height:1.2}#site-navigation-wrap .dropdown-menu >li >a,#site-header.full_screen-header .fs-dropdown-menu >li >a,#site-header.top-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.center-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a{font-family:mukta vaani;font-weight:300;font-size:16px;text-transform:uppercase}#footer-widgets .footer-box .widget-title{font-weight:700;font-size:18px;text-transform:uppercase}
+</style><script type="text/javascript">(function(){var n=this;n.n2_=n.n2_||{r:[],d:[]},n.n2r=n.n2r||function(){n.n2_.r.push(arguments)},n.n2d=n.n2d||function(){n.n2_.d.push(arguments)}}).call(window);if(!window.n2jquery){window.n2jquery={ready:function(cb){console.error('n2jquery will be deprecated!');n2r(['$'],cb)}}}window.nextend={localization:{},ready:function(cb){console.error('nextend.ready will be deprecated!');n2r('documentready',function($){cb.call(window,$)})}};nextend.fontsloaded=false;nextend.fontsloadedactive=function(){nextend.fontsloaded=true};var requiredfonts=["roboto:n3","roboto:n4"],fontdata={google:{families:["roboto:300,400:latin"]},active:function(){nextend.fontsloadedactive()},inactive:function(){nextend.fontsloadedactive()},fontactive:function(f,s){fontdata.resolvefont(f+':'+s)},fontinactive:function(f,s){fontdata.resolvefont(f+':'+s)},resolvefont:function(n){for(var i=requiredfonts.length-1;i>=0;i--){if(requiredfonts[i]===n){requiredfonts.splice(i,1);break}}if(!requiredfonts.length)nextend.fontsloadedactive()}};if(typeof webfontconfig!=='undefined'&&typeof webfont==='undefined'){var _webfontconfig=webfontconfig;for(var k in webfontconfig){if(k=='active'){fontdata.active=function(){nextend.fontsloadedactive();_webfontconfig.active()}}else if(k=='inactive'){fontdata.inactive=function(){nextend.fontsloadedactive();_webfontconfig.inactive()}}else if(k=='fontactive'){fontdata.fontactive=function(f,s){fontdata.resolvefont(f+':'+s);_webfontconfig.fontactive.apply(this,arguments)}}else if(k=='fontinactive'){fontdata.fontinactive=function(f,s){fontdata.resolvefont(f+':'+s);_webfontconfig.fontinactive.apply(this,arguments)}}else if(k=='google'){if(typeof webfontconfig.google.families!=='undefined'){for(var i=0;i<webfontconfig.google.families.length;i++){fontdata.google.families.push(webfontconfig.google.families[i])}}}else{fontdata[k]=webfontconfig[k]}}}fontdata.classes=true;fontdata.events=true;if(typeof webfont==='undefined'){window.webfontconfig=fontdata}else{webfont.load(fontdata)}</script><script type="text/javascript" src="https://greencampus.ku.ac.th/wp-content/plugins/smart-slider-3/nextend/media/dist/n2.min.js?1596179577"></script>
+<script type="text/javascript" src="https://greencampus.ku.ac.th/wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-frontend.min.js?1596179578"></script>
+<script type="text/javascript" src="https://greencampus.ku.ac.th/wp-content/plugins/smart-slider-3/library/media/dist/smartslider-frontend.min.js?1596179577"></script>
+<script type="text/javascript" src="https://greencampus.ku.ac.th/wp-content/plugins/smart-slider-3/library/media/plugins/type/simple/simple/dist/smartslider-simple-type-frontend.min.js?1596179586"></script>
+<script type="text/javascript" src="https://greencampus.ku.ac.th/wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-webfontloader.min.js?1596179578"></script>
+<script type="text/javascript">n2r('documentready',function($){nextend.fontsdeferred=$.deferred();if(nextend.fontsloaded){nextend.fontsdeferred.resolve()}else{nextend.fontsloadedactive=function(){nextend.fontsloaded=true;nextend.fontsdeferred.resolve()};var intercalcounter=0;nextend.fontinterval=setinterval(function(){if(intercalcounter>3||document.documentelement.classname.indexof('wf-active')!==-1){nextend.fontsloadedactive();clearinterval(nextend.fontinterval)}intercalcounter++},1000)}n2r(["nextend-frontend","smartslider-frontend","smartslider-simple-type-frontend"],function(){new n2classes.smartslidersimple('#n2-ss-8',{"admin":false,"translate3d":1,"callbacks":"","background.video.mobile":1,"align":"normal","isdelayed":0,"load":{"fade":1,"scroll":0},"playwhenvisible":1,"playwhenvisibleat":0.5,"responsive":{"desktop":1,"tablet":1,"mobile":1,"onresizeenabled":true,"type":"fullwidth","downscale":1,"upscale":1,"minimumheight":0,"maximumheight":3000,"maximumslidewidth":3000,"maximumslidewidthlandscape":3000,"maximumslidewidthtablet":3000,"maximumslidewidthtabletlandscape":3000,"maximumslidewidthmobile":3000,"maximumslidewidthmobilelandscape":3000,"maximumslidewidthconstrainheight":0,"forcefull":1,"forcefulloverflowx":"body","forcefullhorizontalselector":"body","constrainratio":1,"verticaloffsetselectors":"","decreasesliderheight":0,"focususer":0,"focusautoplay":0,"devicemodes":{"desktopportrait":1,"desktoplandscape":0,"tabletportrait":1,"tabletlandscape":0,"mobileportrait":1,"mobilelandscape":0},"normalizeddevicemodes":{"unknownunknown":["unknown","unknown"],"desktopportrait":["desktop","portrait"],"desktoplandscape":["desktop","portrait"],"tabletportrait":["tablet","portrait"],"tabletlandscape":["tablet","portrait"],"mobileportrait":["mobile","portrait"],"mobilelandscape":["mobile","portrait"]},"verticalratiomodifiers":{"unknownunknown":1,"desktopportrait":1,"desktoplandscape":1,"tabletportrait":1,"tabletlandscape":1,"mobileportrait":1,"mobilelandscape":1},"minimumfontsizes":{"desktopportrait":4,"desktoplandscape":4,"tabletportrait":4,"tabletlandscape":4,"mobileportrait":4,"mobilelandscape":4},"ratiotodevice":{"portrait":{"tablet":0.7,"mobile":0.5},"landscape":{"tablet":0,"mobile":0}},"sliderwidthtodevice":{"desktopportrait":1600,"desktoplandscape":1600,"tabletportrait":1120,"tabletlandscape":0,"mobileportrait":800,"mobilelandscape":0},"basedon":"combined","orientationmode":"width_and_height","overflowhiddenpage":0,"desktopportraitscreenwidth":1200,"tabletportraitscreenwidth":800,"mobileportraitscreenwidth":440,"tabletlandscapescreenwidth":800,"mobilelandscapescreenwidth":440},"controls":{"scroll":0,"drag":0,"touch":"horizontal","keyboard":1,"tilt":0},"lazyload":0,"lazyloadneighbor":0,"blockrightclick":0,"maintainsession":0,"autoplay":{"enabled":0,"start":1,"duration":8000,"autoplaytoslide":-1,"autoplaytoslideindex":-1,"allowrestart":0,"pause":{"click":1,"mouse":"0","mediastarted":1},"resume":{"click":0,"mouse":0,"mediaended":1,"slidechanged":0}},"perspective":1500,"layermode":{"playonce":0,"playfirstlayer":1,"mode":"skippable","inanimation":"maininend"},"initcallbacks":[],"allowbgimageattachmentfixed":true,"bganimationscolor":"rgba(51,51,51,1)","bganimations":0,"mainanimation":{"type":"horizontal","duration":800,"delay":0,"ease":"easeoutquad","parallax":0,"shiftedbackgroundanimation":0},"carousel":1,"dynamicheight":0})})});</script></head>
+
+<body data-rsssl=1 class="page-template-default page page-id-274 wp-custom-logo wp-embed-responsive oceanwp-theme sidebar-mobile default-breakpoint content-full-screen page-header-disabled has-breadcrumbs elementor-default elementor-kit-6 elementor-page elementor-page-274"  itemscope="itemscope" itemtype="https://schema.org/webpage">
+
+	
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+			
+<header id="site-header" class="minimal-header effect-six clr" data-height="74" itemscope="itemscope" itemtype="https://schema.org/wpheader" role="banner">
+
+	
+					
+			<div id="site-header-inner" class="clr container">
+
+				
+				
+
+<div id="site-logo" class="clr" itemscope itemtype="https://schema.org/brand">
+
+	
+	<div id="site-logo-inner" class="clr">
+
+		<a href="https://greencampus.ku.ac.th/" class="custom-logo-link" rel="home" itemprop="url"><img width="263" height="107" src="https://greencampus.ku.ac.th/wp-content/uploads/2020/11/logo_18.png" class="custom-logo" alt="greencampus" itemprop="logo" /></a>
+	</div><!-- #site-logo-inner -->
+
+	
+	
+</div><!-- #site-logo -->
+
+			<div id="site-navigation-wrap" class="clr">
+			
+			
+			
+			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/sitenavigationelement" role="navigation">
+
+				<ul id="menu-main" class="main-menu dropdown-menu sf-menu"><li id="menu-item-81" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-81"><a href="https://greencampus.ku.ac.th/" class="menu-link"><span class="text-wrap">home</span></a></li><li id="menu-item-4969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4969"><a href="https://greencampus.ku.ac.th/about/" class="menu-link"><span class="text-wrap">about</span></a></li><li id="menu-item-962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-962"><a href="https://greencampus.ku.ac.th/green-metric/" class="menu-link"><span class="text-wrap">green metric <span class="nav-arrow fa fa-angle-down"></span></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-5703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5703"><a href="https://greencampus.ku.ac.th/green-metric-2020-2021/" class="menu-link"><span class="text-wrap">green metric 2020-2021</span></a></li>	<li id="menu-item-5645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5645"><a href="https://greencampus.ku.ac.th/green-metric-2019-2020/" class="menu-link"><span class="text-wrap">green metric 2019-2020</span></a></li></ul>
+</li><li id="menu-item-4973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-4973"><a href="https://greencampus.ku.ac.th/ku-sdgs/" class="menu-link"><span class="text-wrap">ku sdgs <span class="nav-arrow fa fa-angle-down"></span></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-5654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5654"><a href="https://greencampus.ku.ac.th/sdgs-report-2020-2021/" class="menu-link"><span class="text-wrap">sdgs report 2020-2021</span></a></li>	<li id="menu-item-3545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3545"><a href="https://greencampus.ku.ac.th/sdgs-report-2019-2020/" class="menu-link"><span class="text-wrap">sdgs report 2019-2020</span></a></li></ul>
+</li><li id="menu-item-4970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4970"><a href="https://greencampus.ku.ac.th/best-practice/" class="menu-link"><span class="text-wrap">best practice</span></a></li><li id="menu-item-83" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83"><a href="https://iad.intaff.ku.ac.th/wordpress/?cat=15&#038;lang=en" class="menu-link"><span class="text-wrap">event&#038;news</span></a></li><li id="menu-item-879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-879"><a href="https://greencampus.ku.ac.th/gallery-2/" class="menu-link"><span class="text-wrap">gallery</span></a></li><li id="menu-item-4972" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-274 current_page_item menu-item-4972"><a href="https://greencampus.ku.ac.th/contact/" class="menu-link"><span class="text-wrap">contact</span></a></li></ul>
+			</nav><!-- #site-navigation -->
+
+			
+			
+					</div><!-- #site-navigation-wrap -->
+			
+		
+	
+				
+	<div class="oceanwp-mobile-menu-icon clr mobile-right">
+
+		
+		
+		
+		<a href="#" class="mobile-menu" aria-label="mobile menu">
+							<i class="fa fa-bars" aria-hidden="true"></i>
+								<span class="oceanwp-text">menu</span>
+
+						</a>
+
+		
+		
+		
+	</div><!-- #oceanwp-mobile-menu-navbar -->
+
+
+			</div><!-- #site-header-inner -->
+
+			
+			
+			
+		
+		
+</header><!-- #site-header -->
+
+
+			
+			<main id="main" class="site-main clr"  role="main">
+
+				
+	
+	<div id="content-wrap" class="container clr">
+
+		
+		<div id="primary" class="content-area clr">
+
+			
+			<div id="content" class="site-content clr">
+
+				
+				
+<article class="single-page-article clr">
+
+	
+<div class="entry clr" itemprop="text">
+
+	
+			<div data-elementor-type="wp-page" data-elementor-id="274" class="elementor elementor-274" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-4284f02 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4284f02" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-d5e2b00 elementor-column elementor-col-100 elementor-top-column" data-id="d5e2b00" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7e9d932 elementor-widget elementor-widget-smartslider" data-id="7e9d932" data-element_type="widget" data-widget_type="smartslider.default">
+				<div class="elementor-widget-container">
+			<div class="n2-section-smartslider "><style>div#n2-ss-8{width:1600px;float:left;margin:0px 0px 0px 0px;}html[dir="rtl"] div#n2-ss-8{float:right;}div#n2-ss-8 .n2-ss-slider-1{position:relative;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;height:300px;border-style:solid;border-width:0px;border-color:#3e3e3e;border-color:rgba(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;}div#n2-ss-8 .n2-ss-slider-background-video-container{position:absolute;left:0;top:0;width:100%;height:100%;overflow:hidden;}div#n2-ss-8 .n2-ss-slider-2{position:relative;width:100%;height:100%;}.x-firefox div#n2-ss-8 .n2-ss-slider-2{opacity:0.99999;}div#n2-ss-8 .n2-ss-slider-3{position:relative;width:100%;height:100%;overflow:hidden;outline:1px solid rgba(0,0,0,0);z-index:10;}div#n2-ss-8 .n2-ss-slide-backgrounds,div#n2-ss-8 .n2-ss-slider-3 > .n-particles-js-canvas-el,div#n2-ss-8 .n2-ss-slider-3 > .n2-ss-divider{position:absolute;left:0;top:0;width:100%;height:100%;}div#n2-ss-8 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-8 .n2-ss-slider-3 > .n-particles-js-canvas-el{z-index:12;}div#n2-ss-8 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-8 .n2-ss-slide{position:absolute;top:0;left:0;width:100%;height:100%;z-index:20;display:block;-webkit-backface-visibility:hidden;}div#n2-ss-8 .n2-ss-layers-container{position:relative;width:1600px;height:300px;}div#n2-ss-8 .n2-ss-parallax-clip > .n2-ss-layers-container{position:absolute;right:0;}div#n2-ss-8 .n2-ss-slide{perspective:1500px;}div#n2-ss-8[data-ie] .n2-ss-slide{perspective:none;transform:perspective(1500px);}div#n2-ss-8 .n2-ss-slide-active{z-index:21;}div#n2-ss-8 .n2-ss-layer .n2-font-e10987854b2041f7ab4a4408354409db-hover{font-family: 'roboto';color: #37b7b3;font-size:218.75%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: italic;text-decoration: none;text-align: center;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 500;}div#n2-ss-8 .n2-style-bc1aad985e2a6f72b5605c170b90c668-heading{background: #ffffff;opacity:0.9;padding:0px 0px 0px 0px ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: rgba(0,0,0,1);border-radius:0px;}</style><div id="n2-ss-8-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-8" data-creator="smart slider 3" class="n2-ss-slider n2-ow n2-has-hover n2notransition  n2-ss-load-fade " data-minfontsizedesktopportrait="4" data-minfontsizedesktoplandscape="4" data-minfontsizetabletportrait="4" data-minfontsizetabletlandscape="4" data-minfontsizemobileportrait="4" data-minfontsizemobilelandscape="4" style="font-size: 16px;" data-fontsize="16">
+        <div class="n2-ss-slider-1 n2-ss-swipe-element n2-ow" style="">
+                        <div class="n2-ss-slider-2 n2-ow">
+                                <div class="n2-ss-slider-3 n2-ow" style="">
+
+                    <div class="n2-ss-slide-backgrounds"></div><div data-first="1" data-slide-duration="0" data-id="12" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-12"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><img data-hash="aa5e506a7b986df141a6e062b447211d" data-desktop="//greencampus.ku.ac.th/wp-content/uploads/2020/09/bg-sdgs4.jpg" data-blur="0" data-opacity="100" data-x="50" data-y="50" src="//greencampus.ku.ac.th/wp-content/uploads/2020/09/bg-sdgs4.jpg" alt="" /></div><div class="n2-ss-layers-container n2-ow" data-csstextalign="center" style=""><div class="n2-ss-layer n2-ow" style="overflow:visible;" data-csstextalign="inherit" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-pm="content" data-desktopportraitpadding="10|*|10|*|0|*|10|*|px+" data-desktopportraitinneralign="inherit" data-sstype="content" data-hasbackground="0" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="1" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-section-main-content n2-ss-layer-content n2-ow" style="padding:0.625em 0.625em 0em 0.625em ;" data-verticalalign="flex-end"><div class="n2-ss-layer n2-ow" style="margin:0em 0em 0em 1.875em ;max-width: 185px;overflow:visible;" data-pm="normal" data-desktopportraitmargin="0|*|0|*|0|*|30|*|px+" data-desktopportraitheight="0" data-has-maxwidth="1" data-desktopportraitmaxwidth="185" data-cssselfalign="left" data-desktopportraitselfalign="left" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div id="n2-ss-8item1" class="n2-font-e10987854b2041f7ab4a4408354409db-hover n2-style-bc1aad985e2a6f72b5605c170b90c668-heading   n2-ss-item-content n2-ow" style="display:block;">contact</div></div></div></div></div></div>                </div>
+            </div>
+            
+        </div>
+        </div><div class="n2-clear"></div><div id="n2-ss-8-spinner" style="display: none;"><div><div class="n2-ss-spinner-simple-white-container"><div class="n2-ss-spinner-simple-white"></div></div></div></div></div></div><div id="n2-ss-8-placeholder" style="position: relative;z-index:2;background-color:rgba(0,0,0,0);max-height:3000px; background-color:rgba(255,255,255,0);"><img style="width: 100%; max-width:3000px; display: block;opacity:0;margin:0px;" class="n2-ow" src="data:image/svg+xml;base64,phn2zyb4bwxucz0iahr0cdovl3d3dy53my5vcmcvmjawmc9zdmciihzlcnnpb249ijeumcigd2lkdgg9ije2mdaiighlawdodd0imzawiia+pc9zdmc+" alt="slider" /></div></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-881c76f elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="881c76f" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6b773c8 elementor-column elementor-col-33 elementor-top-column" data-id="6b773c8" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7b02415 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="7b02415" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadein&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9213.667289909012!2d100.56875413104999!3d13.846847110855325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29cde06012b57%3a0xf0100b33d0b3170!2skasetsart+university!5e0!3m2!1sen!2sth!4v1560420741547!5m2!1sen!2sth" width="600" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-550fbab elementor-column elementor-col-33 elementor-top-column" data-id="550fbab" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-d6a60f4 elementor-column elementor-col-33 elementor-top-column" data-id="d6a60f4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b477178 eael-dual-header-content-align-left elementor-invisible elementor-widget elementor-widget-eael-dual-color-header" data-id="b477178" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeinup&quot;}" data-widget_type="eael-dual-color-header.default">
+				<div class="elementor-widget-container">
+			
+		        <div class="eael-dual-header">
+				<h2 class="title"><span  class="lead solid-color">kasetsart</span> <span>bangkhen​</span></h2>
+		<div class="eael-dch-separator-wrap"><span class="separator-one"></span>
+			<span class="separator-two"></span></div>		<span class="subtext"></span>
+				</div>
+	
+		
+		
+		
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7e50dba elementor-widget elementor-widget-text-editor" data-id="7e50dba" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>50 thanon ngamwongwan, khwaeng lat yao, khet chatuchak, krung thep maha nakhon 10900</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-58530d7 elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="58530d7" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+										<span class="elementor-icon-list-text">tel :  +66(0) 2942 8200-45</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="https://www.facebook.com/kasetsartuniversity" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-facebook-square"></i>						</span>
+										<span class="elementor-icon-list-text">https://www.facebook.com/kasetsartuniversity</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="https://www.ku.ac.th" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-internet-explorer"></i>						</span>
+										<span class="elementor-icon-list-text">https://www.ku.ac.th</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-d4985ed elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="d4985ed" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-604eb55 elementor-column elementor-col-100 elementor-top-column" data-id="604eb55" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-dfc5d7f elementor-widget elementor-widget-divider" data-id="dfc5d7f" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-7e40941 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="7e40941" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-abd676d elementor-column elementor-col-33 elementor-top-column" data-id="abd676d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-36d1764 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="36d1764" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadein&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3870.9056312080406!2d99.97271061485706!3d14.023607794714856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e2fec0e9bbe321%3a0xf01923824353370!2skasetsart+university+kamphaeng+saen+campus!5e0!3m2!1sen!2sth!4v1560420925026!5m2!1sen!2sth" width="600" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-9f7310d elementor-column elementor-col-33 elementor-top-column" data-id="9f7310d" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-865721e elementor-column elementor-col-33 elementor-top-column" data-id="865721e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-11ccae2 eael-dual-header-content-align-left elementor-invisible elementor-widget elementor-widget-eael-dual-color-header" data-id="11ccae2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeinup&quot;}" data-widget_type="eael-dual-color-header.default">
+				<div class="elementor-widget-container">
+			
+		        <div class="eael-dual-header">
+				<h2 class="title"><span  class="lead solid-color">kasetsart</span> <span>kamphaeng saen</span></h2>
+		<div class="eael-dch-separator-wrap"><span class="separator-one"></span>
+			<span class="separator-two"></span></div>		<span class="subtext"></span>
+				</div>
+	
+		
+		
+		
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e23a109 elementor-widget elementor-widget-text-editor" data-id="e23a109" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>1 malaiman rd, kamphaeng saen, amphoe kamphaeng saen, chang wat nakhon pathom 73140</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8182640 elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="8182640" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+										<span class="elementor-icon-list-text">tel : +6634 341 550-3​</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="https://www.facebook.com/kukpssociety/" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-facebook-square"></i>						</span>
+										<span class="elementor-icon-list-text">https://www.facebook.com/kukpssociety/</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="http://kps.ku.ac.th/eng/" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-internet-explorer"></i>						</span>
+										<span class="elementor-icon-list-text">http://kps.ku.ac.th/eng/</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-9636c78 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="9636c78" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-b49511b elementor-column elementor-col-100 elementor-top-column" data-id="b49511b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c4fcb4b elementor-widget elementor-widget-divider" data-id="c4fcb4b" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-ac29c58 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="ac29c58" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-9959210 elementor-column elementor-col-33 elementor-top-column" data-id="9959210" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-218120c elementor-invisible elementor-widget elementor-widget-text-editor" data-id="218120c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadein&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.668299041321!2d100.91775112686365!3d13.120187429692912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3102b67ef835f265%3a0x963c6129282e5cb!2skasetsart+university+si+racha+campus!5e0!3m2!1sen!2sth!4v1560421069985!5m2!1sen!2sth" width="600" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-eb9bcce elementor-column elementor-col-33 elementor-top-column" data-id="eb9bcce" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-67b37df elementor-column elementor-col-33 elementor-top-column" data-id="67b37df" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-8f90e13 eael-dual-header-content-align-left elementor-invisible elementor-widget elementor-widget-eael-dual-color-header" data-id="8f90e13" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeinup&quot;}" data-widget_type="eael-dual-color-header.default">
+				<div class="elementor-widget-container">
+			
+		        <div class="eael-dual-header">
+				<h2 class="title"><span  class="lead solid-color">kasetsart</span> <span>sri racha</span></h2>
+		<div class="eael-dch-separator-wrap"><span class="separator-one"></span>
+			<span class="separator-two"></span></div>		<span class="subtext"></span>
+				</div>
+	
+		
+		
+		
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-86c04c3 elementor-widget elementor-widget-text-editor" data-id="86c04c3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>199 moo 6 tumbol thungkhla amphoe si racha, chang wat chon buri 20230</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-480dc7b elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="480dc7b" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+										<span class="elementor-icon-list-text">tel : 038 354 580-4 : 2631</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="https://www.facebook.com/kusriracha/" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-facebook-square"></i>						</span>
+										<span class="elementor-icon-list-text">https://www.facebook.com/kusriracha/</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="http://src.ku.ac.th/index.php?lg=en" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-internet-explorer"></i>						</span>
+										<span class="elementor-icon-list-text">http://src.ku.ac.th/index.php?lg=en</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-47edc68 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="47edc68" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-afefe65 elementor-column elementor-col-100 elementor-top-column" data-id="afefe65" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-227798e elementor-widget elementor-widget-divider" data-id="227798e" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-319d8b3 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="319d8b3" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-a40f189 elementor-column elementor-col-33 elementor-top-column" data-id="a40f189" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1bb0161 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="1bb0161" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadein&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4549.79078146941!2d104.10810764544748!3d17.28852319274218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313c8e2437c0a1d9%3a0x498c64aea0a7f267!2skasetsart+university+chalermphrakiat+sakon-nakhon+campus!5e0!3m2!1sen!2sth!4v1560421344202!5m2!1sen!2sth" width="600" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-c4851c4 elementor-column elementor-col-33 elementor-top-column" data-id="c4851c4" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-a715886 elementor-column elementor-col-33 elementor-top-column" data-id="a715886" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-047b276 eael-dual-header-content-align-left elementor-invisible elementor-widget elementor-widget-eael-dual-color-header" data-id="047b276" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeinup&quot;}" data-widget_type="eael-dual-color-header.default">
+				<div class="elementor-widget-container">
+			
+		        <div class="eael-dual-header">
+				<h2 class="title"><span  class="lead solid-color">kasetsart</span> <span>chalermphrakiat sakon nakhon</span></h2>
+		<div class="eael-dch-separator-wrap"><span class="separator-one"></span>
+			<span class="separator-two"></span></div>		<span class="subtext"></span>
+				</div>
+	
+		
+		
+		
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-afff55c elementor-widget elementor-widget-text-editor" data-id="afff55c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>chiang khruea, mueang sakon nakhon district, sakon nakhon 47000</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-53d400f elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="53d400f" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+										<span class="elementor-icon-list-text">tel : (+66) 42-725-013</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="https://www.facebook.com/csc.ku/" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-facebook-square"></i>						</span>
+										<span class="elementor-icon-list-text">https://www.facebook.com/csc.ku/</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="http://www.csc.ku.ac.th/en/" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-internet-explorer"></i>						</span>
+										<span class="elementor-icon-list-text">http://www.csc.ku.ac.th/en/</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+	
+</div>
+
+</article>
+
+				
+			</div><!-- #content -->
+
+			
+		</div><!-- #primary -->
+
+		
+	</div><!-- #content-wrap -->
+
+	
+
+	</main><!-- #main -->
+
+	
+	
+	
+		
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/wpfooter" role="contentinfo">
+
+	
+	<div id="footer-inner" class="clr">
+
+		
+
+<div id="footer-bottom" class="clr no-footer-nav">
+
+	
+	<div id="footer-bottom-inner" class="container clr">
+
+		
+		
+			<div id="copyright" class="clr" role="contentinfo">
+				<br>
+© 2020-2021 ku greencampus
+<br>
+<br>
+email : vbppd.psd@ku.th
+<br>
+<br>			</div><!-- #copyright -->
+
+			
+	</div><!-- #footer-bottom-inner -->
+
+	
+</div><!-- #footer-bottom -->
+
+
+	</div><!-- #footer-inner -->
+
+	
+</footer><!-- #footer -->
+
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a id="scroll-top" class="scroll-top-right" href="#"><span class="fa fa-angle-up" aria-label="scroll to the top of the page"></span></a>
+
+
+
+<div id="sidr-close">
+	<a href="#" class="toggle-sidr-close" aria-label="close mobile menu">
+		<i class="icon icon-close" aria-hidden="true"></i><span class="close-text">close menu</span>
+	</a>
+</div>
+
+	
+	
+<div id="mobile-menu-search" class="clr">
+	<form method="get" action="https://greencampus.ku.ac.th/" class="mobile-searchform" role="search" aria-label="search for:">
+		<label for="ocean-mobile-search1">
+			<input type="search" name="s" autocomplete="off" placeholder="search" />
+			<button type="submit" class="searchform-submit" aria-label="submit search">
+				<i class="icon icon-magnifier" aria-hidden="true"></i>
+			</button>
+					</label>
+			</form>
+</div><!-- .mobile-menu-search -->
+
+
+<script type='text/javascript'>
+/* <![cdata[ */
+var localize = {"ajaxurl":"https:\/\/greencampus.ku.ac.th\/wp-admin\/admin-ajax.php","nonce":"831c635ae4","i18n":{"added":"added ","compare":"compare","loading":"loading..."}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/uploads/essential-addons-elementor/be098ee71.min.js?ver=1642189050'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/timeline-widget-addon-for-elementor/assets/js/twae-swiper.min.js'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/timeline-widget-addon-for-elementor/assets/js/twae-horizontal.js'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=1.8.6'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.8.6'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var oceanwplocalize = {"isrtl":"","menusearchstyle":"disabled","sidrsource":"#sidr-close, #site-navigation, #mobile-menu-search","sidrdisplace":"1","sidrside":"left","sidrdropdowntarget":"link","verticalheadertarget":"link","customselects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.8.6'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-includes/js/wp-embed.min.js?ver=5.0.10'></script>
+<!--[if lt ie 9]>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/js/third/html5.min.js?ver=1.8.6'></script>
+<![endif]-->
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/bdthemes-prime-slider-lite/assets/js/bdt-uikit.min.js?ver=3.2'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.13'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.13'></script>
+<script type='text/javascript'>
+var elementorfrontendconfig = {"environmentmode":{"edit":false,"wppreview":false},"i18n":{"shareonfacebook":"share on facebook","shareontwitter":"share on twitter","pinit":"pin it","downloadimage":"download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.13","urls":{"assets":"https:\/\/greencampus.ku.ac.th\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorpreferences":[]},"post":{"id":274,"title":"contact%20%e2%80%93%20greencampus","excerpt":"","featuredimage":false}};
+</script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.13'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/bdthemes-prime-slider-lite/assets/js/prime-slider-site.min.js?ver=1.14.2'></script>
+</body>
+</html>

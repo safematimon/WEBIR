@@ -1,0 +1,324 @@
+<!doctype html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <title>ku sdgs &#8211; sdg ku way</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="sdg ku way &raquo; feed" href="https://www.sdgs.ku.ac.th/feed/" />
+<link rel="alternate" type="application/rss+xml" title="sdg ku way &raquo; comments feed" href="https://www.sdgs.ku.ac.th/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="sdg ku way &raquo; ku sdgs category feed" href="https://www.sdgs.ku.ac.th/category/ku-sdgs/feed/" />
+		<script type="text/javascript">
+			window._wpemojisettings = {"baseurl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgurl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgext":".svg","source":{"concatemoji":"https:\/\/www.sdgs.ku.ac.th\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.9"}};
+			/*! this file is auto-generated */
+			!function(e,a,t){var n,r,o,i=a.createelement("canvas"),p=i.getcontext&&i.getcontext("2d");function s(e,t){var a=string.fromcharcode;p.clearrect(0,0,i.width,i.height),p.filltext(a.apply(this,e),0,0);e=i.todataurl();return p.clearrect(0,0,i.width,i.height),p.filltext(a.apply(this,t),0,0),e===i.todataurl()}function c(e){var t=a.createelement("script");t.src=e,t.defer=t.type="text/javascript",a.getelementsbytagname("head")[0].appendchild(t)}for(o=array("flag","emoji"),t.supports={everything:!0,everythingexceptflag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.filltext)return!1;switch(p.textbaseline="top",p.font="600 32px arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingexceptflag=t.supports.everythingexceptflag&&t.supports[o[r]]);t.supports.everythingexceptflag=t.supports.everythingexceptflag&&!t.supports.flag,t.domready=!1,t.readycallback=function(){t.domready=!0},t.supports.everything||(n=function(){t.readycallback()},a.addeventlistener?(a.addeventlistener("domcontentloaded",n,!1),e.addeventlistener("load",n,!1)):(e.attachevent("onload",n),a.attachevent("onreadystatechange",function(){"complete"===a.readystate&&t.readycallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojisettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.sdgs.ku.ac.th/wp-includes/css/dist/block-library/style.min.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='seed-social-css'  href='https://www.sdgs.ku.ac.th/wp-content/plugins/seed-social/seed-social.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='s-mobile-css'  href='https://www.sdgs.ku.ac.th/wp-content/themes/seed/css/mobile.css?ver=1605693153' type='text/css' media='all' />
+<link rel='stylesheet' id='s-desktop-css'  href='https://www.sdgs.ku.ac.th/wp-content/themes/seed/css/desktop.css?ver=1605111266' type='text/css' media='(min-width: 992px)' />
+<link rel='stylesheet' id='s-ie-css'  href='https://www.sdgs.ku.ac.th/wp-content/themes/seed/css/ie.css?ver=1584526749' type='text/css' media='(-ms-high-contrast: none), (-ms-high-contrast: active)' />
+<style id="kadence_blocks_palette_css" type="text/css">:root .has-kb-palette-1-color{color:#01696a}:root .has-kb-palette-1-background-color{background-color:#01696a}</style><script type='text/javascript' src='https://www.sdgs.ku.ac.th/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.sdgs.ku.ac.th/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.sdgs.ku.ac.th/wp-json/' />
+<link rel="edituri" type="application/rsd+xml" title="rsd" href="https://www.sdgs.ku.ac.th/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.sdgs.ku.ac.th/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="wordpress 5.4.9" />
+<link href="https://fonts.googleapis.com/css2?family=roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+<link rel="icon" href="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/cropped-screen-shot-2563-11-24-at-21.22.08-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/cropped-screen-shot-2563-11-24-at-21.22.08-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/cropped-screen-shot-2563-11-24-at-21.22.08-180x180.png" />
+<meta name="msapplication-tileimage" content="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/cropped-screen-shot-2563-11-24-at-21.22.08-270x270.png" />
+</head>
+
+
+<body class="archive category category-ku-sdgs category-1 wp-custom-logo">
+        <a class="skip-link screen-reader-text" href="#content">skip to content</a>
+    <div id="page" class="site">
+
+        <header id="masthead" class="site-header _heading">
+           
+        <div class="alignfull">
+            <!--<div class="s-container">-->
+
+            <div class="site-branding">
+                    <div class="site-logo"><a href="https://www.sdgs.ku.ac.th/" class="custom-logo-link" rel="home"><img width="190" height="216" src="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/l.gif" class="custom-logo" alt="sdg ku way" /></a></div>
+                                    </div>
+
+                <div class="site-toggle"><b></b></div>
+
+                
+                                <nav id="site-navigation" class="site-nav-d _desktop">
+                    <div class="menu-mnu-main-th-container"><ul id="primary-menu" class="menu"><li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-20"><a href="https://www.sdgs.ku.ac.th/">home</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://www.sdgs.ku.ac.th/sdg-ku-way/">sdg ku way</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="https://www.sdgs.ku.ac.th/ku-case/">ku cases</a></li>
+<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="https://www.sdgs.ku.ac.th/ku-sdgs/">ku sdgs</a></li>
+</ul></div>                </nav>
+                
+                              <!--  <a class="site-search s-modal-trigger m-user" onclick="return false;"
+                    data-popup-trigger="site-search"><i class="si-search-o"></i></a>-->
+
+                
+                
+            </div>
+            <nav id="site-nav-m" class="site-nav-m">
+                <div class="s-container">
+                    <div class="menu-mnu-main-th-container"><ul id="mobile-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-20"><a href="https://www.sdgs.ku.ac.th/">home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://www.sdgs.ku.ac.th/sdg-ku-way/">sdg ku way</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="https://www.sdgs.ku.ac.th/ku-case/">ku cases</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="https://www.sdgs.ku.ac.th/ku-sdgs/">ku sdgs</a></li>
+</ul></div>                </div>
+            </nav>
+        </header>
+
+        <div class="s-modal -full" data-s-modal="site-search">
+            <span class="s-modal-close"><i class="si-cross-o"></i></span>
+            <form role="search" method="get" class="search-form" action="https://www.sdgs.ku.ac.th/">
+				<label>
+					<span class="screen-reader-text">search for:</span>
+					<input type="search" class="search-field" placeholder="search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="search" />
+			</form>        </div>
+
+        <div class="site-header-space"></div>
+
+        
+        <div id="content" class="site-content">
+<div class="main-header -banner"><div class="bg" style="background-image: url(https://www.sdgs.ku.ac.th/wp-content/uploads/2021/10/paoesdgimg.jpg); filter: blur(20px); opacity: 0.7;"></div><div class="s-container"><div class="main-title _heading"><div class="title"><a href="https://www.sdgs.ku.ac.th/through-the-preservation-of-intangible-cultural-heritage-in-the-northern-provinces-of-thailand-to-community-based-tourism-cases-of-thai-tribal-communities/">ku sdgs</a></div></div></div></div>
+<div class="s-container main-body -full-width">
+    <div id="primary" class="content-area">
+        <main id="main" class="site-main">
+
+            
+            <header class="page-header">
+                <h1 class="page-title entry-title hide">ku sdgs</h1>            </header>
+
+            <div class="s-grid -m1 -d3"><article id="post-997" class="content-item -card post-997 post type-post status-publish format-standard has-post-thumbnail hentry category-ku-sdgs tag-1-no-poverty tag-2-zero-hunger tag-3-good-health-and-well-being tag-4-quality-education tag-5-gender-equality tag-6-clean-water-and-sanitation tag-7-affordable-and-clean-energy tag-8-decent-work-and-economic-growth tag-9-industry-innovation-and-infrastructure tag-10-reduced-inequalities tag-11-sustainable-cities-and-communities tag-12-responsible-consumption-and-production tag-13-climate-action tag-14-life-below-water tag-15-life-on-land tag-16-peace-justice-and-strong-institutions tag-17-partnerships-for-the-goals">
+    <div class="pic">
+        <a href="https://www.sdgs.ku.ac.th/through-the-preservation-of-intangible-cultural-heritage-in-the-northern-provinces-of-thailand-to-community-based-tourism-cases-of-thai-tribal-communities/" title="permalink to through the preservation of intangible cultural heritage in the northern provinces of thailand to community-based tourism: cases of thai tribal communities" rel="bookmark">
+            <img width="350" height="184" src="https://www.sdgs.ku.ac.th/wp-content/uploads/2021/10/paoesdgimg-350x184.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.sdgs.ku.ac.th/wp-content/uploads/2021/10/paoesdgimg-350x184.jpg 350w, https://www.sdgs.ku.ac.th/wp-content/uploads/2021/10/paoesdgimg-300x158.jpg 300w, https://www.sdgs.ku.ac.th/wp-content/uploads/2021/10/paoesdgimg-1024x538.jpg 1024w, https://www.sdgs.ku.ac.th/wp-content/uploads/2021/10/paoesdgimg-768x403.jpg 768w, https://www.sdgs.ku.ac.th/wp-content/uploads/2021/10/paoesdgimg.jpg 1200w" sizes="(max-width: 350px) 100vw, 350px" />        </a>
+    </div>
+    <div class="info">
+        <header class="entry-header">
+                        <h2 class="entry-title"><a href="https://www.sdgs.ku.ac.th/through-the-preservation-of-intangible-cultural-heritage-in-the-northern-provinces-of-thailand-to-community-based-tourism-cases-of-thai-tribal-communities/" rel="bookmark">through the preservation of intangible cultural heritage in the northern provinces of thailand to community-based tourism: cases of thai tribal communities</a></h2>        </header>
+
+        <div class="entry-summary">
+            <p>professors from faculty of education, kasetsart university, associate professor dr.pattarawat jeerapattanatorn and associate professor dr.wandee sutthinarakorn delivered a tribal community project (from 2019 to 2020) by collaborating with 5 ethnic communities ( 1) ban pa pae (bpp), mae hong son province, 2) ban nongtao (bn), chiang mai province, 3) ban dok daeng (bdd), chiang mai [&hellip;]</p>
+        </div>
+    </div>
+    <a class="author" href="https://www.sdgs.ku.ac.th/author/admin/"><img alt='' src='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><div class="name"><h2>admin</h2><small>19 october 2021</small></div></a></article><article id="post-1079" class="content-item -card post-1079 post type-post status-publish format-standard has-post-thumbnail hentry category-ku-sdgs">
+    <div class="pic">
+        <a href="https://www.sdgs.ku.ac.th/ku-sdgs-report-2020-2021/" title="permalink to ku sdgs report 2020- 2021" rel="bookmark">
+            <img width="350" height="184" src="https://www.sdgs.ku.ac.th/wp-content/uploads/2021/10/kusdgsp-350x184.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.sdgs.ku.ac.th/wp-content/uploads/2021/10/kusdgsp-350x184.jpg 350w, https://www.sdgs.ku.ac.th/wp-content/uploads/2021/10/kusdgsp-300x158.jpg 300w, https://www.sdgs.ku.ac.th/wp-content/uploads/2021/10/kusdgsp-1024x538.jpg 1024w, https://www.sdgs.ku.ac.th/wp-content/uploads/2021/10/kusdgsp-768x403.jpg 768w, https://www.sdgs.ku.ac.th/wp-content/uploads/2021/10/kusdgsp.jpg 1200w" sizes="(max-width: 350px) 100vw, 350px" />        </a>
+    </div>
+    <div class="info">
+        <header class="entry-header">
+                        <h2 class="entry-title"><a href="https://www.sdgs.ku.ac.th/ku-sdgs-report-2020-2021/" rel="bookmark">ku sdgs report 2020- 2021</a></h2>        </header>
+
+        <div class="entry-summary">
+            <p>kasetsart university (ku) has set the visions and missions towards achieving the united nations’ sustainable development goals: sdgs. throughout the years, ku proves itself as a leading university by utilizing the knowledges and researches to assist the domestic and international community by outreach and stewardship programs. to meet the core competencies and the university’s strategies, [&hellip;]</p>
+        </div>
+    </div>
+    <a class="author" href="https://www.sdgs.ku.ac.th/author/admin/"><img alt='' src='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><div class="name"><h2>admin</h2><small>1 october 2021</small></div></a></article><article id="post-991" class="content-item -card post-991 post type-post status-publish format-standard hentry category-ku-sdgs tag-2-zero-hunger tag-3-good-health-and-well-being tag-4-quality-education tag-5-gender-equality tag-6-clean-water-and-sanitation tag-7-affordable-and-clean-energy tag-8-decent-work-and-economic-growth tag-9-industry-innovation-and-infrastructure tag-10-reduced-inequalities tag-11-sustainable-cities-and-communities tag-12-responsible-consumption-and-production tag-13-climate-action tag-14-life-below-water tag-15-life-on-land tag-16-peace-justice-and-strong-institutions tag-17-partnerships-for-the-goals">
+    <div class="pic">
+        <a href="https://www.sdgs.ku.ac.th/environmental-sustainabilitys-development-policy-kasetsart-university-version-4-0/" title="permalink to environmental sustainability’s development policy:  kasetsart university version 4.0" rel="bookmark">
+            <img src="https://www.sdgs.ku.ac.th/wp-content/themes/seed/img/thumb.jpg" alt="environmental sustainability’s development policy:  kasetsart university version 4.0" />        </a>
+    </div>
+    <div class="info">
+        <header class="entry-header">
+                        <h2 class="entry-title"><a href="https://www.sdgs.ku.ac.th/environmental-sustainabilitys-development-policy-kasetsart-university-version-4-0/" rel="bookmark">environmental sustainability’s development policy:  kasetsart university version 4.0</a></h2>        </header>
+
+        <div class="entry-summary">
+            <p>kasertart univesity revised the sustainability’s development policy, called environmental sustainability’s development policy: kasetsart university version 4.0 (2021), and used it as a flagship for the environmental sustainability’s development of kasetsart univesity throughout all campuses. this version includes policies associated with agroforestry and conservation of biodiversity, wildlife management, management of clean and affordable energy, management of [&hellip;]</p>
+        </div>
+    </div>
+    <a class="author" href="https://www.sdgs.ku.ac.th/author/admin/"><img alt='' src='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><div class="name"><h2>admin</h2><small>15 june 2021</small></div></a></article><article id="post-232" class="content-item -card post-232 post type-post status-publish format-standard has-post-thumbnail hentry category-ku-sdgs tag-1-no-poverty tag-2-zero-hunger tag-3-good-health-and-well-being tag-8-decent-work-and-economic-growth tag-9-industry-innovation-and-infrastructure tag-12-responsible-consumption-and-production tag-13-climate-action tag-14-life-below-water tag-15-life-on-land tag-17-partnerships-for-the-goals">
+    <div class="pic">
+        <a href="https://www.sdgs.ku.ac.th/ku-professor-involved-in-national-policy-towards-sustainable-development/" title="permalink to ku professor involved in national policy towards sustainable development" rel="bookmark">
+            <img width="350" height="184" src="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/pao2img-350x184.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/pao2img-350x184.jpg 350w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/pao2img-300x158.jpg 300w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/pao2img-1024x538.jpg 1024w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/pao2img-768x403.jpg 768w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/pao2img.jpg 1200w" sizes="(max-width: 350px) 100vw, 350px" />        </a>
+    </div>
+    <div class="info">
+        <header class="entry-header">
+                        <h2 class="entry-title"><a href="https://www.sdgs.ku.ac.th/ku-professor-involved-in-national-policy-towards-sustainable-development/" rel="bookmark">ku professor involved in national policy towards sustainable development</a></h2>        </header>
+
+        <div class="entry-summary">
+            <p>assistant professor thon thamrongnawasawat serves in a national strategic committee in the environmental field as well as for the reform of national resources and the environment. assistant professor thon thamrongnawasawat, a marine biologist and environmentalist from the faculty of fisheries, has contributed to national policy as a member of a national strategic committee in environmental [&hellip;]</p>
+        </div>
+    </div>
+    <a class="author" href="https://www.sdgs.ku.ac.th/author/admin/"><img alt='' src='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><div class="name"><h2>admin</h2><small>25 february 2020</small></div></a></article><article id="post-221" class="content-item -card post-221 post type-post status-publish format-standard has-post-thumbnail hentry category-ku-sdgs tag-1-no-poverty tag-2-zero-hunger tag-8-decent-work-and-economic-growth tag-9-industry-innovation-and-infrastructure tag-12-responsible-consumption-and-production tag-15-life-on-land tag-17-partnerships-for-the-goals">
+    <div class="pic">
+        <a href="https://www.sdgs.ku.ac.th/ku-professor-involved-in-national-policy-towards-smart-farming-by-the-ministry-of-agriculture-and-cooperatives/" title="permalink to ku professor involved in national policy towards smart farming by the ministry of agriculture and cooperatives." rel="bookmark">
+            <img width="350" height="184" src="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/p01a-350x184.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/p01a-350x184.jpg 350w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/p01a-300x158.jpg 300w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/p01a-1024x538.jpg 1024w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/p01a-768x403.jpg 768w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/p01a.jpg 1200w" sizes="(max-width: 350px) 100vw, 350px" />        </a>
+    </div>
+    <div class="info">
+        <header class="entry-header">
+                        <h2 class="entry-title"><a href="https://www.sdgs.ku.ac.th/ku-professor-involved-in-national-policy-towards-smart-farming-by-the-ministry-of-agriculture-and-cooperatives/" rel="bookmark">ku professor involved in national policy towards smart farming by the ministry of agriculture and cooperatives.</a></h2>        </header>
+
+        <div class="entry-summary">
+            <p>assistant professor panya laoanunthana has been appointed to a subcommittee that strives towards smart farming, initiated by the ministry of agriculture and cooperatives, which reports the guidelines for the control of chemical use in agriculture in the house of representatives. assistant professor panya laoanunthana, a faculty member of the department of electrical engineering, kasetsart university, [&hellip;]</p>
+        </div>
+    </div>
+    <a class="author" href="https://www.sdgs.ku.ac.th/author/admin/"><img alt='' src='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><div class="name"><h2>admin</h2><small>20 february 2020</small></div></a></article><article id="post-974" class="content-item -card post-974 post type-post status-publish format-standard has-post-thumbnail hentry category-ku-sdgs tag-1-no-poverty tag-2-zero-hunger tag-3-good-health-and-well-being tag-4-quality-education tag-8-decent-work-and-economic-growth tag-15-life-on-land tag-17-partnerships-for-the-goals">
+    <div class="pic">
+        <a href="https://www.sdgs.ku.ac.th/the-netherlands-thailand-livestock-forum-2019/" title="permalink to the netherlands – thailand livestock forum 2019" rel="bookmark">
+            <img width="350" height="184" src="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/mixpro-350x184.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/mixpro-350x184.jpg 350w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/mixpro-300x158.jpg 300w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/mixpro-1024x538.jpg 1024w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/mixpro-768x403.jpg 768w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/mixpro.jpg 1200w" sizes="(max-width: 350px) 100vw, 350px" />        </a>
+    </div>
+    <div class="info">
+        <header class="entry-header">
+                        <h2 class="entry-title"><a href="https://www.sdgs.ku.ac.th/the-netherlands-thailand-livestock-forum-2019/" rel="bookmark">the netherlands – thailand livestock forum 2019</a></h2>        </header>
+
+        <div class="entry-summary">
+            <p>on 28 november 2019, at ruang khao grand conference room, vajiranusorn building, faculty of agriculture, kasetsart university bangkhen campus,&nbsp; kasetsart university together with embassy of the kingdom of the netherlands in bangkok; biotechnology industry club – the federation of thai industries (fti); animal husbandry association of thailand (ahat); and thai holstein friesian association; organize the [&hellip;]</p>
+        </div>
+    </div>
+    <a class="author" href="https://www.sdgs.ku.ac.th/author/admin/"><img alt='' src='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><div class="name"><h2>admin</h2><small>15 february 2020</small></div></a></article><article id="post-558" class="content-item -card post-558 post type-post status-publish format-standard has-post-thumbnail hentry category-ku-sdgs tag-2-zero-hunger tag-4-quality-education tag-11-sustainable-cities-and-communities tag-12-responsible-consumption-and-production tag-17-partnerships-for-the-goals">
+    <div class="pic">
+        <a href="https://www.sdgs.ku.ac.th/ku-kamphaeng-saen-campus-promotes-the-development-of-agricultural-products-to-support-agricultural-entrepreneurs-in-thailand-4-0/" title="permalink to ku kamphaeng saen campus promotes the development of agricultural products to support agricultural entrepreneurs in thailand 4.0" rel="bookmark">
+            <img width="350" height="184" src="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/mdduction-350x184.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/mdduction-350x184.jpg 350w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/mdduction-300x158.jpg 300w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/mdduction-1024x538.jpg 1024w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/mdduction-768x403.jpg 768w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/mdduction.jpg 1200w" sizes="(max-width: 350px) 100vw, 350px" />        </a>
+    </div>
+    <div class="info">
+        <header class="entry-header">
+                        <h2 class="entry-title"><a href="https://www.sdgs.ku.ac.th/ku-kamphaeng-saen-campus-promotes-the-development-of-agricultural-products-to-support-agricultural-entrepreneurs-in-thailand-4-0/" rel="bookmark">ku kamphaeng saen campus promotes the development of agricultural products to support agricultural entrepreneurs in thailand 4.0</a></h2>        </header>
+
+        <div class="entry-summary">
+            <p>the extension and training office of kasetsart university’s kamphaeng saen campus operated various activities for upgrading and developing the potential of thai farmers to become “smart farmers” with the prototype of modern agricultural production technologies by organizing an agricultural product development project (free of charge) to support agricultural entrepreneurs in the thailand 4.0 project from [&hellip;]</p>
+        </div>
+    </div>
+    <a class="author" href="https://www.sdgs.ku.ac.th/author/admin/"><img alt='' src='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><div class="name"><h2>admin</h2><small>5 february 2020</small></div></a></article><article id="post-675" class="content-item -card post-675 post type-post status-publish format-standard has-post-thumbnail hentry category-ku-sdgs tag-1-no-poverty tag-2-zero-hunger tag-4-quality-education tag-7-affordable-and-clean-energy tag-8-decent-work-and-economic-growth tag-10-reduced-inequalities tag-12-responsible-consumption-and-production tag-14-life-below-water tag-17-partnerships-for-the-goals">
+    <div class="pic">
+        <a href="https://www.sdgs.ku.ac.th/the-construction-of-a-crab-bank-learning-center-and-blue-crab-community-network-to-increase-blue-crab-portunus-pelagicus-productivity-in-the-upper-thai-maritime-region/" title="permalink to the construction of a crab bank learning center and blue crab community network to increase blue crab (portunus pelagicus) productivity in the upper thai maritime region" rel="bookmark">
+            <img width="350" height="184" src="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/cab2b-350x184.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/cab2b-350x184.jpg 350w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/cab2b-300x158.jpg 300w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/cab2b-1024x538.jpg 1024w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/cab2b-768x403.jpg 768w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/cab2b.jpg 1200w" sizes="(max-width: 350px) 100vw, 350px" />        </a>
+    </div>
+    <div class="info">
+        <header class="entry-header">
+                        <h2 class="entry-title"><a href="https://www.sdgs.ku.ac.th/the-construction-of-a-crab-bank-learning-center-and-blue-crab-community-network-to-increase-blue-crab-portunus-pelagicus-productivity-in-the-upper-thai-maritime-region/" rel="bookmark">the construction of a crab bank learning center and blue crab community network to increase blue crab (portunus pelagicus) productivity in the upper thai maritime region</a></h2>        </header>
+
+        <div class="entry-summary">
+            <p>the faculty of fisheries has conducted the project for the establishment of&nbsp; a crab bank learning center, and blue crab community network with the purpose of raising blue crab (portunus pelagicus) productivity in the upper sea region. three training and knowledge sharing sessions were organized by the klong wan fishery research station and the andaman [&hellip;]</p>
+        </div>
+    </div>
+    <a class="author" href="https://www.sdgs.ku.ac.th/author/admin/"><img alt='' src='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><div class="name"><h2>admin</h2><small>5 february 2020</small></div></a></article><article id="post-543" class="content-item -card post-543 post type-post status-publish format-standard has-post-thumbnail hentry category-ku-sdgs tag-2-zero-hunger tag-4-quality-education tag-8-decent-work-and-economic-growth tag-11-sustainable-cities-and-communities tag-12-responsible-consumption-and-production tag-17-partnerships-for-the-goals">
+    <div class="pic">
+        <a href="https://www.sdgs.ku.ac.th/ku-kamphaeng-saen-campus-promotes-academic-services-and-knowledge-transfer-to-aim-zero-hunger/" title="permalink to ku kamphaeng saen campus promotes academic services and knowledge transfer to aim zero hunger" rel="bookmark">
+            <img width="350" height="184" src="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/training-350x184.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/training-350x184.jpg 350w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/training-300x158.jpg 300w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/training-1024x538.jpg 1024w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/training-768x403.jpg 768w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/training.jpg 1200w" sizes="(max-width: 350px) 100vw, 350px" />        </a>
+    </div>
+    <div class="info">
+        <header class="entry-header">
+                        <h2 class="entry-title"><a href="https://www.sdgs.ku.ac.th/ku-kamphaeng-saen-campus-promotes-academic-services-and-knowledge-transfer-to-aim-zero-hunger/" rel="bookmark">ku kamphaeng saen campus promotes academic services and knowledge transfer to aim zero hunger</a></h2>        </header>
+
+        <div class="entry-summary">
+            <p>the extension and training office of kasetsart university’s kamphaeng saen campus organized an academic service project for farmers (free of charge) between october 1, 2018, and september 30, 2019, with the objectives to: 1) transfer knowledge, technology and innovation of kasetsart university; 2) promote and organize occupational demonstration training sessions for farmers and the general [&hellip;]</p>
+        </div>
+    </div>
+    <a class="author" href="https://www.sdgs.ku.ac.th/author/admin/"><img alt='' src='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><div class="name"><h2>admin</h2><small>5 february 2020</small></div></a></article><article id="post-634" class="content-item -card post-634 post type-post status-publish format-standard has-post-thumbnail hentry category-ku-sdgs tag-1-no-poverty tag-4-quality-education tag-8-decent-work-and-economic-growth tag-12-responsible-consumption-and-production tag-13-climate-action tag-15-life-on-land tag-17-partnerships-for-the-goals">
+    <div class="pic">
+        <a href="https://www.sdgs.ku.ac.th/pak-chong-research-station-nakhon-ratchasima-province-offers-banana-farming-technology/" title="permalink to pak chong research station, nakhon ratchasima province offers banana farming technology" rel="bookmark">
+            <img width="350" height="184" src="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/baanana-350x184.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/baanana-350x184.jpg 350w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/baanana-300x158.jpg 300w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/baanana-1024x538.jpg 1024w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/baanana-768x403.jpg 768w, https://www.sdgs.ku.ac.th/wp-content/uploads/2020/11/baanana.jpg 1200w" sizes="(max-width: 350px) 100vw, 350px" />        </a>
+    </div>
+    <div class="info">
+        <header class="entry-header">
+                        <h2 class="entry-title"><a href="https://www.sdgs.ku.ac.th/pak-chong-research-station-nakhon-ratchasima-province-offers-banana-farming-technology/" rel="bookmark">pak chong research station, nakhon ratchasima province offers banana farming technology</a></h2>        </header>
+
+        <div class="entry-summary">
+            <p>the pak chong research station, nakhon ratchasima province, offered a one-day training course free of charge for banana farmers, with the focus on tissue culture technology. there were two groups of farmers in attendance. the first group, consisting of 54 farmers, was trained on june 18th 2019. the second group, comprising 34 farmers, was instructed [&hellip;]</p>
+        </div>
+    </div>
+    <a class="author" href="https://www.sdgs.ku.ac.th/author/admin/"><img alt='' src='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/40f5ba68db17806696501326064c8191?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><div class="name"><h2>admin</h2><small>5 february 2020</small></div></a></article></div><div class="content-pagination"><span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://www.sdgs.ku.ac.th/category/ku-sdgs/page/2/">2</a>
+<a class="page-numbers" href="https://www.sdgs.ku.ac.th/category/ku-sdgs/page/3/">3</a>
+<a class="next page-numbers" href="https://www.sdgs.ku.ac.th/category/ku-sdgs/page/2/"><i class="si-angle-right"></i></a></div>
+            
+        </main>
+    </div>
+
+    </div>
+</div>
+<!--#content-->
+
+<style id="kt-blocks_444567-a0" type="text/css">#kt-layout-id_444567-a0 {}#kt-layout-id_444567-a0 > .kt-row-column-wrap {padding-top:40px;padding-bottom:40px;}</style>
+<div class="wp-block-kadence-rowlayout alignnone"><div id="kt-layout-id_444567-a0" class="kt-row-layout-inner kt-row-has-bg kt-layout-id_444567-a0 has-kb-palette-1-background-color"><div class="kt-row-column-wrap kt-has-3-columns kt-gutter-default kt-v-gutter-default kt-row-valign-middle kt-row-layout-left-half kt-tab-layout-inherit kt-m-colapse-left-to-right kt-mobile-layout-row">
+<div class="wp-block-kadence-column inner-column-1 kadence-column_ec9500-e9"><div class="kt-inside-inner-col">
+<h2 class="has-very-light-gray-color has-text-color -xl">kasetsart university</h2>
+
+
+
+<p class="has-text-color has-very-light-gray-color"><strong>50 ngamwongwan rd., lat yao, chatuchak, bangkok, thailand 10900</strong><br><strong>tel. +66 (0) 2942 8200 – 45</strong></p>
+
+
+
+<p style="font-size:12px" class="has-text-color has-very-light-gray-color">@ 2020 office of quality development and risk management</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-column inner-column-2 kadence-column_fe0e9b-49"><div class="kt-inside-inner-col">
+<div class="social-list"><ul><li><a href="http://www.sdgs.ku.ac.th/" target="_blank"><i class="si-facebook"></i> facebook</a></li>
+<li><a href="http://www.sdgs.ku.ac.th/" target="_blank"><i class="si-youtube"></i> youtube</a></li>
+<li><a href="http://www.sdgs.ku.ac.th/" target="_blank"><i class="si-twitter"></i> twitter</a></li>
+</ul></div>
+
+
+</div></div>
+
+
+
+<div class="wp-block-kadence-column inner-column-3 kadence-column_4991f1-2c"><div class="kt-inside-inner-col">
+<h2 class="has-very-light-gray-color has-text-color -xl">sustainability</h2>
+
+
+
+<div class="list-menu">
+<div class="menu-mnu-main-th-container"><ul id="primary-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-20"><a href="https://www.sdgs.ku.ac.th/">home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://www.sdgs.ku.ac.th/sdg-ku-way/">sdg ku way</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="https://www.sdgs.ku.ac.th/ku-case/">ku cases</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="https://www.sdgs.ku.ac.th/ku-sdgs/">ku sdgs</a></li>
+</ul></div></div>
+
+
+
+</div></div>
+</div></div></div>
+
+
+<!--<div class="site-footer-space"></div>
+<footer id="colophon" class="site-footer">
+    <div class="s-container">
+        <div class="site-info">
+            &copy;  . all rights reserved.
+        </div>
+    </div>
+</footer>-->
+
+</div>
+<!--#page-->
+
+
+<div class="s-modal-bg"></div>
+
+<link rel='stylesheet' id='kadence-blocks-rowlayout-css'  href='https://www.sdgs.ku.ac.th/wp-content/plugins/kadence-blocks/dist/blocks/row.style.build.css?ver=1.9.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.sdgs.ku.ac.th/wp-content/plugins/seed-social/seed-social.js?ver=2016-1'></script>
+<script type='text/javascript' src='https://www.sdgs.ku.ac.th/wp-content/themes/seed/js/flickity.pkgd.min.js?ver=2.2.1'></script>
+<script type='text/javascript' src='https://www.sdgs.ku.ac.th/wp-content/themes/seed/js/scripts.js?ver=1584526751'></script>
+<script type='text/javascript' src='https://www.sdgs.ku.ac.th/wp-content/themes/seed/js/main-vanilla.js?ver=1604499646'></script>
+<script type='text/javascript' src='https://www.sdgs.ku.ac.th/wp-content/themes/seed/js/fslightbox.js?ver=1603024986'></script>
+<script type='text/javascript' src='https://www.sdgs.ku.ac.th/wp-includes/js/wp-embed.min.js?ver=5.4.9'></script>
+</body>
+
+</html>

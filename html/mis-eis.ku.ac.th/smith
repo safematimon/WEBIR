@@ -1,0 +1,13 @@
+<!doctype html>
+<html xmlns:ng="" xmlns:tb="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=2, width=device-width, height=device-height, viewport-fit=cover">
+    <meta name="format-detection" content="telephone=no">
+  <meta name="vizportal-config" data-buildid="2021_3_107_cow6ir78cj" data-staticassetsurlprefix=""><link href="vendors-vizportal.css?b695ea10a9963a6ac6ed" rel="stylesheet"><link href="vizportal.css?b695ea10a9963a6ac6ed" rel="stylesheet"><script type="text/javascript" src="/javascripts/api/tableau-2.min.js?b695ea10a9963a6ac6ed"></script><script type="text/javascript" src="jquery.min.js?b695ea10a9963a6ac6ed"></script><script type="text/javascript" src="angular.min.js?b695ea10a9963a6ac6ed"></script><script type="text/javascript" src="angular-cookies.min.js?b695ea10a9963a6ac6ed"></script><script type="text/javascript" src="angular-sanitize.min.js?b695ea10a9963a6ac6ed"></script><script type="text/javascript" src="rsa.js?b695ea10a9963a6ac6ed"></script><script type="text/javascript" src="underscore-min.js?b695ea10a9963a6ac6ed"></script><script type="text/javascript" src="q.min.js?b695ea10a9963a6ac6ed"></script><script type="text/javascript" src="canvas-to-blob.min.js?b695ea10a9963a6ac6ed"></script><script type="text/javascript" src="js.cookie.js?b695ea10a9963a6ac6ed"></script><script type="text/javascript" src="mousetrap.js?b695ea10a9963a6ac6ed"></script><script type="text/javascript" src="core.min.js?b695ea10a9963a6ac6ed"></script><script type="text/javascript" src="vendors-vizportal.js?b695ea10a9963a6ac6ed"></script><script type="text/javascript" src="vizportal.js?b695ea10a9963a6ac6ed"></script></head>
+  <body class="tb-body">
+    <div class="tb-app" ng-app="vizportalrun" id="app-root">
+    </div>
+  </body>
+</html>

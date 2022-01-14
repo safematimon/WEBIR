@@ -1,0 +1,179 @@
+<!doctype html>
+<!--
+	hielo by templated
+	templated.co @templatedco
+	released for free under the creative commons attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>สารสนเทศ มหาวิทยาลัยเกษตรศาสตร์ สำหรับผู้บริหาร</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+	
+
+		<!-- nav -->
+			<nav id="menu">
+				<ul class="links">
+					<li><a href="index.html">home</a></li>
+					<li><a href="generic.html">generic</a></li>
+					<li><a href="elements.html">elements</a></li>
+				</ul>
+			</nav>
+
+		<!-- banner -->
+			<section class="banner">
+				<article>
+					<img src="images/ku.jpg" alt="" />
+					<div class="inner">
+						<header>
+							<font size="+3">ระบบสารสนเทศ มหาวิทยาลัยเกษตรศาสตร์ สำหรับผู้บริหาร</font>
+							
+						</header>
+					</div>
+				</article>
+				
+			
+			
+			</section>
+
+		<!-- one -->
+		
+
+    	
+    			<footer class="align-right">
+	    	
+		    	<a href="https://drive.google.com/drive/folders/1lqsaiypfxlzeb4rko3tg5htfc9tpsko_?usp=sharing" class="button alt"><img src="images/icon-book.png" width="20"> ดาวน์โหลดเอกสาร/คู่มือ</a>
+																			
+		</footer>
+		
+			
+		
+			<section id="one" class="wrapper style2">
+				<div class="inner">
+					<div class="grid-style">
+
+						<div>
+							<div class="box">
+								<div class="image fit">
+									<!-- <a href="https://midas.ku.ac.th/reports">  --><img src="images/pic02.jpg" alt="" /> <!--</a>  -->
+								</div>
+											
+								
+								
+									<div class="content">
+									<header class="align-center">
+										<p>midas.ku.ac.th/reports</p>
+										<h2>ระบบบูรณาการข้อมูล</h2>
+									</header>
+									<p>
+
+ระบบบูรณาการข้อมูล (ku integrated data) มีวัตถุประสงค์สำหรับจัดเก็บข้อมูลเชิงบูรณาการ 4 ด้านคือ การบริหารการเงิน การบริหารการศึกษา การบริหารทรัพยากรบุคคล และการบริหารงานวิจัย เพื่อให้ตอบสนองความต้องการในการปฏิบัติงานของหน่วยงานที่เกี่ยวข้อง สามารถใช้งานได้พร้อม ๆ กันผ่านทางเครือข่ายคอมพิวเตอร์ ทำให้สะดวกในการดูแลระบบและควบคุมคุณภาพข้อมูล อีกทั้งยังอำนวยความสะดวกแก่บุคลากรในการผลิตสารสนเทศเพื่อการบริหารอย่างมีคุณภาพ ลดภาระการปฏิบัติงานซ้ำซ้อน ทั้งนี้ระบบบูรณาการข้อมูลสามารถเข้าใช้งานได้ที่ midas.ku.ac.th/reports [m-management i-information d-data a-access s-services]</p>
+									<footer class="align-center">
+									<!--	<a href="https://midas.ku.ac.th/reports" class="button alt">เข้าสู่ระบบ</a>  -->
+										
+									<a href="https://bit.ly/2q21y34" class="button alt" target="_blank">เรียกดูรายงาน (@ku.th)
+								 </a>  
+									
+									<a href="https://midas.ku.ac.th/reports/report" class="button alt" target="_blank">เข้าสู่ระบบ
+									 (@ku.ac.th) </a><p></p>
+										
+										<a href="https://bit.ly/ku-mis" class="button alt" target="_blank">แบบฟอร์มแจ้งรายชื่อเพื่อขออนุญาตสิทธิ์ใช้งาน ระบบบูรณาการข้อมูล มก.</a>	<p></p><p></p>
+									</footer>
+								</div>
+							</div>
+						</div>
+
+						<div>
+							<div class="box">
+								<div class="image fit">
+									<img src="images/pic03.jpg" alt="" />
+								</div>
+								<div class="content">
+									<header class="align-center">
+										<p>mis-eis.ku.ac.th</p>
+										<h2>ระบบสารสนเทศเพื่อการบริหารจัดการ</h2>
+									</header>
+									<p> ระบบสารสนเทศเพื่อการบริหารจัดการ (mis/eis) เป็นระบบที่ประมวลผลข้อมูลจากฐานข้อมูลบูรณาการ เพื่อผลิตสารสนเทศสำหรับผู้บริหาร รูปแบบ dashboard ทำให้ผู้บริหารสามารถตัดสินใจได้รวดเร็วและถูกต้องมากขึ้น อีกทั้งผู้บริหารยังสามารถติดตามสถานะข้อมูลด้านต่างๆ เพื่อนำมาใช้ในการกำหนดนโยบาย และขับเคลื่อนมหาวิทยาลัยได้อย่างมีประสิทธิภาพ</p>
+									<footer class="align-center">
+									<a href="https://www.ku.ac.th/kumis/login/" class="button alt" target="_blank">ลงทะเบียน</a> 	<a href="https://mis-eis.ku.ac.th" class="button alt" target="_blank">เข้าสู่ระบบ</a>
+										
+										<p></p>
+										
+									<a href="https://docs.google.com/forms/d/e/1faipqlsdbossnfchoptgytahqmdxqzuyb0_4ccefm6eopiyfaenifca/viewform" class="button alt" target="_blank">แบบฟอร์มแจ้งข้อเสนอแนะและปัญหาระบบ mis/eis</a>	<p></p><p></p>
+									</footer>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</section>
+<!--
+	
+			<section id="one" class="wrapper style2">
+				<div class="inner">
+					<header class="align-center">
+						<h2>แบบสำรวจความคิดเห็น dashboard โครงการพัฒนาระบบสารสนเทศเพื่อการบริหาร mis ระยะที่ 2</h2>
+						
+					</header>
+					<div class="gallery">
+						<div>
+							<div class="image \-10u">
+							<a href="https://docs.google.com/forms/d/e/1faipqlsdwhf5waltvenqnbpwt3bpo5gnighxkp_8v2xh6npjs3jebgq/viewform">    <strong>ด้านการบริการวิชาการ </strong> <img src="images/qr-service.png" alt="" /></a>
+							</div>
+						</div>
+						<div>
+							<div class="image \-10u">
+							<a href="https://docs.google.com/forms/d/e/1faipqlscvhplmddhbqpsywa4tbj52u3ebb8hiumviqvrz0rfumsctja/viewform"><strong>ด้านกิจกรรมนิสิต</strong>
+								<img src="images/qr-nisit.png" alt="" /></a>
+							</div>
+						</div>
+						<div>
+							<div class="image \-10u">
+							  <a href="https://docs.google.com/forms/d/e/1faipqlsdnrd-1cu7ildxsloqwsx-fmhgfld8_kuszlwm1c8p9bujuqw/viewform"> <strong> ด้านอาคารสถานที่ </strong> <img src="images/qr-place.png" alt="" /></a>
+							</div>
+						</div>
+						<div>
+
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- two -->
+			<section id="two" class="wrapper style3">
+				<div class="inner">
+					<header class="align-center">
+						<p>ระบบสนับสนุนงานให้บริการสารสนเทศ </p>
+						<h2><font color="#ffffff"> <a href="https://itsupport.ku.ac.th" target="_blank"><font color="#ffffff">แจ้งปัญหาการใช้ระบบได้ที่ itsupport.ku.ac.th </font></a></h2>
+					</header>
+				</div>
+			</section>
+		<!-- footer  
+			<footer id="footer">
+				<div class="container">
+					<ul class="icons">
+						<li><a href="#" class="icon fa-twitter"><span class="label">twitter</span></a></li>
+						<li><a href="#" class="icon fa-facebook"><span class="label">facebook</span></a></li>
+						<li><a href="#" class="icon fa-instagram"><span class="label">instagram</span></a></li>
+						<li><a href="#" class="icon fa-envelope-o"><span class="label">email</span></a></li>
+					</ul>
+				</div>
+				<div class="copyright">
+					&copy; untitled. all rights reserved.
+				</div>
+			</footer>
+
+		<!-- scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

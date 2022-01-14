@@ -1,0 +1,719 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="favicon.ico">
+<meta name="description" content="สำนักส่งเสริมและฝึกอบรม มหาวิทยาลัยเกษตรศาสตร์, welcome to extension and training office, kasetsart university,นำความรู้สู่สังคม เพื่อให้เกิดการพัฒนาและพึ่งพาตนเองได้อย่างยั่งยืน, ผู้นำบริการวิชาการระดับชาติและนานาชาติ เพื่อพัฒนาทรัพยากรมนุษย์สู่ความยั่งยืน"/>
+<meta name="keywords" content="มหาวิทยาลัย ,มก. ,มหาลัย ,วิทยบริการ ,ม , เกษตร, เกษตรศาสตร์, มหาวิทยาลัยเกษตร, ม.เกษตร, ม.เกษตรศาสตร์, ม.เกษตรฯ, นนทรี, สำนักส่งเสริม, kasetsart university, kasetsart, university, ku, เครือข่ายนนทรี, มหาวิทยาลัยเกษตรศาสตร์, มหาวิทยาลัย เกษตรศาสตร์, มหาวิทยาลัยเกษตร , เกษตรศาสตร์, ม.เกษตรศาสตร์, ม. เกษตรศาสตร์, ม.เกษตร, ม. เกษตร, เกษตร, บางเขน, ส่งเสริม, ฝึกอบรม, อบรม, สัมมนา,  หลักสูตร, หลักสูตรอบรม, หลักสูตรฝึกอบรม, ห้องอบรม, ห้องฝึกอบรม, ห้องสัมมนา,  อบรม, อบรมวิชาชีพ, อบรมวิชาการ, พัฒนาบุคลากร,  สื่อดิจิทัล, ผลิตสื่อดิจิทัล, อาชีพ, ซีดี, วีซีดี,  ดีวีดี, วิดีโอซีดี, สื่อวีดิทัศน์, สำเนาซีดี, สำเนาดีวีดี, สกรีนซีดี, โทรทัศน์, ถ่ายทอดวงจรปิด, สตูดิโอ, ห้องสตูดิโอ, ตัดต่อวิดีโอ, เครื่องเสียง, ห้องบันทึกเสียง, ตัดต่อเสียง, ถ่ายทอดเสียง, อัดเสียง, แปลงเสียง,  แปลงสื่อ, แปลงวิดีโอ, ศูนย์ข้อมูล, การเกษตร, เอกสารเผยแพร่, เรียน, ทำอาหาร, เเอกสารสิ่งพิมพ์, ตัดสติ๊กเกอร์, ตัดตัวอักษร, พิมพ์โปสเตอร์, จัดนิทรรศการ, eto, service, one stop service, extension, train ,trainer, training, consult, consultant, public training, in-house training, seminar, production media, media, digital, digital media,  graphic, digital video, vdo, video - cd, cd, dvd, stamper, duplicate, screen, offset, tv, studio,  audio, sound, sound recording, sound editing, recording room, printing, printing  shop, artwork,  plotter, sticker, logo, back drop, exhibition, electronic book, pdf, photo, digital photo, photographer, scanner, research university ,center of excellence ,ku , kasetsart university, kasetsart, university, kasetsart u"/>
+<meta name="robots" content="all" />
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">				   
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/timeline.css">
+<!--    <link href="https://fonts.googleapis.com/css?family=mali:400,500|sarabun" rel="stylesheet">-->
+    <link href="https://fonts.googleapis.com/css?family=kanit|mitr|pattaya|trirong:400,700&display=swap" rel="stylesheet">
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<title>สำนักส่งเสริมและฝึกอบรม มหาวิทยาลัยเกษตรศาสตร์ (ku eto)</title>
+</head>
+<script>
+	$(document).ready(function(){
+		$("#servey").modal('show');
+	});
+</script>
+<style>
+	body{
+		font-family: 'mitr', sans-serif;
+		font-size: 18px;
+		color: #006c67;
+		background-color: #fefef4;
+		background-image: url("images/vitthaya.svg");
+		background-repeat: no-repeat;
+  		background-attachment: fixed;
+  		background-position: center bottom;
+	}
+	a {
+		color: #006c67;
+	}
+	a:hover {
+		color: #b1bb1e;
+	}
+	.container{
+		
+	}
+	
+</style>
+
+<body>
+<div class="container-fluid-content">
+<div class="container pt2">
+<!--<div class="row text-center" >-->
+ <div class="col-sm-12" align="center">
+ 	<img src="images/ku.jpg" width="80" class="img-responsive" alt=""/>
+ </div>
+<!--</div>-->
+<!--<div class="row text-center" >-->
+ <div class="col-sm-12 pt2 pb2" align="center">
+ 	<img src="images/home_banner.jpg" alt="" width="600" height="228"  class="img-responsive"/>
+ </div>	
+<!--</div>-->
+<!--<div class="row text-center" >-->
+ <div class="col-sm-6" align="center">
+ 	<div class="row text-center" >
+ 		<div class="col-xs-6 " align="center">
+			<a  data-toggle="modal" href="#service1">
+			<img src="images/training.svg" width="80" class="img-responsive" alt="training"/><p>อบรม</p>
+			</a>
+ 		</div>
+	  	<div class="col-xs-6 " align="center">
+			<a  data-toggle="modal" href="#service3">
+			<img src="images/media.svg" width="80" class="img-responsive" alt="media"/><p>ผลิตและบริการสื่อ</p>
+			</a>
+		</div>
+ 	</div>
+ </div>	
+ <div class="col-sm-6" align="center">
+ 	<div class="row text-center" >
+ 		<div class="col-xs-6 " align="center"><a  data-toggle="modal" href="#service4">
+ 			<img src="images/kuc.svg" width="80" class="img-responsive" alt="training"/><p>เช่าห้องประชุม</p></a>
+ 		</div>
+	  	<div class="col-xs-6 " align="center"><a data-toggle="modal" href="#service2">
+			<img src="images/knowledge.svg" width="80" class="img-responsive" alt="media"/><p>ความรู้ด้านการเกษตร</p></a>
+		</div>
+ 	</div>
+ </div>
+<div class="col-sm-12 text-center mt2">
+<!-- <hr class="hr-styles7" />-->
+  <a href="home.php"><img src="images/enter site.png" width="160" alt=""/></a>
+</div>
+
+</div>
+</div>
+<!-- <link href="css/styles.css" rel="stylesheet" type="text/css">-->
+<link href="vendor/font-awesome/css/all.css" rel="stylesheet" type="text/css">
+<!-- trigger the modal with a button -->
+<!--<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#mymodal">open modal</button>-->
+
+<!-- modal -->
+<div id="background" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">1. ประวัติสำนักส่งเสริมและฝึกอบรม</h4>
+      </div>
+      <div class="modal-body text-left">
+        <p style="">
+<img src="images/eto_background.png" width="100%" alt="vittaya "/>
+<p style="text-indent: 30px;">มหาวิทยาลัยเกษตรศาสตร์ได้รับการสถาปนาเมื่อปี พ.ศ. 2486 ทำหน้าที่ในการจัดการศึกษาระดับอุดมศึกษา โดยหน้าที่การให้บริการทางวิชาการแก่สังคม เป็นภารกิจหนึ่งของมหาวิทยาลัยฯ ที่มีความสำคัญ ทั้งนี้ เพราะมหาวิทยาลัยฯ เป็นแหล่งความรู้ที่สำคัญในการพัฒนาประเทศสมควรที่จะเผยแพร่ความรู้เหล่านั้นสู่ประชาชน สู่สังคม ให้เกิดประโยชน์ในการดำรงชีพ การเผยแพร่ความรู้สู่ประชาชนได้ทำกันในหลายรูปแบบต่อเนื่องกันมาโดยตลอด แต่ก็ยังไม่มีหน่วยงานใดที่ทำหน้าที่รับผิดชอบโดยตรง ดังนั้น ในปี พ.ศ. 2502 มหาวิทยาลัยฯ จึงได้เริ่มจัดตั้งหน่วยงานภายใน (สำนักส่งเสริมและเผยแพร่การเกษตร) ขึ้นมารับผิดชอบงานด้านนี้ จนกระทั่งวันที่ 21 สิงหาคม พ.ศ. 2513 จึงมีประกาศสำนักนายกรัฐมนตรี จัดตั้งสำนักส่งเสริมและฝึกอบรม เป็นหน่วยงานเทียบเท่าคณะ เพื่อทำหน้าที่เป็นหน่วยงานที่ให้บริการวิชาการแก่สังคม สำนัก-ส่งเสริมและฝึกอบรม ได้พัฒนากิจกรรมด้านการบริการวิชาการให้เจริญก้าวหน้ามาโดยตลอดเพื่อขยายงานด้านการบริการวิชาการแก่สังคมให้กว้างขวางขึ้นต่อไป</p>
+<p style="text-indent: 30px;">ในปี พ.ศ. 2520-2524 รัฐบาลไทยได้รับความช่วยเหลือจากรัฐบาลญี่ปุ่นในการพัฒนามหาวิทยาลัยเกษตรศาสตร์ และได้ก่อตั้งหน่วยงานของสำนักส่งเสริมและฝึกอบรม ที่วิทยาเขตกำแพงแสน ให้ชื่อว่า ศูนย์ส่งเสริมและฝึกอบรมการเกษตรแห่งชาติ ตั้งอยู่บนพื้นที่ประมาณ 60 ไร่ ประกอบด้วย อาคารบริหาร อาคารสื่อการศึกษา อาคารโรงพิมพ์อาคารฝึกอบรม อาคารโรงอาหาร และอาคารหอพัก (จำนวน 4 หลัง) ที่สามารถให้บริการอย่างครบวงจรและเบ็ดเสร็จในตัวเอง ทำให้งานบริการวิชาการของสำนักส่งเสริมและฝึกอบรม และมหาวิทยาลัยเกษตรศาสตร์เป็นที่รู้จักแพร่หลายและเจริญรุดหน้าไปอย่างรวดเร็ว ทั้งภายในและต่างประเทศ</p>
+<p style="text-indent: 30px;">ในปี พ.ศ. 2541 มหาวิทยาลัยเกษตรศาสตร์ ได้มอบอาคาร 2 ชั้น (อาคารกำพลอดุลวิทย์) ให้สำนักส่งเสริมและฝึกอบรม (วิทยาเขตบางเขน) อีกหนึ่งหลัง มีพื้นที่ทำการประมาณ 1,000 ตารางเมตร สำนักส่งเสริมและฝึกอบรม ได้ปรับปรุงให้เป็นห้องสำหรับการฝึกอบรมวิชาชีพแก่ประชาชน จำนวน 9 ห้อง ทำให้แก้ปัญหาการขาดแคลนสถานที่ฝึกอบรมได้ระดับหนึ่ง และในปี พ.ศ.2551 สำนักส่งเสริมและฝึกอบรมได้ส่งมอบอาคารกำพล อดุลวิทย์ คืนให้มหาวิทยาลัยเกษตรศาสตร์ ตามบันทึกที่ ศธ.0513.13401/2427 ลงวันที่ 28 สิงหาคม 2551</p>
+<p style="text-indent: 30px;">ในปี พ.ศ. 2542 มหาวิทยาลัยเกษตรศาสตร์ ได้มอบพื้นที่ทำการให้กับสำนักส่งเสริมและฝึกอบรม เพิ่มเติม คือ อาคารวิทยบริการ (ชั้นที่ 4-7) มีพื้นที่ทำการทั้งสิ้น 6,122 ตารางเมตร ประกอบด้วย ห้องฝึกอบรม ขนาดความจุ 20-150 คน จำนวน 20 ห้อง และห้องประชุมขนาดความจุ 300 คน จำนวน 1 ห้อง ทำให้สามารถแก้ไขปัญหาเรื่องห้องฝึกอบรมได้พอสมควร และต่อมาในปี พ.ศ. 2549 มหาวิทยาลัยเกษตรศาสตร์ ได้มีคำสั่งที่ 3573/2549 ลงวันที่ 13 พฤศจิกายน พ.ศ. 2549 มอบหมายให้สำนักส่งเสริมและฝึกอบรม เป็นผู้ดูแลรับผิดชอบบริหารจัดการอาคารวิทยบริการ</p>
+<p style="text-indent: 30px;">ในปี พ.ศ. 2548 มหาวิทยาลัยเกษตรศาสตร์ ได้มีประกาศสภามหาวิทยาลัย-เกษตรศาสตร์ เรื่อง การจัดตั้งสำนักส่งเสริมและฝึกอบรม กำแพงแสน โดยสภามหาวิทยาลัย-เกษตรศาสตร์ ได้อนุมัติ ในการประชุมครั้งที่ 4/2548 เมื่อวันที่ 18 เมษายน พ.ศ. 2548 จัดตั้งให้ สำนักส่งเสริมและฝึกอบรม กำแพงแสน เป็นหน่วยงานภายในที่มีสถานภาพเทียบเท่าคณะ ดังนั้น สำนักส่งเสริมและฝึกอบรม กำแพงแสน จึงไม่อยู่ภายใต้การบริหารของสำนักส่งเสริมและฝึกอบรม</p>
+<p style="text-indent: 30px;">สำนักส่งเสริมและฝึกอบรม ได้ตระหนักถึงความสำคัญของการเผยแพร่วิชาความรู้สู่สังคมและประชาชน และทำหน้าที่รับผิดชอบภารกิจอันสำคัญนี้มาตลอดโดยได้พัฒนาปรับปรุงกระบวนการตลอดจนเทคนิควิธีการที่จะก่อให้เกิดประโยชน์ต่อประชาชนมาโดยลำดับ จนได้รับประกาศเกียรติคุณ รางวัลหน่วยงานดีเด่นของชาติ สาขาการพัฒนาสังคม (ด้านการศึกษา) ประจำปี พุทธศักราช 2532 จากคณะกรรมการเอกลักษณ์ของชาติ สำนักนายกรัฐมนตรี และในปี พ.ศ. 2545 ได้รับ รางวัลกิตติคุณสัมพันธ์ “สังข์เงิน” จากสมาคมนักประชาสัมพันธ์แห่งประเทศไทย</p>
+<p style="text-indent: 30px;">จากการพัฒนางานของสำนักส่งเสริมและฝึกอบรม มาอย่างต่อเนื่อง ในปี พ.ศ. 2547 ได้มีการพิจารณาจัดทำแผนแม่บทการพัฒนาสำนักส่งเสริมฯมีการปรับโครงสร้างการบริหารงานภายในสำนักส่งเสริมฯ ให้สอดคล้องกับลักษณะงาน การขยายงานและสภาวการณ์ที่เปลี่ยนไปของสังคม โดยกำหนดโครงสร้างการบริหารงานจาก 6 ฝ่าย เป็น 8 ฝ่าย ในทั้ง 2 วิทยาเขต ซึ่งได้มีการเปลี่ยนแปลงชื่อฝ่ายให้เหมาะสมยิ่งขึ้น เช่น ฝ่ายวิเคราะห์โครงการและหลักสูตรการฝึกอบรม ปรับเปลี่ยนเป็นฝ่ายวิจัยและพัฒนา รวมทั้งการตั้งฝ่ายเพิ่มขึ้น 2 ฝ่าย คือ ฝ่ายการศึกษา และฝ่ายสื่อสารการตลาด และกำหนดให้ฝ่ายต่างๆ ทดลองปฏิบัติตามโครงสร้างใหม่ นี้เป็น เวลา 1 ปี เพื่อศึกษาความเหมาะสมและความเป็นไปได้ในทางปฏิบัติ ก่อนที่จะนำเสนอสภามหาวิทยาลัยฯพิจารณาต่อไป</p>
+<p style="text-indent: 30px;">ในช่วงระยะเวลาดังกล่าว สำนักส่งเสริมและฝึกอบรม ได้เสนอให้มหาวิทยาลัยเกษตรศาสตร์ พิจารณายกฐานะศูนย์ส่งเสริมและฝึกอบรมการเกษตรแห่งชาติเป็น หน่วยงานใหม่ มีฐานะเทียบเท่าคณะ โดยมีการกำหนดโครงสร้างการบริหารงาน 8 ฝ่ายซึ่งมหาวิทยาลัยฯ ได้พิจารณาเห็นชอบและกำหนดชื่อเป็น “สำนักส่งเสริมและฝึกอบรม กำแพงแสน” โดยได้รับอนุมัติจาก สภามหาวิทยาลัยเกษตรศาสตร์ เมื่อวันที่ 22 เมษายน พ.ศ. 2548</p>
+<p style="text-indent: 30px;">หลังจากนั้น สำนักส่งเสริมและฝึกอบรม ได้ทบทวนโครงสร้างองค์กรภายในใหม่อีกครั้ง โดยกำหนดให้มี 6 ฝ่าย และให้งานส่งเสริมเผยแพร่ แยกออกจากฝ่ายฝึกอบรม จัดตั้งเป็นฝ่ายส่งเสริมและเผยแพร่ โดยมีภารกิจครอบคลุมถึงการส่งเสริมการตลาด ดังผังโครงสร้างสำนักส่งเสริมและฝึกอบรม</p>
+<p style="text-indent: 30px;">ปลายปี พ.ศ. 2548 ได้มีการย้ายสถานที่ทำการบางฝ่าย ได้แก่ ฝ่ายบริหารและธุรการทั่วไป และฝ่ายวิเคราะห์โครงการและหลักสูตรการฝึกอบรม จากอาคารเดิมมาอยู่ที่อาคารวิทยบริการ เพื่อความสะดวกในการบริหารจัดการด้านอาคาร และเพื่อขยายพื้นที่ทำงานเดิม ให้แก่ฝ่ายพัฒนาสื่อการส่งเสริม และฝ่ายโรงพิมพ์<br>
+  ปลายปี พ.ศ. 2552 ฝ่ายพัฒนาสื่อการส่งเสริม และฝ่ายโรงพิมพ์ ได้ย้ายสถานที่ทำงานจากอาคารเดิม (ตึก พนม สมิตานนท์) มาอยู่ที่ อาคารวิทยบริการ เพื่อสะดวกในการบริหารจัดการและการให้บริการวิชาการที่ครบวงจร ของสำนักส่งเสริมและฝึกอบรม</p>
+
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qp3cepnrkss"></iframe>
+  </div></p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">ปิด</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div id="organizational" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">2. โครงสร้างองค์กร</h4>
+      </div>
+      <div class="modal-body text-left">
+        <p style=""><img src="images/org_eto.png" width="100%" alt="organizational eto"/>
+<p style="text-indent: 30px;">สำนักส่งเสริมและฝึกอบรม  มีการบริหารงานตามสายการบังคับบัญชาในลักษณะที่เป็นแนวดิ่ง  และแนวราบประกอบกับโดยได้กำหนดมีการมอบหมายนโยบาย และตัวชี้วัด  จากระดับผู้อำนวยการ สู่รองผู้อำนวยการ หัวหน้าฝ่าย และหัวหน้างาน ขณะเดียวกันผู้ปฏิบัติงานก็สามารถสะท้อนปัญหาอุปสรรค  ตลอดจนข้อเสนอแนะกลับขึ้นไปสู่ผู้บังคับบัญชาตามลำดับได้โดยผ่านกระบวนการประชุมและการสื่อสารออนไลน์  เป็นต้น ขณะเดียวกันในการบริหารจัดการโครงการต่าง ๆ  ผู้อำนวยการได้มอบนโยบายการทำงานรวมกันในลักษณะ project mode  ซึ่งเป็นการบูรณาการการทำงานร่วมกันในระหว่างฝ่าย  เพื่อให้เกิดประสิทธิภาพและความคล่องตัวในการปฏิบัติงาน แบ่งการทำงานออกเป็น 6  ฝ่าย ดังนี้</p>
+<ol>
+	<li><strong>สำนักงานเลขานุการ</strong> มีหน้าที่รับผิดชอบด้านการบริหารจัดการทรัพยากรของหน่วยงานให้เป็นไปอย่างมีประสิทธิผลเกิดประสิทธิภาพ  รวมทั้งการอำนวยการเพื่อสนับสนุนการปฏิบัติงานตามภารกิจของหน่วยงานเพื่อให้บรรลุผลสำเร็จตามเป้าหมายที่หน่วยงานกำหนดไว้  อย่างถูกต้องภายใต้กฎระเบียบ ข้อบังคับ</li>
+	<li><strong>ฝ่ายพัฒนาสื่อการส่งเสริม</strong> มีหน้าที่รับผิดชอบผลิตและพัฒนาสื่อ บริการผลิตสื่อ  บริการวิชาการด้านสื่อ  เผยแพร่ความรู้ผ่านสื่อต่าง ๆ ได้แก่  วีดิทัศน์   มัลติมีเดีย  ภาพนิ่ง  กราฟิก   วิทยุกระจายเสียงและอินเทอร์เน็ต   เพื่อสนับสนุนการเรียนการสอน   การฝึกอบรม  การส่งเสริมเผยแพร่ความรู้สู่ประชาชน   การประชุมสัมมนาและกิจกรรม พิธีการต่างๆ  ของมหาวิทยาลัย</li>
+	<li><strong>ฝ่ายวิเคราะห์โครงการและหลักสูตรการฝึกอบรม</strong> มีหน้ารับผิดชอบในการจัดทำฐานข้อมูลเชิงวิชาการทีเกี่ยวข้องกับศาสตร์แห่งแผ่นดิน วิเคราะห์ สังเคราะห์องค์ความรู้ของมหาวิทยาลัย ให้ตรงกับความต้องการของผู้รับบริการ วิจัยและพัฒนาหลักสูตรฝึกอบรม รูปแบบถ่ายทอดความรู้ กระบวนการเรียนรู้   ติดตามและประเมินผลการนำความรู้ไปใช้ประโยชน์</li>
+	<li><strong>ฝ่ายฝึกอบรม</strong> มีหน้าที่รับผิดชอบในการให้บริการฝึกอบรมเพื่อพัฒนาสมรรถนะให้กับประชาชนและบุคลากรภาครัฐและเอกชนให้มีความรู้  ความสามารถในการประกอบอาชีพได้ดียิ่งขึ้น  รวมทั้งการบริการให้คำปรึกษาด้านการฝึกอบรม  การวางแผนและพัฒนาการฝึกอบรมอย่างเป็นระบบให้กับองค์กรภาครัฐและเอกชน 
+	<li><strong>ฝ่ายโรงพิมพ์</strong> มีหน้าที่รับผิดชอบ ผลิต และพัฒนาสื่อสิ่งพิมพ์ให้มีประสิทธิภาพทันสมัย  เพื่อสนับสนุนงานด้านการเรียนการสอน และงานบริการวิชาการของมหาวิทยาลัยเกษตรศาสตร์  ถ่ายทอดความรู้ ให้คำแนะนำ และปรึกษาด้านสื่อสิ่งพิมพ์ </li>
+	</li>
+	<li><strong>ฝ่ายส่งเสริมและเผยแพร่</strong> มีหน้าที่รับผิดชอบในการนำความรู้ นวัตกรรม  รวมทั้งผลงานทางวิชาการผ่านกระบวนการการศึกษาความต้องการและการมีส่วนร่วมของกลุ่มเป้าหมายเพื่อถ่ายทอดสู่ชุมชนและสังคมด้วยรูปแบบของการการศึกษานอกระบบ  ทั้งการฝึกอบรม การสาธิต รวมทั้งการส่งเสริมความรู้และเผยแพร่ความรู้ผ่านสื่อต่างๆ  โดยมุ่งเน้นให้ชุมชนและสังคมเกิดความเข้มแข็งและพึ่งพาตนเองได้อย่างยั่งยืน</li>
+</ol>
+ </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">ปิด</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<div id="vision" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-lg">
+
+    <!-- modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">3. ปรัชญา วิสัยทัศน์ พันธกิจ และค่านิยม</h4>
+      </div>
+      <div class="modal-body text-left">
+        <p style=""><ul>
+<!--  <li><u>ปรัชญา</u> นำความรู้สู่สังคม เพื่อให้เกิดการพัฒนาและพึ่งพาตนเองได้อย่างยั่งยืน</li>-->
+  <li><u>วิสัยทัศน์</u>
+    <h3>&ldquo;องค์กรผู้นำศาสตร์แผ่นดิน เพื่อการเรียนรู้ตลอดชีวิต" </h3>
+  </li>
+  <li><u>พันธกิจ</u>
+      <h3>&ldquo;ส่งเสริมและเผยแพร่ความรู้ในรูปแบบที่หลากหลาย สามารถนำความรู้และประสบการณ์ไปใช้ได้จริง" </h3>
+<!--
+  	<ol>
+  		<li>ส่งเสริมและเผยแพร่ความรู้ให้แก่องค์กรภาครัฐและภาคเอกชน ประชาชน และนานาชาติ ให้สามารถนำความรู้และประสบการณ์ไปใช้ได้จริง</li>
+  		<li>ผลิต พัฒนาและให้บริการวิชาการด้านสื่อรูปแบบต่าง ๆ โดยเฉพาะสื่อทางด้านวิทยุ กระจายเสียง และวีดิทัศน์ อย่างมีคุณภาพและสอดคล้องตามความต้องการ</li>
+  		<li>วิจัยและพัฒนาระบบการส่งเสริมให้มีคุณภาพ เหมาะสมกับสถานการณ์ที่เปลี่ยน แปลงอยู่เสมอ</li>
+  		<li>สร้างและพัฒนาเครือข่ายการให้บริการวิชาการทั้งในและต่างประเทศ รวมทั้งสร้างเครือข่าย สื่อมวลชนสัมพันธ์เพื่อการประชาสัมพันธ์และการตลาด</li>
+  		<li>สร้างและพัฒนาบุคลากรให้มีความรู้ ทักษะ เจตคติ ต่องานให้บริการวิชาการระดับมืออาชีพ</li>
+  		<li>พัฒนาระบบบริหารและการจัดการทรัพยากรต่าง ๆ ทั้งด้านแผนงาน แผนงบประมาณ แผนบุคลากร อาคารสถานที่ สื่อ โสตทัศนูปกรณ์ และอุปกรณ์ต่าง ๆ เพื่อรองรับการ ให้บริการวิชาการอย่างมีประสิทธิผล และเกิดประสิทธิภาพสูงสุด</li>
+  	</ol>
+-->
+  </li>
+  <li><u>สมรรถนะหลัก</u>
+  	<ol>
+  		<li>การมุ่งเน้นความสำเร็จ</li>
+  		<li>ความเป็นเลิศที่มุ่งเน้นผู้รับบริการ</li>
+  		<li>การเรียนรู้ระดับส่วนงานและความคล่องตัว</li>
+  	</ol>
+  </li>
+  <li><u>ค่านิยม</u>
+  	<ul>
+  		<li>s - social responsibility</li>
+  		<li>e - engagement</li>
+  		<li>r - relationship</li>
+  		<li>v - voice</li>
+  		<li>i - integrity</li>
+  		<li>c - change management</li>
+  		<li>e - efficiency</li>
+  	</ul>
+  </li>
+  <li><u>วัฒนธรรมองค์กร eto live</u>
+  	<ul>
+  		<li>e - engagement to excellence</li>
+  		<li>t - teamwork & transparency</li>
+  		<li>o - outstanding & openness</li>
+  	</ul>
+  	
+  </li>
+</ul>
+</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">ปิด</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div id="board" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title"><i class="glyphicon glyphicon-user"></i> คณะกรรมการประจำสำนักส่งเสริมและฝึกอบรม</h4>
+      </div>
+      <div class="modal-body text-left">
+        <p style=""><!--<div class="container-fluid-content">-->
+  <ol>
+    <li>
+    ผู้ช่วยศาสตราจารย์ ดร.กัมปนาท  เพ็ญสุภา			   กรรมการ</li>
+    <li>รองศาสตราจารย์ ดร.สุตเขตต์  นาคะเสถียร			   กรรมการ</li>
+    <li>รองศาสตราจารย์ ดร.ลิลลี่  กาวีต๊ะ 	 		   กรรมการ</li>
+    <li>  รองศาสตราจารย์วัฒนา  สวรรยาธิปัติ			   กรรมการ</li>
+    <li>ผู้ช่วยศาสตราจารย์อนุพร   สุวรรณวาจกกสิกิจ		   กรรมการ</li>
+    <li>รองศาสตราจารย์ ดร.พัฒนา  สุขประเสริฐ			   กรรมการ</li>
+    <li>ผู้ช่วยศาสตราจารย์ ดร.วราภา  มหากาญจนกุล	   	   กรรมการ</li>
+    <li>ดร.โชคชัย  เอกทัศนาวรรณ				   กรรมการ</li>
+    <li>รองศาสตราจารย์ ดร.ธนรัตน์  แต้วัฒนา			   กรรมการ</li>
+    <li>นางสาวยุพวัลย์  ทองใบอ่อน 		   	 	   กรรมการ</li>
+    <li>นางพงศ์พงา   เนตรหาญ		   	   		   กรรมการ</li>
+    <li>นางรำไพ  ภูวราห์			  		   กรรมการ</li>
+    <li>นายวิเชียร  คดพิมพ์					   กรรมการ</li>
+    <li>นายวรวีร์  รายา				   	   กรรมการ
+      
+      
+  <!--
+<div class="row text-center">
+	<div class="col-xs-4"><img src="images/directors/001.png" class="img-thumbnail"><p>ผู้อำนวยการ<br />สำนักส่งเสริมและฝึกอบรม</p></div>
+	<div class="col-xs-4"><img src="images/directors/002.png" class="img-thumbnail"><p>ผศ.ดร.กัมปนาท  เพ็ญสุภา<br />กรรมการ</p></div>
+	<div class="col-xs-4"><img src="images/directors/003.png" class="img-thumbnail"><p>รศ.ดร.ศศิวิมล  มีอำพล<br />กรรมการ</p></div>
+</div>
+<div class="row text-center">
+	<div class="col-xs-4"><img src="images/directors/004.png" class="img-thumbnail"><p>รศ.ดร.ธงชัย  สุวรรณสิชณน์<br />กรรมการ</p></div>
+	<div class="col-xs-4"><img src="images/directors/005.png" class="img-thumbnail"><p>ผศ.ดร.สุตเขตต์  นาคะเสถียร<br />กรรมการ</p></div>
+	<div class="col-xs-4"><img src="images/directors/006.png" class="img-thumbnail"><p>รศ.ประดนเดช  นีละคุปต์<br />กรรมการ</p></div>
+</div>
+<div class="row text-center">
+	<div class="col-xs-4"><img src="images/directors/007.png" class="img-thumbnail"><p>ผศ.อนุพร  สุวรรณวาจกกสิกิจ<br />กรรมการ</p></div>
+	<div class="col-xs-4"><img src="images/directors/008.png" class="img-thumbnail"><p>นายเพิ่ม สุรักษา<br />กรรมการ</p></div>
+	<div class="col-xs-4"><img src="images/directors/009.png" class="img-thumbnail"><p>รศ.สุวิสา พัฒนเกียรติ<br />กรรมการ</p></div>
+</div>
+<div class="row text-center">
+	<div class="col-xs-4"><img src="images/directors/010.png" class="img-thumbnail"><p>นายกฤษณ์  พลอยโสภณ<br />กรรมการ</p></div>
+	<div class="col-xs-4"><img src="images/directors/011.png" class="img-thumbnail"><p>นางพงศ์พงา เนตรหาญ<br />กรรมการ</p></div>
+	<div class="col-xs-4"><img src="images/directors/012.png" class="img-thumbnail"><p>นายพนม เกิดแสง<br />กรรมการ</p></div>
+</div>
+<div class="row text-center">
+	<div class="col-xs-4"><img src="images/directors/013.png" class="img-thumbnail"><p>นางชไมพร  เอกทัศนาวรรณ<br />กรรมการ</p></div>
+	<div class="col-xs-4"><img src="images/directors/014.png" class="img-thumbnail"><p>นางสาววิมลวรรณ  ไสยมรรคา<br />กรรมการ</p></div>
+	<div class="col-xs-4"><img src="images/directors/015.png" class="img-thumbnail"><p>นางวิภา นกแก้ว<br />เลขานุการ</p></div>
+</div>	 		 
+-->
+    </li>
+  </ol>
+<!--</div>--></p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">ปิด</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="directors" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-lg">
+
+    <!-- modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title"><i class="glyphicon glyphicon-user"></i> ที่ปรึกษาผู้อำนวยการสำนักส่งเสริมและฝึกอบรม</h4>
+      </div>
+      <div class="modal-body text-left">
+        <p style=""><ol>
+ <li>ผศ.ดร.นุชนาถ	 มั่งคั่ง			ด้านการเงิน</li>
+    <li>รศ.ชื่นจิตต์	 แจ้งเจนกิจ		ด้านการตลาด</li>
+    <li>ผศ.ดร.พรทิพย์	 เย็นจะบก		ด้านการประชาสัมพันธ์</li>
+    <li>รศ.ดร.สุนทรา	 โตบัว			ด้านการประเมินและติดตามผลการฝึกอบรม</li>
+    <li>ดร.อุบล		 ทองปัญญา		ด้านการพัฒนาสื่อ</li>
+</ol>
+
+<!--
+<div class="container-fluid-content text-center">
+	<div class="row">
+		<div class="col-xs-12">
+			<img src="images/directors/001.png" class="img-thumbnail"><p>รศ.ชูเกียรติ รักซ้อน<br />ผู้อำนวยการสำนักส่งเสริมและฝึกอบรม</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-xs-6">
+			<img src="images/directors/a.png" class="img-thumbnail" /><p>ดร.ยุพวัลย์ ทองใบอ่อน<br />รองผู้อำนวยการ</p>
+		</div>
+		<div class="col-xs-6">
+			<img src="images/directors/009.png" class="img-thumbnail"><p>รศ.สุวิสา พัฒนเกียรติ<br />รองผู้อำนวยการ</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-xs-12">
+			<img src="images/directors/013.png" class="img-thumbnail" /><p>นางชไมพร เอกทัศนาวรรณ<br />ผู้ช่วยผู้อำนวยการ</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-xs-3">
+			<img src="images/directors/011.png" class="img-thumbnail"><p>นางพงศ์พงา เนตรหาญ<br />หัวหน้าสำนักงานเลขานุการ</p>
+		</div>
+		<div class="col-xs-3">
+			<img src="images/directors/014.png" class="img-thumbnail"><p>นางสาววิมลวรรณ ไสยมรรคา<br />หัวหน้าฝ่ายฝึกอบรมและรักษาการหัวหน้าฝ่ายส่งเสริมและเผยแพร่</p>
+		</div>
+		<div class="col-xs-3">
+			<img src="images/directors/pui.png" class="img-thumbnail" /><p>นางสาวจุฑามาศ รักชุม<br />หัวหน้าฝ่ายวิเคราะห์โครงการและหลักสูตรการฝึกอบรม</p>
+		</div>
+		<div class="col-xs-3">
+			<img src="images/directors/noo.png" class="img-thumbnail" /><p>นายวีระพันธ์ สังขมาลย์<br />หัวหน้าฝ่ายพัฒนาสื่อการส่งเสริมและรักษาการหัวหน้าฝ่ายโรงพิมพ์</p>
+		</div>
+	</div>	
+</div>
+-->
+</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">ปิด</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="special" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title"><i class="glyphicon glyphicon-user"></i> ผู้ทรงคุณวุฒิพิเศษ</h4>
+      </div>
+      <div class="modal-body text-left">
+        <p style=""><ol>
+    <li>รศ.วัฒนา สวรรยาธิปัติ  		ด้านส่งเสริมการเกษตร</li>
+    <li>นายกฤษฎา  บุณยสมิต		ด้านกฏหมาย</li>
+</ol> 
+
+<!--
+<div class="container-fluid-content">
+<div class="row text-center">
+	<div class="col-xs-4"><img src="images/consultants/01surapon.png" class="img-thumbnail"><p>ผศ.ดร.สุรพล  จันทราปัตย์<br />ด้านการวิจัยและการส่งเสริมการเกษตร</p></div>
+	<div class="col-xs-4"><img src="images/consultants/02.png" class="img-thumbnail"><p>ผศ.รัตนา  อังกสิทธิ์<br />ด้านการฝึกอบรมและวิเทศสัมพันธ์</p></div>
+	<div class="col-xs-4"><img src="images/consultants/03sopon.png" class="img-thumbnail"><p>ดร.โสภณ  ภูเก้าล้วน<br />ด้านการพัฒนาทรัพยากรมนุษย์และพัฒนาองค์กร</p></div>
+</div>
+<div class="row text-center">
+	<div class="col-xs-4"><img src="images/consultants/04.png" class="img-thumbnail"><p>รศ.ดร.อัศนีย์  ก่อตระกูล<br />ด้านเทคโนโลยีสารสนเทศ</p></div>
+	<div class="col-xs-4"><img src="images/consultants/05anun.png" class="img-thumbnail"><p>นายอนันต์  ภู่สิทธิกุล<br />
+    ด้านพัฒนาการเกษตร</p></div>
+	<div class="col-xs-4"><img src="images/consultants/06.png" class="img-thumbnail"><p>ดร.ฐิติวรรณ  สินธุ์นอก<br />ด้านการให้คำปรึกษา (coaching)</p></div>
+</div>
+<div class="row text-center">
+	<div class="col-xs-4"><img src="images/consultants/07montri.png" class="img-thumbnail"><p>รศ.มนตรี  ค้ำชู<br />ด้านการจัดการทรัพยากรน้ำ</p></div>
+	<div class="col-xs-4"></div>
+	<div class="col-xs-4"></div>
+</div>	 		 
+</div>
+-->
+</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">ปิด</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="service1" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- modal content-->
+    <div class="modal-content">
+      <div class="modal-header" style="background: #006c67;">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <span class="modal-title text-white"><img src="images/training_w.svg" width="32" alt="บริการฝึกอบรม"/> บริการฝึกอบรม</span>
+      </div>
+      <div class="modal-body text-center">
+      	<div class="col-sm-12 mt-1">
+      		<div class="col-xs-4" align="center"> <a href="vocation/course.php?course=เกษตร" target="_blank">
+<!--                <img src="images/agriculture.svg" class="img-responsive" width="60" alt="เกษตร"/>-->
+                <i class="fa fa-seedling fa-2x"></i>
+                </a>
+      			<p>เกษตร</p>
+      		</div>
+      		<div class="col-xs-4" align="center"> <a href="vocation/course.php?course=อาหาร" target="_blank">
+<!--                <img src="images/cooking.svg" class="img-responsive" width="60" alt="อาหาร"/>-->
+                <i class="fa fa-utensils fa-2x"></i>
+                </a>
+      			<p>อาหาร</p>
+      		</div>
+      		<div class="col-xs-4" align="center"> <a href="vocation/course.php?course=ศิลปะ" target="_blank">
+<!--                <img src="images/idea.svg" class="img-responsive" width="60" alt="ศิลปะ"/>-->
+                <i class="fa fa-paint-brush fa-2x"></i>
+                </a>
+      			<p>ศิลปะ</p>
+      		</div>
+      	</div>
+        <div class="col-sm-12 mt-1">
+      		<div class="col-xs-4" align="center"> <a href="vocation/course.php?course=วิทยาศาสตร์" target="_blank">
+<!--                <img src="images/agriculture.svg" class="img-responsive" width="60" alt="เกษตร"/>-->
+                <i class="fas fa-flask fa-2x"></i>
+                </a>
+      			<p>วิทยาศาสตร์</p>
+      		</div>
+      		<div class="col-xs-4" align="center"> <a href="vocation/course.php?course=เบ็ดเตล็ด" target="_blank">
+<!--                <img src="images/cooking.svg" class="img-responsive" width="60" alt="อาหาร"/>-->
+                <i class="fas fa-camera-retro fa-2x"></i>
+                </a>
+      			<p>เบ็ดเตล็ด</p>
+      		</div>
+      		<div class="col-xs-4" align="center"> <a href="hrd" target="_blank">
+<!--                <img src="images/idea.svg" class="img-responsive" width="60" alt="ศิลปะ"/>-->
+                <i class="fas fa-chart-line fa-2x"></i>
+                
+                </a>
+      			<p>พัฒนาบุคลากร</p>
+      		</div>
+      	</div>
+<!--
+      	<div class="col-sm-12 text-center mt-1">
+      		<div class="col-xs-4" align="center"> <a href="http://train.eto.ku.ac.th/hrd/index.php#computer" target="_blank"><img src="images/monitor.svg" class="img-responsive" width="60" alt="คอมพิวเตอร์"/></a>
+      			<p>คอมพิวเตอร์</p>
+      		</div>
+      		<div class="col-xs-4"  align="center"> <a href="http://train.eto.ku.ac.th/hrd/index.php#course" target="_blank"><img src="images/team.svg" class="img-responsive" width="60" alt="ทักษะการทำงาน"/></a>
+      			<p>เพิ่มทักษะ</p>
+      		</div>
+      		<div class="col-xs-4" align="center"> <a href="http://train.eto.ku.ac.th/hrd/index.php#analysis" target="_blank"><img src="images/analysis.svg" class="img-responsive" width="60" alt="วิจัย"/></a>
+      			<p>วิจัย</p>
+      		</div>
+      	</div>
+      	<div class="col-sm-12 text-center mt-1">
+      		<div class="col-xs-4" align="center"> <a href="http://train.eto.ku.ac.th/hrd/description.php?course_code=d051_01" target="_blank"><img src="images/aging.svg" class="img-responsive" width="60" alt="ดูแลผู้สูงอายุ"/></a>
+   			  <p>ดูแลผู้สูงอายุ</p>
+   		  </div>
+      		
+      		<div class="col-xs-4" align="center"> <a href="#" target="_blank"><img src="images/pet.svg" class="img-responsive" width="60" alt="สัตว์เลี้ยง"/></a>
+   			  <p>สัตว์เลี้ยง</p>
+   		  </div>
+   		  <div class="col-xs-4"  align="center"> <a href="http://eto.ku.ac.th/dla/" target="_blank"><img src="images/orportor.svg" class="img-responsive" width="60" alt="อปท."/></a>
+   			  <p>อปท.</p>
+   		  </div>
+
+      	</div>-->
+      </div>
+      <div class="modal-footer">
+       <span style="float: left;" class="text-phone"><i class="glyphicon glyphicon-phone-alt"></i> 02 942 8822-9 ต่อ 200-206</span>
+        <span type="button" class="btn btn-default" data-dismiss="modal">ปิด</span>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="service2" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- modal content-->
+    <div class="modal-content">
+      <div class="modal-header" style="background: #006c67;">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <span class="modal-title text-white"><img src="images/knowledge_w.svg" width="32" alt="ความรู้ด้านการเกษตร"/> ความรู้ด้านการเกษตร</span>
+      </div>
+      <div class="modal-body text-left">
+      <p><a href="https://goo.gl/wqpzhk" target="_blank"><img src="images/extension.jpg" alt="ส่งเสริม" class="img-responsive" /></a></p>
+      การนำความรู้ นวัตกรรม รวมทั้งผลงานทางวิชาการผ่านกระบวนการการศึกษาความต้องการและการมีส่วนร่วมของกลุ่มเป้าหมายเพื่อถ่ายทอดสู่ชุมชนและสังคมด้วยรูปแบบของการการศึกษานอกระบบ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">ปิด</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="service3" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- modal content-->
+    <div class="modal-content">
+      <div class="modal-header" style="background: #006c67;">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <span class="modal-title text-white"><img src="images/media_w.svg" width="32" alt="ผลิตและบริการสื่อ"/> ผลิตและบริการสื่อ</span>
+      </div>
+      <div class="modal-body text-left">
+      <p><a href="http://media.eto.ku.ac.th/" target="_blank"><img src="images/av.jpg" alt="media" class="img-responsive" /></a></p>
+       ผลิตและพัฒนาสื่อ บริการผลิตสื่อ  บริการวิชาการด้านสื่อ  เผยแพร่ความรู้ผ่านสื่อต่าง ๆ ได้แก่  วีดิทัศน์  มัลติมีเดีย  ภาพนิ่ง  กราฟิก  วิทยุกระจายเสียงและอินเทอร์เน็ต  เพื่อสนับสนุนการเรียนการสอน  การฝึกอบรม  การส่งเสริมเผยแพร่ความรู้สู่ประชาชน   การประชุมสัมมนาและกิจกรรม พิธีการต่างๆ ของมหาวิทยาลัย
+      </div>
+    
+      <div class="modal-footer">
+       <span style="float: left;" class="text-phone"><i class="glyphicon glyphicon-phone-alt"></i> 02 942 8822-9 ต่อ 500</span>
+        <span type="button" class="btn btn-default" data-dismiss="modal">ปิด</span>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="service4" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- modal content-->
+    <div class="modal-content">
+      <div class="modal-header" style="background: #006c67;">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <span class="modal-title text-white"><img src="images/kuc_w.svg" width="32" alt="ผลิตและบริการสื่อ"/> บริการห้องประชุม อบรม สัมมนา</span>
+      </div>
+      <div class="modal-body text-left">
+      <p><a href="kuc" target="_blank"><img src="images/kuc.jpg" alt="ภาพห้องประชุม" class="img-responsive" /></a></p>
+      
+      ศูนย์ประชุมมหาวิทยาลัยเกษตรศาสตร์ (kasetsart university convention center ku.c.) เป็นศูนย์ประชุมที่มีความพร้อมสำหรับการประชุม อบรม สัมมนาโดยทั่วไปในระดับชาติ และระดับนานาชาติ มีห้องประชุมขนาดต่างๆ... </div>
+      <div class="modal-footer">
+       <span style="float: left;" class="text-phone"><i class="glyphicon glyphicon-phone-alt"></i> 02 942 8832-3</span>
+<!--        <a href="kuc" target="_blank"><button type="button" class="btn btn-primary"><i class="glyphicon glyphicon-info-sign"></i> ข้อมูลเพิ่มเติม...</button></a>-->
+        <span type="button" class="btn btn-default" data-dismiss="modal">ปิด</span>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="mis" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">6. ระบบสารสนเทศเพื่อการบริหารงาน (miseto)</h4>
+      </div>
+      <div class="modal-body text-center">
+        <div class="container-fluid">
+         <div class="row text-center">
+  			<div class="col-xs-4">
+  				<a href="https://webmail.ku.ac.th/roundcube/" target="_blank"><i class="glyphicon glyphicon-envelope logo"></i><p>ku mail</p></a>
+  				<h6 class="caption">จดหมายอิเล็กทรอนิกส์ มก.</h6>
+  			</div>
+  			<div class="col-xs-4">
+			  <a href="eto_base" target="_blank"><i class="glyphicon glyphicon-user logo"></i><p>hr</p></a>
+  				<h6 class="caption">ระบบฐานข้อมูลบุคลากร</h6>
+			</div>
+			<div class="col-xs-4">
+				<a href="http://www.km.eto.ku.ac.th" target="_blank"><i class="glyphicon glyphicon-tasks logo"></i><p>eto km</p></a>
+			  <h6 class="caption">ระบบการจัดการความรู้</h6>
+			</div>
+			
+		</div><hr />
+        <div class="row text-center">
+  			<div class="col-xs-4">
+  				<a href="http://www.eto.ku.ac.th/eoffice2560" target="_blank"><i class="glyphicon glyphicon-file logo"></i><p>eoffice</p></a>
+  				<h6 class="caption">ระบบสารบรรณอิเล็กทรอนิกส์</h6>
+  			</div>
+  			<div class="col-xs-4">
+  				<a href="http://www.eto.ku.ac.th/eto_kuc" target="_blank"><i class="glyphicon glyphicon-tower logo"></i><p>ku.c.</p></a>
+  				<h6 class="caption">ระบบบริหารจัดการศูนย์ประชุม มก.</h6>
+  			</div>
+  			<div class="col-xs-4">
+  				<a href="http://www.karupan.eto.ku.ac.th" target="_blank"><i class="glyphicon glyphicon-qrcode logo"></i><p>ครุภัณฑ์ qr</p></a>
+  				<h6 class="caption">ระบบฐานข้อมูลครุภัณฑ์ สฝ.</h6>
+  			</div>
+		</div><hr />
+        <a href="images/1548226262623.jpg" target="_blank"><img src="images/1548226262623.jpg" alt="สถาปัตยกรรมองค์กร eto" class="img-responsive" /></a>
+       	<h6>การพัฒนาระบบสารสนเทศเพื่อการบริการของสำนักส่งเสริมและฝึกอบรม<br />
+		ภายใต้กรอบแนวความคิด “สถาปัตยกรรมองค์กร”</h6> 
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">ปิด</button>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['googleanalyticsobject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new date();a=s.createelement(o),
+  m=s.getelementsbytagname(o)[0];a.async=1;a.src=g;m.parentnode.insertbefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'ua-99678777-1', 'auto');
+  ga('send', 'pageview');
+
+</script><p class="text-center" style="display: none;"><script type="text/javascript" language="javascript" src="http://codice.shinystat.com/cgi-bin/getcod.cgi?user=preeda"></script></p>
+
+ 
+ 
+ <div id="servey" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-lg">
+
+    <!-- modal content-->
+    <div class="modal-content">
+   
+     
+<!--      <div class="modal-header" style="background: #006c67;">-->
+<!--        <button type="button" class="close" data-dismiss="modal">&times;</button>-->
+<!--        <span class="modal-title text-white"><img src="images/training_w.svg" width="32" alt="บริการฝึกอบรม"/> เรียนเชิญแสดงความคิดเห็นเกี่ยวกับหลักสูตรฝึกการอบรม</span>-->
+<!--        <span class="modal-title text-white"><img src="images/training_w.svg" width="32" alt="บริการฝึกอบรม"/> อบรม</span>-->
+<!--        <span class="modal-title text-white">มาตรการป้องกันการแพร่ระบาดของไวรัสโคโรน่าสายพันธุ์ใหม่ (covid-19)</span>-->
+<!--
+		  <span class="modal-title text-white"></span>
+      </div>
+-->
+     
+     
+      <div class="modal-body text-center">
+<!--
+       <div class="embed-responsive embed-responsive-16by9">
+  	<iframe class="embed-responsive-item img-thumbnail" src="https://www.youtube.com/embed/wvuvq-pqqd4" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>	</iframe>
+	</div><hr />   
+-->
+      <a href="hrd" target="_blank">
+		<img src="images/hrd65.jpg" width="100%" alt="popup"/>
+<!--		  		<img src="https://eto.ku.ac.th/orst/images/banner-%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%a7%e0%b8%94%e0%b8%a3%e0%b8%ad%e0%b8%9a%e0%b8%8a%e0%b8%b4%e0%b8%87.jpg" width="100%" alt="popup"/>-->
+
+          
+      </a>		                  <!--<a href="http://eto.ku.ac.th/royin" target="_blank">
+							  <img src="images/banner207052563.jpg" class="img-responsive" alt="popup"/>-->
+		  
+<!--              <img src="images/100785117_2623675984403037_3870152261141266432_n.jpg" class="img-responsive" alt="popup"/>-->
+<!--							  <img src="images/พระราชินี-f-01.jpg" class="img-responsive" alt="popup"/>-->
+<!--		  	<img src="images/live_eto02052563.jpg" class="img-responsive" alt="popup"/>-->
+              
+<!--
+                    <a href="royin/index.html" target="_blank">
+                        <img src="royin/img/brochure_final.jpg" class="img-responsive" alt="popup"/>
+                    </a>
+-->
+          
+<!--
+                   <a href="home.php">
+                        <img src="https://eto.ku.ac.th/royin/img/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%b2%e0%b9%84%e0%b8%97%e0%b8%a2.jpg" class="img-responsive" alt="popup"/>
+                    </a>
+-->
+          
+<!--
+          <div class="embed-responsive embed-responsive-16by9">
+  	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ovvlee5rir4?rel=0;&autoplay=1&mute=0&loop=1&playlist=ig9ce55wbty" allow="accelerometer; autoplay; encrypted-media; gyroscope; " allowfullscreen>	</iframe>
+	</div>
+-->
+          
+<!--
+                              <div class="embed-responsive embed-responsive-16by9">
+  	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mdcayb9oro8" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>	</iframe>
+	</div>
+-->
+
+		                      
+<!--	  </a> -->
+<!--
+  <a href="https://forms.gle/j4gcmdyqfxdnqkfq9" target="_blank">
+  	<img src="images/popup.jpg" class="img-responsive" alt="popup"/>
+  </a> 
+-->
+<!--
+     <table>
+     	<tbody>
+     		<tr>
+     			<td colspan="3"><img src="images/kasetfair/2563/banner1_01.jpg" class="img-responsive" alt="popup"/></td>
+     		</tr>
+     		<tr>
+     			<td><a href="pdf/voc_kasetfair2563.jpg" target="_blank"><img src="images/kasetfair/2563/banner1_02.jpg" class="img-responsive" alt="popup"/></a></td>
+   			  <td><a href="images/clinic_kasetfair63_1.png" target="_blank"><img src="images/kasetfair/2563/banner1_03.jpg" class="img-responsive" alt="popup"/></a></td>
+   			  <td><a href="pdf/ตารางสาธิต_เกษตรแฟร์ 63 d7.pdf" target="_blank"><img src="images/kasetfair/2563/banner1_04.jpg" class="img-responsive" alt="popup"/></a></td>
+     		</tr>
+     	</tbody>
+     </table>
+-->
+<!--
+     <hr class="hr-styles4" />
+  	<div class="embed-responsive embed-responsive-16by9">
+  	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xfxogixjdvq" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>	</iframe>
+	</div>
+-->
+<!--	<a href="https://forms.gle/km63kla64lqaz6uf7" target="_blank"><img src="images/wvc63.jpg" class="img-responsive" alt="popup"/></a>-->
+<!-- 	<hr class="hr-styles4" />-->
+      </div>
+      <div class="modal-footer">
+
+<!--
+          <span class="text-danger" >
+             <a href="https://eto.ku.ac.th/orst">https://eto.ku.ac.th/orst</a>
+          </span>
+-->
+
+       
+        <span type="button" class="btn btn-default" data-dismiss="modal"><i class="glyphicon glyphicon-remove"></i> ปิดหน้านี้</span>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

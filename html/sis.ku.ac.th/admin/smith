@@ -1,0 +1,207 @@
+
+<!doctype html>
+
+<html lang="en">
+  <!--begin::head-->
+  <head><base href="https://sis.ku.ac.th/admin">
+    <meta charset="utf-8" />
+    <title>วิทยาลัยบูรณาการศาสตร์ - หลักสูตรศาสตร์แห่งแผ่นดิน สาขาวิชาที่เป็นการบูรณาการศาสตร์ที่เกี่ยวข้องกับการเกษตร ทรัพยากรธรรมชาติ และมนุษย์บนผืนดิน ตามเอกลักษณ์ของมหาวิทยาลัยที่กำหนดว่า “มหาวิทยาลัยเกษตรศาสตร์ มุ่งสร้างศาสตร์แห่งแผ่นดิน เพื่อความกินดีอยู่ดีของชาติ</title>
+    <meta name="description" content="login page example" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!--begin::fonts-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=poppins:300,400,500,600,700" />
+    <!--end::fonts-->
+    <!--begin::page custom styles(used by this page)-->
+    <link href="https://sis.ku.ac.th/admin/assets/template_news/css/pages/login/login-1.css" rel="stylesheet" type="text/css" />
+    <!--end::page custom styles-->
+    <!--begin::global theme styles(used by all pages)-->
+    <link href="https://sis.ku.ac.th/admin/assets/template_news/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css" />
+    <link href="https://sis.ku.ac.th/admin/assets/template_news/plugins/custom/prismjs/prismjs.bundle.css" rel="stylesheet" type="text/css" />
+    <link href="https://sis.ku.ac.th/admin/assets/template_news/css/style.bundle.css" rel="stylesheet" type="text/css" />
+    <!--end::global theme styles-->
+    <!--begin::layout themes(used by all pages)-->
+    <link href="https://sis.ku.ac.th/admin/assets/template_news/css/themes/layout/header/base/light.css" rel="stylesheet" type="text/css" />
+    <link href="https://sis.ku.ac.th/admin/assets/template_news/css/themes/layout/header/menu/light.css" rel="stylesheet" type="text/css" />
+    <link href="https://sis.ku.ac.th/admin/assets/template_news/css/themes/layout/brand/dark.css" rel="stylesheet" type="text/css" />
+    <link href="https://sis.ku.ac.th/admin/assets/template_news/css/themes/layout/aside/dark.css" rel="stylesheet" type="text/css" />
+    <!--end::layout themes-->
+    <link rel="icon" href="http://sis.ku.ac.th/wp-content/uploads/2020/08/sis-orange-favi.png" sizes="32x32" />
+
+    <script>
+      var baseurl = 'https://sis.ku.ac.th/admin';
+    </script>
+  </head>
+  <!--end::head-->
+  <!--begin::body-->
+  <body id="kt_body" class="header-fixed header-mobile-fixed subheader-enabled subheader-fixed aside-enabled aside-fixed aside-minimize-hoverable page-loading">
+    <!--begin::main-->
+    <div class="d-flex flex-column flex-root">
+      <!--begin::login-->
+      <div class="login login-1 login-signin-on d-flex flex-column flex-lg-row flex-row-fluid bg-white" id="kt_login">
+        <!--begin::aside-->
+        <div class="login-aside d-flex flex-row-auto px-lg-0 px-5 pb-sm-40 pb-lg-40 flex-grow-1" style="background-repeat:no-repeat;background-position: bottom;background: url(https://sis.ku.ac.th/admin/assets/images/logo_ku_login.jpg) #006360;">
+          <!--begin::aside container-->
+          <div class="d-flex flex-row-fluid flex-column mt-lg-30 mb-lg-0 pb-lg-0 mb-20 pb-40 mt-0 pt-15">
+            <!--begin::aside header-->
+            <!-- <a href="#" class="text-center mb-10">
+              <img src="https://sis.ku.ac.th/admin/assets/template_news/media/logos/logo-letter-1.png" class="max-h-70px" alt="" />
+            </a> -->
+            <!--end::aside header-->
+            <!--begin::aside title-->
+            <!-- <h3 class="font-weight-bolder text-center display5 pb-lg-0 pb-40">discover amazing metronic
+            <br />with great build tools</h3> -->
+            <!--end::aside title-->
+          </div>
+          <!--end::aside container-->
+        </div>
+        <!--begin::aside-->
+        <!--begin::content-->
+        <div class="login-content flex-row-fluid d-flex flex-column justify-content-center position-relative overflow-hidden p-7 ml-auto mr-auto">
+          <!--begin::content body-->
+          <div class="d-flex flex-column-fluid flex-center mt-6 mt-lg-0">
+            <!--begin::signin-->
+            <div class="login-form login-signin">
+              <!--begin::form-->
+              <form class="form" novalidate="novalidate" id="kt_login_signin_form">
+                <!--begin::title-->
+                <div class="pt-lg-40 mt-lg-10 pb-15">
+                  <h3 class="font-weight-bolder text-dark display5">welcome to ku</h3>
+                  <!-- <span class="text-muted font-weight-bold font-size-h4">new here?
+                  <a href="javascript:;" id="kt_login_signup" class="text-primary font-weight-bolder">create an account</a></span> -->
+                </div>
+                <!--begin::title-->
+                <!--begin::form group-->
+                <div class="form-group">
+                  <label class="font-size-h6 font-weight-bolder text-dark">email</label>
+                  <input class="form-control form-control-solid h-auto py-7 px-6 rounded-lg" type="text" name="username" id="username" autocomplete="off" />
+
+                </div>
+                <!--end::form group-->
+                <!--begin::form group-->
+                <div class="form-group">
+                   <div class="d-flex justify-content-between mt-n5">
+                    <label class="font-size-h6 font-weight-bolder text-dark pt-5">password</label>
+                    <!--<a href="javascript:;" class="text-primary font-size-h6 font-weight-bolder text-hover-primary pt-5" id="kt_login_forgot">forgot password ?</a>-->
+                  </div> 
+                  <input class="form-control form-control-solid h-auto py-7 px-6 rounded-lg" type="password" name="password" id="password" autocomplete="off" />
+                </div>
+                <!--end::form group-->
+                <!--begin::action-->
+                <div class="pb-lg-0 pb-10">
+         
+                    <button type="button" id="kt_login_signin_submit" class="btn btn-primary font-weight-bolder font-size-h6 px-8 py-4 my-3 mr-3">sign in</button>
+                  <!-- <button type="button" class="btn btn-light-primary font-weight-bolder px-8 py-4 my-3 font-size-lg">
+                  <span class="svg-icon svg-icon-md">
+                    <svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="m19.9895 10.1871c19.9895 9.36767 19.9214 8.76973 19.7742 8.14966h10.1992v11.848h15.8195c15.7062 12.7671 15.0943 14.1512 13.7346 15.0813l13.7155 15.2051l16.7429 17.4969l16.9527 17.5174c18.879 15.7789 19.9895 13.221 19.9895 10.1871z" fill="#4285f4" />
+                      <path d="m10.1993 19.9313c12.9527 19.9313 15.2643 19.0454 16.9527 17.5174l13.7346 15.0813c12.8734 15.6682 11.7176 16.0779 10.1993 16.0779c7.50243 16.0779 5.21352 14.3395 4.39759 11.9366l4.27799 11.9466l1.13003 14.3273l1.08887 14.4391c2.76588 17.6945 6.21061 19.9313 10.1993 19.9313z" fill="#34a853" />
+                      <path d="m4.39748 11.9366c4.18219 11.3166 4.05759 10.6521 4.05759 9.96565c4.05759 9.27909 4.18219 8.61473 4.38615 7.99466l4.38045 7.8626l1.19304 5.44366l1.08875 5.49214c0.397576 6.84305 0.000976562 8.36008 0.000976562 9.96565c0.000976562 11.5712 0.397576 13.0882 1.08875 14.4391l4.39748 11.9366z" fill="#fbbc05" />
+                      <path d="m10.1993 3.85336c12.1142 3.85336 13.406 4.66168 14.1425 5.33717l17.0207 2.59107c15.253 0.985496 12.9527 0 10.1993 0c6.2106 0 2.76588 2.23672 1.08887 5.49214l4.38626 7.99466c5.21352 5.59183 7.50242 3.85336 10.1993 3.85336z" fill="#eb4335" />
+                    </svg>
+                  </span>sign in with google</button> -->
+                </div>
+                <!--end::action-->
+              </form>
+              <!--end::form-->
+            </div>
+            <!--end::signin-->
+            <!--begin::signup-->
+            <div class="login-form login-signup">
+              <!--begin::form-->
+              <form class="form" novalidate="novalidate" id="kt_login_signup_form">
+                <!--begin::title-->
+                <div class="text-center pt-lg-30 pb-15">
+                  <h3 class="font-weight-bolder text-dark display5">sign up</h3>
+                  <p class="text-muted font-weight-bold font-size-h4">enter your details to create your account</p>
+                </div>
+                <!--end::title-->
+                <!--begin::form group-->
+                <div class="form-group">
+                  <input class="form-control form-control-solid h-auto py-7 px-6 rounded-lg font-size-h6" type="text" placeholder="fullname" name="fullname" autocomplete="off" />
+                </div>
+                <!--end::form group-->
+                <!--begin::form group-->
+                <div class="form-group">
+                  <input class="form-control form-control-solid h-auto py-7 px-6 rounded-lg font-size-h6" type="email" placeholder="email" name="email" autocomplete="off" />
+                </div>
+                <!--end::form group-->
+                <!--begin::form group-->
+                <div class="form-group">
+                  <input class="form-control form-control-solid h-auto py-7 px-6 rounded-lg font-size-h6" type="password" placeholder="password" name="password" autocomplete="off" />
+                </div>
+                <!--end::form group-->
+                <!--begin::form group-->
+                <div class="form-group">
+                  <input class="form-control form-control-solid h-auto py-7 px-6 rounded-lg font-size-h6" type="password" placeholder="confirm password" name="cpassword" autocomplete="off" />
+                </div>
+                <!--end::form group-->
+                <!--begin::form group-->
+                <div class="form-group">
+                  <label class="checkbox mb-0">
+                  <input type="checkbox" name="agree" />i agree the
+                  <a href="#">terms and conditions</a>.
+                  <span></span></label>
+                </div>
+                <!--end::form group-->
+                <!--begin::form group-->
+                <div class="form-group d-flex flex-wrap flex-center pb-lg-0 pb-3">
+                  <button type="button" id="kt_login_signup_submit" class="btn btn-primary font-weight-bolder font-size-h6 px-8 py-4 my-3 mx-4">submit</button>
+                  <button type="button" id="kt_login_signup_cancel" class="btn btn-light-primary font-weight-bolder font-size-h6 px-8 py-4 my-3 mx-4">cancel</button>
+                </div>
+                <!--end::form group-->
+              </form>
+              <!--end::form-->
+            </div>
+            <!--end::signup-->
+            <!--begin::forgot-->
+            <div class="login-form login-forgot">
+              <!--begin::form-->
+              <form class="form" novalidate="novalidate" id="kt_login_forgot_form">
+                <!--begin::title-->
+                <div class="text-center pt-lg-40 mt-lg-20 pb-15">
+                  <h3 class="font-weight-bolder text-dark display5">forgotten password ?</h3>
+                  <p class="text-muted font-weight-bold font-size-h4">enter your email to reset your password</p>
+                </div>
+                <!--end::title-->
+                <!--begin::form group-->
+                <div class="form-group">
+                  <input class="form-control form-control-solid h-auto py-7 px-6 rounded-lg font-size-h6" type="email" placeholder="email" name="email" autocomplete="off" />
+                </div>
+                <!--end::form group-->
+                <!--begin::form group-->
+                <div class="form-group d-flex flex-wrap flex-center pb-lg-0">
+                  <button type="button" id="kt_login_forgot_submit" class="btn btn-primary font-weight-bolder font-size-h6 px-8 py-4 my-3 mx-4">submit</button>
+                  <button type="button" id="kt_login_forgot_cancel" class="btn btn-light-primary font-weight-bolder font-size-h6 px-8 py-4 my-3 mx-4">cancel</button>
+                </div>
+                <!--end::form group-->
+              </form>
+              <!--end::form-->
+            </div>
+            <!--end::forgot-->
+          </div>
+          <!--end::content body-->
+          <!--begin::content footer-->
+         <!--  <div class="d-flex justify-content-lg-start justify-content-center flex-column-fluid align-items-end pb-2 pt-lg-0">
+            <a href="#" class="text-primary font-weight-bolder font-size-h5">terms</a>
+
+            <a href="#" class="text-primary ml-10 font-weight-bolder font-size-h5">contact us</a>
+          </div> -->
+          <!--end::content footer-->
+        </div>
+        <!--end::content-->
+      </div>
+      <!--end::login-->
+    </div>
+
+    <!--begin::global theme bundle(used by all pages)-->
+    <script src="https://sis.ku.ac.th/admin/assets/template_news/plugins/global/plugins.bundle.js"></script>
+    <script src="https://sis.ku.ac.th/admin/assets/template_news/plugins/custom/prismjs/prismjs.bundle.js"></script>
+    <script src="https://sis.ku.ac.th/admin/assets/template_news/js/scripts.bundle.js"></script>
+    <script src="https://sis.ku.ac.th/admin/assets/js/siamgolive/login.js?v=4" type="text/javascript"></script>
+    <!--end::global theme bundle-->
+    <!--begin::page scripts(used by this page)-->
+    <script src="https://sis.ku.ac.th/admin/assets/template_news/js/pages/custom/login/login.js?v=3"></script>
+    <!--end::page scripts-->
+  </body>
+  <!--end::body-->
+</html>

@@ -1,0 +1,510 @@
+
+<!doctype html>
+<html class="html" lang="en-us">
+<head>
+	
+	<!-- global site tag (gtag.js) - google analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=g-py40z2jcky"></script>
+<script>
+  window.datalayer = window.datalayer || [];
+  function gtag(){datalayer.push(arguments);}
+  gtag('js', new date());
+
+  gtag('config', 'g-py40z2jcky');
+</script>
+	
+	<meta charset="utf-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>best practice &#8211; greencampus</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="greencampus &raquo; feed" href="https://greencampus.ku.ac.th/feed/" />
+<link rel="alternate" type="application/rss+xml" title="greencampus &raquo; comments feed" href="https://greencampus.ku.ac.th/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojisettings = {"baseurl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgurl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgext":".svg","source":{"concatemoji":"https:\/\/greencampus.ku.ac.th\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.10"}};
+			!function(a,b,c){function d(a,b){var c=string.fromcharcode;l.clearrect(0,0,k.width,k.height),l.filltext(c.apply(this,a),0,0);var d=k.todataurl();l.clearrect(0,0,k.width,k.height),l.filltext(c.apply(this,b),0,0);var e=k.todataurl();return d===e}function e(a){var b;if(!l||!l.filltext)return!1;switch(l.textbaseline="top",l.font="600 32px arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createelement("script");c.src=a,c.defer=c.type="text/javascript",b.getelementsbytagname("head")[0].appendchild(c)}var g,h,i,j,k=b.createelement("canvas"),l=k.getcontext&&k.getcontext("2d");for(j=array("flag","emoji"),c.supports={everything:!0,everythingexceptflag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingexceptflag=c.supports.everythingexceptflag&&c.supports[j[i]]);c.supports.everythingexceptflag=c.supports.everythingexceptflag&&!c.supports.flag,c.domready=!1,c.readycallback=function(){c.domready=!0},c.supports.everything||(h=function(){c.readycallback()},b.addeventlistener?(b.addeventlistener("domcontentloaded",h,!1),a.addeventlistener("load",h,!1)):(a.attachevent("onload",h),b.attachevent("onreadystatechange",function(){"complete"===b.readystate&&c.readycallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojisettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bdt-uikit-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/bdt-uikit.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='prime-slider-site-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/prime-slider-site.css?ver=1.14.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://greencampus.ku.ac.th/wp-includes/css/dist/block-library/style.min.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://greencampus.ku.ac.th/wp-includes/css/dist/block-library/theme.min.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='pdfemb-gutenberg-block-backend-js-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='04cd1177c-css'  href='https://greencampus.ku.ac.th/wp-content/uploads/essential-addons-elementor/04cd1177c.min.css?ver=1642189048' type='text/css' media='all' />
+<link rel='stylesheet' id='twae-centered-css-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/timeline-widget-addon-for-elementor/assets/css/twae-centered-timeline.min.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='twae-horizontal-css-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/timeline-widget-addon-for-elementor/assets/css/twae-horizontal-styles.min.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='twae-fontello-css-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/timeline-widget-addon-for-elementor/assets/css/twae-fontello.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.11.2' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css'  href='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-google-font-mukta-vaani-css'  href='//fonts.googleapis.com/css?family=mukta+vaani%3a100%2c200%2c300%2c400%2c500%2c600%2c700%2c800%2c900%2c100i%2c200i%2c300i%2c400i%2c500i%2c600i%2c700i%2c800i%2c900i&#038;subset=latin&#038;ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' type='text/css' media='all' />
+<style id='elementor-icons-inline-css' type='text/css'>
+
+		.elementor-add-new-section .elementor-add-templately-promo-button{
+            background-color: #5d4fff;
+            background-image: url(https://greencampus.ku.ac.th/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
+            background-repeat: no-repeat;
+            background-position: center center;
+            margin-left: 5px;
+            position: relative;
+            bottom: 5px;
+        }
+</style>
+<link rel='stylesheet' id='elementor-animations-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-294-css'  href='https://greencampus.ku.ac.th/wp-content/uploads/elementor/css/post-294.css?ver=1630635029' type='text/css' media='all' />
+<link rel="stylesheet" type="text/css" href="https://greencampus.ku.ac.th/wp-content/plugins/smart-slider-3/library/media/smartslider.min.css?1596179576" media="all" />
+<style type="text/css">.n2-ss-spinner-simple-white-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -20px;
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    z-index: 1000;
+}
+
+.n2-ss-spinner-simple-white {
+  outline: 1px solid rgba(0,0,0,0);
+  width:100%;
+  height: 100%;
+}
+
+.n2-ss-spinner-simple-white:before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: -11px;
+    margin-left: -11px;
+}
+
+.n2-ss-spinner-simple-white:not(:required):before {
+    content: '';
+    border-radius: 50%;
+    border-top: 2px solid #333;
+    border-right: 2px solid transparent;
+    animation: n2simplewhite .6s linear infinite;
+}
+@keyframes n2simplewhite {
+    to {transform: rotate(360deg);}
+}</style><script type='text/javascript' src='https://greencampus.ku.ac.th/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://greencampus.ku.ac.th/wp-json/' />
+<link rel="edituri" type="application/rsd+xml" title="rsd" href="https://greencampus.ku.ac.th/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://greencampus.ku.ac.th/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="wordpress 5.0.10" />
+<link rel="canonical" href="https://greencampus.ku.ac.th/best-practice/" />
+<link rel='shortlink' href='https://greencampus.ku.ac.th/?p=294' />
+<link rel="alternate" type="application/json+oembed" href="https://greencampus.ku.ac.th/wp-json/oembed/1.0/embed?url=https%3a%2f%2fgreencampus.ku.ac.th%2fbest-practice%2f" />
+<link rel="alternate" type="text/xml+oembed" href="https://greencampus.ku.ac.th/wp-json/oembed/1.0/embed?url=https%3a%2f%2fgreencampus.ku.ac.th%2fbest-practice%2f&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<!-- oceanwp css -->
+<style type="text/css">
+/* general css */.site-breadcrumbs a:hover,.background-image-page-header .site-breadcrumbs a:hover{color:#81d742}/* header css */#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:80px}.effect-one #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-three #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after{background-color:#b1ba1d}.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfhover >a.menu-link >span:after{color:#b1ba1d}.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfhover >a.menu-link >span:after{text-shadow:10px 0 #b1ba1d,-10px 0 #b1ba1d}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,#searchform-header-replace-close{color:#63acf7}#site-navigation-wrap .dropdown-menu >li >a:hover,.oceanwp-mobile-menu-icon a:hover,#searchform-header-replace-close:hover{color:#afda53}#site-navigation-wrap .dropdown-menu >.current-menu-item >a,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a,#site-navigation-wrap .dropdown-menu >.current-menu-item >a:hover,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a:hover{color:#afda53}.dropdown-menu .sub-menu,#searchform-dropdown,.current-shop-items-dropdown{border-color:#0e938e}.dropdown-menu ul li a.menu-link{color:#0e938e}.dropdown-menu ul li a.menu-link:hover{color:#b1ba1d}/* footer widgets css */#footer-widgets{padding:30px 0 0 0}/* footer bottom css */#footer-bottom{background-color:#63acf7}#footer-bottom,#footer-bottom p{color:#ffffff}#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover{color:#000000}/* typography css */body{font-size:18px}h1{font-style:italic;font-size:40px;color:#006b67;line-height:0.5;text-transform:none}h3{font-size:20px;letter-spacing:.5px}h4{font-size:17 px;line-height:1.2}#site-navigation-wrap .dropdown-menu >li >a,#site-header.full_screen-header .fs-dropdown-menu >li >a,#site-header.top-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.center-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a{font-family:mukta vaani;font-weight:300;font-size:16px;text-transform:uppercase}#footer-widgets .footer-box .widget-title{font-weight:700;font-size:18px;text-transform:uppercase}
+</style><script type="text/javascript">(function(){var n=this;n.n2_=n.n2_||{r:[],d:[]},n.n2r=n.n2r||function(){n.n2_.r.push(arguments)},n.n2d=n.n2d||function(){n.n2_.d.push(arguments)}}).call(window);if(!window.n2jquery){window.n2jquery={ready:function(cb){console.error('n2jquery will be deprecated!');n2r(['$'],cb)}}}window.nextend={localization:{},ready:function(cb){console.error('nextend.ready will be deprecated!');n2r('documentready',function($){cb.call(window,$)})}};nextend.fontsloaded=false;nextend.fontsloadedactive=function(){nextend.fontsloaded=true};var requiredfonts=["roboto:n3","roboto:n4"],fontdata={google:{families:["roboto:300,400:latin"]},active:function(){nextend.fontsloadedactive()},inactive:function(){nextend.fontsloadedactive()},fontactive:function(f,s){fontdata.resolvefont(f+':'+s)},fontinactive:function(f,s){fontdata.resolvefont(f+':'+s)},resolvefont:function(n){for(var i=requiredfonts.length-1;i>=0;i--){if(requiredfonts[i]===n){requiredfonts.splice(i,1);break}}if(!requiredfonts.length)nextend.fontsloadedactive()}};if(typeof webfontconfig!=='undefined'&&typeof webfont==='undefined'){var _webfontconfig=webfontconfig;for(var k in webfontconfig){if(k=='active'){fontdata.active=function(){nextend.fontsloadedactive();_webfontconfig.active()}}else if(k=='inactive'){fontdata.inactive=function(){nextend.fontsloadedactive();_webfontconfig.inactive()}}else if(k=='fontactive'){fontdata.fontactive=function(f,s){fontdata.resolvefont(f+':'+s);_webfontconfig.fontactive.apply(this,arguments)}}else if(k=='fontinactive'){fontdata.fontinactive=function(f,s){fontdata.resolvefont(f+':'+s);_webfontconfig.fontinactive.apply(this,arguments)}}else if(k=='google'){if(typeof webfontconfig.google.families!=='undefined'){for(var i=0;i<webfontconfig.google.families.length;i++){fontdata.google.families.push(webfontconfig.google.families[i])}}}else{fontdata[k]=webfontconfig[k]}}}fontdata.classes=true;fontdata.events=true;if(typeof webfont==='undefined'){window.webfontconfig=fontdata}else{webfont.load(fontdata)}</script><script type="text/javascript" src="https://greencampus.ku.ac.th/wp-content/plugins/smart-slider-3/nextend/media/dist/n2.min.js?1596179577"></script>
+<script type="text/javascript" src="https://greencampus.ku.ac.th/wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-frontend.min.js?1596179578"></script>
+<script type="text/javascript" src="https://greencampus.ku.ac.th/wp-content/plugins/smart-slider-3/library/media/dist/smartslider-frontend.min.js?1596179577"></script>
+<script type="text/javascript" src="https://greencampus.ku.ac.th/wp-content/plugins/smart-slider-3/library/media/plugins/type/simple/simple/dist/smartslider-simple-type-frontend.min.js?1596179586"></script>
+<script type="text/javascript" src="https://greencampus.ku.ac.th/wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-webfontloader.min.js?1596179578"></script>
+<script type="text/javascript">n2r('documentready',function($){nextend.fontsdeferred=$.deferred();if(nextend.fontsloaded){nextend.fontsdeferred.resolve()}else{nextend.fontsloadedactive=function(){nextend.fontsloaded=true;nextend.fontsdeferred.resolve()};var intercalcounter=0;nextend.fontinterval=setinterval(function(){if(intercalcounter>3||document.documentelement.classname.indexof('wf-active')!==-1){nextend.fontsloadedactive();clearinterval(nextend.fontinterval)}intercalcounter++},1000)}n2r(["nextend-frontend","smartslider-frontend","smartslider-simple-type-frontend"],function(){new n2classes.smartslidersimple('#n2-ss-7',{"admin":false,"translate3d":1,"callbacks":"","background.video.mobile":1,"align":"normal","isdelayed":0,"load":{"fade":1,"scroll":0},"playwhenvisible":1,"playwhenvisibleat":0.5,"responsive":{"desktop":1,"tablet":1,"mobile":1,"onresizeenabled":true,"type":"fullwidth","downscale":1,"upscale":1,"minimumheight":0,"maximumheight":3000,"maximumslidewidth":3000,"maximumslidewidthlandscape":3000,"maximumslidewidthtablet":3000,"maximumslidewidthtabletlandscape":3000,"maximumslidewidthmobile":3000,"maximumslidewidthmobilelandscape":3000,"maximumslidewidthconstrainheight":0,"forcefull":1,"forcefulloverflowx":"body","forcefullhorizontalselector":"body","constrainratio":1,"verticaloffsetselectors":"","decreasesliderheight":0,"focususer":0,"focusautoplay":0,"devicemodes":{"desktopportrait":1,"desktoplandscape":0,"tabletportrait":1,"tabletlandscape":0,"mobileportrait":1,"mobilelandscape":0},"normalizeddevicemodes":{"unknownunknown":["unknown","unknown"],"desktopportrait":["desktop","portrait"],"desktoplandscape":["desktop","portrait"],"tabletportrait":["tablet","portrait"],"tabletlandscape":["tablet","portrait"],"mobileportrait":["mobile","portrait"],"mobilelandscape":["mobile","portrait"]},"verticalratiomodifiers":{"unknownunknown":1,"desktopportrait":1,"desktoplandscape":1,"tabletportrait":1,"tabletlandscape":1,"mobileportrait":1,"mobilelandscape":1},"minimumfontsizes":{"desktopportrait":4,"desktoplandscape":4,"tabletportrait":4,"tabletlandscape":4,"mobileportrait":4,"mobilelandscape":4},"ratiotodevice":{"portrait":{"tablet":0.7,"mobile":0.5},"landscape":{"tablet":0,"mobile":0}},"sliderwidthtodevice":{"desktopportrait":1600,"desktoplandscape":1600,"tabletportrait":1120,"tabletlandscape":0,"mobileportrait":800,"mobilelandscape":0},"basedon":"combined","orientationmode":"width_and_height","overflowhiddenpage":0,"desktopportraitscreenwidth":1200,"tabletportraitscreenwidth":800,"mobileportraitscreenwidth":440,"tabletlandscapescreenwidth":800,"mobilelandscapescreenwidth":440},"controls":{"scroll":0,"drag":0,"touch":"horizontal","keyboard":1,"tilt":0},"lazyload":0,"lazyloadneighbor":0,"blockrightclick":0,"maintainsession":0,"autoplay":{"enabled":0,"start":1,"duration":8000,"autoplaytoslide":-1,"autoplaytoslideindex":-1,"allowrestart":0,"pause":{"click":1,"mouse":"0","mediastarted":1},"resume":{"click":0,"mouse":0,"mediaended":1,"slidechanged":0}},"perspective":1500,"layermode":{"playonce":0,"playfirstlayer":1,"mode":"skippable","inanimation":"maininend"},"initcallbacks":[],"allowbgimageattachmentfixed":true,"bganimationscolor":"rgba(51,51,51,1)","bganimations":0,"mainanimation":{"type":"horizontal","duration":800,"delay":0,"ease":"easeoutquad","parallax":0,"shiftedbackgroundanimation":0},"carousel":1,"dynamicheight":0})})});</script></head>
+
+<body data-rsssl=1 class="page-template-default page page-id-294 wp-custom-logo wp-embed-responsive oceanwp-theme sidebar-mobile default-breakpoint content-full-screen page-header-disabled has-breadcrumbs elementor-default elementor-kit-6 elementor-page elementor-page-294"  itemscope="itemscope" itemtype="https://schema.org/webpage">
+
+	
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+			
+<header id="site-header" class="minimal-header effect-six clr" data-height="74" itemscope="itemscope" itemtype="https://schema.org/wpheader" role="banner">
+
+	
+					
+			<div id="site-header-inner" class="clr container">
+
+				
+				
+
+<div id="site-logo" class="clr" itemscope itemtype="https://schema.org/brand">
+
+	
+	<div id="site-logo-inner" class="clr">
+
+		<a href="https://greencampus.ku.ac.th/" class="custom-logo-link" rel="home" itemprop="url"><img width="263" height="107" src="https://greencampus.ku.ac.th/wp-content/uploads/2020/11/logo_18.png" class="custom-logo" alt="greencampus" itemprop="logo" /></a>
+	</div><!-- #site-logo-inner -->
+
+	
+	
+</div><!-- #site-logo -->
+
+			<div id="site-navigation-wrap" class="clr">
+			
+			
+			
+			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/sitenavigationelement" role="navigation">
+
+				<ul id="menu-main" class="main-menu dropdown-menu sf-menu"><li id="menu-item-81" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-81"><a href="https://greencampus.ku.ac.th/" class="menu-link"><span class="text-wrap">home</span></a></li><li id="menu-item-4969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4969"><a href="https://greencampus.ku.ac.th/about/" class="menu-link"><span class="text-wrap">about</span></a></li><li id="menu-item-962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-962"><a href="https://greencampus.ku.ac.th/green-metric/" class="menu-link"><span class="text-wrap">green metric <span class="nav-arrow fa fa-angle-down"></span></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-5703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5703"><a href="https://greencampus.ku.ac.th/green-metric-2020-2021/" class="menu-link"><span class="text-wrap">green metric 2020-2021</span></a></li>	<li id="menu-item-5645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5645"><a href="https://greencampus.ku.ac.th/green-metric-2019-2020/" class="menu-link"><span class="text-wrap">green metric 2019-2020</span></a></li></ul>
+</li><li id="menu-item-4973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-4973"><a href="https://greencampus.ku.ac.th/ku-sdgs/" class="menu-link"><span class="text-wrap">ku sdgs <span class="nav-arrow fa fa-angle-down"></span></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-5654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5654"><a href="https://greencampus.ku.ac.th/sdgs-report-2020-2021/" class="menu-link"><span class="text-wrap">sdgs report 2020-2021</span></a></li>	<li id="menu-item-3545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3545"><a href="https://greencampus.ku.ac.th/sdgs-report-2019-2020/" class="menu-link"><span class="text-wrap">sdgs report 2019-2020</span></a></li></ul>
+</li><li id="menu-item-4970" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-294 current_page_item menu-item-4970"><a href="https://greencampus.ku.ac.th/best-practice/" class="menu-link"><span class="text-wrap">best practice</span></a></li><li id="menu-item-83" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83"><a href="https://iad.intaff.ku.ac.th/wordpress/?cat=15&#038;lang=en" class="menu-link"><span class="text-wrap">event&#038;news</span></a></li><li id="menu-item-879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-879"><a href="https://greencampus.ku.ac.th/gallery-2/" class="menu-link"><span class="text-wrap">gallery</span></a></li><li id="menu-item-4972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4972"><a href="https://greencampus.ku.ac.th/contact/" class="menu-link"><span class="text-wrap">contact</span></a></li></ul>
+			</nav><!-- #site-navigation -->
+
+			
+			
+					</div><!-- #site-navigation-wrap -->
+			
+		
+	
+				
+	<div class="oceanwp-mobile-menu-icon clr mobile-right">
+
+		
+		
+		
+		<a href="#" class="mobile-menu" aria-label="mobile menu">
+							<i class="fa fa-bars" aria-hidden="true"></i>
+								<span class="oceanwp-text">menu</span>
+
+						</a>
+
+		
+		
+		
+	</div><!-- #oceanwp-mobile-menu-navbar -->
+
+
+			</div><!-- #site-header-inner -->
+
+			
+			
+			
+		
+		
+</header><!-- #site-header -->
+
+
+			
+			<main id="main" class="site-main clr"  role="main">
+
+				
+	
+	<div id="content-wrap" class="container clr">
+
+		
+		<div id="primary" class="content-area clr">
+
+			
+			<div id="content" class="site-content clr">
+
+				
+				
+<article class="single-page-article clr">
+
+	
+<div class="entry clr" itemprop="text">
+
+	
+			<div data-elementor-type="wp-page" data-elementor-id="294" class="elementor elementor-294" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-47242e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="47242e3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-27aafa6 elementor-column elementor-col-100 elementor-top-column" data-id="27aafa6" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-834d244 elementor-widget elementor-widget-smartslider" data-id="834d244" data-element_type="widget" data-widget_type="smartslider.default">
+				<div class="elementor-widget-container">
+			<div class="n2-section-smartslider "><style>div#n2-ss-7{width:1600px;float:left;margin:0px 0px 0px 0px;}html[dir="rtl"] div#n2-ss-7{float:right;}div#n2-ss-7 .n2-ss-slider-1{position:relative;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;height:300px;border-style:solid;border-width:0px;border-color:#3e3e3e;border-color:rgba(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;}div#n2-ss-7 .n2-ss-slider-background-video-container{position:absolute;left:0;top:0;width:100%;height:100%;overflow:hidden;}div#n2-ss-7 .n2-ss-slider-2{position:relative;width:100%;height:100%;}.x-firefox div#n2-ss-7 .n2-ss-slider-2{opacity:0.99999;}div#n2-ss-7 .n2-ss-slider-3{position:relative;width:100%;height:100%;overflow:hidden;outline:1px solid rgba(0,0,0,0);z-index:10;}div#n2-ss-7 .n2-ss-slide-backgrounds,div#n2-ss-7 .n2-ss-slider-3 > .n-particles-js-canvas-el,div#n2-ss-7 .n2-ss-slider-3 > .n2-ss-divider{position:absolute;left:0;top:0;width:100%;height:100%;}div#n2-ss-7 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-7 .n2-ss-slider-3 > .n-particles-js-canvas-el{z-index:12;}div#n2-ss-7 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-7 .n2-ss-slide{position:absolute;top:0;left:0;width:100%;height:100%;z-index:20;display:block;-webkit-backface-visibility:hidden;}div#n2-ss-7 .n2-ss-layers-container{position:relative;width:1600px;height:300px;}div#n2-ss-7 .n2-ss-parallax-clip > .n2-ss-layers-container{position:absolute;right:0;}div#n2-ss-7 .n2-ss-slide{perspective:1500px;}div#n2-ss-7[data-ie] .n2-ss-slide{perspective:none;transform:perspective(1500px);}div#n2-ss-7 .n2-ss-slide-active{z-index:21;}div#n2-ss-7 .n2-ss-layer .n2-font-e10987854b2041f7ab4a4408354409db-hover{font-family: 'roboto';color: #37b7b3;font-size:218.75%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: italic;text-decoration: none;text-align: center;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 500;}div#n2-ss-7 .n2-style-bc1aad985e2a6f72b5605c170b90c668-heading{background: #ffffff;opacity:0.9;padding:0px 0px 0px 0px ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: rgba(0,0,0,1);border-radius:0px;}</style><div id="n2-ss-7-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-7" data-creator="smart slider 3" class="n2-ss-slider n2-ow n2-has-hover n2notransition  n2-ss-load-fade " data-minfontsizedesktopportrait="4" data-minfontsizedesktoplandscape="4" data-minfontsizetabletportrait="4" data-minfontsizetabletlandscape="4" data-minfontsizemobileportrait="4" data-minfontsizemobilelandscape="4" style="font-size: 16px;" data-fontsize="16">
+        <div class="n2-ss-slider-1 n2-ss-swipe-element n2-ow" style="">
+                        <div class="n2-ss-slider-2 n2-ow">
+                                <div class="n2-ss-slider-3 n2-ow" style="">
+
+                    <div class="n2-ss-slide-backgrounds"></div><div data-first="1" data-slide-duration="0" data-id="11" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-11"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><img data-hash="0ae3e28418c607798d8025e214b93c10" data-desktop="//greencampus.ku.ac.th/wp-content/uploads/2020/09/bg-7.jpg" data-blur="0" data-opacity="100" data-x="50" data-y="50" src="//greencampus.ku.ac.th/wp-content/uploads/2020/09/bg-7.jpg" alt="" /></div><div class="n2-ss-layers-container n2-ow" data-csstextalign="center" style=""><div class="n2-ss-layer n2-ow" style="overflow:visible;" data-csstextalign="inherit" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-pm="content" data-desktopportraitpadding="10|*|10|*|0|*|10|*|px+" data-desktopportraitinneralign="inherit" data-sstype="content" data-hasbackground="0" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="1" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-section-main-content n2-ss-layer-content n2-ow" style="padding:0.625em 0.625em 0em 0.625em ;" data-verticalalign="flex-end"><div class="n2-ss-layer n2-ow" style="margin:0em 0em 0em 1.875em ;max-width: 280px;overflow:visible;" data-pm="normal" data-desktopportraitmargin="0|*|0|*|0|*|30|*|px+" data-desktopportraitheight="0" data-has-maxwidth="1" data-desktopportraitmaxwidth="280" data-cssselfalign="left" data-desktopportraitselfalign="left" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div id="n2-ss-7item1" class="n2-font-e10987854b2041f7ab4a4408354409db-hover n2-style-bc1aad985e2a6f72b5605c170b90c668-heading   n2-ss-item-content n2-ow" style="display:block;">best practice</div></div></div></div></div></div>                </div>
+            </div>
+            
+        </div>
+        </div><div class="n2-clear"></div><div id="n2-ss-7-spinner" style="display: none;"><div><div class="n2-ss-spinner-simple-white-container"><div class="n2-ss-spinner-simple-white"></div></div></div></div></div></div><div id="n2-ss-7-placeholder" style="position: relative;z-index:2;background-color:rgba(0,0,0,0);max-height:3000px; background-color:rgba(255,255,255,0);"><img style="width: 100%; max-width:3000px; display: block;opacity:0;margin:0px;" class="n2-ow" src="data:image/svg+xml;base64,phn2zyb4bwxucz0iahr0cdovl3d3dy53my5vcmcvmjawmc9zdmciihzlcnnpb249ijeumcigd2lkdgg9ije2mdaiighlawdodd0imzawiia+pc9zdmc+" alt="slider" /></div></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-6ad64df elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6ad64df" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-2b4c29a elementor-column elementor-col-100 elementor-top-column" data-id="2b4c29a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0cade29 eael-dual-header-content-align-center elementor-invisible elementor-widget elementor-widget-eael-dual-color-header" data-id="0cade29" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeinup&quot;}" data-widget_type="eael-dual-color-header.default">
+				<div class="elementor-widget-container">
+			
+		        <div class="eael-dual-header">
+				<h2 class="title"><span  class="lead solid-color">bang</span> <span>kachao</span></h2>
+		<div class="eael-dch-separator-wrap"><span class="separator-one"></span>
+			<span class="separator-two"></span></div>		<span class="subtext"></span>
+				</div>
+	
+		
+		
+		
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-1110e6c elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="1110e6c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-833c6fe elementor-column elementor-col-50 elementor-top-column" data-id="833c6fe" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e5d88d4 elementor-invisible elementor-widget elementor-widget-image" data-id="e5d88d4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeinup&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="822" height="1024" src="https://greencampus.ku.ac.th/wp-content/uploads/2020/08/banggajao-822x1024-822x1024.jpg" class="attachment-large size-large" alt="" srcset="https://greencampus.ku.ac.th/wp-content/uploads/2020/08/banggajao-822x1024.jpg 822w, https://greencampus.ku.ac.th/wp-content/uploads/2020/08/banggajao-822x1024-241x300.jpg 241w, https://greencampus.ku.ac.th/wp-content/uploads/2020/08/banggajao-822x1024-768x957.jpg 768w" sizes="(max-width: 822px) 100vw, 822px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-83840fd elementor-column elementor-col-50 elementor-top-column" data-id="83840fd" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7917b75 elementor-widget elementor-widget-text-editor" data-id="7917b75" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><b>best practice: the project on restoring green areas in bang kobua , phra pradaeng, samut prakan or “bang kachao”</b></p><p><b>public services: </b></p><p>       to relate with the community requirements, the implementation framework and the goals for community development of bang krachao were established covering six dimensions. the kasetsart university’s experts who are an expertise of each field, set a plan to support the community development in various ways including the green area development, water management and riverbank erosion, waste management, career promotion, tourism, and the development of youth, education and culture. various types of activities strengthening the community were provided as the followings:   </p><p>       &#8211; teaching english to community members to be able to communicate with tourists.   </p><p>       &#8211; creating a roll-up presenting the knowledge on local herbal compress ball. </p><p>       &#8211; providing knowledge under the project on the laboratory analysis of veterinary technology </p><p>       &#8211; arranging knowledge transfer activities on plant production technology, production factor management, and value-adding.  </p><p>       &#8211; arranging knowledge transfer activities on the culture techniques of black soldier fly for composting organic wastes.</p><p>       &#8211; arranging knowledge transfer activities to enhance the well-being of society and community by generating more income, reducing wastes, and adding value to agricultural materials etc. </p><p>       additionally, the community members freely participated in, acknowledged any information, and shared their ideas to develop their community in a similar direction. they also applied the knowledge derived from the project to further develop bang kachao community sustainably.  </p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-732a192 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="732a192" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-23ebf13 elementor-column elementor-col-50 elementor-top-column" data-id="23ebf13" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0291fbe elementor-widget elementor-widget-text-editor" data-id="0291fbe" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><b>agricultural innovation: <br /></b></p><p><b>       </b>kasetsart university tries to provide academic services as social services to all areas of bang krachao community using various types of academic services implemented under the financial supports from some government projects, such as thailand 4.0 project. various innovations created were introduced to bang kachao community for improving various aspects of their livelihoods. the training was provided to educate farmers aiming to improve their quality of life or to collaborate with the private sector for innovation development. this is to elevate the potentials of competition in terms of both production and creation of various innovative products in order to add the value to the products for sales or any products that related to daily life, in accordance with the thailand 4.0 policies. </p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-da308ad elementor-column elementor-col-50 elementor-top-column" data-id="da308ad" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-99c8d2e elementor-widget elementor-widget-text-editor" data-id="99c8d2e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><b>socials engagement: </b></p><p>       currently, the development of green areas under the project “our khung bang kachao” are being implemented in collaboration with government and private agencies, and educational institutions namely royal forest department, shell thailand, ptt public company limited, office of natural resources and environmental policy and planning, charoen pokphand group, true corporation, bangchak corporation public company limited, kasetsart university. two working committee of green conservation groups were established at two levels: district level and khung bang krachao level, in order to work with the communities preparing for the implementation of green area development.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-2726275 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="2726275" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-add2770 elementor-column elementor-col-100 elementor-top-column" data-id="add2770" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2d13cf0 elementor-widget elementor-widget-text-editor" data-id="2d13cf0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><b>challenges: </b></p><p>       the main objective, which is the most important thing, of the development and conservation of green areas in bang kachao community is to make this area to be the lung of bangkok people. time magazine announced the green area of bang kachao as &#8220;the best urban oasis of asia&#8221; in 2006. then, it is further developed to be an ecotourism destination harmonizing with its ecosystem and local livelihoods by mobilizing knowledge and experts from various faculties and assisting bang kachao community to be a community with sustainable development. this can be also a role model for other communities. </p><p>       as kasetsart university is an academic institution that realizes the importance of green areas of khung bang kachao, a series of research projects “integrated research for sustainable ecological development of khung bang kachao” was carried out with a research action plan which was created and corresponding to the area and geosocial conditions. the series comprises of various research projects as follows: </p><p>       1) the research project on “diversity and utilization of insect for agro-ecological development of khung bang kachao”. the main responsible institution is the department of entomology, faculty of agriculture, kasetsart university.</p><p>       2) the research project on “horticulture for the sustainable green areas of khung bang kachao”. the main responsible institution is the department of horticulture, faculty of agriculture, kasetsart university.</p><p>       3) the research project on “the physical and biological resources of khung bang kachao”. the main responsible institution is the faculty of science, kasetsart university.</p><p>       4) the research project on “silviculture for ecodevelopment of sustainable green areas of khung bang kachao”. the main responsible institution is the faculty of forestry, kasetsart university.</p><p>       5) the research project on “architecture”. the main responsible institution is the faculty of architecture, kasetsart university. </p><p>       6) the research project on “development of sustainable creative tourism by khung bang kachao community”. the main responsible institution is the faculty of business administration, kasetsart university.</p><p>       7) the research project on “economic and social sustainability of the green areas of khung bang kachao”. the main responsible institution is the faculty of economics, kasetsart university.</p><p>       integrated research was applied in these studies in order to cover various dimensions in the equilibrium of three main perspectives i.e. society, economics and environment. then, apply the researches into practice in the community and achieve the project objectives and goals to maximize the benefits for the bang kachao community.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-c470705 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="c470705" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-648e2a2 elementor-column elementor-col-100 elementor-top-column" data-id="648e2a2" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-8aeebf4 elementor-widget elementor-widget-text-editor" data-id="8aeebf4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><b> opportunities </b></p><p>       the area development of bang kachao community is an academic service that focuses on providing social services which comply with the missions of kasetsart university on academic services for society, stated in the 12-year strategic plan of kasetsart university (2017-2028), strategy 1: creating the knowledge of the land for sustainable national development. kasetsart university has provided academic services in the areas around the university and other campuses. the projects on enhancement of sustainable bang kachao was implemented in 2019 in bang kobua, phra pradaeng, samut prakarn. in order to comply with the ongoing policy, kasetsart university has made the master plan for conservation and development of green areas of &#8220;khung bang kachao&#8221; to maintain the sustainability of the areas based on the basis of economics, society, and environment. the goal is to use the plan as a framework for conservation and development of khung bang kachao, based on three equilibrium of development principles, namely &#8220;economy, society and environment&#8221;. the public participation is also emphasized in the planning process with the best available information to ensure that this master plan is responsive for creating other implementation plan and for the future application of the green area conservation and development in khung bang kachao to enhance its sustainability.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+	
+</div>
+
+</article>
+
+				
+			</div><!-- #content -->
+
+			
+		</div><!-- #primary -->
+
+		
+	</div><!-- #content-wrap -->
+
+	
+
+	</main><!-- #main -->
+
+	
+	
+	
+		
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/wpfooter" role="contentinfo">
+
+	
+	<div id="footer-inner" class="clr">
+
+		
+
+<div id="footer-bottom" class="clr no-footer-nav">
+
+	
+	<div id="footer-bottom-inner" class="container clr">
+
+		
+		
+			<div id="copyright" class="clr" role="contentinfo">
+				<br>
+© 2020-2021 ku greencampus
+<br>
+<br>
+email : vbppd.psd@ku.th
+<br>
+<br>			</div><!-- #copyright -->
+
+			
+	</div><!-- #footer-bottom-inner -->
+
+	
+</div><!-- #footer-bottom -->
+
+
+	</div><!-- #footer-inner -->
+
+	
+</footer><!-- #footer -->
+
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a id="scroll-top" class="scroll-top-right" href="#"><span class="fa fa-angle-up" aria-label="scroll to the top of the page"></span></a>
+
+
+
+<div id="sidr-close">
+	<a href="#" class="toggle-sidr-close" aria-label="close mobile menu">
+		<i class="icon icon-close" aria-hidden="true"></i><span class="close-text">close menu</span>
+	</a>
+</div>
+
+	
+	
+<div id="mobile-menu-search" class="clr">
+	<form method="get" action="https://greencampus.ku.ac.th/" class="mobile-searchform" role="search" aria-label="search for:">
+		<label for="ocean-mobile-search1">
+			<input type="search" name="s" autocomplete="off" placeholder="search" />
+			<button type="submit" class="searchform-submit" aria-label="submit search">
+				<i class="icon icon-magnifier" aria-hidden="true"></i>
+			</button>
+					</label>
+			</form>
+</div><!-- .mobile-menu-search -->
+
+
+<script type='text/javascript'>
+/* <![cdata[ */
+var localize = {"ajaxurl":"https:\/\/greencampus.ku.ac.th\/wp-admin\/admin-ajax.php","nonce":"831c635ae4","i18n":{"added":"added ","compare":"compare","loading":"loading..."}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/uploads/essential-addons-elementor/04cd1177c.min.js?ver=1642189048'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/timeline-widget-addon-for-elementor/assets/js/twae-swiper.min.js'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/timeline-widget-addon-for-elementor/assets/js/twae-horizontal.js'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=1.8.6'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.8.6'></script>
+<script type='text/javascript'>
+/* <![cdata[ */
+var oceanwplocalize = {"isrtl":"","menusearchstyle":"disabled","sidrsource":"#sidr-close, #site-navigation, #mobile-menu-search","sidrdisplace":"1","sidrside":"left","sidrdropdowntarget":"link","verticalheadertarget":"link","customselects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.8.6'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-includes/js/wp-embed.min.js?ver=5.0.10'></script>
+<!--[if lt ie 9]>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/themes/oceanwp/assets/js/third/html5.min.js?ver=1.8.6'></script>
+<![endif]-->
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/bdthemes-prime-slider-lite/assets/js/bdt-uikit.min.js?ver=3.2'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.13'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.13'></script>
+<script type='text/javascript'>
+var elementorfrontendconfig = {"environmentmode":{"edit":false,"wppreview":false},"i18n":{"shareonfacebook":"share on facebook","shareontwitter":"share on twitter","pinit":"pin it","downloadimage":"download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.13","urls":{"assets":"https:\/\/greencampus.ku.ac.th\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorpreferences":[]},"post":{"id":294,"title":"best%20practice%20%e2%80%93%20greencampus","excerpt":"","featuredimage":false}};
+</script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.13'></script>
+<script type='text/javascript' src='https://greencampus.ku.ac.th/wp-content/plugins/bdthemes-prime-slider-lite/assets/js/prime-slider-site.min.js?ver=1.14.2'></script>
+</body>
+</html>

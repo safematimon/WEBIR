@@ -1,0 +1,619 @@
+
+
+
+
+
+
+
+
+<!doctype html>
+<!--[if lte ie 9]><html class="ie ie9 lte9" lang="th"><![endif]-->
+<!--[if !ie]><!--><html lang="th"><!--<![endif]-->
+<head dir="ltr">
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+  
+      <title>
+       นวัตกรรมและเทคโนโลยีดิจิทัลเพื่อการศึกษา | innovation and digital technology for education | thai mooc:lms
+      </title>
+  
+
+      <script type="text/javascript">
+        /* immediately break out of an iframe if coming from the marketing website */
+        (function(window) {
+          if (window.location !== window.top.location) {
+            window.top.location = window.location;
+          }
+        })(this);
+      </script>
+
+  
+
+  <script type="text/javascript" src="/static/js/i18n/th/djangojs.0ecce5587ff9.js"></script>
+  <script type="text/javascript" src="/static/js/ie11_find_array.bd1c6dc7a133.js"></script>
+
+  <link rel="icon" type="image/x-icon" href="/static/images/favicon.03ffbbf95a0d.ico" />
+
+  
+  
+
+    <link href="/static/css/lms-style-vendor.68e48093f5dd.css" rel="stylesheet" type="text/css" />
+
+
+
+    
+  
+
+    <link href="/static/css/lms-main-v1.css" rel="stylesheet" type="text/css" />
+
+
+
+
+    
+    <script type="text/javascript" src="/static/js/lms-main_vendor.a04b73033169.js" charset="utf-8"></script>
+
+
+    
+    <script type="text/javascript" src="/static/js/lms-application.7bec85e7ca02.js" charset="utf-8"></script>
+
+
+
+  
+    
+    
+    <script type="text/javascript" src="/static/bundles/commons.a9f02f27eddfc7fe9ab1.b601d075b3dc.js" ></script>
+
+
+
+  <script>
+    window.baseurl = "/static/";
+    (function (require) {
+      require.config({
+          baseurl: window.baseurl
+      });
+    }).call(this, require || requirejs.require);
+  </script>
+  <script type="text/javascript" src="/static/lms/js/require-config.38226099c6ad.js"></script>
+  
+    <script type="text/javascript">
+        (function (require) {
+          require.config({
+              paths: {
+                'js/courseware/courseware_factory': 'js/courseware/courseware_factory.1504fc10caef',
+'draggabilly': 'js/vendor/draggabilly.26caba6f7187',
+'js/courseware/toggle_element_visibility': 'js/courseware/toggle_element_visibility.d5f10bc65ed0',
+'hls': 'common/js/vendor/hls.8f15a0109b05',
+'js/courseware/link_clicked_events': 'js/courseware/link_clicked_events',
+'moment': 'common/js/vendor/moment-with-locales.084396f4103c',
+'moment-timezone': 'common/js/vendor/moment-timezone-with-data.60142e6c4416',
+'js/student_account/logistration_factory': 'js/student_account/logistration_factory.80f9f366e2ae',
+'js/groups/views/cohorts_dashboard_factory': 'js/groups/views/cohorts_dashboard_factory.7f46663f97b4',
+'js/dateutil_factory': 'js/dateutil_factory.841c29e02056',
+'course_bookmarks/js/views/bookmark_button': 'course_bookmarks/js/views/bookmark_button.d4cfaf3361fa',
+'js/courseware/accordion_events': 'js/courseware/accordion_events.6064c7809de5',
+'js/views/message_banner': 'js/views/message_banner.bc5a1361d5f5',
+'js/groups/discussions_management/discussions_dashboard_factory': 'js/discussions_management/views/discussions_dashboard_factory.2e10d9097343',
+'js/courseware/course_info_events': 'js/courseware/course_info_events.2fc35b57627f'
+            }
+          });
+        }).call(this, require || requirejs.require);
+    </script>
+  
+
+  
+  <meta property="og:title" content="นวัตกรรมและเทคโนโลยีดิจิทัลเพื่อการศึกษา | innovation and digital technology for education" />
+  <meta property="og:description" content="แนวคิด ทฤษฎีที่เกี่ยวข้องกับนวัตกรรมและเทคโนโลยีดิจิทัลเพื่อการศึกษา โดยมุ่งเน้นสมรรถนะผู้เรียนในการวิเคราะห์ปัญหา การออกแบบและพัฒนา การประยุกต์ใช้ จริยธรรม กฎหมายที่เกี่ยวข้องและผลกระทบทางนวัตกรรมและเทคโนโลยีดิจิทัลเพื่อการศึกษางรวมถึงการหาคุณภาพเครื่องมือก่อนการนำไปใช้วัดผลในรูปแบบต่าง ๆ" />
+
+  
+
+  
+
+
+  
+
+
+<script type="application/json" id="user-metadata">
+    {"username": "", "enrollment_mode": null, "upgrade_link": null, "user_id": null, "course_start": null, "upgrade_deadline": null, "course_key_fields": {"org": "ku", "run": "2019", "course": "ku004"}, "partition_groups": null, "has_non_audit_enrollments": null, "pacing_type": null, "upgrade_price": null, "course_id": "course-v1:ku+ku004+2019", "has_staff_access": null, "forum_roles": null, "enrollment_time": null, "schedule_start": null, "course_end": null}
+</script>
+
+  
+
+  
+
+
+  
+
+
+<!-- dummy segment -->
+<script type="text/javascript">
+  var analytics = {
+    track: function() { return; },
+    tracklink: function() { return; },
+    pageview: function() { return; },
+    page: function() { return; }
+  };
+</script>
+<!-- end dummy segment -->
+
+
+  <meta name="path_prefix" content="">
+  
+  
+
+  <meta name="openedx-release-line" content="ironwood" />
+
+<!-- global site tag (gtag.js) - google analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=ua-161207562-1"></script>
+<script>
+  window.datalayer = window.datalayer || [];
+  function gtag(){datalayer.push(arguments);}
+  gtag('js', new date());
+
+  gtag('config', 'ua-161207562-1');
+</script>
+
+
+
+
+</head>
+
+<body class="ltr  lang_th">
+
+
+<div id="page-prompt"></div>
+  <div class="window-wrap" dir="ltr">
+    <a class="nav-skip sr-only sr-only-focusable" href="#main">ข้ามไปที่เนื้อหาหลัก</a>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="global-header slim">
+    <div class="main-header">
+        
+
+
+
+
+
+<h1 class="header-logo">
+  <a href="/dashboard">
+    
+    <img  class="logo" src="/static/images/logo.4ff3a16ed00a.png" alt="thai mooc:lms home page"/>
+    
+  </a>
+    <div class="course-header">
+      <span class="provider">ku:</span>
+      <span class="course-number">ku004</span>
+      
+      <span class="course-name">นวัตกรรมและเทคโนโลยีดิจิทัลเพื่อการศึกษา | innovation and digital technology for education</span>
+    </div>
+</h1>
+
+        <div class="hamburger-menu" role="button" aria-label=options menu aria-expanded="false" aria-controls="mobile-menu" tabindex="0">
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="line"></span>
+        </div>
+            
+
+
+
+
+
+
+
+
+<nav class="nav-links" aria-label=supplemental links>
+  <div class="main">
+      <div class="mobile-nav-item hidden-mobile nav-item">
+        <a href="/courses">explore courses</a>
+      </div>
+  </div>
+  <div class="secondary">
+    <div>
+            <div class="mobile-nav-item hidden-mobile nav-item">
+              <!-- <a class="register-btn btn" href="/register?next=%2fcourses%2fcourse-v1%3aku%2bku004%2b2019%2fabout">ลงทะเบียน</a> -->
+              <a class="register-btn btn" href="/auth/login/common-oauth2-backend/">ลงทะเบียน</a>
+            </div>
+          <div class="mobile-nav-item hidden-mobile nav-item">
+            <!-- <a class="sign-in-btn btn" href="/login?next=%2fcourses%2fcourse-v1%3aku%2bku004%2b2019%2fabout">เข้าสู่ระบบ</a> -->
+            <a class="sign-in-btn btn" href="/auth/login/common-oauth2-backend/">เข้าสู่ระบบ</a>
+          </div>
+    </div>
+  </div>
+</nav>
+
+    </div>
+    <div class="mobile-menu hidden" aria-label=more options role="menu" id="mobile-menu"></div>
+</header>
+
+<!--[if lte ie 9]>
+<div class="ie-banner" aria-hidden="true"><strong>warning:</strong> your browser is not fully supported. we strongly recommend using <a href="https://www.google.com/chrome" rel="noopener" target="_blank">chrome</a> or <a href="http://www.mozilla.org/firefox" rel="noopener" target="_blank">firefox</a>.</div>
+<![endif]-->
+
+
+
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    <div class="marketing-hero"></div>
+
+    <div class="content-wrapper main-container" id="content" dir="ltr">
+      
+
+
+
+
+
+
+
+
+
+
+<section class="course-info">
+
+  
+  <header class="course-profile">
+    <div class="intro-inner-wrapper">
+      <div class="table">
+      <section class="intro">
+        <div class="heading-group">
+          <h1>
+            นวัตกรรมและเทคโนโลยีดิจิทัลเพื่อการศึกษา | innovation and digital technology for education
+          </h1>
+          <br />
+          <span>ku</span>
+        </div>
+
+        <div class="main-cta">
+          
+          <a href="#" class="register">
+            enroll in ku004
+          </a>
+          <div id="register_error"></div>
+        </div>
+
+      </section>
+      <a href="#video-modal" class="media" rel="leanmodal">
+        <div class="hero">
+          <img src="/asset-v1:ku+ku004+2019+type@asset+block@ku004_-_banner.png" alt="" />
+          <div class="play-intro"></div>
+        </div>
+      </a>
+    </div>
+      </div>
+  </header>
+  
+
+  <div class="container">
+
+    
+    <div class="details">
+
+      <div class="inner-wrapper">
+        <h3 style="color: #008080;">รายวิชานี้ได้ปรับเป็นการเรียนรู้ด้วยตนเองตามอัธยาศัย (self-paced learning)</h3>
+<section class="about">
+  <img src="/assets/courseware/v1/acbc92d9f63b6fbd59cf6901f84e72c2/asset-v1:ku+ku004+2019+type@asset+block/about.png" width="200" alt="cc">  <br/><br/>
+  <p>แนวคิด ทฤษฎีที่เกี่ยวข้องกับนวัตกรรมและเทคโนโลยีดิจิทัลเพื่อการศึกษา โดยมุ่งเน้นสมรรถนะผู้เรียนในการวิเคราะห์ปัญหา การออกแบบและพัฒนา การประยุกต์ใช้ จริยธรรม กฎหมายที่เกี่ยวข้องและผลกระทบทางนวัตกรรมและเทคโนโลยีดิจิทัลเพื่อการศึกษางรวมถึงการหาคุณภาพเครื่องมือก่อนการนำไปใช้วัดผลในรูปแบบต่าง ๆ
+</p> 
+</section>
+
+<section class="prerequisites">
+  <img src="/assets/courseware/v1/6b32e74db2f1d161bd7da048f4e9bcd1/asset-v1:ku+ku004+2019+type@asset+block/time.png" width="200" alt="cc">  <br/><br/>
+  <p>จำนวนชั่วโมงเรียนรู้ทั้งหมด 5 ชั่วโมงเรียนรู้ (จำนวนชั่วโมงสื่อวีดิทัศน์ 1 ชั่วโมง 45 นาที)</p>
+</section> 
+    
+<section class="prerequisites">
+  <img src="/assets/courseware/v1/2170587f6527ed27a1978f6f7f0278ab/asset-v1:ku+ku004+2019+type@asset+block/objective.png" width="200" alt="cc"><br/><br/>
+  <p>1. ผู้เรียนสามารถอธิบายหลักการ แนวคิดและทฤษฎีพื้นฐานที่เกี่ยวข้องกับการออกแบบและพัฒนานวัตกรรมและเทคโนโลยีดิจิทัลเพื่อการศึกษาได้</p>  
+  <p>2. ผู้เรียนมีความสามารถพื้นฐานในการประยุกต์ใช้ และการประเมินนวัตกรรมและเทคโนโลยีดิจิทัลเพื่อการศึกษาได้</p>
+  <p>3. ผู้เรียนมีความสามารถพื้นฐานในการวิเคราะห์ปัญหา และจริยธรรม กฎหมายที่เกี่ยวข้องและผลกระทบทางนวัตกรรมและเทคโนโลยีดิจิทัลได้</p>
+</section> 
+
+<section class="prerequisites">
+  <img src="/assets/courseware/v1/89c611f7427b6267077754a4f8074488/asset-v1:ku+ku004+2019+type@asset+block/student.png" width="200" alt="cc">  <br/>  <br/>
+  <p>นักเรียน นักศึกษา และประชาชนทั่วไป ทุกเพศ ทุกวัย ที่สนใจสามารถเรียนได้ </p>
+</section> 
+<section class="prerequisites">
+  <img src="/assets/courseware/v1/c42aad0e2a39f55f576575fcfec4ac27/asset-v1:ku+ku004+2019+type@asset+block/measure.png" width="200" alt="cc"><br/><br/>
+  <p>เข้าทำแบบทดสอบก่อนเรียน กิจกรรมในบทเรียน แบบทดสอบระหว่างเรียน และแบบทดสอบหลังเรียน </p>
+<p>ผู้เรียนมีคะแนนรวมทั้งหมดไม่ต่ำกว่า 70% ถือว่าผ่านเกณฑ์เพื่อรับประกาศนียบัตรในระบบได้ </p>
+</section> 
+
+<section class="course-staff">
+  <img src="/assets/courseware/v1/b3de0e0967c75a9ce6e13a01ff9c7b40/asset-v1:ku+ku004+2019+type@asset+block/teacher.png" width="200" alt="cc"><br/><br/> 
+  <article class="teacher">
+    <div class="teacher-image">
+      <img src="/assets/courseware/v1/e11af8b2c52e70e5d7d7177f1d4d3ca0/asset-v1:ku+ku004+2019+type@asset+block/ku004_-_teacher1.jpg" align="left" style="margin:0 20 px 0" alt="course staff image #1">
+    </div>
+
+    <h4 style="color: #006666;">อาจารย์ผู้รับผิดชอบรายวิชาหลัก</h4>
+<p>รศ.ดร.ณัฐพล รำไพ<br/> 
+หัวหน้าภาควิชาเทคโนโลยีการศึกษา คณะศึกษาศาสตร์ มหาวิทยาลัยเกษตรศาสตร์<br/>
+  </article>
+
+  <article class="teacher">
+    <div class="teacher-image">
+      <img src="/assets/courseware/v1/3f76c5463a6fa49546f54c3c9f3cb466/asset-v1:ku+ku004+2019+type@asset+block/ku004_-_teacher2.jpg" align="left" style="margin:0 20 px 0" alt="course staff image #2">
+    </div>
+
+    <h4 style="color: #006666;">อาจารย์ผู้รับผิดชอบรายวิชาร่วม</h4>
+<p>ผศ.ดร.สูติเทพ ศิริพิพัฒนกุล<br/> 
+อาจารย์ประจำภาควิชาเทคโนโลยีการศึกษา คณะศึกษาศาสตร์ มหาวิทยาลัยเกษตรศาสตร์<br/>
+</br><h2 style="color: #0000cc;">ช่องทางติดต่อทีมผู้สอน</h2>
+<p> e-mail drnattaphon@gmail.com</p>
+  </article>
+
+</section>
+  <img src="/assets/courseware/v1/aa7b35f3f909dfe2833d47f541f1f902/asset-v1:ku+ku004+2019+type@asset+block/cc-update.png" width="600" alt="cc">
+      </div>
+    </div>
+    
+
+    <div class="course-sidebar">
+      <div class="course-summary">
+
+        
+
+
+<header>
+  <div class="social-sharing">
+    <div class="sharing-message">แบ่งปันให้เพื่อนและครอบครัว</div>
+      
+      <a href="http://twitter.com/intent/tweet?text=ฉันเพิ่งลงทะเบียนสำหรับ+ku004+นวัตกรรมและเทคโนโลยีดิจิทัลเพื่อการศึกษา+|+innovation+and+digital+technology+for+education++ผ่าน+@thai-mooc:+https://lms.thaimooc.org%2fcourses%2fcourse-v1%3aku%2bku004%2b2019%2fabout" class="share">
+        <span class="icon fa fa-twitter" aria-hidden="true"></span><span class="sr">ทวีตว่าคุณได้ทำการลงทะเบียนหลักสูตรนี้แล้ว</span>
+      </a>
+      <a href="http://www.facebook.com/thaimooc" class="share">
+        <span class="icon fa fa-thumbs-up" aria-hidden="true"></span><span class="sr">โพสต์ข้อความบนเฟซบุคเพื่อบอกว่าคุณลงทะเบียนหลักสูตรนี้แล้ว</span>
+      </a>
+      <a href="mailto:?subject=เรียนหลักสูตรด้วย%20%20thai%20mooc:lms%20ออนไลน์&body=ฉันเพิ่งลงทะเบียนสำหรับ%20ku004%20นวัตกรรมและเทคโนโลยีดิจิทัลเพื่อการศึกษา%20|%20innovation%20and%20digital%20technology%20for%20education%20ผ่าน%20thai%20mooc:lms%20https://lms.thaimooc.org%2fcourses%2fcourse-v1%3aku%2bku004%2b2019%2fabout" class="share">
+        <span class="icon fa fa-envelope" aria-hidden="true"></span><span class="sr">ส่งอีเมล์ไปบอกใครสักคนว่าคุณได้ลงทะเบียนเรียบร้อยแล้ว</span>
+      </a>
+  </div>
+</header>
+
+
+        
+        <ol class="important-dates">
+          <li class="important-dates-item"><span class="icon fa fa-info-circle" aria-hidden="true"></span><p class="important-dates-item-title">รหัสรายวิชา</p><span class="important-dates-item-text course-number">ku004</span></li>
+              
+            <li class="important-dates-item">
+              <span class="icon fa fa-calendar" aria-hidden="true"></span>
+              <p class="important-dates-item-title">วันเปิดเรียน</p>
+                  
+                  <span class="important-dates-item-text start-date localized_datetime" data-format="shortdate" data-datetime="2020-04-15t00:00:00+0000" data-language="th"></span>
+            </li>
+
+            <li class="important-dates-item"><span class="icon fa fa-pencil" aria-hidden="true"></span><p class="important-dates-item-title">จำนวนชั่วโมงที่นำแนะต่อสัปดาห์</p><span class="important-dates-item-text effort">1-2 hours per week</span></li>
+
+
+
+
+        </ol>
+        
+    </div>
+
+      
+       
+
+
+
+
+
+
+
+
+    
+    
+    <script type="text/javascript" src="/static/bundles/coursetalkreviews.28bdc366155bcf9d6684.b1cdac9bc773.js" ></script>
+      <script type="text/javascript">
+        
+    new coursetalkreviews({
+        togglebutton: '.toggle-read-write-reviews',
+        loadicon: '.coursetalk-read-reviews .fa.fa-spinner',
+        readsrc: "//d3q6qq2zt8nhwv.cloudfront.net/s/js/widgets/coursetalk\u002dread\u002dreviews.js",
+        writesrc: "//d3q6qq2zt8nhwv.cloudfront.net/s/js/widgets/coursetalk\u002dwrite\u002dreviews.js"
+    });
+
+      </script>
+
+
+      
+
+
+  </div>
+
+  </div>
+</div>
+
+  <div style="display: none;">
+    <form id="class_enroll_form" method="post" data-remote="true" action="/change_enrollment">
+      <fieldset class="enroll_fieldset">
+        <legend class="sr">enroll</legend>
+        <input name="course_id" type="hidden" value="course-v1:ku+ku004+2019">
+        <input name="enrollment_action" type="hidden" value="enroll">
+      </fieldset>
+      <div class="submit">
+        <input name="submit" type="submit" value="enroll">
+      </div>
+    </form>
+  </div>
+
+
+
+
+<div id="video-modal" class="modal video-modal">
+  <div class="inner-wrapper">
+    <iframe title="youtube video" width="560" height="315" src="//www.youtube.com/embed/xfrroqvfdjy?rel=0" frameborder="0" allowfullscreen=""></iframe>
+  </div>
+</div>
+
+
+
+  
+  <script type="text/javascript">
+    (function (require) {
+        require(['/static/js/dateutil_factory.841c29e02056.js?raw'], function () {
+          require(['js/dateutil_factory'], function (dateutilfactory) {
+            
+    dateutilfactory.transform(iterationkey=".localized_datetime");
+
+          });
+        });
+    }).call(this, require || requirejs.require);
+  </script>
+
+
+      
+    </div>
+
+        
+
+
+
+
+  <div class="wrapper wrapper-footer">
+    <footer id="footer-openedx" class="grid-container"
+    >
+      <div class="colophon">
+        <nav class="nav-colophon" aria-label="เกี่ยวกับ">
+          <ol>
+              <li class="nav-colophon-01">
+                <!--  <a id="about" href="/about">เกี่ยวกับ</a>  -->
+              </li>
+              <li class="nav-colophon-02">
+                <!--  <a id="blog" href="/blog">บล็อก </a>  -->
+              </li>
+              <li class="nav-colophon-03">
+                <!--  <a id="contact" href="/support/contact_us">ติดต่อ</a>  -->
+              </li>
+              <li class="nav-colophon-04">
+                <!--  <a id="donate" href="/donate">บริจาค</a>  -->
+              </li>
+          </ol>
+        </nav>
+
+
+        <div class="wrapper-logo">
+          <p>
+            <a href="/">
+              <img alt="organization logo" src="https://lms.thaimooc.org/static/images/logo.4ff3a16ed00a.png">
+            </a>
+          </p>
+        </div>
+
+        <p class="copyright">© thai mooc:lms.  all rights reserved except where noted.  edx, open edx and their respective logos are registered trademarks of edx inc. </p>
+
+        <nav class="nav-legal" aria-label="ถูกกฏหมาย">
+          <ul>
+              <li class="nav-legal-01">
+                <a href="/privacy">นโยบายความเป็นส่วนตัว</a>
+              </li>
+              <li class="nav-legal-02">
+                <a href="/tos">เงื่อนไขการให้บริการ</a>
+              </li>
+              <li class="nav-legal-03">
+                <a href="/honor">เกียรติคุณ</a>
+              </li>
+            <li><a href="https://www.edx.org/?utm_medium=affiliate_partner&amp;utm_source=opensource-partner&amp;utm_content=open-edx-partner-footer-link&amp;utm_campaign=open-edx-footer">take free online courses at edx.org</a></li>
+          </ul>
+        </nav>
+      </div>
+
+      <div class="footer-about-openedx">
+        <p>
+          <a href="http://open.edx.org">
+            <img src="https://files.edx.org/openedx-logos/edx-openedx-logo-tag.png" alt="โดย open edx" width="140" />
+          </a>
+        </p>
+      </div>
+    </footer>
+  </div>
+
+
+  </div>
+
+  
+  
+  <script type="text/javascript">
+  (function() {
+    $(".register").click(function(event) {
+      $("#class_enroll_form").submit();
+      event.preventdefault();
+    });
+
+
+
+    $('#class_enroll_form').on('ajax:complete', function(event, xhr) {
+      if(xhr.status == 200) {
+        if (xhr.responsetext == "") {
+          location.href = "/dashboard";
+        }
+        else {
+          location.href = xhr.responsetext;
+        }
+      } else if (xhr.status == 403) {
+          //location.href = "/register?course_id=course-v1:ku+ku004+2019&enrollment_action=enroll";
+          // punsarn
+          var login_url = "/auth/login/common-oauth2-backend/";
+          location.href = login_url + "?next=" + encodeuricomponent(location.href);
+      } else {
+        $('#register_error').text(
+            (xhr.responsetext ? xhr.responsetext : "เกิดข้อผิดพลาด กรุณาลองใหม่อีกครั้ง")
+        ).css("display", "block");
+      }
+    });
+
+
+  })(this)
+  </script>
+
+  <script src="/static/js/course_info.bf6c8c179dab.js"></script>
+
+
+  
+
+
+
+  <script type="text/javascript" src="/static/js/vendor/noreferrer.aa62a3e70ffa.js" charset="utf-8"></script>
+  <script type="text/javascript" src="/static/js/utils/navigation.08930e16ab3d.js" charset="utf-8"></script>
+  <script type="text/javascript" src="/static/js/header/header.309a1243e175.js"></script>
+  
+</body>
+</html>
+
+

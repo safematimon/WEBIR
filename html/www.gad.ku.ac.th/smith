@@ -1,0 +1,162 @@
+<!doctype html public "-//w3c//dtd html 4.01 transitional//en">
+<html>
+
+<head>
+<meta http-equiv="content-language" content="th">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="generator" content="microsoft frontpage 5.0">
+<meta name="progid" content="frontpage.editor.document">
+<title>กองกลาง สำนักงานอธิการบดี</title>
+</head>
+
+
+<body background="pichtml/pppd/sea.jpg" topmargin="0" leftmargin="0">
+<script language="javascript">
+<!--
+
+ns6 = document.getelementbyid;
+ns  = document.layers;
+ie  = document.all;
+
+/*******************[accesscss]***********************************/
+function accesscss(layerid)	{    																//
+  if(ns6){ return document.getelementbyid(layerid).style;}     //
+   else if(ie){ return document.all[layerid].style; }         //
+    else if(ns){ return document.layers[layerid]; }          //
+}/***********************************************************/
+
+
+/**************************[move layer]*************************************/
+function move(layer,x,y)  { accesscss(layer).left=x; accesscss(layer).top = y; } 
+
+
+function browserbredde() {
+	if (window.innerwidth) return window.innerwidth;
+	else if (document.body.clientwidth) return document.body.clientwidth;
+	else return 1024;
+}
+
+function browserhoyde() {
+
+    	if (window.innerheight) return window.innerheight;
+    	else if (document.body.clientheight) return document.body.clientheight;
+    	else return 800;
+}
+
+
+
+function makediv(objname,content)
+{	  
+	  // positiontype could be 'absolute' or 'relative'
+	  var odiv = document.createelement ("div");
+    odiv.id = objname;
+    odiv.style.width = 24;
+		odiv.style.height= 24;
+		odiv.innerhtml=content;
+		odiv.style.position = "absolute";
+		odiv.style.left=-2000;
+		odiv.style.top=-2000;
+		odiv.style.overflow="hidden";
+    document.body.appendchild (odiv);
+		delete odiv;
+}
+
+var snowc=0;
+var x = new array();
+var y = new array();
+var speed = new array();
+var t=0;
+var cc = new array();
+var ra = new array();
+var sum_snowc = 0;
+var alive = new array();
+
+var snohaug = new array();
+var maxwidth=browserbredde()-60;
+var maxheight = browserhoyde();
+
+
+for (t=0;t<math.round(maxwidth/10);t++) snohaug[t] = maxheight-10;
+
+
+function makesnow() {
+	sum_snowc++;
+	x[snowc] = math.round(math.random()*maxwidth);
+	y[snowc] = 10;
+	speed[snowc] = math.round(math.random()*8)+1;
+	var bilde="pichtml/pppd/bgsnow1.gif";
+	if (speed[snowc]<3)  bilde="pichtml/pppd/bgsnow4.gif";
+	 else if (speed[snowc]<6) bilde="pichtml/pppd/bgsnow3.gif";
+	  else if (speed[snowc]<8) bilde="pichtml/pppd/bgsnow2.gif";
+	
+	alive[snowc] = true;
+	makediv("snow"+snowc,'<img src="'+bilde+'">');
+	
+	cc[snowc]=math.random()*10;
+	ra[snowc] = math.random()*7;
+	snowc++;
+	
+}
+
+
+function deletesnow(nr) {
+	sum_snowc--;
+	alive[nr] = false;
+	snohaug[math.round(x[nr]/10)]-=7;
+	
+	
+}
+
+
+function movesnow() {
+	var r = math.round(math.random()*100);
+	if (r>70 && sum_snowc<20) makesnow();
+
+	for (t=0;t<snowc;t++) {
+		if (alive[t]) {
+				y[t]+=speed[t];move("snow"+t,x[t],y[t]);
+				if (y[t]>snohaug[math.round(x[t]/10)]) deletesnow(t);
+				
+				cc[t]+=0.01;
+				x[t]+=math.cos(cc[t]*ra[t]);
+				if (x[t]>maxwidth) x[t] -= 5;
+				else if (x[t]<10) x[t] = 10;
+		}
+		
+	}
+	
+//	settimeout('movesnow()',20);
+}
+
+var snowid = "jau";
+snowid = setinterval('movesnow()',10);
+
+
+//========================[sound variables - checking for sound] ===================================//
+var nssound = navigator.plugins && navigator.plugins["liveaudio"];  
+var iesound = navigator.plugins && document.all;		   						 
+var audioenabled = nssound || iesound;				  									
+
+
+
+function newcontent(layernm,content) { 
+	if (ns6) document.getelementbyid(layernm).innerhtml=content;
+	else if (ie) document.all[layernm].innerhtml=content;
+	else if (ns) {					
+    eval('  document.layers["'+layernm+'"].document.open();');			
+    eval("  document.layers['"+layernm+"'].document.write('"+content+"');");     
+    eval('  document.layers["'+layernm+'"].document.close();');		     
+  } 
+}
+
+//--------------------------------[stop]--------------------------------------
+//-->
+</script>
+<p align="center"><br>
+<img src="pichtml/pppd/main_index.gif" alt="" width="900" height="697" usemap="#map" border="0"/>
+<map name="map">
+  <area shape="rect" coords="341,570,565,619" href="http://kugad.ku.ac.th/" target="_parent">
+</map>
+</p>
+</body>
+</html>

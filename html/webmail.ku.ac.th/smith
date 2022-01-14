@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>ku webmail</title>
+
+    <!-- bootstrap core css -->
+    <link href="./bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- custom styles for this template -->
+    <link href="album.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <header>
+      <div class="navbar navbar-dark bg-dark box-shadow">
+        <div class="container d-flex justify-content-between">
+          <a href="https://webmail.ku.ac.th/" class="navbar-brand d-flex align-items-center"> 
+	<img src="./image/logo.svg" width="24" height="30" alt="ku webmail">&nbsp;&nbsp;
+            <strong>ku webmail</strong>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <main role="main">
+
+      <section class="text-center">
+	<br>
+        <div class="container">
+          <h1 class="jumbotron-heading">บริการจดหมายอิเล็กทรอนิกส์</h1>
+	<!--p>
+	<br>
+	<a href="https://kuwebmail.ku.ac.th/roundcube/index.php"><img class="img-fluid" src="./image/webmail_new1.png" alt=""></a>
+	</p-->
+	<div class="row justify-content-around">
+    <div class="col-4">
+	    <img class="img-fluid" src="./image/130manstudent2_100617.png" width="256" height="256">
+            <a href="https://accounts.google.com/servicelogin?continue=https%3a%2f%2fmail.google.com%2fmail%2f&ltmpl=default&hd=ku.th&service=mail&sacu=1&rip=1" class="btn btn-info btn-block my-2">สำหรับนิสิต<br>ku-google</a>
+            <p>
+		<ul class="text-muted text-left">
+		 <li><a class="text-muted" href="https://accounts.google.com/servicelogin?continue=https%3a%2f%2fmail.google.com%2fmail%2f&ltmpl=default&hd=ku.th&service=mail&sacu=1&rip=1" target="_blank">mail ku-google (@ku.th) *บัญชีทางการ</a></li>
+		 <li><a class="text-muted" href="http://365.ku.ac.th" target="_blank">mail ku-office365 (@live.ku.th)</a></li>
+		</ul>
+	   </p>
+    </div>
+    <div class="col-4">
+	    <img class="img-fluid" src="./image/154manofficeworker2_100459.png" width="256" height="256">
+            <a href="https://webmail.ku.ac.th/roundcube/" class="btn btn-success btn-block my-2">สำหรับบุคลากร<br>ku-nontri</a>
+            <p>
+		<ul class="text-muted text-left">
+		 <li><a class="text-muted" href="https://webmail.ku.ac.th/roundcube/">mail ku-nontri (@ku.ac.th) *บัญชีทางการ</a></li>
+		 <li><a class="text-muted" href="https://accounts.google.com/servicelogin?continue=https%3a%2f%2fmail.google.com%2fmail%2f&
+ltmpl=default&hd=ku.th&service=mail&sacu=1&rip=1" target="_blank">mail ku-google (@ku.th)</a></li>
+		 <li><a class="text-muted" href="http://365.ku.ac.th" target="_blank">mail ku-office365 (@live.ku.th)</a></li>
+		</ul>
+	   </p>
+    </div>
+  </div>
+<br>
+	<p class="lead text-muted">
+	<!--
+	สำนักบริการคอมพิวเตอร์ได้พัฒนาระบบ <code class="highlighter-rouge">email nontri</code> ใหม่ภายใต้โดเมน <code class="highlighter-rouge">@ku.ac.th</code> สำหรับบุคลากร โดยขยายพื้นที่ให้บริการจาก  <code class="highlighter-rouge">10gb</code> เป็น  <code class="highlighter-rouge">20gb</code> และให้รองรับอุปกรณ์ที่หลากหลาย เชื่อมต่อระบบ ku all-login ขยายเวลาการยกเลิกระบบเว็บเมลเดิม เพื่อบรรเทาผลกระทบจากสถานการณ์แพร่ระบาดของไวรัสโควิด-19  โดยจะปรับใช้ระบบเว็บเมลใหม่ทดแทนระบบเดิม ในวันที่ 30 มิถุนายน 2563
+	<a class="text-info stretched-link" target="_blank" href="https://docs.google.com/document/d/1ejbqjbgoi6rlmjsmpvsvubph7xsqqauqbuowpzyvpe8/edit">คู่มือการใช้งานเว็บเมลใหม่ </a>
+	-->
+	<ul class="text-muted text-left">
+		<li>นิสิตรหัส 58 เป็นต้นไปไม่มีบัญชีอีเมลในรูปแบบ @ku.ac.th โดยมีอีเมลในรูปแบบ @ku.th แทน</li>
+		<li>บุคลากร มหาวิทยาลัยเกษตรศาสตร์ถือว่าบัญชีทางการยังคงอยู่ภายใต้โดเมน @ku.ac.th เพื่อเข้าถึงระบบสารสนเทศของมหาวิทยาลัย  และขอให้บุคลากรใช้อีเมล @ku.ac.th  ตามมติคณะรัฐมนตรีเมื่อวันที่ 18 ธันวาคม 2550 เรื่องจดหมายอิเล็กทรอนิกส์เพื่อการสื่อสารในภาครัฐ <a class="text-muted" href="https://cabinet.soc.go.th/soc/program2-3.jsp?top_serl=214823" target="_blank">รายละเอียด</a></li>
+		<!--li>ศิษย์เก่า ขอมีบัญชี ku-google ได้ สามารถกรอกแบบฟอร์มออนไลน์ได้ <a class="text-muted" href="https://docs.google.com/a/ku.th/forms/d/e/1faipqlscfjcybf1zjllzd8d0qnbrtymyt_mjv6crdmit01cdhcksnqq/viewform" target="_blank">ที่นี่</a></li-->
+	</u>
+	</p>
+        </div>
+      </section>
+
+<!--
+  <div class="col">
+        <div class="col align-self-center">
+         <a href="https://webmail.ku.ac.th/roundcube/"><img class="img-fluid" src="./image/webmail_old.png" alt="" width="483" height="190"></a>
+         <a href="https://webmail.ku.ac.th/roundcube/" class="btn btn-lg btn-info btn-block navbar-brand" role="button">เข้าสู่ระบบ<br>ku webmail ปัจจุบัน</a>
+        </div>
+     </div>
+
+     <div class="col">
+        <div class="col align-self-center">
+         <a href="https://kuwebmail.ku.ac.th/roundcube/index.php"><img class="img-fluid" src="./image/webmail_new.png" alt="" width="483" height="190"></a>
+         <a href="https://kuwebmail.ku.ac.th/roundcube/index.php" class="btn btn-lg btn-info btn-block navbar-brand" role="button">เข้าสู่ระบบ<br>ku webmail ใหม่</a>
+        </div>
+     </div>
+-->
+<!--
+      <div class="album py-5 bg-light">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-6">
+              <div class="card mb-6 box-shadow">
+                <img class="card-img-top" data-src="./image/webmail_old.png" alt="">
+                <div class="card-body">
+                  <p class="card-text">https://webmail.ku.ac.th/roundcube/</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">view</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">edit</button>
+                    </div>
+                    <small class="text-muted">9 mins</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="card mb-6 box-shadow">
+                <img class="card-img-top" data-src="./image/webmail_new.png" alt="card image cap">
+                <div class="card-body">
+                  <p class="card-text">https://kuwebmail.ku.ac.th/roundcube/index.php</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">view</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">edit</button>
+                    </div>
+                    <small class="text-muted">9 mins</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+        </div>
+      </div>
+-->
+
+    </main>
+
+    <footer class="text-muted">
+      <div class="container" align="center">
+	<p class="mt-5 mb-3 text-muted">&copy; 2020 office of computer service - kasetsart university </p>
+      </div>
+    </footer>
+
+  </body>
+</html>

@@ -1,0 +1,951 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/static/favicon.ico">
+
+    <title>ku-tcas 65</title>
+
+    <!-- bootstrap core css -->
+    <link href="/static/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zck9k+qnfur5x+ckl9eir+zohtilonl9giks57v1mynsypycurueqc9vnfzswfv28iall3i96p9sdnyerssa==" crossorigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css?family=prompt" rel="stylesheet"> 
+    <!-- custom styles for this template -->
+    <link href="/static/css/base.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-kj3o2dktikvyik3uenzmm7kckrr/re9/qpg6aazgjwfdmvna/gpgff93hxpg5kkn" crossorigin="anonymous"></script>
+    <script>window.jquery || document.write('<script src="/static/lib/bootstrap/assets/js/vendor/jquery.min.js"><\/script>')</script>
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+      <a class="navbar-brand" href="/">ku-tcas'65</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsexampledefault" aria-controls="navbarsexampledefault" aria-expanded="false" aria-label="toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </nav>
+
+    
+<!-- main jumbotron for a primary marketing message or call to action -->
+<div id="main_jumbotron_id" class="jumbotron">
+  <div class="container">
+    <div class="float-right">
+      <img class="d-md-block d-none" src="/static/img/ku-logo.png" />
+      <img class="d-md-none" src="/static/img/ku-logo-sm.png" />
+    </div>
+    <h1 class="display-4 d-md-inline d-none">การรับสมัครเข้าศึกษาต่อมหาวิทยาลัยเกษตรศาสตร์ ปีการศึกษา 2565</h1>
+    <h1 class="display-5 d-md-none">การรับสมัครเข้าศึกษาต่อมหาวิทยาลัยเกษตรศาสตร์ ปีการศึกษา 2565</h1>
+    <div style="clear: both;"></div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="alert alert-warning">
+	<h2>ประกาศเกี่ยวกับระบบรับสมัครวิทยาเขตบางเขนและวิทยาเขตสุพรรณบุรี</h2>
+	<p>
+	  <b>ขณะนี้ระบบเปิดให้เข้าใช้งานได้แล้ว</b> ทีมงานต้องขออภัยในความไม่สะดวกนี้ด้วย
+	</p>
+	<p>
+	  ในช่วงเช้าวันที่ 20 ธันวาคม 2564 ระบบบันทึกข้อมูลของระบบรับสมัครมีปัญหา ทำให้มีข้อมูลเสียหาย ทีมงานกำลังอยู่ระหว่างการจัดการกับข้อมูลที่สำรองไว้และข้อมูลที่เหลือในระบบ คาดว่าระบบจะเปิดกลับมาให้ใช้ได้ภายในวันที่ 22 ธันวาคม 2564
+	  <ul>
+	    <li>ทั้งนี้นักเรียนที่ได้สมัครหรือทำการแก้ไขข้อมูลหลังเวลา 02:00 เมื่อระบบเปิดกลับมาให้บริการใหม่กรุณาตรวจสอบความถูกต้องของข้อมูล</li>
+	    <li>อย่างไรก็ตามเป็นไปได้ที่จะไม่สามารถกู้ข้อมูลเอกสารที่ผู้สมัครได้อัพโหลดเข้าไปในระบบได้ ดังนั้นเมื่อระบบเปิดกลับมาแล้วทางทีมงานระบบรับสมัครต้องขอรบกวนให้ผู้สมัครอัพโหลดข้อมูลอีกครั้ง ทางทีมงานจะเร่งดำเนินการติดต่อแจ้งรายละเอียดกับผู้สมัครทุกท่านต่อไป โดยขั้นต้นจะดำเนินการแจ้งผู้สมัครทางอีเมลก่อน</li>
+	  </ul>
+	</p>
+	<p>
+	  ทีมงานระบบรับสมัครต้องขออภัยในความไม่สะดวกนี้อย่างสูง และจะดำเนินการปรับปรุงระบบสำรองข้อมูลให้สมบูรณ์ขึ้นเพื่อไม่ให้เกิดปัญหาเช่นนี้อีก
+	</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h2 class="display-5">ข่าวสารการสมัคร</h2>
+      
+        <ul class="nav nav-tabs" role="tablist">
+          
+            <li class="nav-item">
+              <a class="nav-link active" data-toggle="tab" href="#tab_round_1" role="tab" aria-controls="tab_round_1" aria-selected="true">รอบที่ 1</a>
+            </li>
+          
+            <li class="nav-item">
+              <a class="nav-link " data-toggle="tab" href="#tab_round_2" role="tab" aria-controls="tab_round_2" aria-selected="false">รอบที่ 2</a>
+            </li>
+          
+            <li class="nav-item">
+              <a class="nav-link " data-toggle="tab" href="#tab_round_3" role="tab" aria-controls="tab_round_3" aria-selected="false">รอบที่ 3</a>
+            </li>
+          
+        </ul>
+        <div class="tab-content">
+          
+            <div class="tab-pane fade show active" id="tab_round_1" role="tabpanel">
+              
+                <ul style="margin-top: 10px;">
+  
+    <li>
+      เปลี่ยนแปลงชื่อหลักสูตรและสาขาวิชา การรับสมัครและคัดเลือกบุคคลเข้าศึกษา ระดับปริญญาตรี มหาวิทยาลัยเกษตรศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/30/65-tcas-exchange.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      ยกเลิกการรับเข้าศึกษาในหลักสูตร ศศ.บ. สาขาวิชาฝรั่งเศส คณะมนุษยศาสตร์ ใน tcas รอบที่ 1 และ 2
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas-cancle.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการช้างเผือก มหาวิทยาลัยเกษตรศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas1-white_elephant.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โควตาโอลิมปิกวิชาการ มหาวิทยาลัยเกษตรศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas1-academic_olympics.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการเรียนล่วงหน้าของมหาวิทยาลัยเกษตรศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas1-ap_program.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการพัฒนาและส่งเสริมผู้มีความสามารถพิเศษทางวิทยาศาสตร์และเทคโนโลยี (พสวท.)
+คณะวิทยาศาสตร์ มหาวิทยาลัยเกษตรศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas1-dpst_quota.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการหลักสูตรนานาชาติและหลักสูตรภาษาอังกฤษ มหาวิทยาลัยเกษตรศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas1-international_program.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการรับสมัครและคัดเลือกนักกีฬาทีมชาติและเยาวชนทีมชาติเข้าศึกษาในมหาวิทยาลัยเกษตรศาสตร์ โดยวิธีพิเศษ
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas1-sport_national.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      การตรวจสุขภาพผู้มีสิทธิ์เข้าสอบสัมภาษณ์ หลักสูตรสัตวแพทยศาสตรบัณฑิต คณะสัตวแพทยศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ (tcas รอบที่ 1 - 3)
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2022/01/05/65-tcas-vet_health.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      เกณฑ์การเทียบวุฒิการศึกษาต่างประเทศ ระดับการศึกษาขั้นพื้นฐาน
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/ku-compare_qualifications.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      เกณฑ์การเทียบวุฒิการศึกษาต่างประเทศ ระดับการศึกษาขั้นพื้นฐาน (ฉบับที่ 2)
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/ku-compare_qualifications_no.2.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      ปฏิทินการรับสมัคร tcas65 รอบที่ 1
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas1.jpg">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      ปฏิทินการรับสมัคร tcas65
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/ku-tcas65_calendar_zmxki78.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+</ul>
+
+              
+            </div>
+          
+            <div class="tab-pane fade " id="tab_round_2" role="tabpanel">
+              
+                <ul style="margin-top: 10px;">
+  
+    <li>
+      เปลี่ยนแปลงชื่อหลักสูตรและสาขาวิชา การรับสมัครและคัดเลือกบุคคลเข้าศึกษา ระดับปริญญาตรี มหาวิทยาลัยเกษตรศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/30/65-tcas-exchange.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการรับสมัครและการคัดเลือกผู้มีความสามารถทางด้านศิลปวัฒนธรรม
+เพื่อเข้าศึกษาต่อระดับปริญญาตรี โดยวิธีพิเศษ
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/29/65-tcas2-art_and_culture_quota.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      ยกเลิกการรับเข้าศึกษาในหลักสูตร ศศ.บ. สาขาวิชาฝรั่งเศส คณะมนุษยศาสตร์ ใน tcas รอบที่ 1 และ 2
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas-cancle_zjcwvjf.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โควตาสัตวแพทย์เกษตรคืนถิ่น
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas2-vet_quota.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการเด็กไทยสู่สากล มหาวิทยาลัยเกษตรศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas2-thai_children_quota.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการรับผู้มีความสามารถทางกีฬาดีเด่นเข้าศึกษาในมหาวิทยาลัยเกษตรศาสตร์ โดยวิธีพิเศษ
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas2-sport_quota.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการเมล็ดพันธุ์สู่ศาสตร์แห่งแผ่นดิน มหาวิทยาลัยเกษตรศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas2-seed_to_land_quota_aw9yc1j.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการส่งเสริมโอกาสการศึกษาต่อในพื้นที่การดูแลของศูนย์อานวยการบริหารจังหวัดชายแดนภาคใต้
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas2-sbpac_quota.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการรับนักเรียนดีเด่นจากโรงเรียนสาธิตแห่งมหาวิทยาลัยเกษตรศาสตร์ เข้าศึกษาต่อในมหาวิทยาลัยเกษตรศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas2-satit_quota.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการส่งเสริมโอกาสศึกษาต่อในมหาวิทยาลัยเกษตรศาสตร์สำหรับนักเรียนจบมัธยมศึกษาตอนปลาย
+จากโรงเรียนมัธยมศึกษาในท้องถิ่น (โควตาพิเศษ)
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas2-province_quota.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการลูกพระพิรุณ มหาวิทยาลัยเกษตรศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas2-pra_pirun_quota.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการรับนิสิตแลกเปลี่ยนต่างประเทศ สาขาวิชาวิทยาการคอมพิวเตอร์ (ภาคพิเศษ) คณะวิทยาศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas2-mou_computer_science.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โควตาความร่วมมือในการสร้างเครือข่ายการศึกษา (mou) กับมหาวิทยาลัยเกษตรศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas2-ku_mou.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการส่งเสริมโอกาสศึกษาต่อในวิทยาลัยการชลประทาน สถาบันสมทบมหาวิทยาลัยเกษตรศาสตร์
+(สำหรับนักเรียนโรงเรียนชลประทานวิทยา)
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas2-irrigation_college_qouta.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการหลักสูตรนานาชาติและหลักสูตรภาษาอังกฤษ มหาวิทยาลัยเกษตรศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas2-international_program.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      โครงการเพชรนนทรี มหาวิทยาลัยเกษตรศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas2-diamond_nontri_quota.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      การตรวจสุขภาพผู้มีสิทธิ์เข้าสอบสัมภาษณ์ หลักสูตรสัตวแพทยศาสตรบัณฑิต คณะสัตวแพทยศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ (tcas รอบที่ 1 - 3)
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2022/01/05/65-tcas-vet_health.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      เกณฑ์การเทียบวุฒิการศึกษาต่างประเทศ ระดับการศึกษาขั้นพื้นฐาน
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/ku-compare_qualifications.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      เกณฑ์การเทียบวุฒิการศึกษาต่างประเทศ ระดับการศึกษาขั้นพื้นฐาน (ฉบับที่ 2)
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/ku-compare_qualifications_no.2.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      ปฏิทินการรับสมัคร tcas65 รอบที่ 2
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas2.jpg">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      ปฏิทินการรับสมัคร tcas65
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/ku-tcas65_calendar_zmxki78.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+</ul>
+
+              
+            </div>
+          
+            <div class="tab-pane fade " id="tab_round_3" role="tabpanel">
+              
+                <ul style="margin-top: 10px;">
+  
+    <li>
+      เปลี่ยนแปลงชื่อหลักสูตรและสาขาวิชา การรับสมัครและคัดเลือกบุคคลเข้าศึกษา ระดับปริญญาตรี มหาวิทยาลัยเกษตรศาสตร์
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/30/65-tcas-exchange.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      การรับสมัครและคัดเลือกบุคคลเข้าศึกษาต่อระดับปริญญาตรี มหาวิทยาลัยเกษตรศาสตร์
+tcas รอบที่ 3 (admission)
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas3-admission.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      การตรวจสุขภาพผู้มีสิทธิ์เข้าสอบสัมภาษณ์ หลักสูตรสัตวแพทยศาสตรบัณฑิต คณะสัตวแพทยศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ (tcas รอบที่ 1 - 3)
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2022/01/05/65-tcas-vet_health.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      เกณฑ์การเทียบวุฒิการศึกษาต่างประเทศ ระดับการศึกษาขั้นพื้นฐาน
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/ku-compare_qualifications.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      เกณฑ์การเทียบวุฒิการศึกษาต่างประเทศ ระดับการศึกษาขั้นพื้นฐาน (ฉบับที่ 2)
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/ku-compare_qualifications_no.2.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      ปฏิทินการรับสมัคร tcas65 รอบที่ 3
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/65-tcas3.jpg">ดาวน์โหลด</a>
+      
+    </li>
+  
+    <li>
+      ปฏิทินการรับสมัคร tcas65
+      
+      
+        <a class="btn btn-sm btn-info" target="_blank" href="/media/announcements/2021/12/21/ku-tcas65_calendar_zmxki78.pdf">ดาวน์โหลด</a>
+      
+    </li>
+  
+</ul>
+
+              
+            </div>
+                    
+        </div>
+      
+      <hr />
+    </div>
+  </div>
+</div>
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h2>ปฏิทินการรับสมัคร</h2>
+
+      กรุณาติดตามประกาศกำหนดการสำหรับการรับสมัครปีการศึกษา 2565 เร็ว ๆ นี้
+      
+      <ul class="nav nav-pills mb-1 d-none" role="tablist">
+	<li class="nav-item">
+	  <a class="nav-link">รอบการรับสมัคร</a>
+	</li>
+	<li class="nav-item">
+	  <a class="nav-link" data-toggle="pill" role="tab" href="#cal-round1">รอบที่ 1</a>
+	</li>
+	<li class="nav-item">
+	  <a class="nav-link" data-toggle="pill" role="tab" href="#cal-round2">รอบที่ 2</a>
+	</li>
+	<li class="nav-item">
+	  <a class="nav-link" data-toggle="pill" role="tab" href="#cal-round3">รอบที่ 3</a>
+	</li>
+	<li class="nav-item">
+	  <a class="nav-link active" data-toggle="pill" role="tab" href="#cal-round4">รอบที่ 4</a>
+	</li>
+      </ul>
+
+      <div class="tab-content d-none">
+	<div class="tab-pane" id="cal-round1" role="tabpanel">
+	  <table class="table table-sm">
+  <thead class="thead-dark">
+    <tr>
+      <th>รอบรับสมัคร</th>
+      <th colspan="2">กำหนดการ</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- ############################ -->
+    <!-- ############################ -->
+    <!-- ############################ -->
+    <tr class="table-primary">
+      <td colspan="10">รอบที่ 1 portfolio</td>
+    </tr>
+    <!-- ############################ -->
+    <tr>
+      <td rowspan="4">
+	วิทยาเขตบางเขน โครงการจัดตั้งวิทยาเขตสุพรรณบุรี และวิทยาลัยการชลประทาน
+      </td>
+      <td>รับสมัคร</td><td>
+	5 ธ.ค. 63 - 10 ม.ค. 64 (ครั้งที่ 1)<br>
+	2 - 6 ก.พ. 64 (ครั้งที่ 2)
+      </td>
+    </tr>
+    <tr>
+      <td>ประกาศรายชื่อผู้มีสิทธิ์สอบสัมภาษณ์</td>
+      <td>
+	22 ม.ค. 64 (ครั้งที่ 1)<br>
+	11 ก.พ. 64 (ครั้งที่ 2)
+      </td>
+    </tr>
+    <tr>
+      <td>สอบสัมภาษณ์</td>
+      <td>
+	30 ม.ค. 64 (ครั้งที่ 1)<br>
+	15 ก.พ. 64 (ครั้งที่ 2)
+      </td>
+    </tr>
+    <tr><td>ประกาศรายชื่อผู้ผ่านสัมภาษณ์</td><td>22 ก.พ. 64</td></tr>
+    <!-- ############################ -->
+    <tr>
+      <td rowspan="4">
+	วิทยาเขตกำแพงแสน
+      </td>
+      <td>รับสมัคร</td>
+      <td>
+	1-30 พ.ย. 63 (ครั้งที่ 1)<br>
+	29 ธ.ค. 63 - 11 ม.ค. 64 (ครั้งที่ 2)
+      </td>
+    </tr>
+    <tr>
+      <td>ประกาศรายชื่อผู้มีสิทธิ์สอบสัมภาษณ์</td>
+      <td>
+	16 ธ.ค. 63 (ครั้งที่ 1)<br>
+	25 ม.ค. 64 (ครั้งที่ 2)
+      </td>
+    </tr>
+    <tr>
+      <td>สอบสัมภาษณ์</td>
+      <td>
+	26 ธ.ค. 63 (ครั้งที่ 1)<br>
+	6 ก.พ. 64 (ครั้งที่ 2)
+      </td>
+    </tr>
+    <tr>
+      <td>ประกาศรายชื่อผู้ผ่านสัมภาษณ์</td>
+      <td>
+	29 ธ.ค. 63 (16:00 น.) (ครั้งที่ 1)<br>
+	9 ก.พ. 64 (16:00 น.) (ครั้งที่ 2)
+      </td>
+    </tr>
+    <!-- ############################ -->
+    <tr>
+      <td rowspan="2">
+	วิทยาเขตศรีราชา
+      </td>
+      <td>รับสมัคร</td>
+      <td>
+	19 ต.ค. 63 - 31 ม.ค. 64
+      </td>
+    </tr>
+    <tr>
+      <td>สอบสัมภาษณ์</td>
+      <td>
+	13 ก.พ. 64
+      </td>
+    </tr>
+    <!-- ############################ -->
+    <tr>
+      <td rowspan="3">
+	วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร
+      </td>
+      <td>รับสมัคร</td>
+      <td>
+	1 ต.ค. 63 - 31 ม.ค. 64
+      </td>
+    </tr>
+    <tr>
+      <td>ประกาศรายชื่อผู้ผ่านการคัดเลือก</td>
+      <td>
+	ทุกวันหลังชำระเงินค่าสมัคร
+      </td>
+    </tr>
+    <tr>
+      <td>สอบสัมภาษณ์</td>
+      <td>
+	ไม่มีสอบสัมภาษณ์
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+	</div>
+	<div class="tab-pane" id="cal-round2" role="tabpanel">
+	  <table class="table table-sm">
+  <thead class="thead-dark">
+    <tr>
+      <th>รอบรับสมัคร</th>
+      <th colspan="2">กำหนดการ</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- ############################ -->
+    <!-- ############################ -->
+    <!-- ############################ -->
+    <tr class="table-primary">
+      <td colspan="10">
+	รอบที่ 2 quota
+      </td>
+    </tr>
+    <!-- ############################ -->
+    <tr>
+      <td rowspan="4">
+	วิทยาเขตบางเขน โครงการจัดตั้งวิทยาเขตสุพรรณบุรี และวิทยาลัยการชลประทาน
+      </td>
+      <td>รับสมัคร</td>
+      <td>5 - 25 มี.ค. 64</td>
+    </tr>
+    <tr>
+      <td>ประกาศรายชื่อผู้มีสิทธิ์สอบสัมภาษณ์</td>
+      <td>2 พ.ค. 64</td>
+    </tr>
+    <tr>
+      <td>สอบสัมภาษณ์</td>
+      <td>5 พ.ค. 64</td>
+    </tr>
+    <tr>
+      <td>ประกาศรายชื่อผู้ผ่านสัมภาษณ์</td>
+      <td>10 พ.ค. 64</td>
+    </tr>
+    <!-- ############################ -->
+    <tr>
+      <td rowspan="4">
+	วิทยาเขตกำแพงแสน
+      </td>
+      <td>รับสมัคร</td>
+      <td>5 - 25 มี.ค. 64</td>
+    </tr>
+    <tr>
+      <td>ประกาศรายชื่อผู้มีสิทธิ์สอบสัมภาษณ์</td>
+      <td>2 พ.ค. 64</td>
+    </tr>
+    <tr>
+      <td>สอบสัมภาษณ์</td>
+      <td>5 พ.ค. 64</td>
+    </tr>
+    <tr>
+      <td>ประกาศรายชื่อผู้ผ่านสัมภาษณ์</td>
+      <td>7 พ.ค. 64</td>
+    </tr>
+    <!-- ############################ -->
+    <tr>
+      <td rowspan="2">
+	วิทยาเขตศรีราชา
+      </td>
+      <td>รับสมัคร</td>
+      <td>5 มี.ค. - 20 เม.ย. 64</td>
+    </tr>
+    <tr>
+      <td>สอบสัมภาษณ์</td>
+      <td>5 พ.ค. 64</td>
+    </tr>
+    <!-- ############################ -->
+    <tr>
+      <td rowspan="3">
+	วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร
+      </td>
+      <td>รับสมัคร</td>
+      <td>1 มี.ค. - 25 เม.ย. 64</td>
+    </tr>
+    <tr>
+      <td>ประกาศรายชื่อผู้ผ่านการคัดเลือก</td>
+      <td>7 พ.ค. 64</td>
+    </tr>
+    <tr>
+      <td>สอบสัมภาษณ์</td>
+      <td>
+	ไม่มีสอบสัมภาษณ์
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+	</div>
+	<div class="tab-pane" id="cal-round3" role="tabpanel">
+	  <table class="table table-sm">
+  <thead class="thead-dark">
+    <tr>
+      <th>รอบรับสมัคร</th>
+      <th colspan="2">กำหนดการ</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="table-primary">
+      <td colspan="10">รอบที่ 3 admission</td>
+    </tr>
+    <!-- ############################ -->
+    <tr>
+      <td rowspan="6">
+	ทุกวิทยาเขต รับสมัครผ่านทางเว็บไซต์ ทปอ.
+      </td>
+      <td>รับสมัคร</td>
+      <td>7 - 15 พ.ค. 64</td>
+    </tr>
+    <tr>
+      <td>ประกาศผล (ครั้งที่ 1)</td>
+      <td>26 พ.ค. 64</td>
+    </tr>
+    <tr>
+      <td>ยืนยันสิทธิ์</td>
+      <td>26 - 27 พ.ค. 64</td>
+    </tr>
+    <tr>
+      <td>ประกาศผล (ครั้งที่ 2)</td>
+      <td>1 มิ.ย. 64</td>
+    </tr>
+    <tr>
+      <td>สอบสัมภาษณ์และตรวจร่างกาย</td>
+      <td>4 มิ.ย. 64</td>
+    </tr>
+    <tr>
+      <td>ประกาศรายชื่อผู้ยืนยันสิทธิ์</td>
+      <td>10 มิ.ย. 64</td>
+    </tr>
+  </tbody>
+</table>
+
+	</div>
+	<div class="tab-pane active" id="cal-round4" role="tabpanel">
+	  <table class="table table-sm">
+  <thead class="thead-dark">
+    <tr>
+      <th>รอบรับสมัคร</th>
+      <th colspan="2">กำหนดการ</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- ############################ -->
+    <!-- ############################ -->
+    <!-- ############################ -->
+    <tr class="table-primary">
+      <td colspan="10">
+	รอบที่ 4 direct admission
+      </td>
+    </tr>
+    <!-- ############################ -->
+    <tr>
+      <td rowspan="4">
+	วิทยาเขตบางเขนและโครงการจัดตั้งวิทยาเขตสุพรรณบุรี
+      </td>
+      <td>รับสมัคร</td>
+      <td>7 - 10 มิ.ย. 64</td>
+    </tr>
+    <tr>
+      <td>ประกาศรายชื่อผู้ผ่านการคัดเลือก</td>
+      <td>14 มิ.ย. 64</td>
+    </tr>
+    <tr>
+      <td>สอบสัมภาษณ์ออนไลน์ (ถ้ามี)</td>
+      <td>15 มิ.ย. 64</td>
+    </tr>
+    <tr>
+      <td>ประกาศรายชื่อมีสิทธิ์เข้าศึกษา</td>
+      <td>15 มิ.ย. 64 (16:00 น.)</td>
+    </tr>
+    <!-- ############################ -->
+    <tr>
+      <td rowspan="3">
+	วิทยาเขตกำแพงแสน
+      </td>
+      <td>รับสมัคร</td>
+      <td>5 - 10 มิ.ย. 64</td>
+    </tr>
+    <tr>
+      <td>คณะดำเนินการคัดเลือก</td>
+      <td>13 มิ.ย. 64</td>
+    </tr>
+    <tr>
+      <td>ประกาศรายชื่อผู้มีสิทธิ์เข้าศึกษา</td>
+      <td>15 มิ.ย. 64 (16:00 น.)</td>
+    </tr>
+    <!-- ############################ -->
+    <tr>
+      <td rowspan="1">
+	วิทยาเขตศรีราชา
+      </td>
+      <td colspan="2">
+	ตรวจสอบที่<a target="_blank" href="https://qa.src.ku.ac.th/admission/">เว็บไซต์รับสมัคร</a>
+      </td>
+    </tr>
+    <!-- ############################ -->
+    <tr>
+      <td rowspan="2">
+	วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร
+      </td>
+      <td>รับสมัคร</td>
+      <td>3 - 13 มิ.ย. 64</td>
+    </tr>
+    <tr>
+      <td>ประกาศรายชื่อผู้มีสิทธิ์เข้าศึกษา</td>
+      <td>15 มิ.ย. 64</td>
+    </tr>
+  </tbody>
+</table>
+
+	</div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <hr />
+    </div>
+  </div>
+</div>
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h2>ระบบรับสมัครแยกตามวิทยาเขต</h2>
+    </div>
+  </div>
+  <div class="row justify-content-center">
+    <div class="col-md-3">
+      <div class="p0 mb10">
+        <img class="top-radius-5 img-fluid" src="/static/img/ku-campus-bkn.png" />
+        <div class="text-center campus-label-main-links">
+          วิทยาเขตบางเขน<br />
+          <a class="d-none btn btn-light btn-sm btn-disabled" style="border: 1px solid #c0c0c0;" href="#">ปิดปรับปรุง<!-- ยังไม่เปิดระบบ ---></a>
+          <a class="btn btn-success btn-sm" target="_blank" href="https://admission.ku.ac.th/kuadm/">เว็บไซต์การรับสมัคร</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="p0 mb10">
+        <img class="top-radius-5 img-fluid" src="/static/img/ku-campus-kps.png" />
+        <div class="text-center">
+          วิทยาเขตกำแพงแสน<br />
+          <a class="btn btn-success btn-sm" target="_blank" href="http://esd.kps.ku.ac.th/quota/">เว็บไซต์การรับสมัคร</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="p0 mb10">
+        <img class="top-radius-5 img-fluid" src="/static/img/ku-campus-src.png" />
+        <div class="text-center">
+          วิทยาเขตศรีราชา<br />
+          <a class="btn btn-success btn-sm" target="_blank" href="https://qa.src.ku.ac.th/entrance/">เว็บไซต์การรับสมัคร</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row justify-content-center">
+    <div class="col-md-3">
+      <div class="p0 mb10">
+        <img class="top-radius-5 img-fluid" src="/static/img/ku-campus-csc.png" />
+        <div class="text-center">
+          วิทยาเขต<br />เฉลิมพระเกียรติ<br />จังหวัดสกลนคร<br />
+          <a class="btn btn-success btn-sm" target="_blank" href="https://misreg.csc.ku.ac.th/admission/">เว็บไซต์การรับสมัคร</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="p0 mb10">
+        <img class="top-radius-5 img-fluid" src="/static/img/ku-campus-sb.png" />
+        <div class="text-center campus-label-main-links">
+          วิทยาเขตสุพรรณบุรี<br />
+          <a class="d-none btn btn-light btn-sm btn-disabled" style="border: 1px solid #c0c0c0;" href="#">ปิดปรับปรุง<!-- ยังไม่เปิดระบบ --></a>
+          <a class="btn btn-success btn-sm" target="_blank" href="https://admission.ku.ac.th/kuadm/">เว็บไซต์การรับสมัคร</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <hr />
+    </div>
+  </div>
+</div>
+<script>
+ $(function(){
+   $(".btn-disabled").click(function(){
+     return false;
+   });
+ });
+</script>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h2 class="display-5">สาขาและโครงการรับสมัคร</h2>
+      
+
+      <p>
+        ในปีการศึกษา 2565 มหาวิทยาลัยเกษตรศาสตร์รับนิสิตใหม่ตามโครงการ tcas โดยแบ่งการรับเป็น 4 รอบ
+	สำหรับรายละเอียดสาขาวิชาและเงื่อนไขจะประกาศเร็ว ๆ นี้
+	<!--  ขณะนี้สามารถตรวจสอบสาขาและโครงการกับรอบที่รับได้แล้ว  สำหรับรายละเอียดสาขาวิชา เกณฑ์การรับสมัคร และเกณฑ์การคัดเลือกจะประกาศให้ทราบเร็ว ๆ นี้ -->
+      </p>
+    </div>
+  </div>
+
+  <div class="row d-none">
+    <div class="col-md-4">
+      <div class="card">
+	<div class="card-body">
+	  <h5 class="card-title">สาขาและโครงการรับสมัคร</h5>
+	  <p class="card-text">
+	    สามารถตรวจสอบรายการโครงการรับและรอบรับของสาขาที่รับสมัครของคณะและวิทยาเขตต่าง ๆ 
+	  </p>
+	  <a href="/majors/" class="btn btn-primary">ตรวจสอบรายละเอียด</a>
+	</div>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+
+
+    <div class="container">
+      <hr>
+      
+      <footer>
+        <p>
+          ฝ่ายรับสมัครและพัฒนาการรับเข้าศึกษา สำนักบริหารการศึกษา มหาวิทยาลัยเกษตรศาสตร์<br />
+          โทร. 02 118 0100 ต่อ 8046 - 8051    e-mail: admission@ku.ac.th<br />
+          <small>เครดิตรูปภาพ: ku-photo และภาพจากเว็บไซต์วิทยาเขต</small>
+        </p>
+      </footer>
+    </div> <!-- /container -->
+    
+    <!-- bootstrap core javascript
+    ================================================== -->
+    <!-- placed at the end of the document so the pages load faster -->
+    <script src="/static/lib/bootstrap/assets/js/vendor/popper.min.js"></script>
+    <script src="/static/lib/bootstrap/js/bootstrap.min.js"></script>
+    <!-- ie10 viewport hack for surface/desktop windows 8 bug -->
+    <script src="/static/lib/bootstrap/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>

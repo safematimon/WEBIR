@@ -1,0 +1,350 @@
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+
+<head>
+
+	<!-- custom code -->
+		<!-- // custom code -->
+
+	<!-- meta for ios & handheld -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![cdata[
+		if (navigator.useragent.match(/iemobile\/10\.0/)) {
+			var msviewportstyle = document.createelement("style");
+			msviewportstyle.appendchild(
+				document.createtextnode("@-ms-viewport{width:auto!important}")
+			);
+			document.getelementsbytagname("head")[0].appendchild(msviewportstyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="handheldfriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+	<!-- //meta for ios & handheld -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<base href="https://ibic.lib.ku.ac.th/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="ibic, international buffalo information center, kasetsart university, library, thailand, buffaloes, bubalus bubalis, buffalo database, buffalo bulletin database, buffalo bulletin, ศูนย์สนเทศทางกระบือนานาชาติ, สารสนเทศกระบือ, สารสนเทศควาย, ศูนย์ควาย, ศูนย์กระบือ, ม.เกษตรฯ, สำนักหอสมุด, ห้องสมุด, ม.เกษตร, มหาวิทยาลัยเกษตรศาสตร์, มก., วารสารควาย, วารสารกระบือ, ฐานข้อมูลควาย, ฐานข้อมูลกระบือ" />
+	<meta name="author" content="super user" />
+	<meta property="og:title" content="landing page" />
+	<meta property="twitter:title" content="landing page" />
+	<meta property="og:description" content="this can be a simple landing page demo " />
+	<meta property="twitter:description" content="this can be a simple landing page demo " />
+	<meta name="description" content="ibic was established as a source of information on buffaloes. creating digital documents and serving as a center of exchange, distribution of information on buffaloes between worldwide users." />
+	<meta name="generator" content="joomla! - open source content management" />
+	<title>home page</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="https://ibic.lib.ku.ac.th/plugins/content/fastsocialshare/style/style.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ja_simpli/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jabuilder/assets/css/jabuilder.css" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/icon?family=material+icons" rel="stylesheet" type="text/css" />
+	<script src="/media/jui/js/jquery.min.js?f807a2e218308db7d9b35f3f568ccc0a" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?f807a2e218308db7d9b35f3f568ccc0a" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?f807a2e218308db7d9b35f3f568ccc0a" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?f807a2e218308db7d9b35f3f568ccc0a" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?f807a2e218308db7d9b35f3f568ccc0a" type="text/javascript"></script>
+	<script src="/templates/ja_simpli/js/template.js" type="text/javascript"></script>
+	<script src="/plugins/system/jabuilder/assets/js/jabuilder.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jquery(window).on('load',  function() {
+				new jcaption('img.caption');
+			});
+	</script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=ua-106768336-14"></script>
+	<script>
+	  window.datalayer = window.datalayer || [];
+	  function gtag(){datalayer.push(arguments);}
+	  gtag('js', new date());
+	  gtag('config', 'ua-106768336-14');
+	</script>
+
+
+	<!--[if lt ie 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=pt+serif:400,700,700italic,400italic" rel="stylesheet" type="text/css" >
+<link href="https://fonts.googleapis.com/css?family=pt+sans:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link href="https://fonts.googleapis.com/css?family=prompt:300,400,500,700" rel="stylesheet" type="text/css" >
+<link href="https://fonts.googleapis.com/css?family=roboto:300,400,500,700" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/21.css" rel="stylesheet" type="text/css" >
+	<!-- custom code -->
+	<link rel="apple-touch-icon" sizes="57x57" href="/ibic/templates/ja_simpli/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/ibic/templates/ja_simpli/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/ibic/templates/ja_simpli/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/ibic/templates/ja_simpli/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/ibic/templates/ja_simpli/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/ibic/templates/ja_simpli/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/ibic/templates/ja_simpli/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/ibic/templates/ja_simpli/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/ibic/templates/ja_simpli/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/ibic/templates/ja_simpli/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/ibic/templates/ja_simpli/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/ibic/templates/ja_simpli/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/ibic/templates/ja_simpli/favicon-16x16.png">
+<link rel="manifest" href="/ibic/templates/ja_simpli/manifest.json">
+<meta name="msapplication-tilecolor" content="#ffffff">
+<meta name="msapplication-tileimage" content="/ibic/templates/ja_simpli/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<link rel="stylesheet" href="/images/ibic/fancybox/dist/jquery.fancybox.min.css" />
+<script src="/images/ibic/fancybox/dist/jquery.fancybox.min.js"></script>
+	<!-- // custom code -->
+	<script>
+		var isj4 = false;
+	</script>
+</head>
+
+<body class="page-article  landing-page">
+
+	<!-- custom code -->
+		<!-- // custom code -->
+
+<div class="main">
+
+			<!-- main navigation -->
+	<nav id="mainnav" class="navbar navbar-static-top stick-on-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>menu</span>
+			      	</button>
+
+					<!-- the nav -->
+					<div class="nav-collapse collapse">
+						<ul class="nav menu navbar-nav mod-list">
+<li class="item-162 default current active"><a href="/" >home page</a></li><li class="item-307"><a href="/bih" >buffalo information hub</a></li><li class="item-276 divider deeper parent"><span class="separator ">services</span>
+<ul class="nav-child unstyled small"><li class="item-280"><a href="/services/buffalo-database" target="_blank">buffalo database</a></li><li class="item-279"><a href="https://kukr.lib.ku.ac.th/journal/buffalobulletin" target="_blank" rel="noopener noreferrer">buffalo bulletin database</a></li><li class="item-281"><a href="https://kuojs.lib.ku.ac.th/index.php/bufbu/" target="_blank" rel="noopener noreferrer">buffalo bulletin</a></li><li class="item-282"><a href="/services/e-journal" >e-journal</a></li></ul></li><li class="item-284"><a href="/link" >link</a></li><li class="item-286"><a href="/about" >about us</a></li><li class="item-302"><a href="/th" >thai web</a></li></ul>
+
+					</div>
+					<!-- // the nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // main navigation -->
+	
+	
+	
+
+<div id="hero" class="top-sl section">
+<div class="no-container">
+
+<div class="row-fluid">
+
+		<div class="span12">
+		<div class="ja-module module " id="mod130"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<div class="row-fluid hero-unit">
+<div class="span12 unit-text"><img style="width: 100%;" src="/images/ibic/23a.png" alt="ibic" data-db-layout="ywlzryvgl8" data-db-image="false" /></div>
+<div class="span8 offset2 unit-text" style="z-index: 99; margin-top: -58%; margin-bottom: 44%;">
+<div class="hero-unit text-center">
+<h1 style="margin-top: 0;"><img src="/images/ibic/ja-simpli-w2.png" alt="" width="64" /> international buffalo information center</h1>
+<p class="big">ibic was established as a source of information on buffaloes. creating digital documents and serving as a center of exchange, distribution of information on buffaloes between worldwide users.</p>
+</div>
+</div>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="features" class="top-sl section grey-bg">
+<div class="container">
+  <h3 class="section-title">our services</h3>
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="mod131"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<div class="container">
+<div class="row-fluid features-intro style-1">
+<div class="span6 text-center"><img src="/images/ibic/119a.png" alt="iphone" data-db-image="false" data-db-layout="ywm89wgg4v" /></div>
+<div class="span6">
+<div><br /><br /></div>
+<ul>
+<li><a style="text-decoration: none;" href="https://agkb.lib.ku.ac.th/buffalo" target="_blank" rel="noopener noreferrer"> <strong>1</strong></a>
+<h4>buffalo database</h4>
+<a style="text-decoration: none;" href="https://agkb.lib.ku.ac.th/buffalo" target="_blank" rel="noopener noreferrer">buffalo database is bibliographic and abstract database collecting information in buffalo from world wide. it provides bibliographic records, abstract and fulltext in thai and english.</a>
+<div> </div>
+</li>
+<li><a style="text-decoration: none;" href="https://kukrdb.lib.ku.ac.th/journal/buffalobulletin" target="_blank" rel="noopener noreferrer"> <strong>2</strong></a>
+<h4>buffalo bulletin database</h4>
+<a style="text-decoration: none;" href="https://kukrdb.lib.ku.ac.th/journal/buffalobulletin" target="_blank" rel="noopener noreferrer">buffalo bulletin database gathers data from research journals and articles from the buffalo bulletin detailing the bibliography, abstract and full digital text in english language services.</a>
+<div> </div>
+</li>
+<li><a style="text-decoration: none;" href="https://kuojs.lib.ku.ac.th/index.php/bufbu/" target="_blank" rel="noopener noreferrer"> <strong>3</strong></a>
+<h4>buffalo bulletin</h4>
+<a style="text-decoration: none;" href="https://kuojs.lib.ku.ac.th/index.php/bufbu/" target="_blank" rel="noopener noreferrer">buffalo bulletin, published 4 times a year, service as forum for scientists to exchange ideas, to make known of their findings and to communicate among member who has the same interest.</a>
+<div> </div>
+</li>
+<li><a style="text-decoration: none;" href="/services/e-journal" target="_self"> <strong>4</strong></a>
+<h4>e-journal</h4>
+<a style="text-decoration: none;" href="/services/e-journal" target="_self">an electronic journal is a periodical publication which is published in electronic format, usually on the internet.</a>
+<div> </div>
+</li>
+</ul>
+</div>
+</div>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+
+<div id="testimonials" class="top-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="mod134"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<div class="container">
+<div class="features-intro style-2">
+<div class="row-fluid">
+<div class="span6 hilite feature-item" style="min-height: 410px;"><a href="https://agkb.lib.ku.ac.th/buffalo" target="_blank" rel="noopener noreferrer"><span class="icon"><img src="/images/ibic/tooplate_image_01.jpg" alt="buffalo database" /></span></a>
+<h3><a href="https://agkb.lib.ku.ac.th/buffalo" target="_blank" rel="noopener noreferrer">buffalo database</a></h3>
+<p><a href="https://agkb.lib.ku.ac.th/buffalo" target="_blank" rel="noopener noreferrer">buffalo database is bibliographic and abstract database collecting information in buffalo from world wide. it provides bibliographic records, abstract and fulltext in thai and english.</a></p>
+</div>
+<div class="span6 hilite feature-item" style="min-height: 410px;"><a href="https://kukrdb.lib.ku.ac.th/journal/buffalobulletin" target="_blank" rel="noopener noreferrer"><span class="icon"><img src="/images/ibic/tooplate_image_03.jpg" alt="buffalo bulletin database" /></span></a>
+<h3><a href="https://kukrdb.lib.ku.ac.th/journal/buffalobulletin" target="_blank" rel="noopener noreferrer">buffalo bulletin database</a></h3>
+<p><a href="https://kukrdb.lib.ku.ac.th/journal/buffalobulletin" target="_blank" rel="noopener noreferrer">containing full text literatures of buffalo bulletin’s articles, from 1982.</a></p>
+</div>
+</div>
+</div>
+<div class="features-intro style-2">
+<div class="row-fluid">
+<div class="span6 hilite feature-item" style="min-height: 410px;"><a href="https://kuojs.lib.ku.ac.th/index.php/bufbu/" target="_blank" rel="noopener noreferrer"><span class="icon"><img src="/images/ibic/cover_issue_5_en_us.png" alt="buffalo bulletin" /></span></a>
+<h3><a href="https://kuojs.lib.ku.ac.th/index.php/bufbu/" target="_blank" rel="noopener noreferrer">buffalo bulletin</a></h3>
+<p><a href="https://kuojs.lib.ku.ac.th/index.php/bufbu/" target="_blank" rel="noopener noreferrer">buffalo bulletin, published 4 times a year, service as forum for scientists to exchange ideas, to make known of their findings and to communicate among member who has the same interest.</a></p>
+</div>
+<div class="span6 hilite feature-item" style="min-height: 410px;"><a href="/services/e-journal"><span class="icon"><img src="/images/ibic/ejournal.png" alt="e-journal" /></span></a>
+<h3><a href="/services/e-journal">e-journal</a></h3>
+<p><a href="/services/e-journal">an electronic journal is a periodical publication which is published in electronic format, usually on the internet.</a></p>
+</div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+	
+	
+	
+
+<div id="faqs" class="bot-sl section">
+<div class="container">
+  <h3 class="section-title">contact us</h3>
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="mod226"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<div class="container">
+<div class="row-fluid features-intro style-1">
+
+<div class="span3">
+<img src="/images/ibic/logo-ibic2.png" alt=""/>
+</div>
+
+<div class="span5">
+<p>international buffalo information center</p>
+<p>office of the university library, kasetsart university</p>
+<p>p.o. box 1084, bangkok 10903 thailand</p>
+<p>p: (66) 2942-8616 ext. 344, fax: (66) 2940-6688</p> 
+<p>e-mail: <a href = "mailto: libibic@ku.ac.th">libibic@ku.ac.th</a></p>
+</div>
+
+<div class="span4">
+<a href="https://www.facebook.com/international-buffalo-information-center-188662994509008" target="_blank" title="facebook"><img src="/images/ibic/qr-code-facebook.png" alt="" style="width: 140px;"/></a>
+<img src="/images/ibic/qr-code-ibic.png" alt="" style="width: 140px; float: right; display: block;">
+</div>
+
+</div>
+
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+</div>
+
+<!-- footer -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="mod140"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<div style="float:left; margin-top:6px;">copyright © 2020 international buffalo information center.</div>
+<span style="float:right;"><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img alt="creative commons license" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a></span>
+</div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // footer -->
+
+
+	<div class="float-pos hidden-phone">
+		<ul class="nav menu mod-list">
+<li class="item-273"><a href="#hero" >top</a></li><li class="item-164"><a href="#features" >services</a></li><li class="item-274"><a href="#faqs" >contact</a></li></ul>
+
+	</div>
+
+
+
+<!-- custom code -->
+<!-- // custom code -->
+
+</body>
+
+</html>

@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title></title>
+
+    <!-- bootstrap core css -->
+    <link rel="stylesheet" href="bootstrap-4.4.1-dist/css/bootstrap.min.css">
+    <script src="jquery/3.2.1/jquery.min.js"></script>
+    <script src="bootstrap-4.4.1-dist/js/bootstrap.min.js"></script>
+	
+	<script>
+	function goback() {
+		window.history.back();
+	}
+	
+	
+	function checkvalid() {
+		var name = document.getelementbyid("request_name");
+		
+		var e = document.getelementbyid("request_by");
+		var result = e.options[e.selectedindex].value;
+		//alert(result); 
+		
+		//alert(name.value.length); 
+		
+		if (result==2 && name.value.length==0) {
+			alert("กรุณาป้อนชื่อสถานประกอบการ"); 
+			name.focus();
+			return false;
+		}
+		
+		return true;
+	}
+	
+	</script>	
+
+    <!-- custom styles for this template -->
+    <link href="css/mystyle.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <div class="container-fluid">
+	
+		        <div class="row">
+            <div class="col-md-12" style="background-color:#ffffff;">
+                <h4 class="text-center" style="color:darkblue;">
+					<img src="image/ku_logo_small.jpg" alt="" width="70" height="70">
+					มหาวิทยาลัยเกษตรศาสตร์                </h4>
+            </div>
+        </div>
+	<div class="row">
+		<div class="col-md-12" style="background-color:#f0f0f0;">
+			<div class="table-responsive">
+			
+				<form class="form-signin" method="post" onsubmit="return checkvalid()">
+								
+				<table class="table table-hover">
+					<tbody>
+						<tr>
+							<th class="text-primary text-right">เอกสารเลขที่<br>(document id)</th>
+							<td>
+								<input class="form-control" type="text" name="doc_id" 
+								placeholder="document id" 
+								value="" 
+																maxlength="10" required>
+							</td>
+						</tr>
+						<tr>
+							<th class="text-primary text-right">รหัสผ่าน<br>(password)</th>
+							<td>
+								<input class="form-control" type="password" name="password" 
+								placeholder="password" maxlength="30" required>
+							</td>
+						</tr>
+						
+						<tr>
+							<th class="text-primary text-right">ข้าพเจ้าเป็น</th>
+							<td>
+								<select id="request_by" name="request_by" required>
+									<option value="">--- เลือก ---</option>
+									<option value="1">เจ้าของข้อมูล (นิสิต)</option>
+									<option value="2">สถานประกอบการ (ผู้จ้างนิสิต)</option>
+								</select>
+							</td>
+						</tr>
+						<tr>
+							<th class="text-primary text-right" nowrap>กรณีเป็นสถานประกอบการ</th>
+							<td>
+								<input class="form-control" type="text" id="request_name" name="request_name" 
+								value="" placeholder="ชื่อสถานประกอบการ" maxlength="190" >
+							</td>
+						</tr>
+						
+						<tr>
+							<th class="text-primary text-right" nowrap>ป้อน captcha<br>(enter captcha code)</th>
+							<td>
+								<input type="text" class="form-control" name="captcha" 
+								placeholder="captcha" required>
+								<p class="text-right"><img src="captcha.php" /></p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<p class="text-center">
+									<button type="submit" class="btn btn-primary btn-md">ตกลง</button>&nbsp;
+									<button type="reset" class="btn btn-info btn-md">ยกเลิก</button>
+								</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				</form>
+			</div>			
+		</div>
+	</div>
+	
+
+
+
+
+    </div>
+    <!-- container -->
+	
+	
+
+
+
+</body>
+</html>
+

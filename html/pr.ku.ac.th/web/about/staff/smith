@@ -1,0 +1,1406 @@
+<!doctype html>
+<!--[if ie 7]><html lang="th" class="ie ie7"><![endif]-->
+<!--[if ie 8]><html lang="th" class="ie ie8"><![endif]-->
+<!--[if ie 9]><html lang="th" class="ie ie9"><![endif]-->
+<!--[if !ie]><!--><html class="no-js" lang="th"><!--<![endif]-->
+
+<!-- header -->
+<head>
+    <meta charset="utf-8">
+    <title>staff</title>
+    <meta name="keyword" content="มหาวิทยาลัยเกษตรศาสตร์,staff,หน่วยสื่อสารองค์กร และส่งเสริมภาพลักษณ์,หน่วยผลิตสื่อ และสารสนเทศ,หน่วยบริหาร และธุรการ,บุคลากรงานประชาสัมพันธ์,staff pr ku">
+    <meta name="description" content="staff">
+<meta property="og:title" content="staff"/>
+<meta property="og:description" content="staff"/>
+<meta property="og:image" content="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/2ff-logo.jpeg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta property="og:url" content="https://pr.ku.ac.th/web/about/staff"/>
+<meta name="twitter:card" content="staff"/>
+<meta name="twitter:url" content="https://pr.ku.ac.th/web/about/staff"/>
+<meta name="twitter:description" content="staff"/>
+<meta name="twitter:image" content="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/2ff-logo.jpeg"/>
+
+    <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, minimum-scale=1.0, maximum-scale=4.0" />
+    <!--[if ie]><meta http-equiv="x-ua-compatible" content="ie=edge"><![endif]-->
+
+            <link rel="icon" type="image/png" sizes="32x32" href="https://pr.ku.ac.th/web/uploads/config/20201125/bceghmvwyz58.png">
+        <link rel="shortcut" type="image/x-icon" href="https://pr.ku.ac.th/web/uploads/config/20201125/bceghmvwyz58.png">
+        <link rel="image_src" href="https://pr.ku.ac.th/web/uploads/config/20201125/bceghmvwyz58.png">
+    
+    <!--[if ie]>
+        <script src="js/main/html5shiv.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/bootstrap-4.5.3/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/owlcarousel2-2.3.4/owl.carousel.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/owlcarousel2-2.3.4/owl.theme.default.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/fancybox-master/jquery.fancybox.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/select2/select2.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/font.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/theme.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/ku-pr.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/header.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/footer.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/responsive.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/plugin/loading.css">
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/slick/slick.css" />
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/slick/slick-theme.css" />
+    
+        
+    <link rel="stylesheet" type="text/css" href="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/css/custom.css" />
+
+    <script type="text/javascript">
+        // declare variable for use in .js file
+        var base_url = 'https://pr.ku.ac.th/web/';
+        var site_url = 'https://pr.ku.ac.th/web/';
+        var theme_default = 'pr-ku';
+        var theme_path = 'https://pr.ku.ac.th/web/public/themes/pr-ku/';
+        var csrf_name = 'epwpw_token';
+        var csrf_value = 'a3c30f47409302f031f654c8aa24d7b7';
+    </script>
+
+    <script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/owlcarousel2-2.3.4/owl.carousel.min.js"></script>
+
+    
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
+    <!-- <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script> -->
+    <!-- <script src="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js"></script> -->
+
+                        <!-- global site tag (gtag.js) - google analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=g-py00ljv7rx"></script>
+<script>
+  window.datalayer = window.datalayer || [];
+  function gtag(){datalayer.push(arguments);}
+  gtag('js', new date());
+
+  gtag('config', 'g-py00ljv7rx');
+</script>            
+    <!-- go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5552d7771ce9a682"></script>
+</head>
+<body>
+        <!-- navigation -->
+    <header class="main-header">
+    <div class="container">
+      <div class="logo-wrap">
+        <div class="logo">
+          <a href="https://pr.ku.ac.th/web/home">
+            <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/ku_logo_62x62_th.svg" alt="">
+          </a>
+        </div>
+        <div class="logo-name">
+          <a href="https://pr.ku.ac.th/web/home">
+            <img src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/ku_name_logo_62x62.svg" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="nav-wrapper">
+        <ul>
+          <li class="d-none d-xl-flex">
+            <a href="https://www.ku.ac.th/th" target="_blank"><i class="icons ico-world"></i><span>เว็บไซต์มหาวิทยาลัย</span></a>
+          </li>
+          <li class="home-pr d-none d-xl-flex">
+            <a href="https://pr.ku.ac.th/web/home"><i class="icons ico-home"></i><span>หน้าหลักงานประชาสัมพันธ์</span></a>
+          </li>
+          <li class="d-none d-xl-flex">
+            <div class="dropdown">
+              <a class="btn btn-secondary dropdown-toggle" href="javascript:;" role="button" id="dropdownmenulink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                <span>วิทยาเขต</span>
+              </a>
+              <div class="dropdown-menu" aria-labelledby="dropdownmenulink">
+                <a class="dropdown-item" href="https://www.ku.ac.th" target="_blank">บางเขน</a>
+                <a class="dropdown-item" href="https://kps.ku.ac.th/v8/index.php/th/" target="_blank">วิทยาเขตกําแพงแสน</a>
+                <a class="dropdown-item" href="https://www.csc.ku.ac.th/th/" target="_blank">วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</a>
+                <a class="dropdown-item" href="https://www.src.ku.ac.th/" target="_blank">วิทยาเขตศรีราชา</a>
+                <a class="dropdown-item" href="http://sbc.ku.ac.th/" target="_blank">โครงการจัดตั้งวิทยาเขตสุพรรณบุรี</a>
+              </div>
+            </div>
+          </li>
+          <li class="d-none d-xl-flex">
+            <a href="https://pr.ku.ac.th/web/submit-news"><i class="icons ico-chat"></i><span>ช่องทางการส่งข่าวประชาสัมพันธ์</span></a>
+          </li>
+          <li class="input-search">
+            <form action="https://pr.ku.ac.th/web/search" accept-charset="utf-8" method="get">              <input type="text" name="q" class="form-control">
+              <button type="submit" id="button-search">
+                <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24" height="24">
+                  <path id="ic_mag" d="m23.79 22.77l17.96 16.94c19.52 15.14 20.47 12.8 20.47 10.23c20.47 4.59 15.88 0 10.23 0c4.59 0 0 4.59 0 10.23c0 15.87 4.59 20.47 10.23 20.47c12.8 20.47 15.15 19.52 16.95 17.95l22.78 23.79c22.92 23.92 23.1 24 23.29 24c23.47 24 23.65 23.93 23.79 23.79c24.07 23.51 24.07 23.05 23.79 22.77zm1.43 10.23c1.43 5.38 5.38 1.44 10.23 1.44c15.08 1.44 19.03 5.38 19.03 10.23c19.03 15.08 15.08 19.03 10.23 19.03c5.38 19.03 1.43 15.09 1.43 10.23z" />
+                </svg>
+              </button>
+            </form>          </li>
+          <li class="nav-hamburger">
+            <button class="btn-hamburger">
+              <i class="icons ico-hamburger"></i>
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </header>
+  <div class="body-overlay"></div>
+  <div id="side-header" class="sidemenu-control -regular">
+    <div class="search-bar">
+      <a href="javascript:;" class="btn-close-menu">
+        <svg height="30px" viewbox="0 0 329.26933 329" width="30px" xmlns="http://www.w3.org/2000/svg">
+          <path d="m194.800781 164.769531 128.210938-128.214843c8.34375-8.339844 8.34375-21.824219 0-30.164063-8.339844-8.339844-21.824219-8.339844-30.164063 0l-128.214844 128.214844-128.210937-128.214844c-8.34375-8.339844-21.824219-8.339844-30.164063 0-8.34375 8.339844-8.34375 21.824219 0 30.164063l128.210938 128.214843-128.210938 128.214844c-8.34375 8.339844-8.34375 21.824219 0 30.164063 4.15625 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921875-2.089844 15.082031-6.25l128.210937-128.214844 128.214844 128.214844c4.160156 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921874-2.089844 15.082031-6.25 8.34375-8.339844 8.34375-21.824219 0-30.164063zm0 0" /></svg>
+      </a>
+      <form action="https://pr.ku.ac.th/web/search" accept-charset="utf-8" method="get">        <input type="text" name="q" class="form-control">
+        <button type="submit" class="btn-search">
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24" height="24">
+            <path id="ic_mag" d="m23.79 22.77l17.96 16.94c19.52 15.14 20.47 12.8 20.47 10.23c20.47 4.59 15.88 0 10.23 0c4.59 0 0 4.59 0 10.23c0 15.87 4.59 20.47 10.23 20.47c12.8 20.47 15.15 19.52 16.95 17.95l22.78 23.79c22.92 23.92 23.1 24 23.29 24c23.47 24 23.65 23.93 23.79 23.79c24.07 23.51 24.07 23.05 23.79 22.77zm1.43 10.23c1.43 5.38 5.38 1.44 10.23 1.44c15.08 1.44 19.03 5.38 19.03 10.23c19.03 15.08 15.08 19.03 10.23 19.03c5.38 19.03 1.43 15.09 1.43 10.23z" />
+          </svg>
+        </button>
+      </form>    </div>
+    <div id="accordion">
+      <div class="card d-flex">
+        <div class="card-header">
+          <h5 class="mb-0">
+            <a href="https://www.ku.ac.th/th" target="_blank">เว็บไซต์มหาวิทยาลัย</a>
+          </h5>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <h5 class="mb-0">
+            <a href="https://pr.ku.ac.th/web/home">หน้าหลักประชาสัมพันธ์</a>
+          </h5>
+        </div>
+      </div>
+      <div class="card d-flex">
+        <div class="card-header" id="heading-1">
+          <h5 class="mb-0" data-toggle="collapse" data-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">
+            <a href="javascript:;">วิทยาเขต</a>
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">
+              <i class="icons">
+                <svg height="20px" viewbox="0 0 329.26933 329" width="20px" xmlns="http://www.w3.org/2000/svg">
+                  <path d="m194.800781 164.769531 128.210938-128.214843c8.34375-8.339844 8.34375-21.824219 0-30.164063-8.339844-8.339844-21.824219-8.339844-30.164063 0l-128.214844 128.214844-128.210937-128.214844c-8.34375-8.339844-21.824219-8.339844-30.164063 0-8.34375 8.339844-8.34375 21.824219 0 30.164063l128.210938 128.214843-128.210938 128.214844c-8.34375 8.339844-8.34375 21.824219 0 30.164063 4.15625 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921875-2.089844 15.082031-6.25l128.210937-128.214844 128.214844 128.214844c4.160156 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921874-2.089844 15.082031-6.25 8.34375-8.339844 8.34375-21.824219 0-30.164063zm0 0" /></svg>
+              </i>
+            </button>
+          </h5>
+        </div>
+        <div id="collapse-1" class="collapse" aria-labelledby="heading-1" data-parent="#accordion">
+          <div class="card-body">
+            <ul>
+              <li><a class="dropdown-item" href="https://www.ku.ac.th" target="_blank">บางเขน</a></li>
+              <li><a class="dropdown-item" href="https://kps.ku.ac.th/v8/index.php/th/" target="_blank">วิทยาเขตกําแพงแสน</a></li>
+              <li><a class="dropdown-item" href="https://www.csc.ku.ac.th/th/" target="_blank">วิทยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร</a></li>
+              <li><a class="dropdown-item" href="https://www.src.ku.ac.th/" target="_blank">วิทยาเขตศรีราชา</a></li>
+              <li><a class="dropdown-item" href="http://sbc.ku.ac.th/" target="_blank">โครงการจัดตั้งวิทยาเขตสุพรรณบุรี</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="card d-flex">
+        <div class="card-header">
+          <h5 class="mb-0">
+            <a href="https://pr.ku.ac.th/web/submit-news">ช่องทางการส่งข่าวประชาสัมพันธ์</a>
+          </h5>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingone">
+          <h5 class="mb-0" data-toggle="collapse" data-target="#collapseone" aria-expanded="false" aria-controls="collapseone">
+            <a href="javascript:;">คลังสื่อ</a>
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseone" aria-expanded="false" aria-controls="collapseone">
+              <i class="icons">
+                <svg height="20px" viewbox="0 0 329.26933 329" width="20px" xmlns="http://www.w3.org/2000/svg">
+                  <path d="m194.800781 164.769531 128.210938-128.214843c8.34375-8.339844 8.34375-21.824219 0-30.164063-8.339844-8.339844-21.824219-8.339844-30.164063 0l-128.214844 128.214844-128.210937-128.214844c-8.34375-8.339844-21.824219-8.339844-30.164063 0-8.34375 8.339844-8.34375 21.824219 0 30.164063l128.210938 128.214843-128.210938 128.214844c-8.34375 8.339844-8.34375 21.824219 0 30.164063 4.15625 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921875-2.089844 15.082031-6.25l128.210937-128.214844 128.214844 128.214844c4.160156 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921874-2.089844 15.082031-6.25 8.34375-8.339844 8.34375-21.824219 0-30.164063zm0 0" /></svg>
+              </i>
+            </button>
+          </h5>
+        </div>
+        <div id="collapseone" class="collapse" aria-labelledby="headingone" data-parent="#accordion">
+          <div class="card-body">
+            <ul>
+              <li><a href="https://pr.ku.ac.th/web/media">ku media</a></li>
+              <li><a href="https://pr.ku.ac.th/web/gallery">ku gallery</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingtwo">
+          <h5 class="mb-0" data-toggle="collapse" data-target="#collapsetwo" aria-expanded="false" aria-controls="collapsetwo">
+            <a href="javascript:;">ข่าวสาร</a>
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsetwo" aria-expanded="false" aria-controls="collapsetwo">
+              <i class="icons">
+                <svg height="20px" viewbox="0 0 329.26933 329" width="20px" xmlns="http://www.w3.org/2000/svg">
+                  <path d="m194.800781 164.769531 128.210938-128.214843c8.34375-8.339844 8.34375-21.824219 0-30.164063-8.339844-8.339844-21.824219-8.339844-30.164063 0l-128.214844 128.214844-128.210937-128.214844c-8.34375-8.339844-21.824219-8.339844-30.164063 0-8.34375 8.339844-8.34375 21.824219 0 30.164063l128.210938 128.214843-128.210938 128.214844c-8.34375 8.339844-8.34375 21.824219 0 30.164063 4.15625 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921875-2.089844 15.082031-6.25l128.210937-128.214844 128.214844 128.214844c4.160156 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921874-2.089844 15.082031-6.25 8.34375-8.339844 8.34375-21.824219 0-30.164063zm0 0" /></svg>
+              </i>
+            </button>
+          </h5>
+        </div>
+                <div id="collapsetwo" class="collapse" aria-labelledby="headingtwo" data-parent="#accordion">
+          <div class="card-body">
+            <ul>
+                              <li><a href="https://pr.ku.ac.th/web/news/ข่าวนวัตกรรมงานวิจัย">ข่าวนวัตกรรมงานวิจัย</a></li>
+                              <li><a href="https://pr.ku.ac.th/web/news/ข่าวนิสิต">ข่าวนิสิต</a></li>
+                              <li><a href="https://pr.ku.ac.th/web/news/5">ku press</a></li>
+                              <li><a href="https://pr.ku.ac.th/web/news/รอบรั้วนนทรี">รอบรั้วนนทรี</a></li>
+                              <li><a href="https://pr.ku.ac.th/web/news/มก-ในสื่อมวลชน">มก.ในสื่อมวลชน</a></li>
+                          </ul>
+          </div>
+        </div>
+              </div>
+      <div class="card">
+        <div class="card-header">
+          <h5 class="mb-0">
+            <a href="https://pr.ku.ac.th/web/prku-news">pr ku news</a>
+          </h5>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingthree">
+          <h5 class="mb-0" data-toggle="collapse" data-target="#collapsethree" aria-expanded="false" aria-controls="collapsethree">
+            <a href="javascript:;">เกี่ยวกับเรา</a>
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsethree" aria-expanded="false" aria-controls="collapsethree">
+              <i class="icons">
+                <svg height="20px" viewbox="0 0 329.26933 329" width="20px" xmlns="http://www.w3.org/2000/svg">
+                  <path d="m194.800781 164.769531 128.210938-128.214843c8.34375-8.339844 8.34375-21.824219 0-30.164063-8.339844-8.339844-21.824219-8.339844-30.164063 0l-128.214844 128.214844-128.210937-128.214844c-8.34375-8.339844-21.824219-8.339844-30.164063 0-8.34375 8.339844-8.34375 21.824219 0 30.164063l128.210938 128.214843-128.210938 128.214844c-8.34375 8.339844-8.34375 21.824219 0 30.164063 4.15625 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921875-2.089844 15.082031-6.25l128.210937-128.214844 128.214844 128.214844c4.160156 4.160156 9.621094 6.25 15.082032 6.25 5.460937 0 10.921874-2.089844 15.082031-6.25 8.34375-8.339844 8.34375-21.824219 0-30.164063zm0 0" /></svg>
+              </i>
+            </button>
+          </h5>
+        </div>
+        <div id="collapsethree" class="collapse" aria-labelledby="headingthree" data-parent="#accordion">
+          <div class="card-body">
+            <ul>
+              <li><a href="https://pr.ku.ac.th/web/about/history">ความเป็นมาของหน่วยงาน</a></li>
+              <li><a href="https://pr.ku.ac.th/web/about/staff">บุคลากรงานประชาสัมพันธ์</a></li>
+              <li><a href="https://pr.ku.ac.th/web/about/service">ภารกิจหน่วยงาน</a></li>
+              <li><a href="https://pr.ku.ac.th/web/about/landmark">สถานที่สำคัญ</a></li>
+              <li><a href="https://pr.ku.ac.th/web/about/history#sc-download">ดาวน์โหลดคู่มือ / อัตลักษณ์</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <h5 class="mb-0">
+            <a href="https://pr.ku.ac.th/web/contactus">ติดต่อเรา</a>
+          </h5>
+        </div>
+      </div>
+    </div>
+    <div class="social-group">
+      <div class="nav-social">
+        <a href="https://www.facebook.com/publicrelations.ku?ref=hl" target="_blank"><i class="icons ico-facebook"></i></a>
+        <a href="https://twitter.com/kasetsart_ku" target="_blank"><i class="icons ico-twitter"></i></a>
+        <a href="https://www.instagram.com/kasetsart_ku" target="_blank"><i class="icons ico-instagram"></i></a>
+        <a href="https://www.youtube.com/channel/uc1lx-ul4ln8jxedtdxep7ga" target="_blank"><i class="icons ico-youtube"></i></a>
+        <a href="mailto:prku@ku.ac.th"><i class="icons ico-envelope"></i></a>
+      </div>
+    </div>
+  </div>
+
+
+    
+    <!-- content -->
+    <div class="page-inner-wrapper">
+  <nav aria-label="breadcrumb" class="breadcrumb-wrapper">
+    <div class="container">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="https://pr.ku.ac.th/web/home"> <i class="icons ico-home"></i></a></li>
+        <li class="breadcrumb-item"><a href="javascript:">เกี่ยวกับเรา</a></li>
+        <li class="breadcrumb-item"><span>บุคลากรงานประชาสัมพันธ์</span></li>
+      </ol>
+    </div>
+  </nav>
+  <div class="staff-control">
+    <div class="container">
+      <div class="title-box">
+        <h1 class="hs-2 -bold -hilight">บุคลากรงานประชาสัมพันธ์</h1>
+      </div>
+      <div class="staff-cover">
+        <div class="img-box">
+          <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/master-02.png" title="ผกามาศ ธนพัฒนพงศ์">
+        </div>
+        <div class="content-box">
+          <h2 class="ht-3 c-darkgreen -med">ผกามาศ ธนพัฒนพงศ์</h2>
+          <p class="hs-4 c-gray-2 -regular">: นักประชาสัมพันธ์ชำนาญการ </p>
+          <span class="ct-1 c-lightgreen -med">หัวหน้างานประชาสัมพันธ์ </span>
+          <div class="button-control">
+            <a href="javascript:void(0);" data-id="1" class="btn-black btn-popup-staff">รายละเอียดงาน</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="staff-wrapper" style="margin-bottom:40px;">
+      <div class="boxtexttitle">
+        <h2 class="textdarkgreen">หน่วยสื่อสารองค์กร</h2>
+        <h3 class="textgreen">และส่งเสริมภาพลักษณ์</h3>
+      </div>
+      <div class="sp-row-staff">
+        <div class="sp-item-staff marginbottoma">
+          <a href="javascript:void(0);" data-id="1" class="btn-popup-staff">
+            <div class="">
+              <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/tmb-master-01.jpg" title="ผกามาศ ธนพัฒนพงศ์">
+            </div>
+            <div class="sp-content-box rightnone">
+              <p class="hs-4 -med c-darkgreen">ผกามาศ ธนพัฒนพงศ์</p>
+              <div class="ct-1 c-gray-3 -regular textposition">นักประชาสัมพันธ์ชำนาญการ</div>
+              <div class="ct-1 c-gray-3 -regular textposition small">หัวหน้างานประชาสัมพันธ์</div>
+            </div>
+          </a>
+        </div>
+        <div class="sp-item-staff marginbottoma">
+          <a href="javascript:void(0);" data-id="2" class="btn-popup-staff">
+            <div class="">
+              <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/tmb-master-02.jpg" title="ยุพดี คล้ายรัศมี">
+            </div>
+            <div class="sp-content-box rightnone">
+              <p class="hs-4 -med c-darkgreen">ยุพดี คล้ายรัศมี</p>
+              <span class="ct-1 c-gray-3 -regular">นักประชาสัมพันธ์ </span>
+            </div>
+          </a>
+        </div>
+        <div class="sp-item-staff marginbottoma">
+          <a href="javascript:void(0);" data-id="3" class="btn-popup-staff">
+            <div class="">
+              <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/tmb-master-03.jpg" title="คมสัน วิเศษธร">
+            </div>
+            <div class="sp-content-box rightnone">
+              <p class="hs-4 -med c-darkgreen">คมสัน วิเศษธร</p>
+              <span class="ct-1 c-gray-3 -regular">นักประชาสัมพันธ์</span>
+            </div>
+          </a>
+        </div>
+        <div class="sp-item-staff">
+          <a href="javascript:void(0);" data-id="4" class="btn-popup-staff">
+            <div class="">
+              <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/tmb-master-04.jpg" title="ธนพัฒน์ งามนิคม">
+            </div>
+            <div class="sp-content-box">
+              <p class="hs-4 -med c-darkgreen">ธนพัฒน์ งามนิคม</p>
+              <span class="ct-1 c-gray-3 -regular">นักประชาสัมพันธ์</span>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="boxtexttitle margintop">
+        <h2 class="textdarkgreen">หน่วยผลิตสื่อ</h2>
+        <h3 class="textgreen a">และสารสนเทศ</h3>
+      </div>
+      <div class="sp-row-staff marginbottom">
+        <div class="sp-item-staff">
+          <a href="javascript:void(0);" data-id="6" class="btn-popup-staff">
+            <div class="">
+              <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/tmb-master-06.jpg" title="ดุสิต มุขยประเสริฐ">
+            </div>
+            <div class="sp-content-box rightnone">
+              <p class="hs-4 -med c-darkgreen">ดุสิต มุขยประเสริฐ</p>
+              <div class="ct-1 c-gray-3 -regular textposition">นักวิชาการโสตทัศนศึกษา</div>
+              <div class="ct-1 c-gray-3 -regular textposition small">หัวหน้าหน่วยผลิตสื่อและสารสนเทศ</div>
+            </div>
+          </a>
+        </div>
+        <div class="sp-item-staff">
+          <a href="javascript:void(0);" data-id="7" class="btn-popup-staff">
+            <div class="">
+              <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/tmb-master-07.jpg" title="ฐิติเกษม สำเริง">
+            </div>
+            <div class="sp-content-box rightnone">
+              <p class="hs-4 -med c-darkgreen">ฐิติเกษม สำเริง</p>
+              <span class="ct-1 c-gray-3 -regular">นักวิชาการโสตทัศนศึกษา</span>
+            </div>
+          </a>
+        </div>
+        <div class="sp-item-staff">
+          <a href="javascript:void(0);" data-id="8" class="btn-popup-staff">
+            <div class="img-box">
+              <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/tmb-master-08.jpg" title="ทิวา แก้วภู่พานิช">
+            </div>
+            <div class="sp-content-box">
+              <p class="hs-4 -med c-darkgreen">ทิวา แก้วภู่พานิช</p>
+              <span class="ct-1 c-gray-3 -regular">นักวิชาการโสตทัศนศึกษา</span>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="sp-row-staff">
+        <div class="sp-item-staff">
+          <a href="javascript:void(0);" data-id="9" class="btn-popup-staff">
+            <div class="img-box">
+              <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/tmb-master-09.jpg" title="อรยา พระชนีย์">
+            </div>
+            <div class="sp-content-box rightnone">
+              <p class="hs-4 -med c-darkgreen">อรยา พระชนีย์</p>
+              <span class="ct-1 c-gray-3 -regular">นักประชาสัมพันธ์ </span>
+            </div>
+          </a>
+        </div>
+        <div class="sp-item-staff">
+          <a href="javascript:void(0);" data-id="10" class="btn-popup-staff">
+            <div class="img-box">
+              <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/tmb-master-10.jpg" title="พรทิพย์ ภู่แพ">
+            </div>
+            <div class="sp-content-box rightnone">
+              <p class="hs-4 -med c-darkgreen">พรทิพย์ ภู่แพ</p>
+              <span class="ct-1 c-gray-3 -regular">นักวิชาการโสตทัศนศึกษา</span>
+            </div>
+          </a>
+        </div>
+        <div class="sp-item-staff">
+          <a href="javascript:void(0);" data-id="11" class="btn-popup-staff">
+            <div class="img-box">
+              <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/tmb-master-11.jpg" title="สตรีรัตน์ ฤทธิ์ชาวนา">
+            </div>
+            <div class="sp-content-box">
+              <p class="hs-4 -med c-darkgreen">สตรีรัตน์ ฤทธิ์ชาวนา</p>
+              <span class="ct-1 c-gray-3 -regular">นักวิชาการโสตทัศนศึกษา</span>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="boxtexttitle margintop">
+        <h2 class="textdarkgreen">หน่วยบริหาร</h2>
+        <h3 class="textgreen b">และธุรการ</h3>
+      </div>
+      <div class="sp-row-staff">
+        <div class="sp-item-staff">
+          <a href="javascript:void(0);" data-id="12" class="btn-popup-staff">
+            <div class="img-box">
+              <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/tmb-master-12.jpg" title="ธนาภรณ์ ลัดพลี">
+            </div>
+            <div class="sp-content-box">
+              <p class="hs-4 -med c-darkgreen">ธนาภรณ์ ลัดพลี</p>
+              <span class="ct-1 c-gray-3 -regular">ผู้ปฏิบัติงานบริหาร</span>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="popup-default" id="popup-staff-0">
+  <div class="inner-popup">
+    <div class="staff-profile">
+      <div class="img-box">
+        <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/popup/tmb-pupup-01.png" title="จุไร เกิดควน">
+      </div>
+      <div class="content-box">
+        <h3 class="ht-2 c-darkgreen -med">จุไร เกิดควน</h3>
+        <span class="ct-1 -med c-dark">: นักประชาสัมพันธ์ชำนาญการ </span>
+        <p class="hs-4 c-lightgreen -regular">ปฏิบัติงานภารกิจหัวหน้างานประชาสัมพันธ์</p>
+        <div class="staff-contact -regular">
+          <p class="hs-4 c-gray-3"><i class="icons ico-mail" title="email icon"></i><a href="mailto:psdjrk@ku.ac.th"
+              target="_blank">อีเมล: psdjrk@ku.ac.th</a></p>
+          <p class="hs-4 c-gray-3"><i class="icons ico-call" title="call icon"></i><a href="tel:029428182"
+              target="_blank">โทรศัพท์: 0 2942 8182 ภายใน 64411-2</a></p>
+          <p class="hs-4 c-gray-3"><i class="icons ico-print" title="fax icon"></i><a style="color: #333333;">แฟกซ์: 0
+              2942 8834</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="staff-detail">
+      <h3 class="hs-4 c-darkgreen -med"><i class="icons ico-paper" title="paper icon"></i>รายละเอียดงาน</h3>
+      <ul>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ปฏิบัติงานตามนโยบายที่ได้รับมอบหมายจากอธิการบดี รองอธิการบดีฝ่ายบริหาร และ รองอธิการบดีฝ่ายต่าง ๆ
+            ผู้อำนวยการกองกลาง
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - มอบนโยบาย กำกับ ดูแลและควบคุม มอบหมายงาน ตลอดจนให้คำปรึกษาหัวหน้าหน่วยสื่อสารองค์กร และส่งเสริม ภาพลักษณ์
+            หัวหน้าหน่วยผลิตสื่อและสารสนเทศ หัวหน้าหน่วยบริหารและธุรการ
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - มอบหมายงานและติดตามงานของบุคลากรในบังคับบัญชา 13 ราย
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ควบคุมตรวจสอบและติดตามการปฏิบัติงานของบุคลากรทุกหน่วย
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ประเมินผลการปฏิบัติงานของบุคลากรทั้ง 3 หน่วย 14 ราย
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - รายงานผลการปฏิบัติของงานประชาสัมพันธ์เสนอต่อผู้บริหาร
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - กรรมการและเลขานุการกิจกรรมต่าง ๆ ของมหาวิทยาลัยฯ
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานอื่น ๆ ที่ได้รับมอบหมาย
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="popup-default" id="popup-staff-1">
+  <div class="inner-popup">
+    <div class="staff-profile">
+      <div class="img-box">
+        <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/popup/tmb-pupup-02.png" title="ผกามาศ ธนพัฒนพงศ์">
+      </div>
+      <div class="content-box">
+        <h3 class="ht-2 c-darkgreen -med">ผกามาศ ธนพัฒนพงศ์</h3>
+        <span class="ct-1 -med c-dark">: นักประชาสัมพันธ์ชำนาญการ </span>
+        <p class="hs-4 c-lightgreen -regular">หัวหน้างานประชาสัมพันธ์</p>
+
+        <div class="staff-contact -regular">
+          <p class="hs-4 c-gray-3"><i class="icons ico-mail" title="email icon"></i><a href="mailto:psdpkc@ku.ac.th"
+              target="_blank">อีเมล: psdpkc@ku.ac.th</a></p>
+          <!-- <p class="hs-4 c-gray-3"><i class="icons ico-call"></i>0 2942 8182 ภายใน 64411-2</p>
+          <p class="hs-4 c-gray-3"><i class="icons ico-print"></i>0 2942 8834</p> -->
+        </div>
+      </div>
+    </div>
+    <div class="staff-detail">
+      <h3 class="hs-4 c-darkgreen -med"><i class="icons ico-paper" title="paper icon"></i>รายละเอียดงาน</h3>
+      <ul>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - บริหารงานสื่อสารองค์กรและส่งเสริมภาพลักษณ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - บริหารงานสื่อมวลชนสัมพันธ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - บริหารงานด้านข่าวและเขียนข่าวประชาสัมพันธ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - พิธีกร / ผู้ดำเนินรายการ / ผู้บรรยาย / เขียนสคริปต์วีดิทัศน์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - กำกับดูแลเนื้อหา รูปแบบ และการเขียนข่าว /ภาพข่าว / วีดิโอ ประชาสัมพันธ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - กำกับดูแลเนื้อหา รูปแบบ และการจัดทำวารสาร prkunews
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - กำกับดูแลและจัดทำสรุปข่าวเด่นประจำวัน (online) เสนอผู้บริหาร
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - กำกับดูแลการจัดทำรายงานสรุปข่าวประจำเดือน เสนอผู้บริหาร
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - วางแผนและดำเนินการประชาสัมพันธ์กิจกรรม /โครงการ /การประชุม-สัมมนา/งานแถลงข่าว ฯลฯ
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - จัดทำโครงการ / กิจกรรรม ด้านการประชาสัมพันธ์ / สื่อสารองค์กร / สื่อมวลชน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - บริการให้คำปรึกษาแนะนำด้านการประชาสัมพันธ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - รายงานและประเมินผลการดำเนินงานของหน่วยต่อหัวหน้างานประชาสัมพันธ์เพื่อเสนอผู้บริหาร (ขอเพิ่มค่ะ)
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานอื่น ๆ ที่ได้รับมอบหมาย
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="popup-default" id="popup-staff-2">
+  <div class="inner-popup">
+    <div class="staff-profile">
+      <div class="img-box">
+        <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/popup/tmb-pupup-03.png" title="ยุพดี คล้ายรัศมี">
+      </div>
+      <div class="content-box">
+        <h3 class="ht-2 c-darkgreen -med">ยุพดี คล้ายรัศมี</h3>
+        <p class="hs-4 c-lightgreen -regular">: นักประชาสัมพันธ์</p>
+        <div class="staff-contact -regular">
+          <p class="hs-4 c-gray-3"><i class="icons ico-mail" title="email icon"></i><a href="mailto:psdydk@ku.ac.th"
+              target="_blank">อีเมล: psdydk@ku.ac.th</a></p>
+          <!-- <p class="hs-4 c-gray-3"><i class="icons ico-call"></i>0 2942 8182 ภายใน 64411-2</p>
+          <p class="hs-4 c-gray-3"><i class="icons ico-print"></i>0 2942 8834</p> -->
+        </div>
+      </div>
+    </div>
+    <div class="staff-detail">
+      <h3 class="hs-4 c-darkgreen -med"><i class="icons ico-paper" title="paper icon"></i>รายละเอียดงาน</h3>
+      <ul>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - เขียนข่าวและส่งข่าวเผยแพร่
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - จัดทำวารสาร prku news
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ค้นหา clipping news online
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ส่ง email : clipping news online เสนอผู้บริหาร
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - สรุปข่าว มก. ประจำเดือน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ค้นหาและสรุปข่าวเด่น มก. ประจำวัน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานสื่อมวลชนสัมพันธ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานอื่น ๆ ที่ได้รับมอบหมาย
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="popup-default" id="popup-staff-3">
+  <div class="inner-popup">
+    <div class="staff-profile">
+      <div class="img-box">
+        <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/popup/tmb-pupup-04.png" title="คมสัน วิเศษธร">
+      </div>
+      <div class="content-box">
+        <h3 class="ht-2 c-darkgreen -med">คมสัน วิเศษธร</h3>
+        <p class="hs-4 c-lightgreen -regular">: นักประชาสัมพันธ์</p>
+        <div class="staff-contact -regular">
+          <p class="hs-4 c-gray-3"><i class="icons ico-mail" title="email icon" title="paper icon"></i><a
+              href="mailto:psdksv@ku.ac.th" target="_blank">อีเมล: psdksv@ku.ac.th</a></p>
+          <!-- <p class="hs-4 c-gray-3"><i class="icons ico-call"></i>0 2942 8182 ภายใน 64411-2</p>
+          <p class="hs-4 c-gray-3"><i class="icons ico-print"></i>0 2942 8834</p> -->
+        </div>
+      </div>
+    </div>
+    <div class="staff-detail">
+      <h3 class="hs-4 c-darkgreen -med"><i class="icons ico-paper" title="paper icon"></i>รายละเอียดงาน</h3>
+      <ul>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - เขียนข่าวและส่งข่าวเผยแพร่
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - จัดทำวารสาร prku news
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ค้นหา clipping news online
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ส่ง email : clipping news online เสนอผู้บริหาร
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - สรุป news clipping online ประจำเดือน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ค้นหาและสรุปข่าวเด่น มก. ประจำวัน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานสื่อมวลชนสัมพันธ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - พิธีกร
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานอื่น ๆ ที่ได้รับมอบหมาย
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="popup-default" id="popup-staff-4">
+  <div class="inner-popup">
+    <div class="staff-profile">
+      <div class="img-box">
+        <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/popup/tmb-pupup-05.png" title="ธนพัฒน์ งามนิคม">
+      </div>
+      <div class="content-box">
+        <h3 class="ht-2 c-darkgreen -med">ธนพัฒน์ งามนิคม</h3>
+        <p class="hs-4 c-lightgreen -regular">: นักประชาสัมพันธ์</p>
+        <div class="staff-contact -regular">
+          <p class="hs-4 c-gray-3"><i class="icons ico-mail" title="email icon"></i><a href="mailto:psdtpn@ku.ac.th"
+              target="_blank">อีเมล: psdtpn@ku.ac.th</a></p>
+          <!-- <p class="hs-4 c-gray-3"><i class="icons ico-call"></i>0 2942 8182 ภายใน 64411-2</p>
+          <p class="hs-4 c-gray-3"><i class="icons ico-print"></i>0 2942 8834</p> -->
+        </div>
+      </div>
+    </div>
+    <div class="staff-detail">
+      <h3 class="hs-4 c-darkgreen -med"><i class="icons ico-paper" title="paper icon"></i>รายละเอียดงาน</h3>
+      <ul>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - เขียนข่าวและส่งข่าวเผยแพร่
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - จัดทำวารสาร prku news
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ค้นหา clipping news online
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ส่ง email : clipping news online เสนอผู้บริหาร
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - สรุป news clipping online ประจำเดือน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ค้นหาและสรุปข่าวเด่น มก. ประจำวัน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานสื่อมวลชนสัมพันธ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - พิธีกร
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานอื่น ๆ ที่ได้รับมอบหมาย
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="popup-default" id="popup-staff-6">
+  <div class="inner-popup">
+    <div class="staff-profile">
+      <div class="img-box">
+        <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/popup/tmb-pupup-07.png" title="ดุสิต มุขยประเสริฐ">
+      </div>
+      <div class="content-box">
+        <h3 class="ht-2 c-darkgreen -med">ดุสิต มุขยประเสริฐ</h3>
+        <span class="ct-1 -med c-dark">: นักวิชาการโสตทัศนศึกษา</span>
+        <p class="hs-4 c-lightgreen -regular">: หัวหน้าหน่วยผลิตสื่อและสารสนเทศ</p>
+        <div class="staff-contact -regular">
+          <p class="hs-4 c-gray-3"><i class="icons ico-mail" title="email icon"></i><a href="mailto:psddsm@ku.ac.th"
+              target="_blank">อีเมล: psddsm@ku.ac.th</a></p>
+          <!-- <p class="hs-4 c-gray-3"><i class="icons ico-call"></i>0 2942 8182 ภายใน 64411-2</p>
+          <p class="hs-4 c-gray-3"><i class="icons ico-print"></i>0 2942 8834</p> -->
+        </div>
+      </div>
+    </div>
+    <div class="staff-detail">
+      <h3 class="hs-4 c-darkgreen -med"><i class="icons ico-paper" title="paper icon"></i>รายละเอียดงาน</h3>
+      <ul>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - บริหารงานภารกิจของหน่วยผลิตสื่อและสารสนเทศ
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - มอบหมายงาน ควบคุมตรวจสอบและติดตามการปฏิบัติงานของบุคลากรหน่วยผลิตสื่อและสารสนเทศ
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - จัดทำแผนและโครงการ/กิจกรรมของหมวดผลิตสื่อและสารสนเทศ
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ถ่ายภาพและวีดิโอ upload ขึ้นเพจ fb pr / เว็บไซต์ประชาสัมพันธ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ตัดต่อคลิปวีดีทัศน์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ควบคุมดูแลรายการ ku channel
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ดูแลบำรุงรักษาโสตทัศนูปกรณ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - รายงานและประเมินผลการดำเนินงานของหน่วยต่อหัวหน้างานประชาสัมพันธ์เพื่อเสนอผู้บริหาร
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานอื่น ๆ ที่ได้รับมอบหมาย
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="popup-default" id="popup-staff-7">
+  <div class="inner-popup">
+    <div class="staff-profile">
+      <div class="img-box">
+        <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/popup/tmb-pupup-08.png" title="ฐิติเกษม สำเริง">
+      </div>
+      <div class="content-box">
+        <h3 class="ht-2 c-darkgreen -med">ฐิติเกษม สำเริง</h3>
+        <p class="hs-4 c-lightgreen -regular">: นักวิชาการโสตทัศนศึกษา</p>
+        <div class="staff-contact -regular">
+          <p class="hs-4 c-gray-3"><i class="icons ico-mail" title="email icon"></i><a href="mailto:psddss@ku.ac.th"
+              target="_blank">อีเมล: psddss@ku.ac.th</a></p>
+          <!-- <p class="hs-4 c-gray-3"><i class="icons ico-call"></i>0 2942 8182 ภายใน 64411-2</p>
+          <p class="hs-4 c-gray-3"><i class="icons ico-print"></i>0 2942 8834</p> -->
+        </div>
+      </div>
+    </div>
+    <div class="staff-detail">
+      <h3 class="hs-4 c-darkgreen -med"><i class="icons ico-paper" title="paper icon"></i>รายละเอียดงาน</h3>
+      <ul>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ดูแลควบคุม ป้าย led
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ผลิตคลิปขึ้น ป้าย led
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ออกแบบสื่อเพื่อการประชาสัมพันธ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ออกแบบ infographic
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ผลิตคลิปเพื่อการประชาสัมพันธ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - create content : twitter /ig
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ถ่ายภาพ /วีดิโอ ตัดต่อ
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - สัมภาษณ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานอื่น ๆ ที่ได้รับมอบหมาย
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="popup-default" id="popup-staff-8">
+  <div class="inner-popup">
+    <div class="staff-profile">
+      <div class="img-box">
+        <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/popup/tmb-pupup-09.png" title="ทิวา แก้วภู่พานิช">
+      </div>
+      <div class="content-box">
+        <h3 class="ht-2 c-darkgreen -med">ทิวา แก้วภู่พานิช</h3>
+        <p class="hs-4 c-lightgreen -regular">: นักวิชาการโสตทัศนศึกษา</p>
+        <div class="staff-contact -regular">
+          <p class="hs-4 c-gray-3"><i class="icons ico-mail" title="email icon"></i><a
+              href="mailto:psdtik@ku.ac.th">อีเมล: psdtik@ku.ac.th</a></p>
+          <!-- <p class="hs-4 c-gray-3"><i class="icons ico-call"></i>0 2942 8182 ภายใน 64411-2</p>
+          <p class="hs-4 c-gray-3"><i class="icons ico-print"></i>0 2942 8834</p> -->
+        </div>
+      </div>
+    </div>
+    <div class="staff-detail">
+      <h3 class="hs-4 c-darkgreen -med"><i class="icons ico-paper" title="paper icon"></i>รายละเอียดงาน</h3>
+      <ul>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ถ่ายวีดิโอ / ถ่ายภาพ
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ตัดต่อสกู๊ปข่าว / กิจกรรม
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - วีดิทัศน์เฉพาะกิจ
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ดูแลบำรุงรักษาโสตทัศนูปกรณ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ดูแลกล้องถ่ายวีดิโอและอุปกรณ์โสตฯ อย่างเป็นระบบ
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานอื่น ๆ ที่ได้รับมอบหมาย
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="popup-default" id="popup-staff-9">
+  <div class="inner-popup">
+    <div class="staff-profile">
+      <div class="img-box">
+        <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/popup/tmb-pupup-10.png" title="อรยา พระชนีย์">
+      </div>
+      <div class="content-box">
+        <h3 class="ht-2 c-darkgreen -med">อรยา พระชนีย์</h3>
+        <p class="hs-4 c-lightgreen -regular">: นักประชาสัมพันธ์</p>
+        <div class="staff-contact -regular">
+          <p class="hs-4 c-gray-3"><i class="icons ico-mail" title="email icon"></i><a href="mailto:psdoyp@ku.ac.th"
+              target="_blank">อีเมล: psdoyp@ku.ac.th</a></p>
+          <!-- <p class="hs-4 c-gray-3"><i class="icons ico-call"></i>0 2942 8182 ภายใน 64411-2</p>
+          <p class="hs-4 c-gray-3"><i class="icons ico-print"></i>0 2942 8834</p> -->
+        </div>
+      </div>
+    </div>
+    <div class="staff-detail">
+      <h3 class="hs-4 c-darkgreen -med"><i class="icons ico-paper" title="paper icon"></i>รายละเอียดงาน</h3>
+      <ul>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ออกแบบสื่อประชาสัมพันธ์ (สิ่งพิมพ์ ,social media ,ป้าย led web pr)
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ออกแบบบัตรเชิญ ,การ์ดแสดงความยินดี
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ออกแบบงานนำเสนอ
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - create content : twitter/ig และเป็น admin ig
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ตรวจสอบข้อมูลผู้ดำรงตำแหน่งทางวิชาการและจัดทำการ์ดแสดงความยินดี
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานอื่น ๆ ที่ได้รับมอบหมาย
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="popup-default" id="popup-staff-10">
+  <div class="inner-popup">
+    <div class="staff-profile">
+      <div class="img-box">
+        <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/popup/tmb-pupup-11.png" title="พรทิพย์ ภู่แพ">
+      </div>
+      <div class="content-box">
+        <h3 class="ht-2 c-darkgreen -med">พรทิพย์ ภู่แพ</h3>
+        <p class="hs-4 c-lightgreen -regular">: นักวิชาการโสตทัศนศึกษา</p>
+        <div class="staff-contact -regular">
+          <p class="hs-4 c-gray-3"><i class="icons ico-mail" title="email icon"></i><a href="mailto:psdptpo@ku.ac.th"
+              target="_blank">อีเมล: psdptpo@ku.ac.th</a></p>
+          <!-- <p class="hs-4 c-gray-3"><i class="icons ico-call"></i>0 2942 8182 ภายใน 64411-2</p>
+          <p class="hs-4 c-gray-3"><i class="icons ico-print"></i>0 2942 8834</p> -->
+        </div>
+      </div>
+    </div>
+    <div class="staff-detail">
+      <h3 class="hs-4 c-darkgreen -med"><i class="icons ico-paper" title="paper icon"></i>รายละเอียดงาน</h3>
+      <ul>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ดูแลเครือข่าย network ภายใน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ดูแลเว็บไซต์ pr (admin)
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - update เว็บไซต์ pr
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - admin ปฏิทินกิจกรรม บนเว็บไซต์ของมหาวิทยาลัย (ku.ac.th)
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - create content : twitter/ig และเป็น admin ig
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ตรวจสอบข้อมูลผู้ดำรงตำแหน่งทางวิชาการและจัดทำการ์ดแสดงความยินดี
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานอื่น ๆ ที่ได้รับมอบหมาย
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="popup-default" id="popup-staff-11">
+  <div class="inner-popup">
+    <div class="staff-profile">
+      <div class="img-box">
+        <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/popup/tmb-pupup-12.png" title="สตรีรัตน์ ฤทธิ์ชาวนา">
+      </div>
+      <div class="content-box">
+        <h3 class="ht-2 c-darkgreen -med">สตรีรัตน์ ฤทธิ์ชาวนา</h3>
+        <p class="hs-4 c-lightgreen -regular">: นักวิชาการโสตทัศนศึกษา</p>
+        <div class="staff-contact -regular">
+          <!-- <p class="hs-4 c-gray-3"><i class="icons ico-mail"></i>psdptpo@ku.ac.th</p>
+          <p class="hs-4 c-gray-3"><i class="icons ico-call"></i>0 2942 8182 ภายใน 64411-2</p>
+          <p class="hs-4 c-gray-3"><i class="icons ico-print"></i>0 2942 8834</p> -->
+        </div>
+      </div>
+    </div>
+    <div class="staff-detail">
+      <h3 class="hs-4 c-darkgreen -med"><i class="icons ico-paper" title="paper icon"></i>รายละเอียดงาน</h3>
+      <ul>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - create content สื่อประชาสัมพันธ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ออกแบบ infographic
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ออกแบบสื่อสิ่งพิมพ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - create รูปแบบการผลิตสื่อประชาสัมพันธ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - create กิจกรรมเพื่อการประชาสัมพันธ์สู่สังคม
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานอื่น ๆ ที่ได้รับมอบหมาย
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="popup-default" id="popup-staff-12">
+  <div class="inner-popup">
+    <div class="staff-profile">
+      <div class="img-box">
+        <img class="img-fluid" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/master/popup/tmb-pupup-13.png" title="ธนาภรณ์ ลัดพลี">
+      </div>
+      <div class="content-box">
+        <h3 class="ht-2 c-darkgreen -med">ธนาภรณ์ ลัดพลี</h3>
+        <p class="hs-4 c-lightgreen -regular">: ผู้ปฏิบัติงานบริหาร</p>
+        <div class="staff-contact -regular">
+          <!-- <p class="hs-4 c-gray-3"><i class="icons ico-mail"></i>psdptpo@ku.ac.th</p>
+          <p class="hs-4 c-gray-3"><i class="icons ico-call"></i>0 2942 8182 ภายใน 64411-2</p>
+          <p class="hs-4 c-gray-3"><i class="icons ico-print"></i>0 2942 8834</p> -->
+        </div>
+      </div>
+    </div>
+    <div class="staff-detail">
+      <h3 class="hs-4 c-darkgreen -med"><i class="icons ico-paper" title="paper icon"></i>รายละเอียดงาน</h3>
+      <ul>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานด้านธุรการ
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ลงทะเบียนรับ-ส่งเอกสาร
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - จัดแฟ้มนำเสนอหัวหน้างาน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - จัดเก็บแฟ้มเอกสารสำคัญ การเงิน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - จัดทำแฟ้มลงเวลาเข้า-ออก
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ต้อนรับดูแลแขก
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานด้านการเงิน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - จัดทำขออนุมัติเกี่ยวกับการเงิน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ขออนุมัติ/รายการการจัดซื้อ จัดจ้าง ซ่อมแซม
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - เบิกจ่ายเงินค่าล่วงเวลา / ค่าสมนาคุณ (งานเฉพาะกิจ)
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - เคลียร์เอกสารการเงิน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานด้านวัสดุและครุภัณฑ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - จัดทำทะเบียนครุภัณฑ์
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ดูแลวัสดุสำนักงาน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - เช็ค stock ครุภัณฑ์ (อุปกรณ์โสตฯ) เพื่อรายงาน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - ตรวจสอบครุภัณฑ์ชำรุด
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานติดตามงาน
+          </p>
+        </li>
+        <li>
+          <p class="ct-1 -regular c-gray-2">
+            - งานอื่น ๆ ที่ได้รับมอบหมาย
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    <!-- footer -->
+    <footer class="main-footer">
+  <div class="nav-footer">
+    <div class="container">
+      <div class="title-footer">
+        <h3 class="hs-4">ลิงก์ที่เกี่ยวข้องฯ</h3>
+      </div>
+      <div class="nav-wrapper">
+        <div class="nav-group">
+          <a href="https://pr.ku.ac.th/web/submit-news">ช่องทางการส่งข่าวประชาสัมพันธ์</a>
+        </div>
+        <div class="nav-group">
+          <a href="https://pr.ku.ac.th/web/about/landmark">สถานที่สำคัญ</a>
+          <a href="https://www.ku.ac.th/th/phone-number" target="_blank">หมายเลขโทรศัพท์</a>
+          <a href="http://kasetsartjournal.ku.ac.th/" target="_blank">ku journal</a>
+          <a href="https://webmail.ku.ac.th/roundcube/" target="_blank">ku webmail</a>
+        </div>
+        <div class="nav-group">
+          <a href="http://www.gad.ku.ac.th/" target="_blank">กองกลาง</a>
+          <a href="http://www.sa.ku.ac.th/" target="_blank">กองกิจการนิสิต</a>
+          <a href="https://registrar.ku.ac.th/" target="_blank">สำนักบริหารการศึกษา</a>
+          <a href="http://ocs.ku.ac.th/2019/" target="_blank">สำนักบริการคอม</a>
+        </div>
+        <div class="nav-group">
+          <a href="https://www.ku.ac.th/th" target="_blank">บางเขน</a>
+          <a href="https://kps.ku.ac.th/v8/index.php/th/" target="_blank">วิทยาเขตกําแพงแสน</a>
+          <a href="https://www.csc.ku.ac.th/th/" target="_blank"><span class="d-block">วิทยาเขตเฉลิมพระเกียรติ</span>จังหวัดสกลนคร</a>
+          <a href="https://www.src.ku.ac.th/" target="_blank">วิทยาเขตศรีราชา</a>
+          <a href="http://sbc.ku.ac.th/" target="_blank">โครงการจัดตั้งวิทยาเขตสุพรรณบุรี</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="caption-footer">
+    <div class="container">
+      <h3 class="hs-4 -med c-white">เราจะเป็นศูนย์กลางด้านการสื่อสารองค์กร <br class="d-block d-xl-none"> ส่งเสริมภาพลักษณ์ของมหาวิทยาลัยและหน่วยงาน วิทยาเขต ให้ถึงกลุ่มเป้าหมาย </h3>
+    </div>
+  </div>
+  <div class="contact-footer">
+    <div class="container">
+      <div class="license-group">
+        <div class="logo">
+          <img class="img-fluid d-none d-xl-block"src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/footer_logo.svg" alt="">
+          <img class="img-fluid d-flex d-xl-none"src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/images/logo/footer_logo-2.jpg" alt="">
+        </div>
+        <div class="text-box c-white">
+          <h3 class="ct-2 -med">งานประชาสัมพันธ์ มหาวิทยาลัยเกษตรศาสตร์</h3>
+          <p class="d-none d-lg-block ct-3 -regular">โทร : <a href="tel:029428181" class="c-white">02 942 8181-3</a> | โทรสาร : 02 942 8834-5 | e-mail : <a href="mailto:prku@ku.ac.th" class="c-white">prku@ku.ac.th</a></p>
+          <p class="d-block d-lg-none ct-3 -regular">โทร : <a href="tel:029428181" class="c-white">02 942 8181-3</a> | โทรสาร : 02 942 8834-5 
+            <br class="d-block d-lg-none"> e-mail : <a href="mailto:prku@ku.ac.th" class="c-white">prku@ku.ac.th</a>
+          </p>
+          <span class="ct-2 -med license">สงวนลิขสิทธิ์ © 2020 มหาวิทยาลัยเกษตรศาสตร์ </span>
+        </div>
+      </div>
+      <div class="social-group">
+        <div class="nav-social">
+          <a href="https://www.facebook.com/publicrelations.ku?ref=hl" target="_blank"><i class="icons ico-facebook"></i></a>
+          <a href="https://twitter.com/kasetsart_ku" target="_blank"><i class="icons ico-twitter"></i></a>
+          <a href="https://www.instagram.com/kasetsart_ku" target="_blank"><i class="icons ico-instagram"></i></a>
+          <a href="https://www.youtube.com/channel/uc1lx-ul4ln8jxedtdxep7ga" target="_blank"><i class="icons ico-youtube"></i></a>
+          <a href="mailto:prku@ku.ac.th"><i class="icons ico-envelope"></i></a>
+        </div>
+        <div class="nav-condition">
+          <a class="ct-2 -med" href="https://pr.ku.ac.th/web/feed" target="_blank">rss feed pr ku</a>
+          <a class="ct-2 -med" href="https://pr.ku.ac.th/" target="_blank">เว็บไซต์เดิม</a>
+          <a class="ct-2 -med" href="https://ocs.ku.ac.th/ku_computer_policy/cyber/policy/dataprivacy.pdf" target="_blank">เงื่อนไขการใช้งานเว็บไซต์</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>    <script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/bootstrap-4.5.3/popper.min.js"></script>
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/bootstrap-4.5.3/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/fancybox-master/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/select2/select2.min.js"></script>
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/main.js"></script>
+<script type="text/javascript" src='https://www.google.com/recaptcha/api.js'></script>
+<script type="text/javascript" src="https://pr.ku.ac.th/web/public/themes/pr-ku/assets/js/slick/slick.js"></script>
+
+</body>
+</html>
