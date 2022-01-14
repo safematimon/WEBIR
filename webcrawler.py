@@ -231,7 +231,7 @@ def dequeue():
 # e = error get_page raw_html='' can store
 # l = long name or smthng cant store
 #--- main process ---#
-while len(visited_q) < 5000 + l:
+while len(visited_q) < 200 + l + e:
     current_url = dequeue()
     visited_q.append(current_url)
     raw_html = get_page(current_url)
@@ -251,3 +251,5 @@ print("<======================================================>")
 
 
 
+
+# %%
